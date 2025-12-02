@@ -12,16 +12,14 @@
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       background: radial-gradient(circle at top, #1f2937 0, #020617 60%);
       color: #e5e7eb;
-      display: flex;
-      justify-content: center;
-      align-items: center;
       min-height: 100vh;
-      padding: 16px 8px 56px; /* extra bottom padding so buttons aren't glued to the bar */
+      padding: 16px 8px 56px; /* extra bottom padding */
     }
 
     .app {
       width: 100%;
       max-width: 480px;
+      margin: 0 auto; /* center horizontally, top-aligned */
     }
 
     .card {
@@ -34,12 +32,15 @@
       overflow: hidden;
     }
 
+    /* Top title */
     .hook {
-      font-size: 0.9rem;
-      text-transform: uppercase;
+      font-size: 1rem;
+      font-weight: 700;
       letter-spacing: 0.12em;
+      text-transform: uppercase;
       color: #fde68a;
-      margin-bottom: 6px;
+      text-align: left;
+      margin-bottom: 4px;
     }
 
     .progress-row {
@@ -47,22 +48,22 @@
       justify-content: space-between;
       align-items: center;
       font-size: 0.75rem;
-      margin-bottom: 6px;
+      margin-bottom: 8px;
     }
 
-    /* hide the "Question 1 / 146" text but keep it in DOM for JS */
+    /* Hide the text "Question 1 / N" but keep for JS */
     #progressLabel {
       display: none;
     }
 
     .progress-bar-wrap {
       flex: 1;
-      margin-left: 0;
       height: 4px;
       background: #020617;
       border-radius: 999px;
       overflow: hidden;
     }
+
     .progress-bar {
       height: 100%;
       background: linear-gradient(90deg, #4f46e5, #22c55e);
@@ -73,15 +74,28 @@
     .question-container {
       margin-top: 10px;
       margin-bottom: 10px;
-      min-height: 90px;
+      min-height: 60px;
+    }
+
+    .question-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+    }
+
+    .q-number {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-top: 2px;
+      flex-shrink: 0;
     }
 
     .question-text {
-      font-size: 1.15rem;
+      font-size: 1.1rem;
       line-height: 1.35;
       font-weight: 600;
-      text-align: center;
-      padding: 6px 6px 2px;
+      text-align: left;
+      padding: 0;
       opacity: 0;
       transform: translateY(6px) scale(0.98);
       transition: opacity 0.18s ease, transform 0.18s ease;
@@ -91,8 +105,14 @@
       transform: translateY(0) scale(1);
     }
 
+    /* Blank area for overlaying an image in TikTok */
+    .image-slot {
+      height: 110px;          /* adjust if you want more/less space */
+      margin-bottom: 10px;    /* space before options */
+    }
+
     .options {
-      margin-top: 10px;
+      margin-top: 4px;
       display: flex;
       flex-direction: column;
       gap: 7px;
@@ -126,10 +146,12 @@
       gap: 6px;
       max-width: 100%;
     }
+
     .option-key {
       font-size: 0.8rem;
       opacity: 0.7;
     }
+
     .option-dot {
       width: 9px;
       height: 9px;
@@ -137,6 +159,7 @@
       border: 1px solid #4b5563;
       background: #020617;
     }
+
     .option-text {
       white-space: nowrap;
       overflow: hidden;
@@ -148,16 +171,19 @@
       box-shadow: 0 6px 14px rgba(0, 0, 0, 0.6);
       border-color: #4b5563;
     }
+
     .option.selected {
       border-color: #6366f1;
       box-shadow: 0 0 0 1px rgba(99, 102, 241, 0.6);
       background: radial-gradient(circle at top left, rgba(99,102,241,0.35), #020617 55%);
     }
+
     .option.correct {
       border-color: #22c55e;
       background: radial-gradient(circle at top left, rgba(34,197,94,0.4), #020617 65%);
       color: #bbf7d0;
     }
+
     .option.incorrect {
       opacity: 0.45;
     }
@@ -198,23 +224,25 @@
       transition: transform 0.08s ease, box-shadow 0.08s ease, opacity 0.2s ease;
       white-space: nowrap;
     }
+
     .btn.secondary {
       background: #020617;
       border: 1px solid #4b5563;
       box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
     }
+
     .btn:disabled {
       opacity: 0.4;
       cursor: not-allowed;
       box-shadow: none;
       transform: none;
     }
+
     .btn:hover:not(:disabled) {
       transform: translateY(-1px);
       box-shadow: 0 10px 20px rgba(79, 70, 229, 0.7);
     }
 
-    /* Countdown overlay */
     .countdown-overlay {
       position: absolute;
       inset: 0;
@@ -246,7 +274,6 @@
       100% { transform: scale(0.9); opacity: 0.7; }
     }
 
-    /* Confetti */
     .confetti-piece {
       position: fixed;
       width: 6px;
@@ -260,6 +287,7 @@
       z-index: 999;
       animation: confetti-fall 650ms ease-out forwards;
     }
+
     @keyframes confetti-fall {
       0% {
         transform: translate(0, 0) rotate(0deg);
@@ -273,15 +301,16 @@
 
     @media (max-width: 480px) {
       .app { max-width: 440px; }
-      .question-text { font-size: 1.12rem; }
+      .question-text { font-size: 1.08rem; }
     }
   </style>
 </head>
 <body>
   <div class="app">
     <div class="card">
+      <!-- Top title -->
       <div id="hook" class="hook">
-        CAN YOU GET 8/10 FRIENDS QUESTIONS RIGHT?
+        FRIENDS TRIVIA
       </div>
 
       <div class="progress-row">
@@ -291,9 +320,16 @@
         </div>
       </div>
 
+      <!-- Question line: Q1. + text -->
       <div class="question-container">
-        <div id="questionText" class="question-text">Loading questions…</div>
+        <div class="question-row">
+          <span id="qNumber" class="q-number">Q1.</span>
+          <span id="questionText" class="question-text">Loading questions…</span>
+        </div>
       </div>
+
+      <!-- Blank slot to overlay an image in edit later -->
+      <div class="image-slot"></div>
 
       <div id="optionsContainer" class="options">
         <!-- options injected here -->
@@ -319,18 +355,19 @@
   </div>
 
   <script>
-    let questions = []; // from questions.json
+    let questions = [];
 
     const state = {
       index: 0,
       revealed: false,
       selectedOptionIndex: null,
-      mode: "loading", // "loading" | "question" | "timer" | "answer"
+      mode: "loading",
       countdownRemaining: 0,
       score: 0
     };
 
     const questionTextEl = document.getElementById("questionText");
+    const qNumberEl = document.getElementById("qNumber");
     const optionsContainerEl = document.getElementById("optionsContainer");
     const progressLabelEl = document.getElementById("progressLabel");
     const progressBarEl = document.getElementById("progressBar");
@@ -400,6 +437,10 @@
       }
       countdownOverlayEl.classList.remove("visible");
 
+      // Q number (Q1., Q2., etc.)
+      qNumberEl.textContent = `Q${state.index + 1}.`;
+
+      // Question animation
       questionTextEl.classList.remove("visible");
       void questionTextEl.offsetWidth;
       questionTextEl.textContent = q.question;
@@ -407,6 +448,7 @@
         questionTextEl.classList.add("visible");
       }, 10);
 
+      // Options
       optionsContainerEl.innerHTML = "";
       const keys = ["A", "B", "C", "D", "E", "F"];
       q.options.forEach((opt, i) => {
@@ -511,7 +553,7 @@
         }
       });
 
-      // scoring: +1 correct, 0 otherwise
+      // +1 if correct, 0 otherwise
       if (correctIndex !== -1 && state.selectedOptionIndex === correctIndex) {
         state.score += 1;
         updateScore();
