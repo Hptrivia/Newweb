@@ -1,10 +1,563 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My First GitHub Page</title>
+  <meta charset="UTF-8" />
+  <title>Friends Trivia Viewer</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top, #1f2937 0, #020617 60%);
+      color: #e5e7eb;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .app {
+      width: 100%;
+      max-width: 480px;
+      padding: 12px;
+    }
+    .card {
+      position: relative;
+      background: rgba(15, 23, 42, 0.96);
+      border-radius: 18px;
+      padding: 12px 14px 14px;
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.6);
+      border: 1px solid #1f2937;
+      overflow: hidden;
+    }
+    .hook {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: #fde68a;
+      margin-bottom: 6px;
+    }
+    .progress-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.75rem;
+      margin-bottom: 4px;
+    }
+    .progress-bar-wrap {
+      flex: 1;
+      margin-left: 8px;
+      height: 4px;
+      background: #020617;
+      border-radius: 999px;
+      overflow: hidden;
+    }
+    .progress-bar {
+      height: 100%;
+      background: linear-gradient(90deg, #4f46e5, #22c55e);
+      width: 0%;
+      transition: width 0.25s ease;
+    }
+    .question-container {
+      margin-top: 6px;
+      margin-bottom: 8px;
+      min-height: 80px;
+    }
+    .question-text {
+      font-size: 1.05rem;
+      line-height: 1.3;
+      font-weight: 600;
+      text-align: center;
+      padding: 6px 4px 2px;
+      opacity: 0;
+      transform: translateY(6px) scale(0.98);
+      transition: opacity 0.18s ease, transform 0.18s ease;
+    }
+    .question-text.visible {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+
+    .options {
+      margin-top: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .option {
+      position: relative;
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 0.9rem;
+      background: #020617;
+      border: 1px solid #374151;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      transform: scale(0.98);
+      transition: transform 0.08s ease, box-shadow 0.08s ease, border-color 0.12s ease, background 0.12s ease, color 0.12s ease, opacity 0.2s ease;
+    }
+    .option-label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .option-key {
+      font-size: 0.75rem;
+      opacity: 0.7;
+    }
+    .option-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 999px;
+      border: 1px solid #4b5563;
+      background: #020617;
+    }
+    .option-text {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .option:hover {
+      transform: scale(1.0);
+      box-shadow: 0 6px 14px rgba(0, 0, 0, 0.6);
+      border-color: #4b5563;
+    }
+    .option.selected {
+      border-color: #6366f1;
+      box-shadow: 0 0 0 1px rgba(99, 102, 241, 0.6);
+      background: radial-gradient(circle at top left, rgba(99,102,241,0.35), #020617 55%);
+    }
+    .option.correct {
+      border-color: #22c55e;
+      background: radial-gradient(circle at top left, rgba(34,197,94,0.4), #020617 65%);
+      color: #bbf7d0;
+    }
+    .option.incorrect {
+      opacity: 0.45;
+    }
+
+    .controls-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 10px;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .score-label {
+      font-size: 0.78rem;
+      opacity: 0.9;
+    }
+    .buttons {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .btn {
+      border: none;
+      border-radius: 999px;
+      padding: 6px 12px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: linear-gradient(135deg, #4f46e5, #6366f1);
+      color: white;
+      box-shadow: 0 8px 18px rgba(79, 70, 229, 0.5);
+      transition: transform 0.08s ease, box-shadow 0.08s ease, opacity 0.2s ease;
+      white-space: nowrap;
+    }
+    .btn.secondary {
+      background: #020617;
+      border: 1px solid #4b5563;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+    }
+    .btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+      box-shadow: none;
+      transform: none;
+    }
+    .btn:hover:not(:disabled) {
+      transform: translateY(-1px);
+      box-shadow: 0 10px 20px rgba(79, 70, 229, 0.7);
+    }
+
+    /* Countdown overlay */
+    .countdown-overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.96);
+      backdrop-filter: blur(2px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.15s ease;
+      z-index: 10;
+    }
+    .countdown-overlay.visible {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .countdown-number {
+      font-size: 3rem;
+      font-weight: 800;
+      color: #fef3c7;
+      text-shadow: 0 0 18px rgba(250, 204, 21, 0.7);
+      transform: scale(1);
+      animation: countdown-pop 1s ease-in-out infinite;
+    }
+    @keyframes countdown-pop {
+      0% { transform: scale(0.8); opacity: 0.4; }
+      30% { transform: scale(1.1); opacity: 1; }
+      100% { transform: scale(0.9); opacity: 0.7; }
+    }
+
+    /* Confetti */
+    .confetti-piece {
+      position: fixed;
+      width: 6px;
+      height: 12px;
+      border-radius: 2px;
+      background: #facc15;
+      top: 15%;
+      left: 50%;
+      opacity: 0.9;
+      pointer-events: none;
+      z-index: 999;
+      animation: confetti-fall 650ms ease-out forwards;
+    }
+    @keyframes confetti-fall {
+      0% {
+        transform: translate(0, 0) rotate(0deg);
+        opacity: 0.95;
+      }
+      100% {
+        transform: translate(var(--dx), var(--dy)) rotate(var(--rot));
+        opacity: 0;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .app { max-width: 420px; }
+      .question-text { font-size: 1rem; }
+    }
+  </style>
 </head>
 <body>
-    <h1>Hello, world!</h1>
-    <p>This is my first HTML page hosted on GitHub Pages.</p>
+  <div class="app">
+    <div class="card">
+      <div id="hook" class="hook">
+        CAN YOU GET 8/10 FRIENDS QUESTIONS RIGHT?
+      </div>
+
+      <div class="progress-row">
+        <div id="progressLabel">Loading…</div>
+        <div class="progress-bar-wrap">
+          <div id="progressBar" class="progress-bar"></div>
+        </div>
+      </div>
+
+      <div class="question-container">
+        <div id="questionText" class="question-text">Loading questions…</div>
+      </div>
+
+      <div id="optionsContainer" class="options">
+        <!-- options injected here -->
+      </div>
+
+      <div class="controls-row">
+        <div class="score-label" id="scoreText">Score: 0</div>
+        <div class="buttons">
+          <button id="revealBtn" class="btn" disabled>
+            Reveal answer
+          </button>
+          <button id="nextBtn" class="btn secondary" disabled>
+            Next question
+          </button>
+        </div>
+      </div>
+
+      <!-- Countdown overlay -->
+      <div id="countdownOverlay" class="countdown-overlay">
+        <div id="countdownNumber" class="countdown-number">3</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let questions = []; // will be filled from questions.json
+
+    const state = {
+      index: 0,
+      revealed: false,
+      selectedOptionIndex: null,
+      mode: "loading", // "loading" | "question" | "timer" | "answer"
+      countdownRemaining: 0,
+      score: 0
+    };
+
+    const questionTextEl = document.getElementById("questionText");
+    const optionsContainerEl = document.getElementById("optionsContainer");
+    const progressLabelEl = document.getElementById("progressLabel");
+    const progressBarEl = document.getElementById("progressBar");
+    const scoreTextEl = document.getElementById("scoreText");
+
+    const revealBtn = document.getElementById("revealBtn");
+    const nextBtn = document.getElementById("nextBtn");
+
+    const countdownOverlayEl = document.getElementById("countdownOverlay");
+    const countdownNumberEl = document.getElementById("countdownNumber");
+
+    let countdownInterval = null;
+
+    function shuffle(arr) {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+    }
+
+    async function loadQuestions() {
+      try {
+        const res = await fetch("questions.json");
+        const data = await res.json();
+        if (!Array.isArray(data) || data.length === 0) {
+          throw new Error("questions.json is empty or not an array");
+        }
+        questions = data;
+        shuffle(questions);
+        state.index = 0;
+        state.mode = "question";
+        renderQuestion();
+      } catch (err) {
+        console.error("Error loading questions:", err);
+        questionTextEl.textContent = "Error loading questions.";
+        progressLabelEl.textContent = "Error";
+        revealBtn.disabled = true;
+        nextBtn.disabled = true;
+      }
+    }
+
+    function updateProgress() {
+      const total = questions.length;
+      if (total === 0) {
+        progressLabelEl.textContent = "No questions";
+        progressBarEl.style.width = "0%";
+        return;
+      }
+      const idx = state.index + 1;
+      progressLabelEl.textContent = `Question ${idx} / ${total}`;
+      const pct = (idx / total) * 100;
+      progressBarEl.style.width = pct + "%";
+    }
+
+    function updateScore() {
+      scoreTextEl.textContent = `Score: ${state.score}`;
+    }
+
+    function renderQuestion() {
+      if (!questions.length) return;
+      const q = questions[state.index];
+      state.revealed = false;
+      state.selectedOptionIndex = null;
+      state.mode = "question";
+
+      if (countdownInterval) {
+        clearInterval(countdownInterval);
+        countdownInterval = null;
+      }
+      countdownOverlayEl.classList.remove("visible");
+
+      // Question animation
+      questionTextEl.classList.remove("visible");
+      void questionTextEl.offsetWidth;
+      questionTextEl.textContent = q.question;
+      setTimeout(() => {
+        questionTextEl.classList.add("visible");
+      }, 10);
+
+      // Options
+      optionsContainerEl.innerHTML = "";
+      const keys = ["A", "B", "C", "D", "E", "F"];
+      q.options.forEach((opt, i) => {
+        const optEl = document.createElement("div");
+        optEl.className = "option";
+        optEl.dataset.index = i;
+
+        const labelEl = document.createElement("div");
+        labelEl.className = "option-label";
+
+        const keyEl = document.createElement("span");
+        keyEl.className = "option-key";
+        keyEl.textContent = keys[i] || "";
+
+        const dotEl = document.createElement("span");
+        dotEl.className = "option-dot";
+
+        const textEl = document.createElement("span");
+        textEl.className = "option-text";
+        textEl.textContent = opt;
+
+        labelEl.appendChild(keyEl);
+        labelEl.appendChild(dotEl);
+        labelEl.appendChild(textEl);
+        optEl.appendChild(labelEl);
+
+        optEl.addEventListener("click", () => handleOptionClick(i));
+
+        optionsContainerEl.appendChild(optEl);
+
+        // pop-in animation
+        optEl.style.transform = "scale(0.95)";
+        optEl.style.opacity = "0";
+        setTimeout(() => {
+          optEl.style.transform = "scale(0.98)";
+          optEl.style.opacity = "1";
+        }, 30 + i * 40);
+      });
+
+      updateProgress();
+      updateScore();
+      revealBtn.disabled = false;
+      nextBtn.disabled = false;
+    }
+
+    function handleOptionClick(index) {
+      if (state.mode !== "question") return;
+      state.selectedOptionIndex = index;
+      const optionEls = optionsContainerEl.querySelectorAll(".option");
+      optionEls.forEach((el) => el.classList.remove("selected"));
+      const chosenEl = optionEls[index];
+      if (chosenEl) {
+        chosenEl.classList.add("selected");
+      }
+    }
+
+    function startCountdownAndReveal() {
+      if (state.mode !== "question") return;
+
+      state.mode = "timer";
+      state.countdownRemaining = 3;
+      countdownNumberEl.textContent = state.countdownRemaining;
+      countdownOverlayEl.classList.add("visible");
+      revealBtn.disabled = true;
+      nextBtn.disabled = true;
+
+      if (countdownInterval) {
+        clearInterval(countdownInterval);
+      }
+
+      countdownInterval = setInterval(() => {
+        state.countdownRemaining -= 1;
+        if (state.countdownRemaining > 0) {
+          countdownNumberEl.textContent = state.countdownRemaining;
+        } else {
+          clearInterval(countdownInterval);
+          countdownInterval = null;
+          countdownOverlayEl.classList.remove("visible");
+          doRevealAnswer();
+        }
+      }, 1000);
+    }
+
+    function doRevealAnswer() {
+      if (!questions.length) return;
+      state.mode = "answer";
+      state.revealed = true;
+
+      const q = questions[state.index];
+      const optionEls = optionsContainerEl.querySelectorAll(".option");
+
+      const correctIndex = q.options.findIndex((opt) => opt === q.answer);
+      if (correctIndex === -1) {
+        console.warn("Question has answer not in options:", q);
+      }
+
+      optionEls.forEach((el, idx) => {
+        el.classList.remove("selected");
+        if (idx === correctIndex) {
+          el.classList.add("correct");
+          el.style.transform = "scale(1.03)";
+          setTimeout(() => {
+            el.style.transform = "scale(1.0)";
+          }, 120);
+        } else {
+          el.classList.add("incorrect");
+        }
+      });
+
+      // scoring
+      if (correctIndex !== -1) {
+        if (state.selectedOptionIndex === correctIndex) {
+          state.score += 10;
+        } else if (state.selectedOptionIndex == null) {
+          // no change
+        } else {
+          state.score -= 5;
+        }
+        updateScore();
+      }
+
+      launchConfetti();
+      nextBtn.disabled = false;
+    }
+
+    function nextQuestion() {
+      if (!questions.length) return;
+      if (countdownInterval) {
+        clearInterval(countdownInterval);
+        countdownInterval = null;
+      }
+      countdownOverlayEl.classList.remove("visible");
+      state.mode = "question";
+
+      state.index += 1;
+      if (state.index >= questions.length) {
+        // loop and reshuffle for a fresh random order
+        shuffle(questions);
+        state.index = 0;
+      }
+      renderQuestion();
+    }
+
+    function launchConfetti() {
+      const colors = ["#facc15", "#f97316", "#22c55e", "#38bdf8", "#a855f7"];
+      const pieces = 30;
+
+      for (let i = 0; i < pieces; i++) {
+        const piece = document.createElement("div");
+        piece.className = "confetti-piece";
+        const angle = (Math.random() - 0.5) * 200;
+        const distance = 80 + Math.random() * 80;
+        const dx = distance * Math.cos((angle * Math.PI) / 180);
+        const dy = distance * Math.sin((angle * Math.PI) / 180) + 50;
+
+        piece.style.setProperty("--dx", dx + "px");
+        piece.style.setProperty("--dy", dy + "px");
+        piece.style.setProperty("--rot", (Math.random() * 360) + "deg");
+        piece.style.backgroundColor = colors[i % colors.length];
+        piece.style.left = 50 + (Math.random() * 40 - 20) + "%";
+
+        document.body.appendChild(piece);
+
+        setTimeout(() => {
+          piece.remove();
+        }, 700);
+      }
+    }
+
+    revealBtn.addEventListener("click", startCountdownAndReveal);
+    nextBtn.addEventListener("click", nextQuestion);
+
+    // Load questions at startup
+    loadQuestions();
+  </script>
 </body>
 </html>
