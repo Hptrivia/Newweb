@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Friends Trivia Viewer</title>
   <style>
     * { box-sizing: border-box; }
+
     body {
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -14,38 +16,48 @@
       justify-content: center;
       align-items: center;
       min-height: 100vh;
+      padding: 16px 8px 56px; /* extra bottom padding so buttons aren't glued to the bar */
     }
+
     .app {
       width: 100%;
       max-width: 480px;
-      padding: 12px;
     }
+
     .card {
       position: relative;
       background: rgba(15, 23, 42, 0.96);
       border-radius: 18px;
-      padding: 12px 14px 14px;
+      padding: 16px 16px 22px;
       box-shadow: 0 18px 40px rgba(0, 0, 0, 0.6);
       border: 1px solid #1f2937;
       overflow: hidden;
     }
+
     .hook {
-      font-size: 0.85rem;
+      font-size: 0.9rem;
       text-transform: uppercase;
       letter-spacing: 0.12em;
       color: #fde68a;
       margin-bottom: 6px;
     }
+
     .progress-row {
       display: flex;
       justify-content: space-between;
       align-items: center;
       font-size: 0.75rem;
-      margin-bottom: 4px;
+      margin-bottom: 6px;
     }
+
+    /* hide the "Question 1 / 146" text but keep it in DOM for JS */
+    #progressLabel {
+      display: none;
+    }
+
     .progress-bar-wrap {
       flex: 1;
-      margin-left: 8px;
+      margin-left: 0;
       height: 4px;
       background: #020617;
       border-radius: 999px;
@@ -57,17 +69,19 @@
       width: 0%;
       transition: width 0.25s ease;
     }
+
     .question-container {
-      margin-top: 6px;
-      margin-bottom: 8px;
-      min-height: 80px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      min-height: 90px;
     }
+
     .question-text {
-      font-size: 1.05rem;
-      line-height: 1.3;
+      font-size: 1.15rem;
+      line-height: 1.35;
       font-weight: 600;
       text-align: center;
-      padding: 6px 4px 2px;
+      padding: 6px 6px 2px;
       opacity: 0;
       transform: translateY(6px) scale(0.98);
       transition: opacity 0.18s ease, transform 0.18s ease;
@@ -78,16 +92,17 @@
     }
 
     .options {
-      margin-top: 8px;
+      margin-top: 10px;
       display: flex;
       flex-direction: column;
-      gap: 6px;
+      gap: 7px;
     }
+
     .option {
       position: relative;
       border-radius: 999px;
-      padding: 8px 12px;
-      font-size: 0.9rem;
+      padding: 9px 14px;
+      font-size: 0.98rem;
       background: #020617;
       border: 1px solid #374151;
       cursor: pointer;
@@ -96,15 +111,23 @@
       justify-content: space-between;
       gap: 10px;
       transform: scale(0.98);
-      transition: transform 0.08s ease, box-shadow 0.08s ease, border-color 0.12s ease, background 0.12s ease, color 0.12s ease, opacity 0.2s ease;
+      transition:
+        transform 0.08s ease,
+        box-shadow 0.08s ease,
+        border-color 0.12s ease,
+        background 0.12s ease,
+        color 0.12s ease,
+        opacity 0.2s ease;
     }
+
     .option-label {
       display: flex;
       align-items: center;
       gap: 6px;
+      max-width: 100%;
     }
     .option-key {
-      font-size: 0.75rem;
+      font-size: 0.8rem;
       opacity: 0.7;
     }
     .option-dot {
@@ -119,6 +142,7 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
+
     .option:hover {
       transform: scale(1.0);
       box-shadow: 0 6px 14px rgba(0, 0, 0, 0.6);
@@ -142,24 +166,27 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-top: 10px;
+      margin-top: 14px;
       gap: 8px;
       flex-wrap: wrap;
     }
+
     .score-label {
-      font-size: 0.78rem;
-      opacity: 0.9;
+      font-size: 0.82rem;
+      opacity: 0.95;
     }
+
     .buttons {
       display: flex;
       gap: 6px;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
     }
+
     .btn {
       border: none;
       border-radius: 999px;
-      padding: 6px 12px;
-      font-size: 0.85rem;
+      padding: 7px 13px;
+      font-size: 0.88rem;
       font-weight: 600;
       cursor: pointer;
       display: inline-flex;
@@ -244,9 +271,9 @@
       }
     }
 
-    @media (max-width: 600px) {
-      .app { max-width: 420px; }
-      .question-text { font-size: 1rem; }
+    @media (max-width: 480px) {
+      .app { max-width: 440px; }
+      .question-text { font-size: 1.12rem; }
     }
   </style>
 </head>
@@ -292,7 +319,7 @@
   </div>
 
   <script>
-    let questions = []; // will be filled from questions.json
+    let questions = []; // from questions.json
 
     const state = {
       index: 0,
@@ -328,7 +355,7 @@
       try {
         const res = await fetch("questions.json");
         const data = await res.json();
-        if (!Array.isArray(data) || data.length === 0) {
+        if (!Array.isArray(data) || !data.length) {
           throw new Error("questions.json is empty or not an array");
         }
         questions = data;
@@ -347,13 +374,11 @@
 
     function updateProgress() {
       const total = questions.length;
-      if (total === 0) {
-        progressLabelEl.textContent = "No questions";
+      if (!total) {
         progressBarEl.style.width = "0%";
         return;
       }
       const idx = state.index + 1;
-      progressLabelEl.textContent = `Question ${idx} / ${total}`;
       const pct = (idx / total) * 100;
       progressBarEl.style.width = pct + "%";
     }
@@ -375,7 +400,6 @@
       }
       countdownOverlayEl.classList.remove("visible");
 
-      // Question animation
       questionTextEl.classList.remove("visible");
       void questionTextEl.offsetWidth;
       questionTextEl.textContent = q.question;
@@ -383,7 +407,6 @@
         questionTextEl.classList.add("visible");
       }, 10);
 
-      // Options
       optionsContainerEl.innerHTML = "";
       const keys = ["A", "B", "C", "D", "E", "F"];
       q.options.forEach((opt, i) => {
@@ -414,7 +437,6 @@
 
         optionsContainerEl.appendChild(optEl);
 
-        // pop-in animation
         optEl.style.transform = "scale(0.95)";
         optEl.style.opacity = "0";
         setTimeout(() => {
@@ -435,9 +457,7 @@
       const optionEls = optionsContainerEl.querySelectorAll(".option");
       optionEls.forEach((el) => el.classList.remove("selected"));
       const chosenEl = optionEls[index];
-      if (chosenEl) {
-        chosenEl.classList.add("selected");
-      }
+      if (chosenEl) chosenEl.classList.add("selected");
     }
 
     function startCountdownAndReveal() {
@@ -450,9 +470,7 @@
       revealBtn.disabled = true;
       nextBtn.disabled = true;
 
-      if (countdownInterval) {
-        clearInterval(countdownInterval);
-      }
+      if (countdownInterval) clearInterval(countdownInterval);
 
       countdownInterval = setInterval(() => {
         state.countdownRemaining -= 1;
@@ -474,10 +492,10 @@
 
       const q = questions[state.index];
       const optionEls = optionsContainerEl.querySelectorAll(".option");
-
       const correctIndex = q.options.findIndex((opt) => opt === q.answer);
+
       if (correctIndex === -1) {
-        console.warn("Question has answer not in options:", q);
+        console.warn("Answer not in options:", q);
       }
 
       optionEls.forEach((el, idx) => {
@@ -493,15 +511,9 @@
         }
       });
 
-      // scoring
-      if (correctIndex !== -1) {
-        if (state.selectedOptionIndex === correctIndex) {
-          state.score += 10;
-        } else if (state.selectedOptionIndex == null) {
-          // no change
-        } else {
-          state.score -= 5;
-        }
+      // scoring: +1 correct, 0 otherwise
+      if (correctIndex !== -1 && state.selectedOptionIndex === correctIndex) {
+        state.score += 1;
         updateScore();
       }
 
@@ -520,7 +532,6 @@
 
       state.index += 1;
       if (state.index >= questions.length) {
-        // loop and reshuffle for a fresh random order
         shuffle(questions);
         state.index = 0;
       }
@@ -546,17 +557,13 @@
         piece.style.left = 50 + (Math.random() * 40 - 20) + "%";
 
         document.body.appendChild(piece);
-
-        setTimeout(() => {
-          piece.remove();
-        }, 700);
+        setTimeout(() => piece.remove(), 700);
       }
     }
 
     revealBtn.addEventListener("click", startCountdownAndReveal);
     nextBtn.addEventListener("click", nextQuestion);
 
-    // Load questions at startup
     loadQuestions();
   </script>
 </body>
