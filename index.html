@@ -19,7 +19,7 @@
     .app {
       width: 100%;
       max-width: 480px;
-      margin: 0 auto; /* center horizontally, top-aligned */
+      margin: 0 auto;
     }
 
     .card {
@@ -51,7 +51,7 @@
       margin-bottom: 8px;
     }
 
-    /* Hide the text "Question 1 / N" but keep for JS */
+    /* Hide the "Question 1 / N" text but keep for JS */
     #progressLabel {
       display: none;
     }
@@ -107,8 +107,8 @@
 
     /* Blank area for overlaying an image in TikTok */
     .image-slot {
-      height: 110px;          /* adjust if you want more/less space */
-      margin-bottom: 10px;    /* space before options */
+      height: 110px;
+      margin-bottom: 10px;
     }
 
     .options {
@@ -121,7 +121,7 @@
     .option {
       position: relative;
       border-radius: 999px;
-      padding: 9px 14px;
+      padding: 9px 16px 9px 14px;
       font-size: 0.98rem;
       background: #020617;
       border: 1px solid #374151;
@@ -166,6 +166,16 @@
       text-overflow: ellipsis;
     }
 
+    /* space on the right for the ✅ */
+    .option::after {
+      content: "";
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1rem;
+    }
+
     .option:hover {
       transform: scale(1.0);
       box-shadow: 0 6px 14px rgba(0, 0, 0, 0.6);
@@ -180,8 +190,15 @@
 
     .option.correct {
       border-color: #22c55e;
-      background: radial-gradient(circle at top left, rgba(34,197,94,0.4), #020617 65%);
+      background: radial-gradient(circle at top left, rgba(34,197,94,0.35), #020617 65%);
       color: #bbf7d0;
+      box-shadow:
+        0 0 0 1px rgba(34,197,94,0.8),
+        0 0 18px rgba(34,197,94,0.7);
+    }
+
+    .option.correct::after {
+      content: "✅";
     }
 
     .option.incorrect {
@@ -221,7 +238,10 @@
       background: linear-gradient(135deg, #4f46e5, #6366f1);
       color: white;
       box-shadow: 0 8px 18px rgba(79, 70, 229, 0.5);
-      transition: transform 0.08s ease, box-shadow 0.08s ease, opacity 0.2s ease;
+      transition:
+        transform 0.1s ease,
+        box-shadow 0.1s ease,
+        opacity 0.2s ease;
       white-space: nowrap;
     }
 
@@ -239,8 +259,13 @@
     }
 
     .btn:hover:not(:disabled) {
-      transform: translateY(-1px);
       box-shadow: 0 10px 20px rgba(79, 70, 229, 0.7);
+    }
+
+    /* tap animation state */
+    .btn.tapped {
+      transform: scale(0.94) translateY(1px);
+      box-shadow: 0 4px 10px rgba(15, 23, 42, 0.9);
     }
 
     .countdown-overlay {
@@ -437,10 +462,8 @@
       }
       countdownOverlayEl.classList.remove("visible");
 
-      // Q number (Q1., Q2., etc.)
       qNumberEl.textContent = `Q${state.index + 1}.`;
 
-      // Question animation
       questionTextEl.classList.remove("visible");
       void questionTextEl.offsetWidth;
       questionTextEl.textContent = q.question;
@@ -448,7 +471,6 @@
         questionTextEl.classList.add("visible");
       }, 10);
 
-      // Options
       optionsContainerEl.innerHTML = "";
       const keys = ["A", "B", "C", "D", "E", "F"];
       q.options.forEach((opt, i) => {
@@ -500,6 +522,12 @@
       optionEls.forEach((el) => el.classList.remove("selected"));
       const chosenEl = optionEls[index];
       if (chosenEl) chosenEl.classList.add("selected");
+    }
+
+    function animateButtonTap(btn) {
+      if (!btn) return;
+      btn.classList.add("tapped");
+      setTimeout(() => btn.classList.remove("tapped"), 120);
     }
 
     function startCountdownAndReveal() {
@@ -603,8 +631,16 @@
       }
     }
 
-    revealBtn.addEventListener("click", startCountdownAndReveal);
-    nextBtn.addEventListener("click", nextQuestion);
+    // wire up buttons with tap animation + logic
+    revealBtn.addEventListener("click", () => {
+      animateButtonTap(revealBtn);
+      startCountdownAndReveal();
+    });
+
+    nextBtn.addEventListener("click", () => {
+      animateButtonTap(nextBtn);
+      nextQuestion();
+    });
 
     loadQuestions();
   </script>
