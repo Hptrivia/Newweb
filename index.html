@@ -13,15 +13,21 @@
       background: radial-gradient(circle at top, #1f2937 0, #020617 60%);
       color: #e5e7eb;
       min-height: 100vh;
-      padding: 16px 8px 8px; /* extra bottom padding */
+      /* tighter padding so card can get closer to edges */
+      padding: 8px 8px 8px;
     }
 
+    /* ⬇ Make the app fill almost the whole viewport */
     .app {
       width: 100%;
       max-width: 480px;
       margin: 0 auto;
+      min-height: calc(100vh - 16px); /* full height minus body padding */
+      display: flex;
+      align-items: stretch;
     }
 
+    /* ⬇ Make the card stretch vertically and become a flex column */
     .card {
       position: relative;
       background: rgba(15, 23, 42, 0.96);
@@ -30,6 +36,10 @@
       box-shadow: 0 18px 40px rgba(0, 0, 0, 0.6);
       border: 1px solid #1f2937;
       overflow: hidden;
+
+      min-height: 100%;        /* fill the .app height */
+      display: flex;
+      flex-direction: column;
     }
 
     /* Top title */
@@ -109,6 +119,7 @@
     .image-slot {
       height: 110px;
       margin-bottom: 10px;
+      flex-shrink: 0;
     }
 
     .options {
@@ -116,6 +127,8 @@
       display: flex;
       flex-direction: column;
       gap: 7px;
+      /* let options stretch a bit if there's space */
+      flex-shrink: 0;
     }
 
     .option {
@@ -212,6 +225,9 @@
       margin-top: 14px;
       gap: 8px;
       flex-wrap: wrap;
+
+      /* ⬇ push this row to the bottom of the card */
+      margin-top: auto;
     }
 
     .score-label {
