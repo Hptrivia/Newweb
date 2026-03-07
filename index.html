@@ -5,33 +5,162 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>Trivia Gauntlet</title>
 
-  <!-- AdSense script -->
+  <!-- AdSense verification / loader -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2544021252380572"
-     crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script>
+
+  <!-- PWA -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#111111">
+  <link rel="apple-touch-icon" href="/icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Trivia Gauntlet">
 
   <style>
     :root {
       --ad-h: 72px;
+      --bg: #0b0b0b;
+      --panel: #151515;
+      --text: #f4f4f4;
+      --muted: #b8b8b8;
+      --accent: #f5c542;
+      --border: #262626;
+      --maxw: 1000px;
+    }
+
+    * {
+      box-sizing: border-box;
     }
 
     html, body {
       margin: 0;
       padding: 0;
-      width: 100%;
-      height: 100%;
-      background: #000;
-      overflow: hidden;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Arial, Helvetica, sans-serif;
     }
 
     body {
       padding-bottom: calc(var(--ad-h) + env(safe-area-inset-bottom));
-      box-sizing: border-box;
+    }
+
+    .page {
+      width: 100%;
+    }
+
+    .content {
+      max-width: var(--maxw);
+      margin: 0 auto;
+      padding: 20px 16px 24px;
+    }
+
+    .hero {
+      background: linear-gradient(180deg, #141414 0%, #101010 100%);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: 32px;
+      line-height: 1.1;
+    }
+
+    .sub {
+      margin: 0;
+      color: var(--muted);
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 16px;
+    }
+
+    .badge {
+      background: #1c1c1c;
+      color: #e8e8e8;
+      border: 1px solid #2a2a2a;
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+    }
+
+    .section {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 18px;
+      margin-bottom: 18px;
+    }
+
+    .section h2 {
+      margin: 0 0 10px;
+      font-size: 22px;
+    }
+
+    .section p {
+      margin: 0 0 12px;
+      color: #d2d2d2;
+      line-height: 1.7;
+      font-size: 15px;
+    }
+
+    .feature-list {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .feature {
+      background: #1b1b1b;
+      border: 1px solid #2a2a2a;
+      border-radius: 12px;
+      padding: 12px;
+      font-size: 14px;
+      line-height: 1.5;
+      color: #e8e8e8;
+    }
+
+    .frame-wrap {
+      background: #111;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      margin-bottom: 18px;
+    }
+
+    .frame-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 14px;
+      background: #171717;
+      border-bottom: 1px solid #242424;
+    }
+
+    .frame-head strong {
+      font-size: 15px;
+    }
+
+    .frame-head span {
+      color: var(--muted);
+      font-size: 13px;
     }
 
     .app-frame {
       display: block;
       width: 100%;
-      height: 100%;
+      height: 78vh;
+      min-height: 650px;
       border: 0;
       background: #fff;
     }
@@ -42,38 +171,165 @@
       right: 0;
       bottom: 0;
       height: calc(var(--ad-h) + env(safe-area-inset-bottom));
-      padding-bottom: env(safe-area-inset-bottom);
-      background: #111;
+      padding: 0 8px env(safe-area-inset-bottom);
+      background: rgba(10,10,10,0.97);
+      border-top: 1px solid #232323;
       z-index: 9999;
-
       display: flex;
       align-items: center;
       justify-content: center;
+      box-shadow: 0 -2px 12px rgba(0,0,0,0.35);
+    }
 
-      box-shadow: 0 -2px 8px rgba(0,0,0,0.25);
+    .ad-inner {
+      width: 100%;
+      max-width: var(--maxw);
+      height: var(--ad-h);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .footnote {
+      font-size: 13px;
+      color: #a9a9a9;
+      line-height: 1.6;
+    }
+
+    .footnote strong {
+      color: #e8e8e8;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 26px;
+      }
+
+      .feature-list {
+        grid-template-columns: 1fr;
+      }
+
+      .app-frame {
+        height: 72vh;
+        min-height: 560px;
+      }
     }
 
     @media (max-width: 420px) {
       :root {
         --ad-h: 60px;
       }
+
+      .content {
+        padding: 14px 12px 20px;
+      }
+
+      .hero,
+      .section,
+      .frame-wrap {
+        border-radius: 12px;
+      }
+
+      .app-frame {
+        min-height: 500px;
+      }
     }
   </style>
 </head>
 <body>
+  <div class="page">
+    <div class="content">
 
-  <iframe
-    class="app-frame"
-    src="https://trivia-5pja.onrender.com/"
-    title="Trivia Gauntlet"
-    loading="eager"
-    referrerpolicy="no-referrer-when-downgrade"
-    allow="fullscreen"
-  ></iframe>
+      <section class="hero">
+        <h1>Trivia Gauntlet</h1>
+        <p class="sub">
+          Play free trivia games across TV shows, movies, games, anime, sports, and more.
+          Test yourself with themed quizzes, challenge friends, and see how far your knowledge goes.
+        </p>
 
-  <div class="adbar">
-    <div style="color:#aaa;font:14px Arial;">Sticky ad goes here</div>
+        <div class="badge-row">
+          <div class="badge">TV & Movies</div>
+          <div class="badge">Games & Anime</div>
+          <div class="badge">Sports & Pop Culture</div>
+          <div class="badge">Fast-paced trivia</div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>How it works</h2>
+        <p>
+          Trivia Gauntlet is a browser-based trivia experience with a wide range of quiz themes and challenge modes.
+          Pick a category, start playing instantly, and answer questions across different difficulty levels. The game is designed for quick solo play, friendly competition, and repeat sessions when you want a new theme or a tougher challenge.
+        </p>
+        <p>
+          Players can jump into quizzes based on popular series, blockbuster movies, well-known video games, football, basketball, combat sports, and general entertainment topics. New themes can be added over time, so the content library keeps growing instead of staying static.
+        </p>
+
+        <div class="feature-list">
+          <div class="feature"><strong>Theme variety:</strong> quizzes across shows, films, games, sports, and more.</div>
+          <div class="feature"><strong>Instant play:</strong> open the page and start without complicated setup.</div>
+          <div class="feature"><strong>Replay value:</strong> switch categories and keep testing different areas of knowledge.</div>
+          <div class="feature"><strong>Mobile-friendly:</strong> built to work well on phones and tablets.</div>
+        </div>
+      </section>
+
+      <section class="frame-wrap">
+        <div class="frame-head">
+          <strong>Play now</strong>
+          <span>Interactive trivia app</span>
+        </div>
+
+        <iframe
+          class="app-frame"
+          src="https://trivia-5pja.onrender.com/"
+          title="Trivia Gauntlet"
+          loading="eager"
+          referrerpolicy="no-referrer-when-downgrade"
+          allow="fullscreen"
+        ></iframe>
+      </section>
+
+      <section class="section">
+        <h2>What you can play</h2>
+        <p>
+          The game includes trivia for fans of long-running TV comedies, prestige dramas, fantasy series, action franchises, major game releases, and competitive sports. Whether you want something casual or difficult, the aim is to give players a simple way to jump between fandoms and test how much they really remember.
+        </p>
+        <p>
+          This site is intended for players who enjoy quiz nights, fandom knowledge battles, and quick challenges they can return to regularly. It works directly in the browser, so there is no separate app store download needed to start playing.
+        </p>
+        <p class="footnote">
+          <strong>Note:</strong> if the game takes a moment to load, that is because the interactive app is being served live. Once it opens, you can start playing immediately inside the page.
+        </p>
+      </section>
+
+    </div>
   </div>
 
+  <div class="adbar">
+    <div class="ad-inner">
+      <!-- Replace this placeholder with your real AdSense ad unit AFTER approval -->
+      <div style="color:#aaa; font:14px Arial; text-align:center;">Sticky ad goes here</div>
+    </div>
+  </div>
+
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/sw.js").catch(err => {
+          console.log("SW registration failed:", err);
+        });
+      });
+    }
+  </script>
 </body>
 </html>
