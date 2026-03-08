@@ -203,14 +203,14 @@ async function renderPlayPage() {
     if (!quizState.selectedAnswer) return;
 
     const q = quizState.questions[quizState.currentIndex];
-    if (quizState.selectedAnswer === q.answer) {
-      quizState.score += 1;
-      feedbackEl.textContent = "Correct";
-      feedbackEl.className = "feedback correct";
-    } else {
-      feedbackEl.textContent = `Wrong. Correct answer: ${q.answer}`;
-      feedbackEl.className = "feedback wrong";
-    }
+  if (quizState.selectedAnswer === q.answer) {
+    quizState.score += 1;
+    feedbackEl.textContent = "Correct";
+    feedbackEl.className = "feedback correct";
+  } else {
+    feedbackEl.textContent = "Wrong";
+    feedbackEl.className = "feedback wrong";
+  }
 
     submitBtn.disabled = true;
     nextBtn.style.display = "inline-block";
