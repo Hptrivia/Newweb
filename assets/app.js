@@ -150,6 +150,7 @@ async function renderPlayPage() {
   const submitBtn = document.getElementById("submitButton");
   const nextBtn = document.getElementById("nextButton");
   const resultBox = document.getElementById("resultBox");
+  const scoreEl = document.getElementById("scoreText");
 
   if (!theme) {
     title.textContent = "Theme not found";
@@ -173,6 +174,7 @@ async function renderPlayPage() {
     quizState.selectedAnswer = null;
 
     progress.textContent = `Question ${quizState.currentIndex + 1} of ${quizState.questions.length}`;
+    scoreEl.textContent = `Score: ${quizState.score}`;
     questionEl.textContent = q.question;
 
     q.options.forEach(option => {
