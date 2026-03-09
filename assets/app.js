@@ -34,7 +34,7 @@ async function renderHomePage() {
   const categoryList = document.getElementById("categoryList");
 
   function render(filteredThemes) {
-    featuredList.innerHTML = "";
+    if (featuredList) featuredList.innerHTML = "";
     categoryList.innerHTML = "";
 
     filteredThemes.forEach(theme => {
