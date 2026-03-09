@@ -37,6 +37,7 @@ async function renderHomePage() {
     if (featuredList) featuredList.innerHTML = "";
     categoryList.innerHTML = "";
 
+  if (featuredList) {
     filteredThemes.forEach(theme => {
       const card = document.createElement("a");
       card.className = "card";
@@ -48,6 +49,7 @@ async function renderHomePage() {
       `;
       featuredList.appendChild(card);
     });
+  }
 
     const grouped = groupByCategory(filteredThemes);
     Object.keys(grouped).forEach(category => {
