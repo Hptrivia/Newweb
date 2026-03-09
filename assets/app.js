@@ -30,6 +30,7 @@ async function loadThemes() {
 async function renderHomePage() {
   const themes = await loadThemes();
   const searchInput = document.getElementById("searchInput");
+  const searchResults = document.getElementById("searchResults");
   const featuredList = document.getElementById("featuredThemes");
   const categoryList = document.getElementById("categoryList");
 
@@ -77,15 +78,46 @@ categoryOrder.forEach(category => {
 
   render(themes);
 
+  function renderSearchResults(items) {
+    if (!searchResults) return;
+  
+    if (!items.length) {
+      searchResults.innerHTML = `<div class="search-item">No results found</div>`;
+      return;
+    }
+  
+    searchResults.innerHTML = "";
+  
+    items.forEach(theme => {
+      const item = document.createElement("a");
+      item.className = "search-item";
+      item.href = `play.html?theme=${theme.slug}`;
+      item.textContent = theme.title;
+      searchResults.appendChild(item);
+    });
+  }
+  
+  searchInput?.addEventListener("focus", () => {
+    renderSearchResults(themes);
+    searchResults.style.display = "block";
+  });
+  
   searchInput?.addEventListener("input", e => {
     const value = e.target.value.trim().toLowerCase();
+  
     const filtered = themes.filter(theme =>
-      theme.title.toLowerCase().includes(value) ||
-      theme.category.toLowerCase().includes(value)
+      theme.title.toLowerCase().includes(value)
     );
-    render(filtered);
+  
+    renderSearchResults(filtered);
+    searchResults.style.display = "block";
   });
-}
+  
+  document.addEventListener("click", e => {
+    if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+      searchResults.style.display = "none";
+    }
+  });
 
 /* ---------------- CATEGORY PAGE ---------------- */
 async function renderCategoryPage() {
