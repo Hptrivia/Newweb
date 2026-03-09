@@ -20,7 +20,7 @@ async function renderWordlePage() {
 
   titleEl.textContent = `${theme.title} Wordle`;
 
-  const allWordleData = await fetchJSON("data/wordle_words.json");
+  const allWordleData = await fetchJSON("data/wordle_words.txt");
   const words = allWordleData[theme.title];
 
   if (!Array.isArray(words) || !words.length) {
