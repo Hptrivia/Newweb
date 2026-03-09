@@ -124,7 +124,6 @@ async function renderQuizPage() {
 
   const title = document.getElementById("quizTitle");
   const desc = document.getElementById("quizDescription");
-  const meta = document.getElementById("quizMeta");
   const playBtn = document.getElementById("playButton");
 
   if (!theme) {
@@ -137,7 +136,6 @@ async function renderQuizPage() {
 
   title.textContent = theme.title;
   desc.textContent = theme.description;
-  meta.textContent = `Category: ${theme.category}`;
   playBtn.href = `play.html?theme=${theme.slug}`;
 }
 
@@ -169,7 +167,7 @@ async function renderPlayPage() {
     return;
   }
 
-  title.textContent = `${theme.title} - Speed Mode`;
+  title.textContent = theme.title;
 
   const allQuestions = await fetchJSON(theme.questionFile);
   quizState.questions = allQuestions.slice(0, 30);
