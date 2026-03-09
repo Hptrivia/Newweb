@@ -1,23 +1,850 @@
 [
   {
-    "slug": "theme-one",
-    "title": "Theme One",
-    "category": "TV Series",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "questionFile": "data/theme-one.json"
+    "slug": "bible",
+    "title": "Bible",
+    "category": "Books",
+    "description": "A scripture theme focused on books, people, stories, teachings, and major moments from the Bible. It is designed around broad, accessible knowledge of the text.",
+    "image": "",
+    "questionFile": "data/bible.txt"
   },
   {
-    "slug": "theme-two",
-    "title": "Theme Two",
+    "slug": "harry-potter",
+    "title": "Harry Potter",
+    "category": "Books",
+    "description": "A fantasy series about Harry Potter’s journey through Hogwarts and the wizarding world. Magic, friendship, dark forces, and unforgettable characters define the story.",
+    "image": "",
+    "questionFile": "data/real_qs.txt"
+  },
+  {
+    "slug": "quran",
+    "title": "Quran",
+    "category": "Books",
+    "description": "A religion and scripture theme focused on the Quran, its content, figures, themes, and core knowledge. It is framed around respectful, broad familiarity with the text.",
+    "image": "",
+    "questionFile": "data/quran.txt"
+  },
+  {
+    "slug": "canada",
+    "title": "Canada",
+    "category": "Countries",
+    "description": "A country trivia theme covering Canadian provinces, cities, history, culture, sports, and famous people. It balances geography and pop culture knowledge.",
+    "image": "",
+    "questionFile": "data/canada.txt"
+  },
+  {
+    "slug": "germany",
+    "title": "Germany",
+    "category": "Countries",
+    "description": "A country trivia theme covering German history, culture, geography, landmarks, sports, and national identity. It is broad and designed for general audience quiz play.",
+    "image": "",
+    "questionFile": "data/germany.txt"
+  },
+  {
+    "slug": "usa",
+    "title": "U.S.A",
+    "category": "Countries",
+    "description": "A country trivia theme focused on American history, geography, culture, politics, and national symbols. It covers broad, recognizable facts about the United States.",
+    "image": "",
+    "questionFile": "data/usa.txt"
+  },
+  {
+    "slug": "united-kingdom",
+    "title": "United Kingdom",
+    "category": "Countries",
+    "description": "A country trivia theme covering the UK’s nations, cities, history, monarchy, culture, and notable institutions. It is broad, familiar, and easy to build into pub-style quiz rounds.",
+    "image": "",
+    "questionFile": "data/united-kingdom.txt"
+  },
+  {
+    "slug": "finance-and-investing",
+    "title": "Finance & Investing",
+    "category": "Education",
+    "description": "A finance theme covering money basics, markets, investing terms, companies, and economic concepts. It is designed around practical and widely recognized financial knowledge.",
+    "image": "",
+    "questionFile": "data/finance.txt"
+  },
+  {
+    "slug": "health-and-medicine",
+    "title": "Health & Medicine",
+    "category": "Education",
+    "description": "A health theme covering the human body, medicine, diseases, treatments, and general medical knowledge. It focuses on well-known concepts rather than specialist detail.",
+    "image": "",
+    "questionFile": "data/health.txt"
+  },
+  {
+    "slug": "language",
+    "title": "Language",
+    "category": "Education",
+    "description": "A language theme covering words, grammar, meanings, usage, and language-related facts. It focuses on how language works rather than on one single language only.",
+    "image": "",
+    "questionFile": "data/language.txt"
+  },
+  {
+    "slug": "marketing-and-brands",
+    "title": "Marketing & Brands",
+    "category": "Education",
+    "description": "A branding and marketing theme covering famous campaigns, slogans, companies, products, and advertising concepts. It sits right at the intersection of business and pop culture.",
+    "image": "",
+    "questionFile": "data/market.txt"
+  },
+  {
+    "slug": "mathematics",
+    "title": "Mathematics",
+    "category": "Education",
+    "description": "A mathematics theme built around numbers, operations, formulas, logic, and classic math knowledge. It ranges from straightforward basics to more challenging concepts.",
+    "image": "",
+    "questionFile": "data/math.txt"
+  },
+  {
+    "slug": "spelling",
+    "title": "Spelling",
+    "category": "Education",
+    "description": "A word-focused theme that tests spelling, tricky letter patterns, and common mistakes. It is straightforward but easy to get wrong under pressure.",
+    "image": "",
+    "questionFile": "data/spelling.txt"
+  },
+  {
+    "slug": "technology",
+    "title": "Technology",
+    "category": "Education",
+    "description": "A broad technology theme covering computers, software, internet culture, devices, and major tech concepts. It mixes practical knowledge with mainstream digital topics.",
+    "image": "",
+    "questionFile": "data/computer.txt"
+  },
+  {
+    "slug": "word-definitions",
+    "title": "Word Definitions",
+    "category": "Education",
+    "description": "A vocabulary theme focused on meanings, usage, and recognition of words. It is more knowledge-based than spelling and suits quick educational rounds.",
+    "image": "",
+    "questionFile": "data/definitions.txt"
+  },
+  {
+    "slug": "baldurs-gate-3",
+    "title": "Baldurs Gate 3",
     "category": "Games",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "questionFile": "data/theme-two.json"
+    "description": "A deep role-playing game based on Dungeons & Dragons, packed with choices, companions, and branching consequences. It is driven by strategy, story freedom, and character builds.",
+    "image": "",
+    "questionFile": "data/baldurs-gate-3.txt"
   },
   {
-    "slug": "theme-three",
-    "title": "Theme Three",
+    "slug": "bloodborne",
+    "title": "Bloodborne",
+    "category": "Games",
+    "description": "A gothic action RPG known for aggressive combat, cosmic horror, and the nightmare city of Yharnam. It remains one of the most distinctive modern Soulslike games.",
+    "image": "",
+    "questionFile": "data/bloodborne.txt"
+  },
+  {
+    "slug": "claire-obscur-expedition-33",
+    "title": "Claire Obscur Expedition 33",
+    "category": "Games",
+    "description": "A fantasy RPG with a striking art style and a story built around fate, loss, and a desperate expedition. It stands out as a fresh modern title with strong visual identity.",
+    "image": "",
+    "questionFile": "data/claire-obscur-expedition-33.txt"
+  },
+  {
+    "slug": "demon-souls",
+    "title": "Demon Souls",
+    "category": "Games",
+    "description": "A punishing action RPG built around difficult combat, atmospheric worlds, and foundational Souls mechanics. It is remembered for its bosses, archstones, and haunting tone.",
+    "image": "",
+    "questionFile": "data/demon-souls.txt"
+  },
+  {
+    "slug": "elden-ring",
+    "title": "Elden Ring",
+    "category": "Games",
+    "description": "An open-world action RPG known for brutal combat, mysterious lore, and vast exploration across the Lands Between. It challenges players with difficult bosses and rich world-building.",
+    "image": "",
+    "questionFile": "data/elden.txt"
+  },
+  {
+    "slug": "ghost-of-tsushima",
+    "title": "Ghost of Tsushima",
+    "category": "Games",
+    "description": "An action-adventure game about Jin Sakai’s fight to defend Tsushima during the Mongol invasion. It mixes samurai combat, stealth, and a striking open world.",
+    "image": "",
+    "questionFile": "data/ghost.txt"
+  },
+  {
+    "slug": "god-of-war",
+    "title": "God of War",
+    "category": "Games",
+    "description": "An action franchise centered on brutal combat, mythological gods, and Kratos’ evolving journey as a warrior and father. It spans iconic boss fights, weapons, and emotional storytelling.",
+    "image": "",
+    "questionFile": "data/god-of-war.txt"
+  },
+  {
+    "slug": "gta-v",
+    "title": "GTA V",
+    "category": "Games",
+    "description": "An open-world crime game set in Los Santos, following three protagonists through heists, chaos, and satire. It is known for freedom, scale, and huge cultural impact.",
+    "image": "",
+    "questionFile": "data/gta5.txt"
+  },
+  {
+    "slug": "horizon-zero-dawn",
+    "title": "Horizon Zero Dawn",
+    "category": "Games",
+    "description": "An action RPG set in a future world where tribal societies survive among deadly machines. It combines mystery, exploration, and machine-hunting combat through Aloy’s story.",
+    "image": "",
+    "questionFile": "data/horizon-zero-dawn.txt"
+  },
+  {
+    "slug": "lies-of-p",
+    "title": "Lies of P",
+    "category": "Games",
+    "description": "A dark action RPG inspired by Pinocchio, blending Belle Époque style with tough combat and twisted lore. It stands out for its atmosphere, weapon system, and boss design.",
+    "image": "",
+    "questionFile": "data/lies-of-p.txt"
+  },
+  {
+    "slug": "minecraft",
+    "title": "Minecraft",
+    "category": "Games",
+    "description": "A sandbox game built around mining, crafting, building, survival, and open-ended creativity. It is one of the most influential and recognizable games ever made.",
+    "image": "",
+    "questionFile": "data/minecraft.txt"
+  },
+  {
+    "slug": "pokemon",
+    "title": "Pokémon",
+    "category": "Games",
+    "description": "A franchise about trainers, battles, regions, creatures, and the goal of becoming the very best. It spans games, anime, evolutions, and iconic Pokémon knowledge.",
+    "image": "",
+    "questionFile": "data/pokemon.txt"
+  },
+  {
+    "slug": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "category": "Games",
+    "description": "A story-rich western action game about outlaws, loyalty, and survival during the end of the Wild West. It is known for its open world, emotional depth, and unforgettable characters.",
+    "image": "",
+    "questionFile": "data/red-dead-redemption-2.txt"
+  },
+  {
+    "slug": "resident-evil-4",
+    "title": "Resident Evil 4",
+    "category": "Games",
+    "description": "A survival horror action game following Leon Kennedy on a mission through a hostile rural nightmare. It blends tension, combat, and one of gaming’s most iconic campaigns.",
+    "image": "",
+    "questionFile": "data/re4.txt"
+  },
+  {
+    "slug": "the-last-of-us",
+    "title": "The Last of Us",
+    "category": "Games",
+    "description": "A post-apocalyptic story about survival, loss, and the bond between Joel and Ellie. It mixes emotional storytelling with infected threats and dangerous human factions.",
+    "image": "",
+    "questionFile": "data/tlou.txt"
+  },
+  {
+    "slug": "the-witcher-3",
+    "title": "The Witcher 3",
+    "category": "Games",
+    "description": "A fantasy RPG following Geralt of Rivia through war, monsters, contracts, and the search for Ciri. It is known for rich quests, deep lore, and standout expansions.",
+    "image": "",
+    "questionFile": "data/witcher.txt"
+  },
+  {
+    "slug": "animals",
+    "title": "Animals",
+    "category": "General",
+    "description": "A general nature theme covering animal species, habitats, behavior, and surprising facts from the natural world. It works well as broad, accessible quiz content.",
+    "image": "",
+    "questionFile": "data/animals.txt"
+  },
+  {
+    "slug": "bollywood",
+    "title": "Bollywood",
+    "category": "General",
+    "description": "A film theme centered on Hindi cinema, major stars, hit movies, music, and iconic moments from Bollywood. It reflects one of the world’s biggest entertainment industries.",
+    "image": "",
+    "questionFile": "data/bolly.txt"
+  },
+  {
+    "slug": "fun-facts",
+    "title": "Fun Facts",
+    "category": "General",
+    "description": "A light general theme packed with quirky, surprising, and entertaining facts from different topics. It is built more for quick enjoyment than serious specialization.",
+    "image": "",
+    "questionFile": "data/fun.txt"
+  },
+  {
+    "slug": "geography",
+    "title": "Geography",
+    "category": "General",
+    "description": "A geography theme covering countries, capitals, landmarks, borders, maps, and major physical features of the world. It is built around places and global awareness.",
+    "image": "",
+    "questionFile": "data/geo.txt"
+  },
+  {
+    "slug": "history",
+    "title": "History",
+    "category": "General",
+    "description": "A history theme covering major events, figures, wars, civilizations, and turning points across time. It draws from world history rather than one narrow period.",
+    "image": "",
+    "questionFile": "data/history.txt"
+  },
+  {
+    "slug": "hollywood",
+    "title": "Hollywood",
+    "category": "General",
+    "description": "A general film theme covering famous actors, directors, blockbuster movies, and major moments in mainstream cinema. It spans classics, modern hits, and pop culture staples.",
+    "image": "",
+    "questionFile": "data/holly.txt"
+  },
+  {
+    "slug": "music",
+    "title": "Music",
+    "category": "General",
+    "description": "A broad music trivia theme covering hit songs, artists, albums, genres, and memorable chart moments. It pulls from mainstream pop culture and widely known music facts.",
+    "image": "",
+    "questionFile": "data/musi.txt"
+  },
+  {
+    "slug": "nigerian-music",
+    "title": "Nigerian Music",
+    "category": "General",
+    "description": "A music theme focused on Nigerian artists, hit songs, genres, and major cultural moments. It covers Afrobeats, classic names, and modern chart success.",
+    "image": "",
+    "questionFile": "data/naija.txt"
+  },
+  {
+    "slug": "nollywood",
+    "title": "Nollywood",
+    "category": "General",
+    "description": "A movie theme focused on Nigerian cinema, actors, directors, and standout films from Nollywood. It covers a huge entertainment industry with massive local cultural impact.",
+    "image": "",
+    "questionFile": "data/nolly.txt"
+  },
+  {
+    "slug": "odd-one-out",
+    "title": "Odd One Out",
+    "category": "General",
+    "description": "A quick-fire logic and general knowledge theme where players pick the item that does not belong. It relies on patterns, categories, and smart elimination.",
+    "image": "",
+    "questionFile": "data/odd.txt"
+  },
+  {
+    "slug": "science",
+    "title": "Science",
+    "category": "General",
+    "description": "A broad science theme covering biology, chemistry, physics, space, and famous discoveries. It is designed around accessible but interesting scientific knowledge.",
+    "image": "",
+    "questionFile": "data/science.txt"
+  },
+  {
+    "slug": "true-or-false",
+    "title": "True or False",
+    "category": "General",
+    "description": "A fast general knowledge format built around statements that must be judged as true or false. It is simple, flexible, and ideal for rapid quiz rounds.",
+    "image": "",
+    "questionFile": "data/tof.txt"
+  },
+  {
+    "slug": "world-capitals",
+    "title": "World Capitals",
+    "category": "General",
+    "description": "A geography theme focused specifically on capitals around the world. It is direct, recognizable, and perfect for fast recall trivia.",
+    "image": "",
+    "questionFile": "data/capitals.txt"
+  },
+  {
+    "slug": "world-facts",
+    "title": "World Facts",
+    "category": "General",
+    "description": "A general knowledge theme covering notable facts about places, history, culture, science, and the wider world. It is built for broad, fast-paced trivia variety.",
+    "image": "",
+    "questionFile": "data/world.txt"
+  },
+  {
+    "slug": "boxing",
+    "title": "Boxing",
     "category": "Sports",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "questionFile": "data/theme-three.json"
+    "description": "A combat sports theme covering fighters, titles, divisions, and legendary bouts in boxing history. It spans both all-time greats and modern stars.",
+    "image": "",
+    "questionFile": "data/boxing.txt"
+  },
+  {
+    "slug": "epl-football",
+    "title": "EPL Football",
+    "category": "Sports",
+    "description": "A football theme focused on the English Premier League, including clubs, players, managers, trophies, and famous seasons. It covers one of the world’s biggest leagues.",
+    "image": "",
+    "questionFile": "data/EPL.txt"
+  },
+  {
+    "slug": "mma",
+    "title": "MMA",
+    "category": "Sports",
+    "description": "A combat sports theme focused on UFC-style mixed martial arts, fighters, weight classes, titles, and memorable bouts. It spans striking, grappling, and major moments in the cage.",
+    "image": "",
+    "questionFile": "data/ufc_trivia.txt"
+  },
+  {
+    "slug": "nba",
+    "title": "NBA",
+    "category": "Sports",
+    "description": "A basketball theme covering teams, superstars, championships, records, and iconic moments from the NBA. It spans different eras, dynasties, and unforgettable performances.",
+    "image": "",
+    "questionFile": "data/nba.txt"
+  },
+  {
+    "slug": "nfl",
+    "title": "NFL",
+    "category": "Sports",
+    "description": "An American football theme focused on teams, quarterbacks, Super Bowls, records, and memorable moments from the NFL. It covers the biggest names and biggest stages in the league.",
+    "image": "",
+    "questionFile": "data/nfl.txt"
+  },
+  {
+    "slug": "nigerian-football",
+    "title": "Nigerian Football",
+    "category": "Sports",
+    "description": "A football theme centered on Nigeria’s teams, players, tournaments, and major moments in the sport. It includes club football, national team history, and local icons.",
+    "image": "",
+    "questionFile": "data/nig.txt"
+  },
+  {
+    "slug": "world-football",
+    "title": "World Football",
+    "category": "Sports",
+    "description": "A broad football theme covering international stars, clubs, tournaments, records, and legendary matches. It draws from the global game beyond any one country or league.",
+    "image": "",
+    "questionFile": "data/foot.txt"
+  },
+  {
+    "slug": "wwe",
+    "title": "WWE",
+    "category": "Sports",
+    "description": "A sports entertainment giant known for legendary wrestlers, rivalries, championships, and WrestleMania moments. The theme covers eras, finishing moves, factions, and iconic storylines.",
+    "image": "",
+    "questionFile": "data/WWE.txt"
+  },
+  {
+    "slug": "a-knight-of-the-seven-kingdoms",
+    "title": "A Knight of the Seven Kingdoms",
+    "category": "TV/Series",
+    "description": "A Westeros story focused on Ser Duncan the Tall and Egg, set before the events of Game of Thrones. It offers a smaller-scale, character-driven entry into George R.R. Martin’s world.",
+    "image": "",
+    "questionFile": "data/a-knight-of-the-seven-kingdoms.txt"
+  },
+  {
+    "slug": "arcane",
+    "title": "Arcane",
+    "category": "TV/Series",
+    "description": "An animated drama set in the League of Legends universe, focused on class conflict, ambition, and the tragedy between Vi and Jinx. It is visually stunning and emotionally heavy.",
+    "image": "",
+    "questionFile": "data/arcane.txt"
+  },
+  {
+    "slug": "attack-on-titan",
+    "title": "Attack on Titan",
+    "category": "TV/Series",
+    "description": "A dark anime set in a world under siege by Titans, where war, secrets, and shifting loyalties drive the story. It is known for brutal twists and escalating stakes.",
+    "image": "",
+    "questionFile": "data/attack.txt"
+  },
+  {
+    "slug": "avatar-the-last-airbender",
+    "title": "Avatar: The Last Airbender",
+    "category": "TV/Series",
+    "description": "An animated fantasy adventure following Aang and his friends as they try to end the Hundred Year War. It blends elemental powers, humor, and emotional storytelling.",
+    "image": "",
+    "questionFile": "data/avatar.txt"
+  },
+  {
+    "slug": "breaking-bad",
+    "title": "Breaking Bad",
+    "category": "TV/Series",
+    "description": "A crime drama about Walter White’s transformation from chemistry teacher to ruthless meth kingpin. It is packed with tension, moral collapse, and unforgettable power shifts.",
+    "image": "",
+    "questionFile": "data/breaking.txt"
+  },
+  {
+    "slug": "bridgerton",
+    "title": "Bridgerton",
+    "category": "TV/Series",
+    "description": "A romantic period drama set in Regency-era high society, full of courtship, scandal, and family politics. It mixes glossy style with modern energy and major relationship drama.",
+    "image": "",
+    "questionFile": "data/bridgerton.txt"
+  },
+  {
+    "slug": "brooklyn-99",
+    "title": "Brooklyn 99",
+    "category": "TV/Series",
+    "description": "A police sitcom following Jake Peralta and the squad at the 99th precinct. It mixes workplace comedy, running jokes, and a lovable ensemble cast.",
+    "image": "",
+    "questionFile": "data/brooklyn.txt"
+  },
+  {
+    "slug": "community",
+    "title": "Community",
+    "category": "TV/Series",
+    "description": "A meta-heavy sitcom set at Greendale Community College, where a dysfunctional study group gets into increasingly absurd situations. It is known for genre parody and fast dialogue.",
+    "image": "",
+    "questionFile": "data/community.txt"
+  },
+  {
+    "slug": "dc-movies",
+    "title": "DC Movies",
+    "category": "TV/Series",
+    "description": "A superhero movie theme covering major DC characters, villains, and cinematic storylines. It spans Batman, Superman, Wonder Woman, and the wider DC film universe.",
+    "image": "",
+    "questionFile": "data/DC.txt"
+  },
+  {
+    "slug": "demon-slayer",
+    "title": "Demon Slayer",
+    "category": "TV/Series",
+    "description": "An anime about Tanjiro’s fight against demons while trying to save his sister and avenge his family. It combines emotional stakes with striking sword combat.",
+    "image": "",
+    "questionFile": "data/demon.txt"
+  },
+  {
+    "slug": "dexter",
+    "title": "Dexter",
+    "category": "TV/Series",
+    "description": "A crime thriller about Dexter Morgan, a blood-spatter analyst who secretly lives as a serial killer with a code. It mixes suspense, dual identity, and moral tension.",
+    "image": "",
+    "questionFile": "data/dexter.txt"
+  },
+  {
+    "slug": "dragon-ball-z",
+    "title": "Dragon Ball Z",
+    "category": "TV/Series",
+    "description": "A legendary anime known for extreme battles, transformations, and iconic warriors defending Earth. It covers major sagas, villains, powers, and unforgettable fights.",
+    "image": "",
+    "questionFile": "data/dragon.txt"
+  },
+  {
+    "slug": "friends",
+    "title": "Friends",
+    "category": "TV/Series",
+    "description": "A beloved sitcom about six friends in New York navigating work, love, and everyday chaos. It mixes iconic catchphrases, messy relationships, and endlessly rewatchable humor.",
+    "image": "",
+    "questionFile": "data/FRIENDS.txt"
+  },
+  {
+    "slug": "fullmetal-alchemist",
+    "title": "Fullmetal Alchemist",
+    "category": "TV/Series",
+    "description": "An anime and manga story built around alchemy, sacrifice, militarism, and the Elric brothers’ search to restore what they lost. It blends action, philosophy, and strong world-building.",
+    "image": "",
+    "questionFile": "data/fma.txt"
+  },
+  {
+    "slug": "game-of-thrones",
+    "title": "Game of Thrones",
+    "category": "TV/Series",
+    "description": "An epic fantasy series built on political betrayal, family conflict, dragons, and war for the Iron Throne. It spans Westeros, key houses, and major turning points.",
+    "image": "",
+    "questionFile": "data/GOT.txt"
+  },
+  {
+    "slug": "house-of-the-dragon",
+    "title": "House of the Dragon",
+    "category": "TV/Series",
+    "description": "A fantasy prequel set in the Targaryen era, built around succession conflict, dragon power, and family betrayal. It expands the world of Westeros through civil war and legacy.",
+    "image": "",
+    "questionFile": "data/house-of-the-dragon.txt"
+  },
+  {
+    "slug": "how-i-met-your-mother",
+    "title": "How I Met Your Mother",
+    "category": "TV/Series",
+    "description": "A sitcom built around Ted Mosby’s long story of love, friendship, and the road to meeting the mother. It mixes running gags, emotional turns, and ensemble chemistry.",
+    "image": "",
+    "questionFile": "data/himym.txt"
+  },
+  {
+    "slug": "invincible",
+    "title": "Invincible",
+    "category": "TV/Series",
+    "description": "An animated superhero series that starts like a coming-of-age story and quickly turns brutal and shocking. It mixes family drama, power, and extreme violence.",
+    "image": "",
+    "questionFile": "data/invincible.txt"
+  },
+  {
+    "slug": "its-always-sunny-in-philadelphia",
+    "title": "Its Always Sunny in Philadelphia",
+    "category": "TV/Series",
+    "description": "A dark sitcom about five selfish disasters running Paddy’s Pub and ruining everyone around them. It is chaotic, cynical, and built on total moral collapse.",
+    "image": "",
+    "questionFile": "data/iasip.txt"
+  },
+  {
+    "slug": "lord-of-the-rings",
+    "title": "Lord of The Rings",
+    "category": "TV/Series",
+    "description": "A fantasy epic about fellowship, war, and the struggle against Sauron in Middle-earth. It covers key characters, places, battles, and legendary quest moments.",
+    "image": "",
+    "questionFile": "data/LOTR.txt"
+  },
+  {
+    "slug": "lost",
+    "title": "Lost",
+    "category": "TV/Series",
+    "description": "A mystery drama about plane crash survivors facing strange forces and secrets on a remote island. It blends survival, character drama, time-bending twists, and mythology.",
+    "image": "",
+    "questionFile": "data/lost.txt"
+  },
+  {
+    "slug": "mad-men",
+    "title": "Mad Men",
+    "category": "TV/Series",
+    "description": "A drama set in the advertising world of the 1960s, built around Don Draper and the people around him. It explores ambition, identity, power, and social change.",
+    "image": "",
+    "questionFile": "data/mad.txt"
+  },
+  {
+    "slug": "marvel-movies",
+    "title": "Marvel Movies",
+    "category": "TV/Series",
+    "description": "A blockbuster superhero franchise built around interconnected stories, major team-ups, and world-ending stakes. It spans heroes, villains, and key moments across the Marvel cinematic universe.",
+    "image": "",
+    "questionFile": "data/avengers.txt"
+  },
+  {
+    "slug": "modern-family",
+    "title": "Modern Family",
+    "category": "TV/Series",
+    "description": "A family sitcom that follows the Pritchett-Dunphy-Tucker clan through everyday life, parenting chaos, and relationship comedy. It blends heart, mockumentary style, and sharp jokes.",
+    "image": "",
+    "questionFile": "data/modern.txt"
+  },
+  {
+    "slug": "money-heist",
+    "title": "Money Heist",
+    "category": "TV/Series",
+    "description": "A Spanish crime series about a team of robbers carrying out elaborate heists under the Professor’s plan. It blends tension, strategy, and emotional character drama.",
+    "image": "",
+    "questionFile": "data/heist.txt"
+  },
+  {
+    "slug": "naruto",
+    "title": "Naruto",
+    "category": "TV/Series",
+    "description": "A long-running anime following Naruto Uzumaki as he trains to become Hokage and earn the village’s respect. It blends ninja battles, rivalries, and emotional character arcs.",
+    "image": "",
+    "questionFile": "data/Naruto.txt"
+  },
+  {
+    "slug": "new-girl",
+    "title": "New Girl",
+    "category": "TV/Series",
+    "description": "A sitcom about Jess moving in with three male roommates and the chaos that follows. It thrives on awkward humor, strange chemistry, and lovable weirdness.",
+    "image": "",
+    "questionFile": "data/newgirl.txt"
+  },
+  {
+    "slug": "one-piece",
+    "title": "One Piece",
+    "category": "TV/Series",
+    "description": "A sprawling anime adventure following Luffy and the Straw Hat crew in search of the One Piece. It is packed with world-building, powers, rivalries, and huge story arcs.",
+    "image": "",
+    "questionFile": "data/onepiece.txt"
+  },
+  {
+    "slug": "parks-and-recreation",
+    "title": "Parks and Recreation",
+    "category": "TV/Series",
+    "description": "A warm workplace sitcom centered on Leslie Knope and the Parks Department in Pawnee. It mixes civic chaos, optimism, and a deeply lovable ensemble.",
+    "image": "",
+    "questionFile": "data/parks.txt"
+  },
+  {
+    "slug": "peaky-blinders",
+    "title": "Peaky Blinders",
+    "category": "TV/Series",
+    "description": "A stylish crime drama about the Shelby family’s rise in postwar Birmingham. Power plays, gang conflict, ambition, and Tommy Shelby’s leadership drive the story.",
+    "image": "",
+    "questionFile": "data/peaky.txt"
+  },
+  {
+    "slug": "prison-break",
+    "title": "Prison Break",
+    "category": "TV/Series",
+    "description": "A thriller about prison escape plans, conspiracies, and brothers trying to survive impossible odds. It runs on tension, twists, and clever strategy.",
+    "image": "",
+    "questionFile": "data/prison.txt"
+  },
+  {
+    "slug": "rick-and-morty",
+    "title": "Rick and Morty",
+    "category": "TV/Series",
+    "description": "An animated sci-fi comedy about interdimensional adventures, cosmic absurdity, and an unstable genius-grandson duo. It mixes dark humor, chaos, and surprisingly big ideas.",
+    "image": "",
+    "questionFile": "data/morty.txt"
+  },
+  {
+    "slug": "seinfeld",
+    "title": "Seinfeld",
+    "category": "TV/Series",
+    "description": "A classic sitcom about Jerry, George, Elaine, and Kramer turning everyday trivialities into comedy. It is famous for iconic episodes, sharp dialogue, and zero sentimentality.",
+    "image": "",
+    "questionFile": "data/seinfeld.txt"
+  },
+  {
+    "slug": "severance",
+    "title": "Severance",
+    "category": "TV/Series",
+    "description": "A psychological sci-fi thriller about employees whose work and personal memories are surgically separated. It is eerie, controlled, and built around one of TV’s most gripping concepts.",
+    "image": "",
+    "questionFile": "data/severance.txt"
+  },
+  {
+    "slug": "sons-of-anarchy",
+    "title": "Sons of Anarchy",
+    "category": "TV/Series",
+    "description": "A crime drama following an outlaw motorcycle club caught between loyalty, violence, and power struggles. Family tension and club politics drive the story.",
+    "image": "",
+    "questionFile": "data/sons.txt"
+  },
+  {
+    "slug": "spartacus",
+    "title": "Spartacus",
+    "category": "TV/Series",
+    "description": "A historical action drama full of rebellion, arena combat, Roman politics, and raw spectacle. It is known for violence, ambition, and larger-than-life characters.",
+    "image": "",
+    "questionFile": "data/spartacus.txt"
+  },
+  {
+    "slug": "squid-game",
+    "title": "Squid Game",
+    "category": "TV/Series",
+    "description": "A survival thriller where desperate contestants enter deadly games for a life-changing cash prize. It mixes sharp social commentary with suspense and shocking violence.",
+    "image": "",
+    "questionFile": "data/squid.txt"
+  },
+  {
+    "slug": "star-trek",
+    "title": "Star Trek",
+    "category": "TV/Series",
+    "description": "A major sci-fi franchise centered on exploration, diplomacy, starships, and life across the galaxy. It spans many series, crews, and generations of fandom.",
+    "image": "",
+    "questionFile": "data/trek.txt"
+  },
+  {
+    "slug": "star-wars",
+    "title": "Star Wars",
+    "category": "TV/Series",
+    "description": "A massive sci-fi saga of Jedi, Sith, rebels, empires, and galactic conflict. It covers iconic characters, planets, battles, and lore from across the franchise.",
+    "image": "",
+    "questionFile": "data/starwars.txt"
+  },
+  {
+    "slug": "stranger-things",
+    "title": "Stranger Things",
+    "category": "TV/Series",
+    "description": "A sci-fi horror series set in Hawkins, where kids uncover secret experiments, monsters, and a terrifying parallel world. It blends nostalgia, mystery, friendship, and supernatural danger.",
+    "image": "",
+    "questionFile": "data/stranger.txt"
+  },
+  {
+    "slug": "succession",
+    "title": "Succession",
+    "category": "TV/Series",
+    "description": "A drama about the Roy family fighting for power over a global media empire. It thrives on manipulation, status, ego, and vicious family warfare.",
+    "image": "",
+    "questionFile": "data/succession.txt"
+  },
+  {
+    "slug": "supernatural",
+    "title": "Supernatural",
+    "category": "TV/Series",
+    "description": "A fantasy horror series following the Winchester brothers as they hunt monsters, demons, angels, and apocalyptic threats. It built a huge fanbase over many seasons.",
+    "image": "",
+    "questionFile": "data/supernatural.txt"
+  },
+  {
+    "slug": "superstore",
+    "title": "Superstore",
+    "category": "TV/Series",
+    "description": "A workplace sitcom set in a chaotic big-box retail store, following employees through absurd customers and corporate nonsense. It balances comedy with sharp observations about work.",
+    "image": "",
+    "questionFile": "data/superstore.txt"
+  },
+  {
+    "slug": "ted-lasso",
+    "title": "Ted Lasso",
+    "category": "TV/Series",
+    "description": "A feel-good comedy-drama about an American coach leading an English football club with optimism and emotional intelligence. It mixes sports, humor, and heartfelt character work.",
+    "image": "",
+    "questionFile": "data/ted.txt"
+  },
+  {
+    "slug": "the-big-bang-theory",
+    "title": "The Big Bang Theory",
+    "category": "TV/Series",
+    "description": "A sitcom centered on a group of brilliant but socially awkward friends, their relationships, and their geek culture obsessions. Science, pop culture, and awkward banter drive the comedy.",
+    "image": "",
+    "questionFile": "data/TBBT.txt"
+  },
+  {
+    "slug": "the-boys",
+    "title": "The Boys",
+    "category": "TV/Series",
+    "description": "A dark superhero series where corrupt supes, corporate power, and brutal violence collide. It flips the normal hero formula into something cynical, chaotic, and savage.",
+    "image": "",
+    "questionFile": "data/boys.txt"
+  },
+  {
+    "slug": "the-office",
+    "title": "The Office",
+    "category": "TV/Series",
+    "description": "A workplace mockumentary set at Dunder Mifflin, where awkward management and everyday office nonsense become comedy gold. It thrives on deadpan humor, running gags, and chaotic co-workers.",
+    "image": "",
+    "questionFile": "data/Office.txt"
+  },
+  {
+    "slug": "the-sopranos",
+    "title": "The Sopranos",
+    "category": "TV/Series",
+    "description": "A landmark crime drama about mob boss Tony Soprano balancing family life, therapy, and organized crime. It is grounded, psychological, and hugely influential.",
+    "image": "",
+    "questionFile": "data/sopranos.txt"
+  },
+  {
+    "slug": "the-vampire-diaries",
+    "title": "The Vampire Diaries",
+    "category": "TV/Series",
+    "description": "A supernatural teen drama about love triangles, vampires, witches, and family legacies in Mystic Falls. It blends romance, lore, and constant twists.",
+    "image": "",
+    "questionFile": "data/tvd.txt"
+  },
+  {
+    "slug": "the-walking-dead",
+    "title": "The Walking Dead",
+    "category": "TV/Series",
+    "description": "A zombie apocalypse series about survival, shifting communities, and moral collapse in a brutal world. It mixes undead horror with constant human conflict.",
+    "image": "",
+    "questionFile": "data/dead.txt"
+  },
+  {
+    "slug": "the-wire",
+    "title": "The Wire",
+    "category": "TV/Series",
+    "description": "A grounded crime drama exploring institutions, crime, politics, and power in Baltimore. It is layered, realistic, and widely seen as one of TV’s best dramas.",
+    "image": "",
+    "questionFile": "data/wire.txt"
+  },
+  {
+    "slug": "true-blood",
+    "title": "True Blood",
+    "category": "TV/Series",
+    "description": "A supernatural drama where vampires, humans, and other creatures collide in a world of danger and desire. It mixes horror, fantasy, romance, and Southern gothic style.",
+    "image": "",
+    "questionFile": "data/blood.txt"
+  },
+  {
+    "slug": "twilight",
+    "title": "Twilight",
+    "category": "TV/Series",
+    "description": "A supernatural romance series centered on Bella, Edward, Jacob, and the conflicts between vampires and werewolves. It mixes romance, danger, and franchise-defining love triangles.",
+    "image": "",
+    "questionFile": "data/twilight.txt"
   }
 ]
