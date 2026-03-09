@@ -52,7 +52,18 @@ async function renderHomePage() {
   }
 
     const grouped = groupByCategory(filteredThemes);
-    Object.keys(grouped).forEach(category => {
+    const categoryOrder = [
+    "TV Series",
+    "Games",
+    "General",
+    "Sports",
+    "Education",
+    "Books",
+    "Countries"
+  ];
+
+categoryOrder.forEach(category => {
+  if (!grouped[category]) return;
       const card = document.createElement("a");
       card.className = "card";
       card.href = `category.html?category=${encodeURIComponent(category)}`;
@@ -85,9 +96,9 @@ async function renderCategoryPage() {
 
   pageTitle.textContent = categoryName || "Category";
 
-  const filtered = themes.filter(
-    theme => theme.category.toLowerCase() === (categoryName || "").toLowerCase()
-  );
+  const filtered = themes
+    .filter(theme => theme.category.toLowerCase() === (categoryName || "").toLowerCase())
+    .sort((a, b) => a.title.localeCompare(b.title));
 
   if (!filtered.length) {
     themeList.innerHTML = `<p>No themes found.</p>`;
