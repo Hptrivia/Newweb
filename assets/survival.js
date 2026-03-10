@@ -166,13 +166,11 @@ async function renderSurvivalPage() {
       state.pendingRecoveryStart = false;
       state.recoveryStarted = true;
       state.recoveryPoints = 0;
-      setFeedback("Recovery streak started (0).");
-    } else {
-      setFeedback("");
     }
-
-    updateTopbar();
-  }
+    setFeedback("");
+    
+        updateTopbar();
+      }
 
   function handleWrongAnswer() {
     state.gameOver = true;
