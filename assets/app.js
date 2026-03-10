@@ -195,7 +195,6 @@ async function renderPlayPage() {
   const themes = await loadThemes();
   const theme = themes.find(t => t.slug === slug);
 
-  const title = document.getElementById("playTitle");
   const progress = document.getElementById("progressText");
   const questionEl = document.getElementById("questionText");
   const optionsEl = document.getElementById("optionsList");
@@ -209,8 +208,6 @@ async function renderPlayPage() {
     title.textContent = "Theme not found";
     return;
   }
-
-  title.textContent = theme.title;
 
   const allQuestions = await fetchJSON(theme.questionFile);
   quizState.questions = allQuestions.slice(0, 30);
