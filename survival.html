@@ -35,31 +35,30 @@ p.parentNode.insertBefore(m,p)
       <div id="difficultyBox">
         <p>Select a difficulty:</p>
         <div class="cta-row">
-          <button class="primary-btn difficulty-btn" data-difficulty="easy">Easy</button>
+          <button class="secondary-btn difficulty-btn" data-difficulty="easy">Easy</button>
           <button class="secondary-btn difficulty-btn" data-difficulty="hard">Hard</button>
           <button class="secondary-btn difficulty-btn" data-difficulty="mixed">Mixed</button>
         </div>
       </div>
 
       <div id="survivalGameBox" style="display:none;">
-        <div class="survival-topbar">
-          <p id="survivalDifficultyText"></p>
-          <p id="survivalScoreText">Score: 0</p>
-          <p id="survivalStreakText">Recovery Streak: 0</p>
-        </div>
-
-        <div class="survival-lifelines">
-          <button id="fiftyBtn" class="secondary-btn">50-50</button>
-          <button id="friendBtn" class="secondary-btn">Call a Friend</button>
-        </div>
-
-        <p id="survivalProgressText"></p>
-        <h2 id="survivalQuestionText"></h2>
-        <div id="survivalOptionsList" class="options"></div>
-        <p id="survivalFeedbackText" class="feedback"></p>
+      <div class="survival-topbar">
+        <p id="survivalScoreText">Score: 0</p>
+        <p id="survivalStreakText">Recovery Streak: 0</p>
+      </div>
+      
+      <h2 id="survivalQuestionText"></h2>
+      <div id="survivalOptionsList" class="options"></div>
+      
+      <div class="survival-lifelines">
+        <button id="fiftyBtn" class="secondary-btn">50-50</button>
+        <button id="friendBtn" class="secondary-btn">Call a Friend</button>
+      </div>
+      
+      <p id="survivalFeedbackText" class="feedback"></p>
 
         <div class="cta-row">
-          <button id="survivalSubmitButton" class="primary-btn">Submit</button>
+          <button id="survivalSubmitButton" class="secondary-btn">Submit</button>
           <button id="survivalNextButton" class="secondary-btn" style="display:none;">Next</button>
         </div>
       </div>
