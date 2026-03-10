@@ -30,7 +30,6 @@ p.parentNode.insertBefore(m,p)
     <a href="index.html" class="back-link">← Back to Home</a>
 
     <section class="panel">
-      <h1 id="survivalTitle">Loading...</h1>
 
       <div id="difficultyBox">
         <p>Select a difficulty:</p>
@@ -41,19 +40,27 @@ p.parentNode.insertBefore(m,p)
         </div>
       </div>
 
-      <div id="survivalGameBox" style="display:none;">
-      <div class="survival-topbar">
-        <p id="survivalScoreText">Score: 0</p>
-        <p id="survivalStreakText">Recovery Streak: 0</p>
-      </div>
-      
+    <div id="survivalGameBox" style="display:none;">
       <h2 id="survivalQuestionText"></h2>
       <div id="survivalOptionsList" class="options"></div>
-      
+    
       <div class="survival-lifelines">
         <button id="fiftyBtn" class="secondary-btn">50-50</button>
         <button id="friendBtn" class="secondary-btn">Call a Friend</button>
       </div>
+    
+      <div class="survival-meta-row">
+        <p id="survivalScoreText">Score: 0</p>
+        <p id="survivalStreakText">Recovery Streak: Not started</p>
+      </div>
+    
+      <p id="survivalFeedbackText" class="feedback"></p>
+    
+      <div class="cta-row">
+        <button id="survivalSubmitButton" class="secondary-btn">Submit</button>
+        <button id="survivalNextButton" class="secondary-btn" style="display:none;">Next</button>
+      </div>
+    </div>
       
       <p id="survivalFeedbackText" class="feedback"></p>
 
