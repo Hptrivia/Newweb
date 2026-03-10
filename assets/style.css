@@ -340,9 +340,14 @@ a {
   margin: 14px 0 18px;
 }
 
-.hidden-option {
-  visibility: hidden;
+.disabled-option {
+  opacity: 0.35;
   pointer-events: none;
+}
+
+.survival-lifelines .secondary-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
 }
 
 .survival-coming-soon {
