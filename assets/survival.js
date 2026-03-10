@@ -8,10 +8,8 @@ async function renderSurvivalPage() {
   const gameBox = document.getElementById("survivalGameBox");
   const resultBox = document.getElementById("survivalResultBox");
 
-  const difficultyTextEl = document.getElementById("survivalDifficultyText");
   const scoreEl = document.getElementById("survivalScoreText");
   const streakEl = document.getElementById("survivalStreakText");
-  const progressEl = document.getElementById("survivalProgressText");
   const questionEl = document.getElementById("survivalQuestionText");
   const optionsEl = document.getElementById("survivalOptionsList");
   const feedbackEl = document.getElementById("survivalFeedbackText");
@@ -71,9 +69,12 @@ async function renderSurvivalPage() {
   function updateTopbar() {
     scoreEl.textContent = `Score: ${state.score}`;
     streakEl.textContent = `Recovery Streak: ${state.recoveryPoints}`;
-    difficultyTextEl.textContent = `Mode: ${state.difficulty[0].toUpperCase()}${state.difficulty.slice(1)}`;
+  
     fiftyBtn.disabled = !state.fiftyAvailable || state.answerLocked || state.gameOver;
     friendBtn.disabled = !state.friendAvailable || state.answerLocked || state.gameOver;
+  
+    fiftyBtn.textContent = state.fiftyAvailable ? "50-50" : "50-50 Used";
+    friendBtn.textContent = state.friendAvailable ? "Call a Friend" : "Friend Used";
   }
 
   function setFeedback(text, type = "") {
@@ -163,7 +164,7 @@ async function renderSurvivalPage() {
 
     toHide.forEach(btn => {
       btn.disabled = true;
-      btn.classList.add("hidden-option");
+      btn.classList.add("disabled-option");
     });
 
     state.fiftyAvailable = false;
