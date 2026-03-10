@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Survival Mode</title>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2544021252380572"
+     crossorigin="anonymous"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E6BY9F2ZDT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-E6BY9F2ZDT');
+</script>
+  <script id="mcjs">
+!function(c,h,i,m,p){
+m=c.createElement(h),
+p=c.getElementsByTagName(h)[0],
+m.async=1,
+m.src=i,
+p.parentNode.insertBefore(m,p)
+}(document,"script",
+"https://chimpstatic.com/mcjs-connected/js/users/fc3df756d80467902a7cb86ee/d4c2422b41c04bd1bcf465c40.js");
+</script>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="survival">
+  <main class="container narrow">
+    <a href="index.html" class="back-link">← Back to Home</a>
+
+    <section class="panel">
+      <h1 id="survivalTitle">Loading...</h1>
+
+      <div id="difficultyBox">
+        <p>Select a difficulty:</p>
+        <div class="cta-row">
+          <button class="primary-btn difficulty-btn" data-difficulty="easy">Easy</button>
+          <button class="secondary-btn difficulty-btn" data-difficulty="hard">Hard</button>
+          <button class="secondary-btn difficulty-btn" data-difficulty="mixed">Mixed</button>
+        </div>
+      </div>
+
+      <div id="survivalGameBox" style="display:none;">
+        <div class="survival-topbar">
+          <p id="survivalDifficultyText"></p>
+          <p id="survivalScoreText">Score: 0</p>
+          <p id="survivalStreakText">Recovery Streak: 0</p>
+        </div>
+
+        <div class="survival-lifelines">
+          <button id="fiftyBtn" class="secondary-btn">50-50</button>
+          <button id="friendBtn" class="secondary-btn">Call a Friend</button>
+        </div>
+
+        <p id="survivalProgressText"></p>
+        <h2 id="survivalQuestionText"></h2>
+        <div id="survivalOptionsList" class="options"></div>
+        <p id="survivalFeedbackText" class="feedback"></p>
+
+        <div class="cta-row">
+          <button id="survivalSubmitButton" class="primary-btn">Submit</button>
+          <button id="survivalNextButton" class="secondary-btn" style="display:none;">Next</button>
+        </div>
+      </div>
+
+      <div id="survivalResultBox" style="display:none;"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="about.html">About</a>
+        <a href="how-it-works.html">How It Works</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+  <script src="assets/survival.js"></script>
+</body>
+</html>
