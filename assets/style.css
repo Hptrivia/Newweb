@@ -384,3 +384,33 @@ a {
 .grid .card h3 {
   margin: 0;
 }
+
+.episode-context {
+  margin-bottom: 14px;
+  padding: 14px;
+  background: #161616;
+  border: 1px solid #2d2d2d;
+  border-radius: 10px;
+  color: #d6d6d6;
+  line-height: 1.5;
+}
+
+.episode-description {
+  margin-top: 14px;
+  padding: 14px;
+  background: #161616;
+  border: 1px solid #2d2d2d;
+  border-radius: 10px;
+  color: #d6d6d6;
+  line-height: 1.5;
+}
+
+.episode-meta-row {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 12px;
+}
+
+.episode-meta-row p {
+  margin: 0;
+}
