@@ -192,6 +192,7 @@ async function renderQuizPage() {
 } catch (e) {
   episodeBtn.style.display = "none";
 }
+  }
 
 /* ---------------- PLAY PAGE / SPEED MODE ---------------- */
 let quizState = {
