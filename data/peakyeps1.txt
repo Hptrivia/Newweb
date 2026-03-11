@@ -1,0 +1,257 @@
+[
+  {
+    "id": "pb-s2e5-easy-0001",
+    "context": "At Alfie Solomons’ bakery during a Passover meal, he explains the ritual of Korban Pesach to Arthur and the men before revealing a surprise.",
+    "question": "What animal do Alfie and his men dramatically introduce and name “Tommy Shelby” during the Passover gathering?",
+    "options": ["A lamb", "A goat", "A bull", "A cow"],
+    "answer": "A goat",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "Alfie rolls out a goat and explains they named it after their 'enemy,' Tommy Shelby."
+  },
+  {
+    "id": "pb-s2e5-easy-0021",
+    "context": "At Alfie Solomons’ Passover ‘feast’, he turns on the Shelbys and sets Arthur up.",
+    "question": "Who does Alfie Solomons frame Arthur Shelby for killing?",
+    "options": ["Darby Sabini", "Lee Campbell", "Billy Kitchen", "Marshal Russell"],
+    "answer": "Billy Kitchen",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "Alfie shoots Billy Kitchen in the head, then has Arthur tied up so the police will charge him with the murder."
+  },
+{
+    "id": "pb-s2e5-easy-0022",
+    "context": "Someone targets Michael for one specific arson job tied to the gang war.",
+    "question": "Which pub is Michael Gray jailed for burning down?",
+    "options": [
+      "The Garrison",
+      "The Marquis of Lorne",
+      "The Eden Club bar",
+      "The Black Lion"
+    ],
+    "answer": "The Marquis of Lorne",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "Michael is arrested for helping Arthur burn down The Marquis of Lorne pub."
+  },
+  {
+    "id": "pb-s2e5-easy-0024",
+    "context": "At May Carleton’s stables, Tommy is introduced to the man in charge of the horses.",
+    "question": "What is the name of the man May calls 'the best horseman in England'?",
+    "options": ["Curly", "Johnny", "Mick", "Grade"],
+    "answer": "Mick",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "May introduces 'Micky' to Tommy and praises him as the best horseman in England."
+  },
+  {
+    "id": "pb-s2e5-medium-0005",
+    "context": "Someone explains why threatening Tommy’s own life is no longer enough leverage.",
+    "question": "What was the *real* motive for jailing Arthur and Michael at the same time?",
+    "options": [
+      "To end the Shelby organization permanently",
+      "To push Tommy into leaving England",
+      "To guarantee Tommy carries out the assassination",
+      "To gain respect from the King"
+    ],
+    "answer": "To guarantee Tommy carries out the assassination",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Someone believes that only the threat to Tommy’s family will make him fully obedient."
+  },
+  {
+    "id": "pb-s2e6-easy-0005",
+    "context": "Arthur’s sentence seems inevitable until an unexpected legal twist occurs overnight.",
+    "question": "What key event leads to Arthur’s sudden release from prison?",
+    "options": [
+      "An appeal from Churchill",
+      "New evidence in his favor",
+      "All ten witnesses withdraw their statements",
+      "A riot forces the prison to empty a wing"
+    ],
+    "answer": "All ten witnesses withdraw their statements",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "The guard explains that every witness retracted their testimony at nine o’clock the previous night."
+  },
+  {
+    "id": "pb-s2e6-medium-0006",
+    "context": "Soon after Arthur’s release, Tommy has Johnny Dogs ferry him to a meeting with a familiar London partner.",
+    "question": "Which London gang leader does Tommy confront over rum shipments and an export licence on Derby Day?",
+    "options": ["Darby Sabini", "Alfie Solomons", "Sabini’s brother", "Billy Kimber"],
+    "answer": "Alfie Solomons",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Tommy visits Alfie’s bakery to tie his liquor business into Solomons’ new export licence."
+  },
+  {
+    "id": "pb-s2e6-hard-0007",
+    "context": "Tommy counters Alfie’s attempt to strong-arm him into signing away his business.",
+    "question": "What specific explosive does Tommy claim to have wired under one of Alfie’s rum barrels as leverage?",
+    "options": [
+      "A Mark 15 hand grenade",
+      "A stick of dynamite",
+      "A Mills bomb",
+      "A concealed mine"
+    ],
+    "answer": "A Mark 15 hand grenade",
+    "difficulty": "hard",
+    "episode": 6,
+    "description": "He says he laid a Mark 15 grenade on a tripwire beneath a barrel while tying his shoelace."
+  },
+  {
+    "id": "pb-s2e6-easy-0001",
+    "context": "On Derby Day morning, Tommy writes a letter explaining the truth behind his upcoming assassination mission.",
+    "question": "In his Derby Day letter, which government agent does Tommy explicitly name as the man orchestrating the assassination plot?",
+    "options": ["Inspector Moss", "Major Chester Campbell", "Sir Oswald Mosley", "Winston Churchill"],
+    "answer": "Major Chester Campbell",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "Tommy states that Major Chester Campbell of the British Secret Intelligence Service is the architect of the conspiracy."
+  },
+  {
+    "id": "pb-s2e6-medium-0010",
+    "context": "Campbell briefs his Ulster Volunteer Force men before the Derby, stressing their mission and identity.",
+    "question": "Under what ominous name do Campbell’s gunmen refer to themselves when vowing not to fail?",
+    "options": [
+      "The Black Hand",
+      "The Red Right Hand",
+      "The King’s Fist",
+      "The Green Brigade"
+    ],
+    "answer": "The Red Right Hand",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "They declare that the 'Red Right Hand of the Ulster Volunteer Force' will not let Campbell down."
+  },
+  {
+    "id": "pb-s2e6-hard-0003",
+    "context": "Tommy names the intended target of the assassination ordered by Campbell and the pro-treaty paddies.",
+    "question": "Which British military figure is Tommy ordered to kill?",
+    "options": [
+      "Field Marshal Haig",
+      "Field Marshal Russell",
+      "General Macready",
+      "General Kitchener"
+    ],
+    "answer": "Field Marshal Russell",
+    "difficulty": "hard",
+    "episode": 6,
+    "description": "He specifies Field Marshal Russell, a former Black and Tan commander in County Cork, as his target."
+  },
+  {
+    "id": "pb-s2e6-easy-0002",
+    "context": "Tommy needs one person he trusts to carry his letter into the world if he dies at Epsom.",
+    "question": "Who does Tommy entrust with posting his letter in the event of his death at the Derby?",
+    "options": ["Polly Gray", "John Shelby", "Ada Shelby", "Michael Gray"],
+    "answer": "Ada Shelby",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "He gives the sealed, stamped letter to Ada and only tells her it’s ‘to do with insurance.’"
+  },
+  {
+    "id": "pb-s2e5-medium-0025",
+    "context": "After Russell’s house is destroyed, Tommy proposes a new location for the assassination.",
+    "question": "Where does Thomas Shelby tell Campbell the assassination of Field Marshal Russell will now take place?",
+    "options": [
+      "Cheltenham Festival",
+      "The Epsom racetrack",
+      "Westminster Abbey",
+      "Russell’s London townhouse"
+    ],
+    "answer": "The Epsom racetrack",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "With Russell’s home burnt out, Tommy names Epsom Derby Day as the new killing ground."
+  },
+  {
+    "id": "pb-s2e6-medium-0001",
+    "context": "Tommy needs Russell isolated somewhere quiet during the chaos at Epsom.",
+    "question": "Who does Thomas Shelby enlist to lure and distract Field Marshal Russell away from the crowds?",
+    "options": ["Grace Burgess", "Polly Gray", "Lizzie Stark", "May Carleton"],
+    "answer": "Lizzie Stark",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Tommy pays Lizzie to get Russell alone at a marked spot so he can move in for the kill."
+  },
+{
+  "id": "pb-s2e6-medium-0003",
+  "context": "After Campbell terrorises the Shelbys and uses Michael as leverage, one of them finally confronts him alone at Epsom to settle the score.",
+  "question": "Who ultimately kills Major Chester Campbell?",
+  "options": ["Thomas Shelby", "Arthur Shelby", "Polly Gray", "Michael Gray"],
+  "answer": "Polly Gray",
+  "difficulty": "medium",
+  "episode": 6,
+  "description": "Polly ambushes Campbell and shoots him, delivering the line, \"Don’t fuck with the Peaky Blinders.\""
+},
+{
+  "id": "pb-s2e6-medium-0004",
+  "context": "After Campbell terrorises the Shelbys and uses Michael as leverage, one of them finally confronts him alone at Epsom to settle the score.",
+  "question": "Where does Polly confront and kill Major Campbell?",
+  "options": [
+    "Inside the owners’ enclosure",
+    "In a phone booth",
+    "Behind the grandstand stables",
+    "Outside the Shelby betting pitches"
+  ],
+  "answer": "In a phone booth",
+  "difficulty": "medium",
+  "episode": 6,
+  "description": "She waits by the phone boxes he’s using and shoots him there, away from the king’s main security."
+},
+  {
+    "id": "pb-s2e6-medium-0005",
+    "context": "After the Derby, Tommy’s enemies decide to ‘tidy up’ their loose end.",
+    "question": "Where is Thomas Shelby almost executed after the events at Epsom?",
+    "options": [
+      "In a holding cell under the racecourse",
+      "In a shallow grave in a field",
+      "On a bridge over the canal",
+      "In the back room of The Garrison"
+    ],
+    "answer": "In a shallow grave in a field",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "The Red Right Hand march him to a dug grave in open country and line up to shoot him before he’s spared."
+  },
+{
+  "id": "pb-s2e6-medium-0005",
+  "context": "After Tommy survives the graveyard execution, one of the men tells him someone powerful still has future plans for him.",
+  "question": "When they decide not to kill Tommy at the graveyard, who do they say will want to speak to him in person soon?",
+  "options": ["Winston Churchill", "King George", "Sir Oswald Mosley", "Jessie Lloyd"],
+  "answer": "Winston Churchill",
+  "difficulty": "medium",
+  "episode": 6,
+  "description": "Tommy is told that Winston Churchill will want to talk to him, hinting another job is coming."
+},
+  {
+    "id": "pb-s2e6-medium-0019",
+    "context": "Back in Small Heath, the Shelbys celebrate their victory while taking stock of who stayed and who left.",
+    "question": "What choice does Michael Gray ultimately make about his future at the end of the episode?",
+    "options": [
+      "He leaves Birmingham with Polly",
+      "He joins Sabini for more money",
+      "He returns to the country with his adoptive family",
+      "He decides to stay and make real money with Tommy"
+    ],
+    "answer": "He decides to stay and make real money with Tommy",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Despite Polly wanting him gone, Michael tells Tommy he wants in and has ideas for the company’s future."
+  },
+  {
+    "id": "pb-s2e6-medium-0020",
+    "context": "Tommy looks past the day’s blood and victory to his next move in life and business.",
+    "question": "What personal plan does Tommy mention to Michael when they talk privately after the Epsom victory?",
+    "options": [
+      "Leaving for America",
+      "Retiring from crime",
+      "Expanding into London politics",
+      "Planning on getting married"
+    ],
+    "answer": "Planning on getting married",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Tommy tells Michael he has ideas for the business and also says, almost casually, that he’s planning to get married."
+  }
+]

@@ -1,0 +1,392 @@
+[
+{
+  "id": "ds-e18-medium-0003",
+  "context": "**MOUNT NATAGUMO CLIMAX**: Facing the hulking spider-like demon, Tanjiro launches a frontal attack while thinking of his loved ones.",
+  "question": "Which technique does Tanjiro use when he attacks the hulking spider-like demon while shouting at it?",
+  "options": [
+    "Breath of Water, Second Form: Water Wheel",
+    "Breath of Water, First Form: Water Surface Slash",
+    "Breath of Water, Fourth Form: Striking Tide",
+    "Breath of the Beast, First Fang: Pierce and Extract"
+  ],
+  "answer": "Breath of Water, Second Form: Water Wheel",
+  "difficulty": "medium",
+  "episode": 18,
+  "description": "Tanjiro charges the spider demon, yelling for it to stay away from his family as he uses Breath of Water, Second Form: Water Wheel."
+},
+  {
+    "id": "ds-e18-medium-0005",
+    "context": "Wounded and dizzy from blood loss, Tanjiro tries to adjust his technique against the demon.",
+    "question": "Which modified form of his style does Tanjiro use after realizing his usual Water Wheel isn't enough?",
+    "options": [
+      "Second Form Modified: Lateral Water Wheel",
+      "Third Form Modified: Flowing Dance",
+      "Fourth Form Modified: Striking Tide Water Wheel",
+      "Tenth Form: Constant Flux"
+    ],
+    "answer": "Second Form Modified: Lateral Water Wheel",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Despite feeling dizzy, he calls out, \"Breath of Water. Second Form Modified. Lateral Water Wheel,\" trying to create a better angle of attack."
+  },
+  {
+    "id": "ds-e18-medium-0007",
+    "context": "Tanjiro prepares to unleash his strongest move against the hulking demon.",
+    "question": "What does Tanjiro believe about the \"last form\" of his Breath of Water as he prepares to use it?",
+    "options": [
+      "The last form is the strongest",
+      "The last form is the fastest",
+      "The last form is the safest",
+      "The last form is forbidden"
+    ],
+    "answer": "The last form is the strongest",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "He focuses his breathing and thinks, \"All right. At this rate, I can chop off even the toughest neck. Breath of Water. The last form is the strongest. I'll finish him off with one move!\""
+  },
+  {
+    "id": "ds-e18-medium-0010",
+    "context": "Inosuke comes up with his own brutal method of cutting the demon if a single slash isn't enough.",
+    "question": "What is Inosuke’s \"simple\" solution if he can’t cut off the demon’s arm or neck in one slash?",
+    "options": [
+      "Hammer the sword through using both blades",
+      "Retreat and wait for sunrise",
+      "Try to break its bones first with kicks",
+      "Aim only for the demon’s eyes"
+    ],
+    "answer": "Hammer the sword through using both blades",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "After severing an arm he boasts, \"If I can't cut it off in one slash, I'll just hammer the sword until it goes through. Because I have two swords! I'm the strongest!\""
+  },
+  {
+    "id": "ds-e18-medium-0011",
+    "context": "The spider demon suddenly changes its form mid-fight, confronting Inosuke with an even greater threat.",
+    "question": "What shocking change does Inosuke witness after chasing the demon higher into the trees?",
+    "options": [
+      "The demon sheds its skin and becomes much larger",
+      "The demon splits into multiple smaller copies",
+      "The demon turns into a swarm of spiders",
+      "The demon transforms into a human child"
+    ],
+    "answer": "The demon sheds its skin and becomes much larger",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "He realizes, \"What? This... He shed his skin! No way. How could you become so huge?\" and feels immense pressure from the demon’s new form."
+  },
+  {
+    "id": "ds-e18-medium-0013",
+    "context": "Inosuke uses his own Beast Breathing against the hulking demon, but his opponent barely reacts.",
+    "question": "Which of Inosuke’s techniques finally manages to stab into the demon, even though it seems to feel nothing?",
+    "options": [
+      "Breath of the Beast. First Fang: Pierce and Extract",
+      "Breath of the Beast. Second Fang: Fang Drill",
+      "Breath of the Beast. Third Fang: Rip and Devour",
+      "Breath of the Beast. Fifth Fang: Crazy Cutting"
+    ],
+    "answer": "Breath of the Beast. First Fang: Pierce and Extract",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "He cries, \"Breath of the Beast. First Fang. Take this. Pierce and Extract! It went in. Although I stabbed him, it seems this guy feels nothing.\""
+  },
+  {
+    "id": "ds-e18-medium-0014",
+    "context": "At the moment Inosuke is about to be crushed, a new swordsman appears with incredible speed.",
+    "question": "Which two Breath of Water forms does the newcomer use in quick succession against the spider demon?",
+    "options": [
+      "Fourth Form: Striking Tide and First Form: Water Surface Slash",
+      "Second Form: Striking Tide and First Form: Water Surface Slash",
+      "Tenth Form: Constant Flux and Third Form: Flowing Dance",
+      "Eighth Form: Waterfall Basin and Ninth Form: Splashing Water Flow"
+    ],
+    "answer": "Fourth Form: Striking Tide and First Form: Water Surface Slash",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "The man slices in with \"Breath of Water. Fourth Form. Striking Tide,\" then finishes the demon with \"Breath of Water. First Form. Water Surface Slash.\""
+  },
+  {
+    "id": "ds-e19-medium-0017",
+    "context": "Giyu corrects Inosuke’s misunderstanding about the demon they just fought.",
+    "question": "What key fact does Giyu reveal about the spider demon?",
+    "options": [
+      "It was not one of the Twelve Demon Moons",
+      "It had already been defeated once before",
+      "It was actually a former Demon Slayer",
+      "It was a Lower Moon One"
+    ],
+    "answer": "It was not one of the Twelve Demon Moons",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "He bluntly tells Inosuke, \"The demon I just took care of is not one of the Twelve Demon Moons. And you don't even know that?\" revealing it was a lesser demon."
+  },
+  {
+    "id": "ds-e19-medium-0019",
+    "context": "Elsewhere on the mountain, Zenitsu lies poisoned and hallucinating, calling out to someone familiar.",
+    "question": "Who does Zenitsu think has arrived when Shinobu appears to treat him?",
+    "options": [
+      "His grandpa",
+      "Tanjiro",
+      "Nezuko",
+      "Giyu"
+    ],
+    "answer": "His grandpa",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "When she greets him with, \"Hello. Are you okay?\" he replies, \"Grandpa. Who's your grandpa? My grandpa dropped by. He told me not to give up,\" mistaking her for his mentor."
+  },
+  {
+    "id": "ds-e19-medium-0021",
+    "context": "Shinobu comments on Zenitsu's smart use of his own technique to delay the poison.",
+    "question": "What does Shinobu say Zenitsu did to slow the spider poison in his body?",
+    "options": [
+      "He stopped the poison inside with his breath",
+      "He burned it out with lightning",
+      "He neutralized it with herbs he carried",
+      "He cut open his arm to drain it"
+    ],
+    "answer": "He stopped the poison inside with his breath",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "She tells him, \"You were smart to stop the poison inside with your breath. If you hadn't done that, you would've turned into a spider by now,\" before giving him the antidote."
+  },
+  {
+    "id": "ds-e19-medium-0022",
+    "context": "Facing Rui’s web, Tanjiro tests his blade against the demon’s threads.",
+    "question": "What happens to Tanjiro's sword when he clashes with Rui’s threads for the first time?",
+    "options": [
+      "His sword breaks, and he blames his lack of skill",
+      "His sword is knocked out of his hand into the forest",
+      "His blade melts under the heat of the threads",
+      "His sword turns black from demonic energy"
+    ],
+    "answer": "His sword breaks, and he blames his lack of skill",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "He’s stunned: \"My sword is broken. I can't believe it… It's my lack of skills that got my sword broken,\" apologizing to Urokodaki and Haganezuka."
+  },
+  {
+    "id": "ds-e19-medium-0025",
+    "context": "Rui makes Tanjiro a chilling offer in order to obtain Nezuko for himself.",
+    "question": "What does Rui demand from Tanjiro in exchange for sparing his life?",
+    "options": [
+      "Hand over Nezuko to become his sister",
+      "Join the spider family as a subordinate",
+      "Reveal the location of the Demon Slayer Corps",
+      "Give up his sword and become a demon"
+    ],
+    "answer": "Hand over Nezuko to become his sister",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "He says, \"Your sister… Hand over your sister to me. If you do that without putting a fight, I'll let you live. I want your sister to be my sister starting today.\""
+  },
+  {
+    "id": "ds-e19-medium-0027",
+    "context": "Rui finally reveals his true rank among Kibutsuji’s underlings.",
+    "question": "What official Twelve Demon Moon rank does Rui state he holds?",
+    "options": [
+      "Lower Moon Five",
+      "Lower Moon One",
+      "Upper Moon Three",
+      "Upper Moon Six"
+    ],
+    "answer": "Lower Moon Five",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "He identifies himself as \"Lower Moon Five,\" explaining why he's so powerful and why Tanjiro can't easily cut his threads or neck."
+  },
+  {
+    "id": "ds-e19-medium-0028",
+    "context": "In a desperate gamble, Tanjiro attacks using his strongest Water Breathing technique.",
+    "question": "Which Water Breathing form does Tanjiro unleash just before Rui counters with his Blood Demon Art?",
+    "options": [
+      "Tenth Form: Constant Flux",
+      "Fourth Form: Striking Tide",
+      "Second Form: Water Wheel",
+      "Eleventh Form: Dead Calm"
+    ],
+    "answer": "Tenth Form: Constant Flux",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "He declares, \"Total Concentration Breathing. Breath of Water. Tenth Form. Constant Flux!\" and manages to cut through Rui’s initial threads."
+  },
+  {
+    "id": "ds-e19-medium-0029",
+    "context": "Rui escalates the fight by hardening his threads into an inescapable cage.",
+    "question": "What is the name of Rui’s Blood Demon Art that creates the hardened web surrounding Tanjiro?",
+    "options": [
+      "Cruel String Prison",
+      "Murderous Eye Basket",
+      "Cutting Thread Rotation",
+      "Thread Cocoon Burial"
+    ],
+    "answer": "Cruel String Prison",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "He calls out, \"Blood Demon Art. Cruel String Prison,\" and Tanjiro realizes, \"Oh, no. I can't cut through these ones. My rotation isn't fast enough.\""
+  },
+  {
+    "id": "ds-e19-medium-0031",
+    "context": "At the climax of the battle, Nezuko receives a call from deep within her memories.",
+    "question": "What Blood Demon Art does Nezuko awaken and use to support Tanjiro’s attack on Rui?",
+    "options": [
+      "Exploding Blood",
+      "Blood Sickle",
+      "Crimson Veil",
+      "Burning Thread"
+    ],
+    "answer": "Exploding Blood",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "Responding to the inner voice telling her to save her brother, she uses \"Blood Demon Arts. Exploding Blood!\" and Rui is shocked that she \"burned off my threads!\""
+  },
+  {
+    "id": "ds-e20-medium-0035",
+    "context": "Tanjiro proudly believes he has defeated one of the Twelve Demon Moons.",
+    "question": "What cruel twist does Rui reveal about the decapitation that shatters Tanjiro’s belief he won?",
+    "options": [
+      "Rui severed his own head with his thread before Tanjiro's blade reached it",
+      "Rui switched bodies with another demon at the last moment",
+      "Rui regenerated his neck the instant it was cut",
+      "Rui had created a clone to be decapitated instead"
+    ],
+    "answer": "Rui severed his own head with his thread before Tanjiro's blade reached it",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "Rui mocks him, saying, \"I severed my head with my thread before you could chop off my head,\" calling Tanjiro's belief in victory a \"pathetic delusion.\""
+  },
+  {
+    "id": "ds-e20-medium-0036",
+    "context": "Rui prepares to kill both siblings after revealing his trick.",
+    "question": "Which Blood Demon Art does Rui use to paralyze Tanjiro’s body with crushing pressure?",
+    "options": [
+      "Murderous Eye Basket",
+      "Cruel String Prison",
+      "Cutting Thread Rotation",
+      "Thread Cage of Despair"
+    ],
+    "answer": "Murderous Eye Basket",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "He announces \"Blood Demon Arts. Murderous Eye Basket,\" and Tanjiro, already exhausted, finds, \"I can't raise my hand,\" overwhelmed by the pressure."
+  },
+  {
+    "id": "ds-e20-medium-0038",
+    "context": "Rui unleashes a swirling offensive Blood Demon Art at the Water Hashira.",
+    "question": "Which attack does Rui use against Giyu, only to see it fail against his technique?",
+    "options": [
+      "Cutting Thread Rotation",
+      "Cruel String Prison",
+      "Web Guillotine",
+      "Thread Rain"
+    ],
+    "answer": "Cutting Thread Rotation",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "Rui tries \"Blood Demon Arts. Cutting Thread Rotation,\" but Giyu responds with an unheard-of form, causing the threads to snap before reaching him."
+  },
+  {
+    "id": "ds-e20-medium-0039",
+    "context": "Giyu counters Rui’s attack with a form Tanjiro has never heard of before.",
+    "question": "What Breath of Water form does Giyu use to nullify Rui's cutting threads?",
+    "options": [
+      "Eleventh Form: Dead Calm",
+      "Tenth Form: Constant Flux",
+      "Fourth Form: Striking Tide",
+      "Second Form: Water Wheel"
+    ],
+    "answer": "Eleventh Form: Dead Calm",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "Giyu announces, \"Total Concentration Breathing. Breath of Water. Eleventh Form. Dead Calm,\" and Rui panics as \"the moment my threads got near him, they all snapped.\""
+  },
+  {
+    "id": "ds-e20-medium-0040",
+    "context": "A flashback reveals how one of the spider demons originally joined Rui’s 'family'.",
+    "question": "What does Rui ask the frightened kid demon on the road in order to \"save\" him?",
+    "options": [
+      "Will you be part of my family?",
+      "Will you serve Kibutsuji with me?",
+      "Will you give me your blood?",
+      "Will you guard this mountain?"
+    ],
+    "answer": "Will you be part of my family?",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "Rui extends his hand and asks, \"Do you want me to save you? Are you willing to listen to my request? …Well, will you be part of my family?\" and the demon agrees out of fear."
+  },
+  {
+    "id": "ds-e20-medium-0042",
+    "context": "She reveals the punishment for disobeying Rui’s orders within this fake family.",
+    "question": "What happens to a family member who disobeys Rui’s demands or orders?",
+    "options": [
+      "They are cut into shreds, stripped of their minds, and hanged",
+      "They are exiled from the mountain forever",
+      "They are locked in cocoons indefinitely",
+      "They are forced to fight Demon Slayers alone"
+    ],
+    "answer": "They are cut into shreds, stripped of their minds, and hanged",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "She explains fearfully, \"Whoever disobeys Rui's demands or orders will be cut into shreds, stripped off their minds, and hanged to be exposed to the sun.\""
+  },
+  {
+    "id": "ds-e20-medium-0045",
+    "context": "Shinobu offers to 'help' the demon on one condition.",
+    "question": "What question does Shinobu ask the demon when discussing whether they can 'get along'?",
+    "options": [
+      "How many people have you killed?",
+      "Why did you become a demon?",
+      "Where is Rui hiding?",
+      "Will you surrender to the Corps?"
+    ],
+    "answer": "How many people have you killed?",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "She smiles and says, \"Yes. But in order for us to get along, I have a few questions for you. My sweet lady, how many people have you k*lled?\""
+  },
+  {
+    "id": "ds-e20-medium-0046",
+    "context": "The demon lies about her kill count, but Shinobu already knows the truth.",
+    "question": "What actual death toll does Shinobu say she found in the cocoons hanging in the west of the mountain?",
+    "options": [
+      "Fourteen people had died in it",
+      "Five people at most",
+      "Over a hundred victims",
+      "Just two unlucky travelers"
+    ],
+    "answer": "Fourteen people had died in it",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "Shinobu states, \"In that spot alone, I counted at least 14 cocoons. Fourteen people had died in it,\" revealing the demon had killed far more than the claimed five."
+  },
+  {
+    "id": "ds-e20-medium-0048",
+    "context": "Shinobu finally attacks using her unique fighting style instead of decapitation.",
+    "question": "What is the name of Shinobu’s technique when she darts through the air?",
+    "options": [
+      "Breath of the Insect. Butterfly Dance: Caprice",
+      "Breath of the Flower. Waltz of Petals",
+      "Breath of the Wind. Swirling Gust",
+      "Breath of the Water. Sixth Form: Whirlpool"
+    ],
+    "answer": "Breath of the Insect. Butterfly Dance: Caprice",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "She calls out, \"Breath of the Insect. Butterfly Dance. Caprice,\" and the demon realizes her head isn't chopped off, but something else is wrong."
+  },
+  {
+    "id": "ds-e20-medium-0049",
+    "context": "Instead of cutting off heads, Shinobu relies on something else to kill demons.",
+    "question": "What does Shinobu reveal as her specialty and method for killing demons?",
+    "options": [
+      "She is the Insect Pillar who uses wisteria poison instead of decapitation",
+      "She controls insects to eat demons alive",
+      "She seals demons in talismans",
+      "She uses sunlight stored in her sword"
+    ],
+    "answer": "She is the Insect Pillar who uses wisteria poison instead of decapitation",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "She introduces herself as \"the Demon Slayer Corps' Insect Pillar, Shinobu Kocho\" and says, \"I may be the only Pillar who's unable to decapitate demons. Instead, I make poison that's lethal to them.\""
+  }
+]

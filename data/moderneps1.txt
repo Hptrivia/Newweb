@@ -1,0 +1,269 @@
+
+[
+  {
+    "id": "mf-s1e4-medium-0031",
+    "context": "**EPISODE 4**: Pritchett home, early scene — the couple crosses paths in the hallway as the day starts, trading quick lines while getting ready in separate rooms.",
+    "question": "What does Jay say when Gloria asks him to join her in the bathroom?",
+    "options": [
+      "He jokes there’s a gun in the garage and to use it if he ever says no",
+      "He says he’s too busy fixing the plane",
+      "He says maybe later after his nap",
+      "He tells her to hurry because they’re late"
+    ],
+    "answer": "He jokes there’s a gun in the garage and to use it if he ever says no",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "After Gloria purrs, “I’m gonna take a shower. Do you care to join me?”, Jay replies, “You know, honey, there’s a gun in the footlocker in the garage. If I ever say ‘no’ to that question, I want you to use it on me.”"
+  },
+  {
+    "id": "mf-s1e4-medium-0044",
+    "context": "Pritchett house — after a slumber party, the kid breezes in claiming he’s fine, until a closer look exposes what the other boys did while he slept.",
+    "question": "What happened to Manny during his sleepover?",
+    "options": ["They drew a moustache on his face", "They shaved his eyebrow", "They froze his underwear", "They glued his shoes to the floor"],
+    "answer": "They drew a moustache on his face",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Manny says he was the first to fall asleep; when Gloria inspects, he realizes the laughter was at the markings the boys left on him."
+  },
+  {
+    "id": "mf-s1e4-medium-0033",
+    "context": "Nursery entry — Mitchell introduces the unexpected guest to Cameron as they process the disruption and realize who’s shown up unannounced.",
+    "question": "What is the name of Claire and Mitchell’s mother?",
+    "options": ["Dede", "Lorraine", "Barb", "Carol"],
+    "answer": "Dede",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Cameron asks, “Mitchell, who was that?” and he answers, “It’s my mom,” later identified as Dede throughout the episode."
+  },
+  {
+    "id": "mf-s1e4-medium-0010",
+    "context": "Wedding flashback — narration sweeps through the reception as relatives gather around the bar, the toasts get looser.",
+    "question": "What cocktail does Dede start drinking with Gloria’s uncles at the wedding?",
+    "options": ["Horny Colombians", "Spicy Mambos", "Café Guerreros", "Cali Sunsets"],
+    "answer": "Horny Colombians",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Claire narrates that Dede drank cocktails called “horny Colombians” with Gloria’s uncles whom the drink was named after"
+  },
+  {
+    "id": "mf-s1e4-medium-0035",
+    "context": "Wedding flashback — microphone in hand, the speech shifts from jokes to raw history as the ex-wife toasts the newlyweds before the room sours.",
+    "question": "How many years does she say she and Jay were together in her wedding toast?",
+    "options": ["25 years", "30 years", "35 years", "40 years"],
+    "answer": "35 years",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "During the toast, Dede says, “35 years we were together, and he couldn’t wait 10 minutes to run off with Charo. I’m kidding.”"
+  },
+  {
+    "id": "mf-s1e4-medium-0011",
+    "context": "Wedding flashback — microphone in hand, a tipsy guest faces a tense crowd; laughter flickers, then unease, as she starts making sharp jokes during her reception speech.",
+    "question": "Dede says she knew Gloria and Jay were perfect for each wother when she saw what?",
+    "options": ["His wallet and her boobs", "His hair and her ass", "His bank account and her boobs", "His car and her age"],
+    "answer": "His wallet and her boobs",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "She says she knew they were perfect when she saw “his wallet and her boobs,” drawing gasps."
+  },
+  {
+    "id": "mf-s1e4-medium-0036",
+    "context": "Another flashback aside — a different bride compares her own chaotic ceremony to the current disaster, sharing a darkly comic memory.",
+    "question": "What does Gloria say happened during her own first wedding vows?",
+    "options": [
+      "Drug dealers burst in and assassinated the judge",
+      "The power went out during the ceremony",
+      "Armed men attacked the wedding venue",
+      "A driveby interrupted the wedding"
+    ],
+    "answer": "Drug dealers burst in and assassinated the judge",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Gloria says, “During my vows to my first husband, drug dealers burst in and assassinated the judge. This was way worse.”"
+  },
+  {
+    "id": "mf-s1e4-medium-0045",
+    "context": "Jay’s driveway — the fallout from that sleepover escalates after some ill-advised advice about standing up for yourself turns into overkill.",
+    "question": "How does Manny get his revenge after the prank?",
+    "options": ["He sets a kid’s bike on fire", "He fills backpacks with shaving cream", "He toilet-papers their house", "He locks them out of the classroom"],
+    "answer": "He sets a kid’s bike on fire",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Jay admits he told Manny to ‘get even,’ and Manny “went all Rambo with it,” culminating in a burned bicycle."
+  },
+  {
+    "id": "mf-s1e4-medium-0039",
+    "context": "Tucker-Pritchett living room in midday — the unexpected visitor holds court about her spiritual journey and a new romance.",
+    "question": "What is the name of the man she says she met?",
+    "options": ["Chas", "Greg", "Owen", "Brad"],
+    "answer": "Chas",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Dede announces she’s met a man and later repeats his name — “Chas” — as she explains plans to move with him."
+  },
+  {
+    "id": "mf-s1e4-medium-0034",
+    "context": "Living room chat — the visitor gushes about a new lifestyle and spiritual practices, describing a recent place that changed everything.",
+    "question": "Where does the mom say she has been living?",
+    "options": ["Sedona", "Santa Fe", "Vancouver", "Miami"],
+    "answer": "Sedona",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Dede says, “And living in Sedona has been transformational. I get up every morning, and I go to a vortex meditation site…”"
+  },
+  {
+    "id": "mf-s1e4-medium-0017",
+    "context": "Living room check-in — an older visitor, full of New Age jargon and big plans, announces a relocation with her new partner, framing it as part of a personal awakening.",
+    "question": "Where does Dede say she’s moving with her new man, Chas?",
+    "options": ["Canada", "Europe", "Alberta", "Upstate New York"],
+    "answer": "Canada",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "She says, “He’s asked me to come live with him in his foreign land… French Canada.”"
+  },
+  {
+    "id": "mf-s1e4-medium-0018",
+    "context": "Same visit — conversation boundaries vanish as the guest overshares about her relationship, insisting she needs family amends before moving forward.",
+    "question": "What issue does Dede claim is blocked until she gets forgiveness?",
+    "options": ["She can’t be intimate with Chas", "She refuses to meet Chas’s parents", "She won’t relocate", "She can’t tell him she loves him"],
+    "answer": "She can’t be intimate with Chas",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "She says she “just can’t give myself to him sexually,” adding they “satisfy each other down there” with hands."
+  },
+  {
+    "id": "mf-s1e4-medium-0013",
+    "context": "Morning in the Dunphy kitchen — a teenager pleads her case about weekend plans while a parent juggles chores and boundaries.",
+    "question": "Where does Haley want to go that Claire refuses to allow?",
+    "options": ["An out-of-town overnight concert", "A beach camping trip", "A late movie marathon", "A high school party"],
+    "answer": "An out-of-town overnight concert",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Claire won’t let her “drive two hours… and then spend the night with a bunch of boys,” including Dylan."
+  },
+  {
+    "id": "mf-s1e4-medium-0037",
+    "context": "Dunphy kitchen — a heated permissions debate turns to logistics as Haley cites who’s supposedly responsible for the event she wants to attend.",
+    "question": "What is the name of the person whose uncle would be supervising the party?",
+    "options": ["Spencer Patine", "Ricky Guzman", "Rick Marshall", "Evan Pierce"],
+    "answer": "Spencer Patine",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Haley argues it’s “totally supervised… by Spencer Patine’s uncle,” using his name to reassure her parents."
+  },
+  {
+    "id": "mf-s1e4-medium-0038",
+    "context": "Same argument, continuing — the details get weirder as the supervising adult is identified with a plainspoken nickname.",
+    "question": "What is the name of the uncle who is said to be supervising?",
+    "options": ["Uncle Tobey", "Uncle Tony", "Uncle Terry", "Uncle Tommy"],
+    "answer": "Uncle Tobey",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Pressed for specifics, Haley adds, “His uncle is Uncle Tobey,” which Claire later mocks while threatening an amber alert."
+  },
+  {
+    "id": "mf-s1e4-medium-0028",
+    "context": "Phil explains his philosophy for connecting with teenagers, leaning hard into slang and forced relatability.",
+    "question": "What does Phil call his approach of acting like a friend to his kid?",
+    "options": ["Peerenting", "Friend-dadding", "Cool-dad mode", "Buddy-parenting"],
+    "answer": "Peerenting",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Phil says, “Act like a parent, talk like a peer. I call it ‘peerenting.’”"
+  },
+  {
+    "id": "mf-s1e4-medium-0041",
+    "context": "Dunphy kitchen — a dad tries hard to be relatable, pitching a role-play to talk about boundaries while his teen daughter barely hides her cringe.",
+    "question": "Where does Phil say Haley should pretend they’re just a couple of friends ‘kickin’ it’?",
+    "options": ["A juice bar", "A coffee shop", "The school cafeteria", "A food court"],
+    "answer": "A juice bar",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Phil says, “Pretend I’m not your dad. We’re just a couple of friends kickin’ it in a juice bar,” then backpedals to, “Okay, a malt shop, whatever.”"
+  },
+  {
+    "id": "mf-s1e4-medium-0042",
+    "context": "Same bit — to lower her guard, he adopts a persona from her class, pushing the awkward role-play past its breaking point.",
+    "question": "Who does Phil pretend to be during the ‘not your dad’ role-play?",
+    "options": ["Marcus from biology", "Pete from P.E.", "Jake from English", "Tyler from math"],
+    "answer": "Marcus from biology",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "He says, “Who’s dad? I’m Marcus from biology. Hey, Haley…,” trying to chat like a classmate."
+  },
+  {
+    "id": "mf-s1e4-medium-0029",
+    "context": "Kitchen nostalgia — trying to bond, a parent reminisces about a summer spent tailing a favorite act on the road, bragging about deep-cut fandom.",
+    "question": "Which band does Phil say he followed one summer?",
+    "options": ["Hall & Oates", "Journey", "REO Speedwagon", "Chicago"],
+    "answer": "Hall & Oates",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Phil says, “I was a Hall-raiser… I followed Hall & Oates around the country. ‘Rich Girl’ just spoke to me.”"
+  },
+  {
+    "id": "mf-s1e4-medium-0043",
+    "context": "Dunphy living room — generations collide as stories about teen romances surface, with a grandmother dredging up a pointed comparison from the past.",
+    "question": "Who was Claire’s boyfriend that her mother said looked like Charles Manson?",
+    "options": ["Ricky", "Frank", "Gavin", "Spencer"],
+    "answer": "Ricky",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Dede tells Haley about Claire’s old boyfriend, saying, “Ricky was your mother’s boyfriend, and he looked like Charles Manson.”"
+  },
+  {
+    "id": "mf-s1e4-medium-0021",
+    "context": "Evening at the Dunphys — the boyfriend arrives for dinner carrying his gear, stepping into a house buzzing with nerves and scrutiny.",
+    "question": "What instrument does Dylan bring when he arrives for dinner?",
+    "options": ["A guitar", "A keyboard", "A violin", "A harmonica"],
+    "answer": "A guitar",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Phil notes, “I see you brought the ax,” and Dylan says he just came from practice."
+  },
+  {
+    "id": "mf-s1e4-medium-0025",
+    "context": "Living room aftermath — as apologies crumble and tempers spike, a quiet voice from the sidelines speaks up with a surprisingly clear take on what this family is.",
+    "question": "Who delivers a surprisingly insightful speech that calms the room?",
+    "options": ["Dylan", "Mitchell", "Claire", "Phil"],
+    "answer": "Dylan",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Dylan talks about a family that’s “passionate and accepting of hot foreigners and gay dudes and nutty people,” praising their love."
+  },
+  {
+    "id": "mf-s1e4-medium-0026",
+    "context": "Same gathering — to ease the tension, the group urges the guest to share some music for his girlfriend, turning the living room into an impromptu stage.",
+    "question": "What is the title of the song Dylan plays for Haley?",
+    "options": ["In the Moonlight", "Under the Stars", "Only You Tonight", "Shine on Me"],
+    "answer": "In the Moonlight",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Dylan says, “This is actually a song I wrote for Haley. It’s called ‘In the Moonlight.’”"
+  },
+  {
+    "id": "mf-s1e4-medium-0027",
+    "context": "Mid-performance — the melody starts sweet, but the lyrics veer into territory that makes every parent in the room stiffen and exchange looks.",
+    "question": "Which repeated lyric makes the parents instantly shut the trip down?",
+    "options": ["“I just want to do you… do you”", "“Run away with me tonight”", "“Let me be your everything”", "“I’ll love you forevermore”"],
+    "answer": "“I just want to do you… do you”",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "The refrain escalates—“Baby, baby, I just want to do you… do you”—prompting Claire’s “She’s so not going.”"
+  },
+  {
+    "id": "mf-s1e4-medium-0046",
+    "context": "Dunphy living room, later — the boyfriend is coaxed into performing a song he wrote, and the lyrics veer from sweet to mortifying as the parents listen in.",
+    "question": "Which of these is NOT a line from Dylan’s song?",
+    "options": [
+      "“I’ll hold you till the sunrise”",
+      "“The stars are falling from the sky”",
+      "“The moon is shining on your face”",
+      "“Baby, baby, I just want to do you”"
+    ],
+    "answer": "“I’ll hold you till the sunrise”",
+    "difficulty": "medium",
+    "episode": 4,
+    "description": "Dylan actually sings lines like “The stars are falling from the sky,” “The moon is shining on your face,” and the refrain “I just want to do you.” The ‘sunrise’ line is never sung."
+  }
+]
+

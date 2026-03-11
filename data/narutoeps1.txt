@@ -1,0 +1,377 @@
+[
+  {
+    "id": "naruto-159-medium-0001",
+    "context": "**KAKASHI VS PEIN**: At the rubble-strewn streets of the Hidden Leaf, a Rinnegan-wielding invader confronts Kakashi as their battle begins.",
+    "question": "What is the first thing this orange-haired enemy pointedly asks Kakashi about?",
+    "options": [
+      "The whereabouts of the Nine-Tails",
+      "The location of Lady Tsunade",
+      "How many shinobi are defending the village",
+      "The secret of Kakashi’s Sharingan"
+    ],
+    "answer": "The whereabouts of the Nine-Tails",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Right after calling him \"Kakashi Hatake the Copy Ninja,\" Pain demands, \"Where is the Nine-Tails?\" and Kakashi dismisses it as a silly question."
+  },
+  {
+    "id": "naruto-pain-kakashi-0003",
+    "context": "At the start of their confrontation, Kakashi directly engages the orange-haired Pain with multiple piercings.",
+    "question": "Which Path of Pain is the main one Kakashi fights in the village, the one that asks about the Nine-Tails?",
+    "options": [
+      "Deva Path",
+      "Asura Path",
+      "Animal Path",
+      "Preta Path"
+    ],
+    "answer": "Deva Path",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Kakashi’s primary opponent in the village is the Deva Path, the orange-haired body that questions him about the Nine-Tails."
+  },
+  {
+    "id": "naruto-159-medium-0002",
+    "context": "Kakashi quickly responds to the first onslaught, erecting a defense before counterattacking.",
+    "question": "Which two techniques does Kakashi use right at the start of his clash with Pain?",
+    "options": [
+      "Earth Style: Mud Wall and Lightning Blade",
+      "Fire Style: Fireball Jutsu and Shadow Clone",
+      "Water Style: Water Dragon and Lightning Blade",
+      "Earth Style: Mud Wall and Lightning Fang"
+    ],
+    "answer": "Earth Style: Mud Wall and Lightning Blade",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "He first raises \"Earth Style: Mud Wall!\" to block, then counters with \"Lightning Blade!\" as the opening exchange of their fight."
+  },
+  {
+    "id": "naruto-159-medium-0004",
+    "context": "Kakashi quickly realizes that Pain’s strange power is not limited to simple punches or kunai.",
+    "question": "What crucial limitation of their usual tactics does Kakashi discover about Pain’s defensive ability?",
+    "options": [
+      "He can repel both physical attacks and Ninjutsu",
+      "He is completely immune to Genjutsu",
+      "He can only be hurt by Taijutsu",
+      "He can repel only Ninjutusu"
+    ],
+    "answer": "He can repel both physical attacks and Ninjutsu",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "After seeing attacks blown away, Kakashi and the others realize, \"Not just physical attacks… He can repel Ninjutsu as well?!\" making frontal assaults useless."
+  },
+{
+  "id": "naruto-pain-kakashi-0019",
+  "context": "During the battle in the Hidden Leaf, the orange-haired Deva Path raises his hand and unleashes the gravitational jutsu that blows everything away from him.",
+  "question": "What is the name of Deva Path’s signature repulsive jutsu that blasts everything away from his position?",
+  "options": [
+    "Almighty Push",
+    "Almighty Pull",
+    "Planetary Devastation",
+    "Universal Pull"
+  ],
+  "answer": "Almighty Push",
+  "difficulty": "easy",
+  "episode": 159,
+  "description": "When he activates his main gravity technique to repel attacks and surroundings with himself as the epicenter, he calls it \"Almighty Push.\""
+},
+  {
+    "id": "naruto-pain-kakashi-0009",
+    "context": "During the battle, Kakashi uses a specific elemental clone to catch Pain off guard.",
+    "question": "Which type of elemental Shadow Clone does Kakashi use against Deva Path in this fight?",
+    "options": [
+      "Lightning Style Shadow Clone",
+      "Water Style Shadow Clone",
+      "Fire Style Shadow Clone",
+      "Earth Style Shadow Clone"
+    ],
+    "answer": "Lightning Style Shadow Clone",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Kakashi employs a \"Lightning Style Shadow Clone\" both as an attack and as bait, though it drains a large portion of his chakra."
+  },
+  {
+    "id": "naruto-pain-kakashi-0005",
+    "context": "As Kakashi attacks from underground, a second Pain suddenly interferes with the assault.",
+    "question": "Which other Path of Pain joins the Deva Path to support it during Kakashi’s fight?",
+    "options": [
+      "Asura Path",
+      "Animal Path",
+      "Human Path",
+      "Naraka Path"
+    ],
+    "answer": "Asura Path",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Asura Path, jumps in to assist Deva Path and prevents Kakashi’s finishing blow from landing."
+  },
+  {
+    "id": "naruto-pain-kakashi-0006",
+    "context": "The second Pain that appears has a different style of fighting with different abilities.",
+    "question": "What type of power does the Asura Path Pain use in the fight against Kakashi?",
+    "options": [
+      "A mechanized body with weapons and projectile attacks",
+      "Absorbing Chakra",
+      "Summoning multiple animals at once",
+      "Reading minds and ripping out souls"
+    ],
+    "answer": "A mechanized body with weapons and projectile attacks",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Asura Path uses a mechanical body, launching weapons and projectiles, contrasting Deva Path’s gravity-based jutsu."
+  },
+  {
+    "id": "naruto-159-medium-0005",
+    "context": "During the clash, Kakashi notices something strange about how the enemy bodies react and respond.",
+    "question": "What key insight does Kakashi gain about the relationship between Pain’s bodies?",
+    "options": [
+      "Their eyes are linked and share their field of vision",
+      "Each body has its own independent personality",
+      "Only one body is really alive while the rest are illusions",
+      "They can teleport instantly between each other’s positions"
+    ],
+    "answer": "Their eyes are linked and share their field of vision",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Kakashi realizes that \"They're eyes are linked! Their field of vision is connected and shared,\" explaining how they react perfectly even from different angles."
+  },
+  {
+    "id": "naruto-159-medium-0006",
+    "context": "Recalling intel from Jiraiya, the Hidden Leaf shinobi review the basic rules for confronting Pain.",
+    "question": "Which guideline about fighting Pain is emphasized when discussing Jiraiya’s battle?",
+    "options": [
+      "You must only fight each Pain one-on-one",
+      "Ninjutsu is useless against all of them",
+      "The real Pain is somewhere else",
+      "They all possess the Rinnegan Powers"
+    ],
+    "answer": "You must only fight each Pain one-on-one",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "The reminder is given: \"When you face Pain, you must only fight them one-on-one. Remember this well,\" noting that Lord Jiraiya took on six at once."
+  },
+  {
+    "id": "naruto-159-medium-0007",
+    "context": "Their discussion also touches on the unique specialization of each of the enemy’s bodies.",
+    "question": "What important detail about each individual Pain body’s combat role is stated?",
+    "options": [
+      "Each of them can use only one type of skill",
+      "Each body can access all six elemental natures",
+      "Each body can perform every jutsu the original knew",
+      "Each body constantly changes abilities mid-battle"
+    ],
+    "answer": "Each of them can use only one type of skill",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "The intel says, \"Each of them can use only one type of skill. Deducing those skills will be crucial,\" explaining why reading their roles matters."
+  },
+  {
+    "id": "naruto-159-medium-0009",
+    "context": "After springing a surprise counterattack, Kakashi evaluates his remaining strength during a brief lull.",
+    "question": "What does Kakashi say about his chakra reserves after using his Lightning Style Shadow Clone?",
+    "options": [
+      "He has exhausted over half his chakra",
+      "He still has almost all of his chakra left",
+      "He cannot use any more Lightning Jutsu",
+      "He is completely out of chakra already"
+    ],
+    "answer": "He has exhausted over half his chakra",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "He admits, \"I've already used my Lightning Style Shadow Clone and exhausted over half my chakra. To be honest, a drawn-out battle… is going to be difficult for me.\""
+  },
+  {
+    "id": "naruto-pain-kakashi-0001",
+    "context": "In the ruins of the Hidden Leaf, Kakashi faces two of Pain’s bodies and receives backup mid-fight.",
+    "question": "Which team arrives to support Kakashi during his fight against Pain in the village?",
+    "options": [
+      "Team Choza",
+      "Team Guy",
+      "Team Asuma",
+      "Team Kurenai"
+    ],
+    "answer": "Team Choza",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Choza Akimichi’s squad, referred to as Team Choza, joins the battle to back up Kakashi against the two Pains attacking the village."
+  },
+  {
+    "id": "naruto-159-medium-0011",
+    "context": "While under pressure, Kakashi looks for a weakness in the timing of Pain’s gravitational technique.",
+    "question": "What crucial limitation about how often Pain can use his attraction/repulsion jutsu do they identify?",
+    "options": [
+      "There is an interval between uses",
+      "He must touch his target before using it again",
+      "He can only use it when another Pain is present",
+      "He can only use it twice in a fight"
+    ],
+    "answer": "There is an interval between uses",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "They note, \"However, it seems he cannot utilize that jutsu consecutively. I know for certain that there is an interval of time before he can activate the next jutsu.\""
+  },
+  {
+    "id": "naruto-159-medium-0020",
+    "context": "A messenger reveals a key numerical detail that will shape Konoha’s counter-strategy.",
+    "question": "What specific time interval between uses of Deva Path’s attraction/repulsion jutsu is reported to Tsunade?",
+    "options": [
+      "Five seconds",
+      "One minute",
+      "Thirty seconds",
+      "Ten seconds"
+    ],
+    "answer": "Five seconds",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "He reports, \"However, once he uses either jutsu, there is a five-second interval,\" and Tsunade notes that thanks to this intel, \"Our sacrifices will lessen considerably.\""
+  },
+  {
+    "id": "naruto-159-medium-0012",
+    "context": "Kakashi and Team Choza coordinate a plan that relies on timing the gap in Pain’s power.",
+    "question": "What combined move do Choza and Choji use as part of Kakashi’s plan to exploit the jutsu interval?",
+    "options": [
+      "Double Human Boulder",
+      "Twin Lion Fist",
+      "Partial Multi-Size Cannonball",
+      "Combined Earth Spear Charge"
+    ],
+    "answer": "Double Human Boulder",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "On Kakashi’s cue, Choza and Choji launch in with \"Double Human Boulder!\" to create an opening against Deva Path."
+  },
+  {
+    "id": "naruto-159-medium-0013",
+    "context": "Kakashi springs a hidden trap during the chaos of the Double Human Boulder attack.",
+    "question": "What did Kakashi quietly plant underground as part of his attempt to pin down Deva Path?",
+    "options": [
+      "A chain",
+      "Explosive tags",
+      "A sealing scroll",
+      "A spiked kunai mine"
+    ],
+    "answer": "A chain",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Pain realizes too late that \"He planted this chain underground before attacking from below!\" as Kakashi moves in with Lightning Blade."
+  },
+  {
+    "id": "naruto-159-medium-0014",
+    "context": "Just when it looks like Kakashi’s Lightning Blade will land, another threat intervenes.",
+    "question": "What happens at the critical moment that prevents Kakashi from finishing off the first Pain he targets?",
+    "options": [
+      "Another Pain body moves and interferes to save him",
+      "Kakashi’s chakra runs out mid-strike",
+      "Pain uses his Shinra Tensei",
+      "A sudden explosion throws everyone back"
+    ],
+    "answer": "Another Pain body moves and interferes to save him",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "As Kakashi is about to strike, he’s forced to react when \"The other Pain! He could still move?!\" blocking his clean kill. Finally there is an explosion"
+  },
+  {
+    "id": "naruto-pain-kakashi-0020",
+    "context": "Kakashi lies pinned and gravely injured on the ruined street as Deva Path stands over him, analyzing his condition.",
+    "question": "After confirming Kakashi cannot move and is not a Shadow Clone, what does Deva Path decide about how to finish him?",
+    "options": [
+      "He refuses to approach and chooses to kill Kakashi from a distance",
+      "He walks right up and tries to crush Kakashi’s throat by hand",
+      "He lets the other Pein finish him off",
+      "He retreats to go after Naruto instead"
+    ],
+    "answer": "He refuses to approach and chooses to kill Kakashi from a distance",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Deva Path notes Kakashi’s inability to move isn’t faked and says, \"I shall make certain of your death… But just to be safe I will not approach you,\" choosing a ranged kill instead."
+  },
+  {
+    "id": "naruto-pain-kakashi-0023",
+    "context": "Kakashi lies injured and pinned on the ground while Deva Path stands at a distance, deciding how to kill him without getting close.",
+    "question": "What does Deva Path use to attack Kakashi from a distance instead of approaching him directly?",
+    "options": [
+      "A metal nail",
+      "A chakra rod",
+      "A thrown kunai",
+      "A compressed air bullet"
+    ],
+    "answer": "A metal nail",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Not wanting to approach, Deva Path picks up a metal nail and fires it at Kakashi as a long-range killing shot."
+  },
+  {
+    "id": "naruto-pain-kakashi-0024",
+    "context": "Pinned under rubble and nearly out of chakra, Kakashi sees Deva Path’s metal nail flying straight at him.",
+    "question": "What move does Kakashi use to protect himself from Deva Path’s long-range nail attack?",
+    "options": [
+      "Kamui",
+      "Substitution Jutsu",
+      "Earth Style: Mud Wall",
+      "Shadow Clone Jutsu"
+    ],
+    "answer": "Kamui",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Using the last of his strength and Sharingan, Kakashi activates his Mangekyō and uses Kamui to warp away the deadly nail aimed at him."
+  },
+  {
+    "id": "naruto-159-medium-0017",
+    "context": "In a quiet inner space, Kakashi reflects on a promise from long ago as he nears death.",
+    "question": "What role does Kakashi say he has tried to fulfill for Obito as he reaches his limit?",
+    "options": [
+      "To become Obito’s eyes and see the future for him",
+      "To surpass Obito as the greatest jonin",
+      "To erase Obito’s name from the Bingo Book",
+      "To make amends for Obito´s death"
+    ],
+    "answer": "To become Obito’s eyes and see the future for him",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "He recalls, \"I'm about to die. But I'll become your eyes and see the future for you. Take care of Rin, Obito,\" echoing his old promise."
+  },
+  {
+    "id": "naruto-pain-kakashi-0011",
+    "context": "Pinned and gravely injured after the clash with Deva and Asura Path, Kakashi speaks to Choji while rubble holds him down.",
+    "question": "What mission does Kakashi give Choji as he lies trapped and barely able to move?",
+    "options": [
+      "Report Pain’s abilities to Lady Tsunade",
+      "Find Naruto and bring him back to the village",
+      "Evacuate all remaining civilians from the ruins",
+      "Track down the remaining Paths of Pain alone"
+    ],
+    "answer": "Report Pain’s abilities to Lady Tsunade",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "Kakashi tells him, \"If you are able to move report to Lady Tsunade about Pain's abilities. A counter strategy is imperative! Reflect later! You must hurry!\""
+  },
+  {
+    "id": "naruto-pain-kakashi-0014",
+    "context": "As Kakashi’s consciousness fades, he reflects on the promises he made long ago to a fallen comrade.",
+    "question": "Before losing consciousness, who does Kakashi say he’ll be joining, after admitting he kept breaking his promises?",
+    "options": [
+      "Obito, Rin, and Minato",
+      "Minato and Jiraiya",
+      "His father and the Third Hokage",
+      "Itachi and Asuma"
+    ],
+    "answer": "Obito, Rin, and Minato",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "He thinks of his past and says, \"Obito Rin Sensei I'll be joining you now,\" after regretting that he couldn’t protect Rin or fully keep Obito’s wishes."
+  },
+  {
+    "id": "naruto-pain-kakashi-0015",
+    "context": "In a white void-like place after collapsing, Kakashi is greeted by a familiar voice from his past.",
+    "question": "Who calls out to Kakashi in the afterlife-like scene, asking if he’ll tell his story?",
+    "options": [
+      "Sakumo",
+      "Obito",
+      "Minato",
+      "Jiraiya"
+    ],
+    "answer": "Sakumo",
+    "difficulty": "medium",
+    "episode": 159,
+    "description": "A man greets him with, \"Is that you, Kakashi? So this is where you were. Will you tell me your story?\" and Kakashi responds before saying, \"Well, Father…\""
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "lotr-rotk-0001",
+    "context": "**THE RETURN OF THE KING**: In the opening flashback, two hobbits are fishing on the river when one of them discovers something glittering deep below.",
+    "question": "What is the name of the hobbit who first finds the One Ring while fishing?",
+    "options": ["Déagol", "Fredegar", "Sméagol", "Meriadoc"],
+    "answer": "Déagol",
+    "difficulty": "easy",
+    "description": "Déagol is pulled into the river by a fish and discovers the Ring on the riverbed, before Sméagol murders him for it."
+  },
+  {
+    "id": "lotr-rotk-0003",
+    "context": "After Déagol finds the Ring, Sméagol demands it as a \"birthday present\" and things turn violent.",
+    "question": "How does Sméagol take the Ring from Déagol in the prologue?",
+    "options": ["He strangles Déagol", "He stabs Déagol with a knife", "He pushes Déagol off a cliff", "He tricks Déagol into dropping it"],
+    "answer": "He strangles Déagol",
+    "difficulty": "easy",
+    "description": "Sméagol refuses to accept no for an answer and strangles Déagol to claim the Ring for himself."
+  },
+  {
+    "id": "lotr-rotk-new-001",
+    "context": "On the rocky slopes leading toward Mordor, Sam tries to keep Frodo going despite exhaustion and dwindling supplies.",
+    "question": "What food does Sam offer Frodo as they struggle onward toward Mordor?",
+    "options": ["Lembas bread", "Salted pork", "Dried apples", "Rabbit stew"],
+    "answer": "Lembas bread",
+    "difficulty": "easy",
+    "description": "Sam still carries a bit of lembas and offers it to Frodo as the only food they have left."
+  },
+{
+  "id": "lotr-rotk-new-002",
+  "context": "After the fall of Isengard, Merry and Pippin lounge among the ruins, smoking pipe-weed and feasting while the others ride toward them.",
+  "question": "Where does Pippin say he feels like he is while relaxing with Merry among the ruins of Isengard?",
+  "options": ["The Green Dragon", "Bag End", "Bywater Market", "The Brandywine Bridge"],
+  "answer": "The Green Dragon",
+  "difficulty": "easy",
+  "description": "Sitting on the wreckage of Isengard, full of food and Longbottom Leaf, Pippin says he feels like he’s back at the Green Dragon with a mug of ale in hand."
+},
+  {
+    "id": "lotr-rotk-new-003",
+    "context": "During the destruction of Isengard, one Ent in particular leads the assault and oversees Saruman’s defeat.",
+    "question": "Which Ent was responsible for tearing down Isengard and imprisoning Saruman in the tower?",
+    "options": ["Treebeard", "Quickbeam", "Greybeard", "Elmroot"],
+    "answer": "Treebeard",
+    "difficulty": "easy",
+    "description": "Treebeard leads the Ents against Isengard and later stands guard over Saruman."
+  },
+  {
+    "id": "lotr-rotk-new-004",
+    "context": "After stealing the palantír, one hobbit cannot resist looking into it despite the danger.",
+    "question": "Which hobbit secretly looks into the palantír?",
+    "options": ["Pippin", "Merry", "Sam", "Frodo"],
+    "answer": "Pippin",
+    "difficulty": "easy",
+    "description": "Pippin’s curiosity overcomes him, and he looks into the palantír, drawing Sauron’s gaze."
+  },
+  {
+    "id": "lotr-rotk-0004",
+    "context": "After Pippin looks into the palantír at Edoras, Gandalf takes him away from the others.",
+    "question": "To which city do Gandalf and Pippin ride at the beginning of The Return of the King?",
+    "options": ["Minas Tirith", "Edoras", "Osgiliath", "Minas Morgul"],
+    "answer": "Minas Tirith",
+    "difficulty": "easy",
+    "description": "Gandalf rides hard to Minas Tirith with Pippin to warn Denethor and prepare the city for war."
+  },
+  {
+    "id": "lotr-rotk-new-007",
+    "context": "Before riding to Minas Tirith, Gandalf calls for a legendary horse known for unmatched speed.",
+    "question": "What is the name of Gandalf’s horse in The Return of the King?",
+    "options": ["Shadowfax", "Snowfax", "Shadowloth", "Brego"],
+    "answer": "Shadowfax",
+    "difficulty": "easy",
+    "description": "Shadowfax, lord of horses, carries Gandalf and Pippin at incredible speed."
+  },
+  {
+    "id": "lotr-rotk-0005",
+    "context": "Upon arriving in Minas Tirith, Pippin feels indebted for Boromir's sacrifice and makes a solemn promise.",
+    "question": "To whom does Pippin swear fealty and service in Minas Tirith?",
+    "options": ["Denethor", "Faramir", "Gandalf", "Aragorn"],
+    "answer": "Denethor",
+    "difficulty": "easy",
+    "description": "Pippin kneels and offers his service to Denethor, Steward of Gondor, in repayment for Boromir giving his life to save him and Merry."
+  },
+  {
+    "id": "lotr-rotk-0006",
+    "context": "From the White City, Someone secretly climbs to the beacon tower and lights the beacon.",
+    "question": "Who secretly lights the first beacon of Gondor, calling for Rohan's aid?",
+    "options": ["Pippin", "Gandalf", "Faramir", "Merry"],
+    "answer": "Pippin",
+    "difficulty": "medium",
+    "description": "Pippin sneaks up to the beacon and sets it aflame, triggering the chain of beacons that reach all the way to Rohan."
+  },
+  {
+    "id": "lotr-rotk-new-012",
+    "context": "After the beacons of Gondor blaze across the mountains, Aragorn rushes into Meduseld with the urgent news.",
+    "question": "After the beacons are lit, where does King Théoden say the Rohirrim will muster?",
+    "options": ["Dunharrow", "Edoras", "Aldburg", "Helm’s Deep"],
+    "answer": "Dunharrow",
+    "difficulty": "easy",
+    "description": "Théoden orders the Riders to gather at Dunharrow before marching to Minas Tirith."
+  },
+  {
+    "id": "lotr-rotk-0010",
+    "context": "While Aragorn considers the grim odds, Elrond arrives at Dunharrow with news and a reforged blade.",
+    "question": "What is the reforged sword that Elrond brings to Aragorn before he takes the Paths of the Dead?",
+    "options": ["Andúril", "Glamdring", "Narsil", "Herugrim"],
+    "answer": "Andúril",
+    "difficulty": "medium",
+    "description": "Elrond presents Aragorn with Andúril, Flame of the West, reforged from the shards of Narsil."
+  },
+  {
+    "id": "lotr-rotk-new-010",
+    "context": "Throughout Middle-earth, Gandalf is known by different names depending on the people and culture he encounters.",
+    "question": "What name do the people of Gondor commonly use when referring to Gandalf?",
+    "options": ["Mithrandir", "Olórin", "Stormcrow", "Grey Pilgrim"],
+    "answer": "Mithrandir",
+    "difficulty": "easy",
+    "description": "Gondorians, including Denethor and Faramir, frequently address Gandalf as Mithrandir."
+  },
+  {
+    "id": "lotr-rotk-new-012",
+    "context": "While recalling Gondor’s battles, Faramir describes the heavy losses suffered when they attempted to hold a key strategic city against Sauron’s forces.",
+    "question": "Which city does Faramir mention having tried—and failed—to retake from Sauron’s armies?",
+    "options": ["Osgiliath", "Minas Morgul", "Dol Amroth", "Edoras"],
+    "answer": "Osgiliath",
+    "difficulty": "easy",
+    "description": "Faramir tells Denethor that Osgiliath could not be held, describing its fall and the futility of retaking it."
+  },
+  {
+    "id": "lotr-rotk-new-010",
+    "context": "Sauron’s greatest lieutenant leads the assault on Minas Tirith, mounted on a monstrous fell beast.",
+    "question": "What is the name of Sauron’s deadliest servant?",
+    "options": ["The Witch-king of Angmar", "The Orc-king of Gothmog", "The Orc-king of Angmar", "The Witch-king of Gothmog"],
+    "answer": "The Witch-king of Angmar",
+    "difficulty": "easy",
+    "description": "The Witch-king is the most feared servant of Sauron."
+  },
+  {
+    "id": "lotr-rotk-new-011",
+    "context": "As the armies march on Minas Tirith, Gandalf explains how deadly The Witch King is.",
+    "question": "Which of these descriptions was NOT used for the Witch-king in the film?",
+    "options": [
+      "Greatest of the Nine",
+      "No living man can kill him",
+      "Lord of the Nazgûl",
+      "Harbinger of Doom"  
+    ],
+    "answer": "Harbinger of Doom",
+    "difficulty": "easy",
+    "description": "The film never uses the title ‘Harbinger of Doom’ for the Witch-king."
+  },
+  {
+    "id": "lotr-rotk-new-014",
+    "context": "With Sauron’s armies overwhelming Minas Tirith, Aragorn seeks reinforcements through a dangerous ancient oath.",
+    "question": "Who does Aragorn recruit to aid Gondor during the War of the Ring?",
+    "options": ["The Army of the Dead", "The Elfs", "The Dwarfs", "The Haradrim rebels"],
+    "answer": "The Army of the Dead",
+    "difficulty": "easy",
+    "description": "Aragorn travels through the Paths of the Dead and recruits the ghostly Oathbreakers to fight for him."
+  },
+  {
+    "id": "lotr-rotk-new-013",
+    "context": "Before the Paths of the Dead, Aragorn is warned that only one with the rightful authority can command the ghostly army beneath the mountain.",
+    "question": "According to the film, who is the only person with the authority to command the Dead?",
+    "options": ["The King of Gondor", "The Steward of Gondor", "The King of Rohan", "The Lord of Rivendell"],
+    "answer": "The King of Gondor",
+    "difficulty": "easy",
+    "description": "Only the true King of Gondor can summon and command the Dead, which is why Aragorn is able to bind them."
+  },
+  {
+    "id": "lotr-rotk-new-011",
+    "context": "Gollum leads Frodo and Sam toward Mordor using a secret, perilous path that bypasses the Black Gate.",
+    "question": "What is the name of the high pass into Mordor where Gollum leads Frodo and Sam?",
+    "options": ["Cirith Ungol", "Minas Morgul Pass", "The Morgul Road", "Durthang Pass"],
+    "answer": "Cirith Ungol",
+    "difficulty": "easy",
+    "description": "Cirith Ungol is the hidden pass where Gollum lures Frodo and Sam, ultimately leading them into Shelob’s lair."
+  },
+  {
+    "id": "lotr-rotk-new-015",
+    "context": "As Frodo climbs toward the pass, he is attacked by a monstrous creature long feared in Mordor.",
+    "question": "What is the name of the giant spider that attacks Frodo near Cirith Ungol?",
+    "options": ["Shelob", "Ungoliant", "Aranea", "Morwenath"],
+    "answer": "Shelob",
+    "difficulty": "easy",
+    "description": "Shelob ambushes Frodo in her lair, stabbing him with her stinger and trapping him in webbing."
+  },
+  {
+    "id": "lotr-rotk-new-016",
+    "context": "Frodo carries a special Elven blade given to him in Rivendell, which glows blue when Orcs are near.He uses this in his fight against Shelob",
+    "question": "What is the name of Frodo’s sword?",
+    "options": ["Sting", "Glamdring", "Orcrist", "Narsil"],
+    "answer": "Sting",
+    "difficulty": "easy",
+    "description": "Sting was originally Bilbo’s blade and glows blue at the presence of Orcs."
+  },
+  {
+    "id": "lotr-rotk-0014",
+    "context": "Sauron's forces lay siege to Minas Tirith, battering the outer defenses with terrifying siege engines.",
+    "question": "What is the name of the massive battering ram used by Sauron's forces to smash the main gate of Minas Tirith?",
+    "options": ["Grond", "Gorthul", "Durthang", "Mauhur"],
+    "answer": "Grond",
+    "difficulty": "easy",
+    "description": "The gigantic wolf-headed battering ram is called Grond, named after the mace of Morgoth."
+  },
+  {
+    "id": "lotr-rotk-0018",
+    "context": "On the Pelennor Fields outside Minas Tirith, the Witch-king flies down upon King Théoden and his horse.",
+    "question": "What creature fatally wounds King Théoden on the Pelennor Fields?",
+    "options": ["A fell beast", "A mûmakil", "Gothmog", "A warg"],
+    "answer": "A fell beast",
+    "difficulty": "easy",
+    "description": "The Witch-king's fell beast crashes into Théoden and his horse, pinning and mortally wounding the king."
+  },
+  {
+    "id": "lotr-rotk-0019",
+    "context": "After Théoden is crushed, a black-armored figure confronts the king's body and the warrior who stands over him.",
+    "question": "Who finally kills the Witch-king of Angmar during the Battle of the Pelennor Fields?",
+    "options": ["Éowyn", "Gandalf", "Aragorn", "Legolas"],
+    "answer": "Éowyn",
+    "difficulty": "easy",
+    "description": "Merry stabs the Witch-king from behind, allowing Éowyn to strike him down."
+  },
+  {
+    "id": "lotr-rotk-0020",
+    "context": "As the Witch-king boasts about his invincibility, his opponent reveals a crucial detail..",
+    "question": "What does Éowyn reveal to the Witch-king before delivering the killing blow?",
+    "options": [
+      "I am no man.",
+      "I am the shieldmaiden of Rohan.",
+      "I am a woman.",
+      "Death comes for you, Nazgûl."
+    ],
+    "answer": "I am no man.",
+    "difficulty": "easy",
+    "description": "After the Witch-king declares that no man can kill him, Éowyn removes her helmet and says, \"I am no man,\" before striking."
+  },
+  {
+    "id": "lotr-rotk-0023",
+    "context": "As the two hobbits struggle up the slopes of Mount Doom, Frodo falters under the weight of the Ring.",
+    "question": "What does Sam say to Frodo when he realizes Frodo can no longer go on by himself near Mount Doom?",
+    "options": [
+      "I can't carry it for you, but I can carry you.",
+      "We are almost there, Mr. Frodo.",
+      "You are not alone. I am with you.",
+      "I can carry it for you, Mr. Frodo?"
+    ],
+    "answer": "I can't carry it for you, but I can carry you.",
+    "difficulty": "easy",
+    "description": "Sam cannot bear the Ring itself, but he hoists Frodo onto his shoulders, declaring, \"I can't carry it for you, but I can carry you.\""
+  },
+  {
+    "id": "lotr-rotk-new-017",
+    "context": "As the One Ring is destroyed in the fires of Mount Doom, Sauron’s stronghold collapses in a massive eruption.",
+    "question": "What is the name of the tower that collapses when the Ring is destroyed?",
+    "options": ["Barad-dûr", "Orthanc", "Minas Morgul", "Numenórean Spire"],
+    "answer": "Barad-dûr",
+    "difficulty": "easy",
+    "description": "Sauron’s great fortress, Barad-dûr, crumbles and explodes when the Ring is unmade."
+  },
+{
+  "id": "lotr-rotk-0027",
+  "context": "During Aragorn's coronation in Minas Tirith, the four hobbits bow before the newly crowned king as the crowd watches.",
+  "question": "What does Aragorn say to the hobbits after they bow to him?",
+  "options": [
+    "“You bow to no one.”",
+    "“Rise, my friends.”",
+    "“Your journey is over now.”",
+    "“Stand tall, heroes of Middle-earth.”"
+  ],
+  "answer": "“You bow to no one.”",
+  "difficulty": "easy",
+  "description": "Aragorn stops them from bowing, saying, “You bow to no one,” before bowing to them himself."
+},
+{
+  "id": "lotr-rotk-new-032",
+  "context": "After returning home to the Shire at the end of the film, Sam enters the Green Dragon Inn and shyly approaches the woman he has long admired.",
+  "question": "What is the name of the woman Sam Gamgee eventually marries, who works as a barmaid at the Green Dragon?",
+  "options": ["Rosie", "Lobelia", "Estella", "Carla"],
+  "answer": "Rosie",
+  "difficulty": "easy",
+  "description": "Sam has loved Rosie Cotton for years, and after the War of the Ring he finally returns and marries her."
+},
+  {
+    "id": "lotr-rotk-0028",
+    "context": "After returning to the Shire and living there for some time, Frodo writes in the familiar red book.",
+    "question": "What book title does Frodo reveal he is finishing before he leaves Middle-earth?",
+    "options": [
+      "There and Back Again, by Bilbo Baggins, and The Lord of the Rings, by Frodo Baggins",
+      "The Red Book of Westmarch, by Bilbo Baggins and The Lord of the Rings, by Frodo Baggins",
+      "The Tale of the Ring, by Frodo Baggins",
+      "The Fall of Sauron, by Frodo of the Shire"
+    ],
+    "answer": "There and Back Again, by Bilbo Baggins, and The Lord of the Rings, by Frodo Baggins",
+    "difficulty": "medium",
+    "description": "Frodo explains to Sam that he has completed Bilbo's tale, There and Back Again, and added his own story, The Lord of the Rings."
+  },
+  {
+    "id": "lotr-rotk-0030",
+    "context": "After seeing Frodo sail into the West, one hobbit returns home to a quiet Shire and a waiting family.",
+    "question": "What are the final words spoken in the film The Return of the King?",
+    "options": [
+      "Well, I'm back.",
+      "The end of all things.",
+      "We set out to save the Shire.",
+      "It's over, Frodo."
+    ],
+    "answer": "Well, I'm back.",
+    "difficulty": "easy",
+    "description": "Sam returns home, embraces his family, sits at his table and says the final line of the trilogy: \"Well, I'm back.\""
+  }
+]
+

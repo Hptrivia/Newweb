@@ -1,0 +1,274 @@
+[
+  {
+    "id": "of-s1e3-easy-0001",
+    "context": "**EPISODE 3**: Reception — morning: Michael hovers at Pam’s desk pushing for updates as the day starts.",
+    "question": "What does Michael press Pam for at the very start?",
+    "options": ["New messages", "Copies of a report", "A sales update", "A fax confirmation"],
+    "answer": "New messages",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "Michael keeps saying, “Messages. Stat. Lots to do… Information superhighway,” while Pam says there’s nothing new."
+  },
+  {
+    "id": "of-s1e3-medium-0002",
+    "context": "Michael’s office — shortly after: He frames himself as a caretaker while discussing the day’s task.",
+    "question": "True or False: Michael says that picking a new health care plan makes him \"like a specialist.\"",
+    "options": ["True", "False"],
+    "answer": "True",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "He says, “Today, I am in charge of picking a great new health care plan… Does that make me their doctor? Um… Yes, in a way. Yeah, like a specialist.”"
+  },
+  {
+    "id": "of-s1e3-medium-0003",
+    "context": "Phone check-in with corporate: Jan asks for Michael’s decision on providers.",
+    "question": "What instruction does Jan ultimately give Michael about the plan?",
+    "options": ["Pick the cheapest plan", "Cut some employees coverage", "Make the final decision", "Defer to HR in New York"],
+    "answer": "Pick the cheapest plan",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Jan says, “You just need to pick a provider and choose the cheapest plan.”"
+  },
+  {
+    "id": "of-s1e3-hard-0005",
+    "context": "Bullpen — delegation moment: Jim and Michael tactics for extra tasks.",
+    "question": "Which of these best captures Jim’s tactic when Michael assigns him extra tasks?",
+    "options": [
+      "He recommends Dwight for them",
+      "He volunteers and does them quickly",
+      "He asks Pam to decide",
+      "He shrugs and ignores"
+    ],
+    "answer": "He recommends Dwight for them",
+    "difficulty": "hard",
+    "episode": 3,
+    "description": "Jim says, “Any time Michael asks me to do anything, I just tell him that Dwight should do it.”"
+  },
+  {
+    "id": "of-s1e3-easy-0006",
+    "context": "Conference room threshold: Dwight negotiates conditions for the assignment.",
+    "question": "What is the first thing Dwight asks when he takes on the task?",
+    "options": ["How many people can I fire?", "Can I fire Jim?", "Where are the plan binders?", "Can I get a raise?"],
+    "answer": "How many people can I fire?",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "Dwight opens with, “How many people can I fire?” and then requests the conference room as an office."
+  },
+  {
+    "id": "of-s1e3-medium-0007",
+    "context": "Conference room — signage scuffle: Titles and territory get debated.",
+    "question": "True or False: Dwight labels the conference room “workspace,” leading to an argument with Jim about the wording.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Jim points at the sign and says, “It says ‘workspace’… If it’s the same thing, then why did you write ‘workspace’?”"
+  },
+{
+  "id": "of-s1e3-medium-0030",
+  "context": "Conference room — post-decision recap: Dwight defends his drastic cuts during a talking-head moment, leaning on a survival metaphor.",
+  "question": "Which analogy does Dwight use to justify slashing the benefits?",
+  "options": ["A lion in the wild", "A shark circling its prey", "A bear preparing for hibernation", "A wolf pack enforcing rank"],
+  "answer": "A lion in the wild",
+  "difficulty": "medium",
+  "episode": 3,
+  "description": "Dwight says, “In the wild, there is no health care… A lion eats me and I’m dead… I’m the lion. You’re dead.”"
+},
+  {
+    "id": "of-s1e3-medium-0010",
+    "context": "Conference room — plan debate: Pam and Jim challenge the logic behind the cuts.",
+    "question": "True or False: Jim argues that if Dwight has never been sick, then he doesn’t have any antibodies.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Jim tells Dwight, “If you’ve never been sick, then you don’t have any antibodies.”"
+  },
+  {
+    "id": "of-s1e3-hard-0011",
+    "context": "Conference room — bravado moment: Dwight boasts about self-control.",
+    "question": "What unusual claim does Dwight make about his body?",
+    "options": [
+      "He can raise and lower his cholesterol at will",
+      "He doesnt need rest or sleep",
+      "He can slow his heart rate to 20 bpm",
+      "He can digest raw beets in minutes"
+    ],
+    "answer": "He can raise and lower his cholesterol at will",
+    "difficulty": "hard",
+    "episode": 3,
+    "description": "Dwight: “Through concentration, I can raise and lower my cholesterol at will.”"
+  },
+{
+  "id": "of-s1e3-medium-0031",
+  "context": "Conference room — plan debate: Jim and Pam push back as Dwight boasts unusual control over his health.",
+  "question": "When Pam asks why he would ever want to raise his cholesterol, what does Dwight say?",
+  "options": ["So I can lower it.", "Because high cholesterol is healthy.", "To build antibodies.", "To qualify for the plan."],
+  "answer": "So I can lower it.",
+  "difficulty": "medium",
+  "episode": 3,
+  "description": "After claiming he can “raise and lower [his] cholesterol at will,” Pam asks, “Why would you want to raise your cholesterol?” Dwight replies, “So I can lower it.”"
+},
+  {
+    "id": "of-s1e3-hard-0014",
+    "context": "Conference room doorway — forms in hand: Dwight attempts a workaround.",
+    "question": "Which policy does Dwight propose for listing medical needs?",
+    "options": [
+      "Anonymous disease forms that he’ll \"see what I can do\" about",
+      "Private 1:1 interviews with HR",
+      "Submitting doctor’s notes directly to Jan",
+      "An all-hands meeting with a provider rep"
+    ],
+    "answer": "Anonymous disease forms that he’ll \"see what I can do\" about",
+    "difficulty": "hard",
+    "episode": 3,
+    "description": "He says to fill it out “anonymous… Or don’t write any disease down at all and it won’t be covered.”"
+  },
+  {
+    "id": "of-s1e3-medium-0015",
+    "context": "Parking lot exit — scheming: Michael heads out to source something fun.",
+    "question": "Which of these is NOT one of Michael’s attempted ‘surprise’ ideas?",
+    "options": [
+      "A free Atlantic City casino bus package",
+      "An industrial coal elevator \"ride\"",
+      "Laser tag in the mine",
+      "A company beach day with volleyball"
+    ],
+    "answer": "A company beach day with volleyball",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "He calls about a free casino bus and a 300-foot industrial coal elevator (mistaking it for a ride) and asks if there’s “laser tag or something.”"
+  },
+{
+  "id": "of-s1e3-medium-0036",
+  "context": "Bullpen — during the anonymous medical form bit: Jim notices Pam writing on the sheet and steps in with a joke.",
+  "question": "Which diseases does Jim say he's suffering from when he tells Pam not to write them?",
+  "options": ["Ebola and mad cow disease", "SARS and avian flu", "Smallpox and measles", "Scurvy and rickets"],
+  "answer": "Ebola and mad cow disease",
+  "difficulty": "medium",
+  "episode": 3,
+  "description": "Jim says, “Don’t write Ebola or mad cow disease. Right? ’Cause I’m suffering from both.”"
+},
+{
+  "id": "of-s1e3-hard-0032",
+  "context": "Bullpen — mid-day: Jim and Pam joke around while filling out Dwight’s anonymous medical form.",
+  "question": "What name does Jim give to Pam’s made-up teeth condition?",
+  "options": ["Spontaneous dental hydroplosion", "Acute tooth liquefaction syndrome", "Rapid enamel meltdown", "Sudden dental depolymerization"],
+  "answer": "Spontaneous dental hydroplosion",
+  "difficulty": "hard",
+  "episode": 3,
+  "description": "After Pam imagines her teeth “turn to liquid” and “drip down the back of [her] throat,” Jim names it “spontaneous dental hydroplosion.”"
+},
+  {
+    "id": "of-s1e3-hard-0017",
+    "context": "Conference room — crackdown: Dwight reads off alarming entries.",
+    "question": "Which of these is NOT one of the forged or absurd conditions Dwight cites?",
+    "options": ["Count Choculitis", "Hot-dog fingers", "Government-created killer nanorobot infection", "Werewolf lycanthropy"],
+    "answer": "Werewolf lycanthropy",
+    "difficulty": "hard",
+    "episode": 3,
+    "description": "He calls out “leprosy… flesh-eating bacteria… hot-dog fingers… government-created killer nanorobot infection… Count Choculitis.”"
+  },
+  {
+    "id": "of-s1e3-medium-0019",
+    "context": "Phone call to corporate: Dwight tries to flex authority upward.",
+    "question": "True or False: Jan tells Dwight he is not a manager of anything and instructs Michael to call her immediately.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Jan says, “You are not a manager of anything… When Michael gets back, you tell him to call me immediately.”"
+  },
+  {
+    "id": "of-s1e3-easy-0020",
+    "context": "Bullpen — sugar morale patch: Michael returns carrying something for everyone.",
+    "question": "What does Michael hand out to the staff?",
+    "options": ["Ice-cream sandwiches", "Donuts", "Pretzels", "Cupcakes"],
+    "answer": "Ice-cream sandwiches",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "He announces, “Ice-cream sandwiches! Aaaahh!” and passes them around."
+  },
+{
+  "id": "of-s1e3-easy-0035",
+  "context": "Bullpen — late afternoon: Michael returns handing out ice-cream sandwiches to the staff.",
+  "question": "What nickname does Michael give Stanley while passing out the snacks?",
+  "options": ["Stanley the manly", "Stanley the friendly", "The Big Tuna", "Stan the Man"],
+  "answer": "Stanley the manly",
+  "difficulty": "easy",
+  "episode": 3,
+  "description": "As he distributes the treats, Michael says, “Here you go, Stanley the manly.”"
+},
+  {
+    "id": "of-s1e3-hard-0021",
+    "context": "Bullpen — probing the ‘surprise’: Staff sanity-checks the situation.",
+    "question": "Who asks if the ice-cream is the big surprise because it’s been a horrible day?",
+    "options": ["Stanley", "Phyllis", "Angela", "Oscar"],
+    "answer": "Stanley",
+    "difficulty": "hard",
+    "episode": 3,
+    "description": "Stanley says, “This isn’t the big surprise, is it? Because we’ve been having a pretty horrible day.”"
+  },
+  {
+    "id": "of-s1e3-hard-0022",
+    "context": "Conference room — public readout: Dwight starts listing conditions.",
+    "question": "Which condition does Dwight read first, prompting confusion about anatomy?",
+    "options": ["Inverted penis", "Dermatitis", "Anal fissures", "Count Choculitis"],
+    "answer": "Inverted penis",
+    "difficulty": "hard",
+    "episode": 3,
+    "description": "He begins with “inverted penis,” leading Meredith to ask if he means something else and to clarify a hysterectomy vs. vɑginɑ."
+  },
+{
+  "id": "of-s1e3-medium-0034",
+  "context": "Conference room — public readout: Dwight begins listing anonymous medical conditions and asks people to acknowledge real ones.",
+  "question": "Which disease does Kevin say someone in the office might have?",
+  "options": ["Anal fissures", "Dermatitis", "Count Choculitis", "Hot-dog fingers"],
+  "answer": "Anal fissures",
+  "difficulty": "medium",
+  "episode": 3,
+  "description": "As Dwight reads the list, Kevin says, “That’s a real thing,” and adds, “Someone has it,” referring to anal fissures."
+},
+  {
+    "id": "of-s1e3-medium-0024",
+    "context": "Bullpen — end of day showdown: Michael tries to run out the clock.",
+    "question": "Which excuse does Michael use to avoid changing the plan before the deadline?",
+    "options": [
+      "It’s after five",
+      "The provider’s system is down",
+      "Jan already approved it",
+      "Corporate locked the options"
+    ],
+    "answer": "It’s after five",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "He looks at his watch: “Jan needs it by five, and… what time is it? … Ah, it’s after five.”"
+  },
+{
+  "id": "of-s1e3-medium-0033",
+  "context": "Bullpen — late afternoon: Michael tries to keep the staff engaged while dragging out his promised surprise.",
+  "question": "Who does Michael say he learned improv from?",
+  "options": ["Drew Carey and Ryan Stiles", "Robin Williams and Billy Crystal", "Tina Fey and Amy Poehler", "Wayne Brady and Colin Mochrie"],
+  "answer": "Drew Carey and Ryan Stiles",
+  "difficulty": "medium",
+  "episode": 3,
+  "description": "Michael boasts, “I learned improv from the greats, like… Drew Carey and Ryan Stiles,” before launching into impressions."
+},
+  {
+    "id": "of-s1e3-easy-0025",
+    "context": "Bullpen — final reveal attempt: Michael tries to stall with performance energy.",
+    "question": "Which comedic bit does Michael launch into while vamping for a ‘surprise’?",
+    "options": [
+      "Robin Williams/Mork-from-Ork impressions",
+      "A stand-up routine about airlines",
+      "A magic trick with cards",
+      "A juggling act with staplers"
+    ],
+    "answer": "Robin Williams/Mork-from-Ork impressions",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "He says he learned improv from “Drew Carey and Ryan Stiles,” then riffs, “[as Robin Williams] ‘Hi. I’m Mork from Ork.’”"
+  }
+]
+
+

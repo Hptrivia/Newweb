@@ -1,0 +1,474 @@
+
+[
+  {
+    "id": "atla-s3e18-easy-0020",
+    "context": "**SOZIN´S COMET**: Before any serious talk about Sozin’s Comet, the group is casually training and goofing around on a sunny shoreline near a Fire Nation house.",
+    "question": "At the beginning of the finale, where is Team Aang practicing and relaxing before Zuko explodes at them about the comet?",
+    "options": [
+      "Ember Island",
+      "The Western Air Temple courtyard",
+      "Ba Sing Se",
+      "Kyoshi Island"
+    ],
+    "answer": "Ember Island",
+    "difficulty": "easy",
+    "episode": 18,
+    "description": "The opening of Sozin’s Comet Part 1 shows Team Avatar training and playing on the beach at Ember Island, right outside Ozai’s former vacation house."
+  },
+  {
+    "id": "atla-s3e18-medium-0001",
+    "context": "Outside Ozai’s Ember Island beach house, Aang is firebending while Zuko pushes him to be more aggressive in his training.",
+    "question": "During Aang’s firebending lesson, what animal does Zuko tell him to roar like to sound more intimidating?",
+    "options": ["A tigerdillo", "A badgermole", "A komodo rhino", "A platypus bear"],
+    "answer": "A tigerdillo",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Zuko berates Aang’s weak roar and orders him to “roar like a tigerdillo,” pushing him to attack as if striking through an opponent’s heart."
+  },
+  {
+    "id": "atla-s3e18-medium-0003",
+    "context": "Down on the beach, the group starts sculpting in the sand while they mess around in the water and on the shore.",
+    "question": "Which of these is NOT one of the sand creations shown on the beach?",
+    "options": [
+      "A life-sized Appa sculpture",
+      "A detailed model of Ba Sing Se",
+      "A lumpy sand ‘Suki’ with seaweed hair",
+      "A flying boar emblem of the Beifong family"
+    ],
+    "answer": "A flying boar emblem of the Beifong family",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Aang proudly finishes a sand Appa, Toph sandbends an intricate Ba Sing Se, and Sokka makes a ridiculous ‘Suki’ statue, but no Beifong flying boar appears."
+  },
+  {
+    "id": "atla-s3e18-medium-0004",
+    "context": "Zuko suddenly storms in and blasts apart the group’s sand creations, prompting Katara to demand an explanation.",
+    "question": "When Katara asks what happened after Zuko’s outburst on the beach, what does Sokka complain about first?",
+    "options": [
+      "That Zuko almost hurt Aang",
+      "That Zuko destroyed his sand ‘Suki’ sculpture",
+      "That Zuko ruined Toph’s Ba Sing Se model",
+      "That Zuko scared Appa and Momo"
+    ],
+    "answer": "That Zuko destroyed his sand ‘Suki’ sculpture",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Sokka indignantly tells Katara that “Zuko’s gone crazy! I made a sand sculpture of Suki and he destroyed it!” before remembering to add that Zuko is also attacking Aang."
+  },
+  {
+    "id": "atla-s3e18-medium-0006",
+    "context": "After Aang airbends him out of the house, everyone confronts Zuko in the courtyard about his behavior.",
+    "question": "What alarming fact does Zuko throw at the group to justify why he’s so upset about them relaxing?",
+    "options": [
+      "Sozin’s Comet is only three days away",
+      "Ozai has already launched the invasion",
+      "Ba Sing Se has fallen again",
+      "The White Lotus has been captured"
+    ],
+    "answer": "Sozin’s Comet is only three days away",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Zuko yells, asking how they can “sit around having beach parties when Sozin’s Comet is only three days away,” furious that they’re not treating the threat seriously."
+  },
+  {
+    "id": "atla-s3e18-medium-0008",
+    "context": "In a flashback to a war meeting, Zuko recalls being asked for his opinion on the Earth Kingdom’s resilience.",
+    "question": "In Zuko’s flashback, what does he say the people of the Earth Kingdom can endure as long as they have it?",
+    "options": ["Home", "Strength", "Hope", "Leadership"],
+    "answer": "Hope",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Zuko tells the generals that Earth Kingdom citizens “can endure anything, as long as they have hope,” which leads Ozai to decide that their hope must be destroyed."
+  },
+  {
+    "id": "atla-s3e18-hard-0022",
+    "context": "During the same war meeting, Ozai listens as his generals analyzes the problem of lingering resistance in Ba Sing Se.",
+    "question": "In Ozai’s war council flashback, who specifically proposes using the airships to burn Ba Sing Se to the ground so the Earth Kingdom can never rise again?",
+    "options": [
+      "Azula",
+      "A high-ranking general",
+      "Fire Lord Ozai",
+      "Zuko"
+    ],
+    "answer": "Azula",
+    "difficulty": "hard",
+    "episode": 18,
+    "description": "When Ba Sing Se’s stubborn resistance is discussed, Azula coldly suggests using the new airship fleet to burn the city to the ground, shaping Ozai’s plan for total annihilation."
+  },
+  {
+    "id": "atla-s3e18-medium-0024",
+    "context": "In the Fire Nation throne room, Ozai unveils his new vision for the world as he addresses his forces about the comet.",
+    "question": "What new title does Fire Lord Ozai decide to call himself after announcing his plan to remake the world with Sozin’s Comet?",
+    "options": [
+      "The Phoenix King",
+      "The Dragon Emperor",
+      "The Supreme Fire Lord",
+      "The Sun King"
+    ],
+    "answer": "The Phoenix King",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "After outlining his plan to destroy the Earth Kingdom, Ozai declares that the world will know him not just as Fire Lord, but as the Phoenix King, ruler of a new era."
+  },
+  {
+    "id": "atla-s3e18-medium-0012",
+    "context": "Later in the courtyard, Zuko continues to train Aang for the coming duel with Ozai.",
+    "question": "Who does Zuko say invented the lightning redirection technique he teaches Aang?",
+    "options": ["Fire Lord Azulon", "Fire Lord Sozin", "Ozai", "Iroh"],
+    "answer": "Iroh",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Zuko explains that his uncle Iroh invented lightning redirection himself by learning to turn an enemy’s energy back on them."
+ },
+  {
+    "id": "atla-s3e18-medium-0023",
+    "context": "Later, Zuko explains to Aang how his uncle developed a unique technique for dealing with lightning.",
+    "question": "According to Zuko, who did Iroh study in order to invent lightning redirection?",
+    "options": [
+      "Waterbenders",
+      "Airbenders",
+      "Earthbenders",
+      "Dragons"
+    ],
+    "answer": "Waterbenders",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Zuko tells Aang that Iroh learned to redirect lightning by studying waterbenders—how they flow with energy instead of resisting it—and adapted that philosophy into a lightning redirection form."
+  },
+  {
+    "id": "atla-s3e18-hard-0015",
+    "context": "The dinner conversation shifts to what should be done with Ozai, and Aang desperately tries to imagine a non-lethal solution.",
+    "question": "What ridiculous bending idea does Aang propose as an alternative to killing the Fire Lord?",
+    "options": [
+      "Mudbending to bury him underground forever",
+      "Gluebending to stick his arms and legs together",
+      "Cloudbending to hide him in the sky",
+      "Vinebending to tie him to a tree for life"
+    ],
+    "answer": "Gluebending to stick his arms and legs together",
+    "difficulty": "hard",
+    "episode": 18,
+    "description": "Aang suggests making big pots of glue so he can use “gluebending” to stick Ozai’s arms and legs together, so he can’t bend anymore instead of being killed."
+  },
+  {
+    "id": "atla-s3e19-medium-0025",
+    "context": "After Aang disappears from Ember Island, the group searches desperately and Zuko suggests tracking him down the way he once hunted the Avatar.",
+    "question": "What is the name of the bounty hunter Zuko hires to help find Aang, and what kind of animal does she use to track people?",
+    "options": [
+      "June and her shirshu",
+      "June and her mongoose lizard",
+      "Lei and her komodo rhino",
+      "Lei and her eel hound"
+    ],
+    "answer": "June and her shirshu",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "Zuko leads the group to a rough tavern to find June, the same bounty hunter he used before, who tracks people using her scent-hunting shirshu."
+  },
+  {
+    "id": "atla-s3e19-easy-0026",
+    "context": "Outside the tavern, June whistles and her long-tongued tracking beast emerges so they can search for Aang.",
+    "question": "What is the name of June’s shirshu?",
+    "options": [
+      "Nyla",
+      "Kora",
+      "Mila",
+      "Rina"
+    ],
+    "answer": "Nyla",
+    "difficulty": "easy",
+    "episode": 19,
+    "description": "When the group meets June again, she calls out her shirshu by name—Nyla—the same creature that once paralyzed and hunted them across the Fire Nation."
+  },
+  {
+    "id": "atla-s3e19-medium-0009",
+    "context": "After not being able to track Aang, Zuko suggests looking for Iroh instead, Zuko looks for something that belonged to his uncle so the shirshu can catch the scent.",
+    "question": "What object of Iroh’s does Nyla sniff to track him?",
+    "options": ["His sock", "His robe", "His sandal", "His Pai Sho tile"],
+    "answer": "His sandal",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "June produces one of Iroh’s sandals, and Nyla sniffs it before heading off toward where the old general is hiding with the Order of the White Lotus."
+  },
+  {
+    "id": "atla-s3e19-medium-0010",
+    "context": "Following Nyla’s trail, the group travels until they reach a massive city where they finf Iroh.",
+    "question": "To which city does Nyla lead them when tracking Iroh?",
+    "options": ["Omashu", "Ba Sing Se", "Harbor City", "The Northern Water Tribe capital"],
+    "answer": "Ba Sing Se",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "Nyla’s path takes them right to the outskirts of Ba Sing Se, where the Order of the White Lotus has gathered to retake the city."
+  },
+  {
+    "id": "atla-s3e19-medium-0029",
+    "context": "Following June and Nyla’s trail, the group arrives at a remote White Lotus camp where several familiar masters are gathered.",
+    "question": "Which of the following Order of the White Lotus members do they NOT meet at the camp outside Ba Sing Se?",
+    "options": [
+      "Pakku",
+      "Jeong Jeong",
+      "Piandao",
+      "King Bumi",
+      "Huu"
+    ],
+    "answer": "Huu",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "At the White Lotus camp they are introduced to Pakku, Jeong Jeong, Piandao, Bumi, and Iroh, but Huu, the swamp waterbender, is not present or mentioned as a member there."
+  },
+  {
+    "id": "atla-s3e19-medium-0013",
+    "context": "One of the masters explains the organization’s purpose and Iroh’s role in uniting them.",
+    "question": "What formal title does Iroh hold within the Order of the White Lotus?",
+    "options": ["High Lotus", "Grand Lotus", "Dragon Lotus", "Supreme Lotus"],
+    "answer": "Grand Lotus",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "The masters say the message came from a Grand Lotus—Zuko’s uncle Iroh—revealing that he is the Grand Lotus of the Order of the White Lotus."
+  },
+  {
+    "id": "atla-s3e19-medium-0027",
+    "context": "On his strange journey toward the final battle, Aang seeks guidance from his predecessors in a quiet, misty spirit-like space.",
+    "question": "Which of the following Avatars does Aang NOT speak with when he asks past Avatars for advice about killing the Fire Lord?",
+    "options": [
+      "Avatar Roku",
+      "Avatar Kyoshi",
+      "Avatar Kuruk",
+      "Avatar Yangchen",
+      "Avatar Shin"
+    ],
+    "answer": "Avatar Shin",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "Aang meditates and speaks with Avatars Roku, Kyoshi, Kuruk, and Yangchen in sequence; there is no Avatar Shin among the predecessors he consults."
+  },
+  {
+    "id": "atla-s3e19-hard-0028a",
+    "context": "In his spiritual search for guidance, Aang first speaks with Avatar Roku, who reflects on his failures with Sozin and the start of the war.",
+    "question": "What core message does Avatar Roku give Aang about how to deal with Fire Lord Ozai?",
+    "options": [
+      "He must be decisive and fulfill his duty even if it’s hard",
+      "Justice brings peace, even if it means killing a tyrant",
+      "He must face his problems and shape his own destiny",
+      "The Avatar must be willing to sacrifice personal needs for the sake of the world"
+    ],
+    "answer": "He must be decisive and fulfill his duty even if it’s hard",
+    "difficulty": "hard",
+    "episode": 19,
+    "description": "Roku tells Aang that his own hesitation with Sozin helped cause the war, and urges Aang to be decisive and carry out his duty as Avatar, even when it’s painful."
+  },
+  {
+    "id": "atla-s3e19-hard-0028b",
+    "context": "Next, Aang visits Avatar Kyoshi, who recalls the harsh decisions she made to keep peace in her time.",
+    "question": "What core message does Avatar Kyoshi give Aang about how to deal with Fire Lord Ozai?",
+    "options": [
+      "Justice brings peace, even if it means killing a tyrant",
+      "He must be decisive and fulfill his duty even if it’s hard",
+      "He must face his problems and shape his own destiny",
+      "The Avatar must be willing to sacrifice personal needs for the sake of the world"
+    ],
+    "answer": "Justice brings peace, even if it means killing a tyrant",
+    "difficulty": "hard",
+    "episode": 19,
+    "description": "Kyoshi defends her decision about Chin the Conqueror and tells Aang that she did what she had to do, insisting that true peace sometimes requires harsh justice."
+  },
+  {
+    "id": "atla-s3e19-medium-0030",
+    "context": "Far away from his friends, Aang drifts in the middle of the ocean and wakes up on a strange, living ‘island.’",
+    "question": "What ancient creature does Aang ultimately discover who prepares him for the final battle?",
+    "options": [
+      "A Lion Turtle",
+      "A giant badgermole",
+      "A sky bison colossus",
+      "A serpent whale"
+    ],
+    "answer": "A Lion Turtle",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "Aang realizes the ‘island’ he’s on is actually a gigantic Lion Turtle, an ancient being that carries him and teaches him the art of energybending."
+  },
+  {
+    "id": "atla-s3e19-medium-0014",
+    "context": "At the White Lotus encampment outside Ba Sing Se, after planning the liberation of the city and Aang’s fight with Ozai, Zuko discusses the need to return to the Fire Nation to confront Azula.",
+    "question": "Who volunteers to go with Zuko to face Azula?",
+    "options": ["Katara", "Toph", "Sokka", "Suki"],
+    "answer": "Katara",
+    "difficulty": "medium",
+    "episode": 19,
+    "description": "When Zuko says he has to face Azula, Katara steps forward and offers to go with him, knowing how dangerous Azula is and that he shouldn’t have to face his sister alone."
+  },
+ {
+    "id": "atla-s3e20-easy-0104",
+    "context": "In the Fire Nation capital plaza, Azula kneels in her coronation robes as the Fire Sages prepare to crown her. Appa swoops in above the crowd and Zuko drops down in front of the dais, publicly challenging her claim to the throne.",
+    "question": "What is the name of the traditional Fire Nation firebending duel that Zuko and Azula agree to fight?",
+    "options": [
+      "Agni Kai",
+      "Lei Tai",
+      "Agni Tai",
+      "Lei Kai"
+    ],
+    "answer": "Agni Kai",
+    "difficulty": "easy",
+    "episode": 20,
+    "description": "When Zuko interrupts the coronation, Azula proposes they settle who should rule with an Agni Kai, the formal one-on-one firebending duel used in the Fire Nation to resolve matters of honor."
+  },
+  {
+    "id": "atla-s3e20-medium-0105",
+    "context": "The plaza falls silent as Zuko stands across from Azula, both in fighting stances with the comet burning overhead. Just before they launch their first blasts, Azula breaks the silence with one last, cold remark to her brother.",
+    "question": "What does Azula say to Zuko right before their final Agni Kai begins?",
+    "options": [
+      "“I’m sorry it has to end this way, brother.”",
+      "“You should have stayed on my side, Zuko.”",
+      "“This is how it was always meant to be, little brother.”",
+      "“Don’t worry, I’ll make this quick, brother.”"
+    ],
+    "answer": "“I’m sorry it has to end this way, brother.”",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "As they face each other in the plaza, Azula looks at Zuko and says, “I’m sorry it has to end this way, brother,” before unleashing the opening volley of their final duel."
+  },
+  {
+    "id": "atla-s3e20-medium-0102",
+    "context": "Zuko gains the upper hand in the battle. Azula hauls herself up from the ground, hair coming loose and face twisted with fury, as Zuko stands ready in the plaza with flames still fading around them.",
+    "question": "What taunt does Zuko throw at Azula about right before she unleashes a fatal attack?",
+    "options": [
+      "“No lightning today? What’s the matter? Afraid I’ll redirect it?”",
+      "“Is that all you’ve got, Azula?”",
+      "“Afraid to use your lightning Azula?”",
+      "“Come on, Azula. I expected more from the new Fire Lord.”"
+    ],
+    "answer": "“No lightning today? What’s the matter? Afraid I’ll redirect it?”",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "Seeing her shaken and furious, Zuko needles her by asking, “No lightning today? What’s the matter? Afraid I’ll redirect it?”, slipping into his redirection stance and goading her into using her most dangerous move."
+  },
+  {
+    "id": "atla-s3e20-medium-0007",
+    "context": "In the Fire Nation capital courtyard, blue flames still hanging in the air, Zuko lies on the ground after taking Azula’s lightning for Katara, leaving Katara to face Azula alone amid the shattered fountains and scattered chains.",
+    "question": "How does Katara ultimately defeat Azula?",
+    "options": [
+      "Freezes and then chains her",
+      "Overwhelms her with water blasts",
+      "Freezes her in a block of ice",
+      "Uses bloodbending"
+    ],
+    "answer": "Freezes and then chains her",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "Katara lures Azula into attacking above a grate, freezes both of them in the rising water, then thaws herself out and bends the chains into ice restraints that bind Azula to the ground."
+  },
+  {
+    "id": "atla-s3e21-medium-0032",
+    "context": "In Wulong Forest, after a massive clash of elements, Aang stands before Ozai and tries one last time to avoid further fighting.",
+    "question": "How does Ozai respond when Aang tells him they don’t have to fight and that he can end the conflict by choosing peace?",
+    "options": [
+      "“I do have the power. I have all the power in the world!”",
+      "“Only the Avatar can end this war.”",
+      "“Peace is for the weak, Avatar.”",
+      "“You will kneel or you will die.”"
+    ],
+    "answer": "“I do have the power. I have all the power in the world!”",
+    "difficulty": "medium",
+    "episode": 21,
+    "description": "When Aang offers him a chance to stop, Ozai rejects the idea and boasts that he does have the power, claiming he has all the power in the world thanks to Sozin’s Comet."
+  },
+  {
+    "id": "atla-s3e21-hard-0106",
+    "context": "After being blasted into a rock outcropping, Aang is hurt, triggering a surge of energy through his body.",
+    "question": "What exactly causes Aang to re-enter the Avatar State during the final battle?",
+    "options": [
+      "His back scar is driven against a jagged rock",
+      "He is backed into a corner with Ozai about to win",
+      "Ozai hits his back scar with lightning",
+      "Ozai threatens to kill his friends afterwards"
+    ],
+    "answer": "His back scar is driven against a jagged rock",
+    "difficulty": "hard",
+    "episode": 21,
+    "description": "Aang is slammed into a rock that strikes the point of his old lightning scar, unblocking the energy and snapping him back into the full Avatar State."
+  },
+  {
+    "id": "atla-s3e21-medium-0001",
+    "context": "In Wulong Forest under the burning sky, Aang has just slammed into the rock that re-awakens his Avatar State and turns to face Ozai again.",
+    "question": "When Aang rises in the fully awakened Avatar State, how is his power visually shown around him as he confronts Ozai?",
+    "options": [
+      "A swirling sphere of all four elements encasing him",
+      "A cloak of blue fire surrounding only his body",
+      "A tornado of air that hides him completely from view",
+      "A ring of floating glowing stones around his head"
+    ],
+    "answer": "A swirling sphere of all four elements encasing him",
+    "difficulty": "medium",
+    "episode": 21,
+    "description": "Aang stands at the center of a rotating shell of water, earth, fire, and air, showing he’s fully connected to the Avatar State as he bears down on Ozai."
+  },
+{
+  "id": "atla-s3e21-medium-0123",
+  "context": "With Ozai pinned in rock and the glow of the Avatar State gone, Aang refuses to kill him. Ozai, still raging, spits one last burst of fire that Aang easily blows away with air before stepping in close.",
+  "question": "After Ozai tries to attack again even after Aang has stopped the Avatar State, what precise technique does Aang use next?",
+  "options": [
+    "He places one hand on Ozai’s forehead and one on his chest",
+    "He presses both palms flat against Ozai’s chest",
+    "He clasps his hands around Ozai’s head",
+    "He joins his palms over Ozai’s heart"
+  ],
+  "answer": "He places one hand on Ozai’s forehead and one on his chest",
+  "difficulty": "medium",
+  "episode": 21,
+  "description": "After batting away Ozai’s last fire breath, Aang steps forward and deliberately places one hand on Ozai’s forehead and one on his chest, mirroring the Lion Turtle’s posture as he starts energybending to strip away Ozai’s firebending."
+},
+  {
+    "id": "atla-s3e21-hard-0122",
+    "context": "As the blue and red energies battle, Aang remembers the Lion Turtle’s words about the danger of bending another’s energy and the condition needed to survive it.",
+    "question": "According to the Lion Turtle’s warning that Aang recalls during the struggle, what must be true of the Avatar’s spirit to bend another’s energy safely?",
+    "options": [
+      "It must be unbendable, or they will be corrupted and destroyed",
+      "It must be perfectly calm, or the energy will spiral out of control",
+      "It must be in harmony with all four elements, or the balance will shatter",
+      "It must be overflowing with compassion, or the technique will fail"
+    ],
+    "answer": "It must be unbendable, or they will be corrupted and destroyed",
+    "difficulty": "hard",
+    "episode": 21,
+    "description": "The Lion Turtle tells Aang that to bend another’s energy, his own spirit must be unbendable; otherwise, the other person’s energy will overtake him and corrupt or destroy him, which we see nearly happen as Ozai’s red energy begins to overwhelm the blue before Aang forces it back."
+  },
+  {
+    "id": "atla-s3e21-medium-0010",
+    "context": "In Ba Sing Se, Iroh and the Order of the White Lotus stand on the walls at sunrise as the city is finally free again.",
+    "question": "What does Iroh say he plans to do now that Ba Sing Se has been liberated?",
+    "options": [
+      "Serve as general of the Earth Kingdom armies",
+      "Return to the Fire Nation as Zuko’s advisor",
+      "Retire and run his tea shop again",
+      "Travel the world"
+    ],
+    "answer": "Retire and run his tea shop again",
+    "difficulty": "medium",
+    "episode": 21,
+    "description": "Looking out over the peaceful city, Iroh tells the others he’ll go back to doing what he truly loves: serving tea at his shop in Ba Sing Se."
+  },
+  {
+    "id": "atla-s3e21-medium-0012",
+    "context": "Later, in the capital prison, Zuko visits Ozai alone, now powerless and chained in a dim cell.",
+    "question": "What crucial question does Zuko ask his father during the prison visit?",
+    "options": [
+      "Why he banished him in the first place",
+      "Where his mother is",
+      "Why he sent him to hunt the Avatar",
+      "Whether he ever truly cared about him"
+    ],
+    "answer": "Where his mother is",
+    "difficulty": "medium",
+    "episode": 21,
+    "description": "Standing over his defeated father, Zuko demands to know where his mother is, confronting the mystery that has haunted him since childhood."
+  }
+]
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,454 @@
+[
+  {
+    "id": "bbt-s1e5-medium-0001",
+    "context": "**EPISODE 5**: At the Cheesecake Factory, the guys are at a table playing a homemade strategy game that mixes real historical battles with pop-culture characters.",
+    "question": "What historic battle does Sheldon say the North wins again thanks to his move?",
+    "options": [
+      "The Battle of Antietam",
+      "The Battle of Gettysburg",
+      "The Battle of Bull Run",
+      "The Battle of Yorktown"
+    ],
+    "answer": "The Battle of Gettysburg",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Sheldon announces he’ll flank the Tennessee Volunteers and declares that “the North once again wins the Battle of Gettysburg.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0002",
+    "context": "Still in the game, the guys argue about what fictional characters each side can field alongside their armies.",
+    "question": "Which two powerful characters does Howard say the South still has on its side?",
+    "options": [
+      "Batman and King Kong",
+      "Hulk and Wolverine",
+      "Superman and Godzilla",
+      "Thor and Optimus Prime"
+    ],
+    "answer": "Superman and Godzilla",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Howard points out that the South still has “two infantry divisions, plus Superman and Godzilla,” escalating the absurdity of the battle."
+  },
+  {
+    "id": "bbt-s1e5-medium-0004",
+    "context": "Raj jumps into the battlefield argument by adding some of his own cultural mythology to the mix.",
+    "question": "Which two Hindu deities does Raj suggest Robert E. Lee could charge the line with?",
+    "options": [
+      "Vishnu and Lakshmi",
+      "Kali and Durga",
+      "Shiva and Ganesh",
+      "Indra and Agni"
+    ],
+    "answer": "Shiva and Ganesh",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Raj jokes that Lee could charge the line with “Shiva and Ganesh,” later explaining their capabilities."
+  },
+  {
+    "id": "bbt-s1e5-medium-0032",
+    "context": "Still arguing about their ridiculous battle setup, Raj defends adding Hindu gods to the Confederate side.",
+    "question": "According to Raj, what roles do Ganesh and Shiva play when he suggests using them in the battle?",
+    "options": [
+      "Ganesh is the creator and Shiva is the destroyer",
+      "Ganesh is the remover of obstacles and Shiva is the destroyer",
+      "Ganesh is the god of war and Shiva controls time",
+      "Ganesh controls time and Shiva controls space"
+    ],
+    "answer": "Ganesh is the remover of obstacles and Shiva is the destroyer",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Raj says, “Excuse me, Ganesh is the remover of obstacles, and Shiva is the destroyer. When the smoke clears, Abraham Lincoln will be speaking Hindi and drinking mint juleps.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0033",
+    "context": "Penny has been told by her boss they need to order, and Howard decides to brag about his workout before choosing.",
+    "question": "What does Howard ultimately order after Penny shuts down his \"man-sized appetite\" flex?",
+    "options": [
+      "The Classic Burger",
+      "The Heart Smart Platter",
+      "Chicken Alfredo",
+      "The Steak Combo"
+    ],
+    "answer": "The Heart Smart Platter",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "After Penny replies “A shower” to his cardio-funk brag, Howard backs off and says, “I’ll take the heart smart platter.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0034",
+    "context": "Penny lists the hamburger choices when Leonard tells her to just get Sheldon a burger.",
+    "question": "Which of these burgers does Penny NOT mention when listing options for Sheldon?",
+    "options": [
+      "Classic Burger",
+      "Ranch House Burger",
+      "Barbecue Burger",
+      "Kobe Burger",
+      "Bacon Burger"
+    ],
+    "answer": "Bacon Burger",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Penny offers the Classic Burger, Ranch House Burger, Barbecue Burger and the Kobe Burger. A “Bacon Burger” never comes up."
+  },
+  {
+    "id": "bbt-s1e5-medium-0008",
+    "context": "Leonard suggests Sheldon just order a burger, but Sheldon complains about liking burgers only from a specific place.",
+    "question": "Which chain restaurant does Sheldon mention as having the single burger he trusts?",
+    "options": [
+      "In-N-Out",
+      "Big Boy",
+      "Burger King",
+      "Five Guys"
+    ],
+    "answer": "Big Boy",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Sheldon wishes they could go to Big Boy, pointing out that “they only have one burger. The Big Boy.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0009",
+    "context": "Faced with a list of burger options, Sheldon tries to map one of them onto his beloved usual order.",
+    "question": "Which burger does Sheldon finally agree to order after Penny compares it to his favourite from Big Boy?",
+    "options": [
+      "Classic Burger",
+      "Ranch House Burger",
+      "Barbecue Burger",
+      "Kobe Burger"
+    ],
+    "answer": "Barbecue Burger",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "When Penny says the Barbecue Burger is like the Big Boy, Sheldon reluctantly says, “Fine, I’ll have the Barbecue Burger.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0031",
+    "context": "At the Cheesecake Factory table, Leonard introduces Penny to the woman he does research with at the university.",
+    "question": "What is the name of the female scientist who works with Leonard?",
+    "options": [
+      "Lesley Winkle",
+      "Amy Farrah Fowler",
+      "Beverly Hofstadter",
+      "Bernadette Rostenkowski"
+    ],
+    "answer": "Lesley Winkle",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Leonard tells Penny that “Lesley and I do research together at the University,” and Lesley introduces herself with her usual sarcasm."
+  },
+  {
+    "id": "bbt-s1e5-medium-0011",
+    "context": "Penny meets Lesley Winkle for the first time and realises Leonard works with a female scientist.",
+    "question": "How does Lesley jokingly describe herself when Penny is surprised to see a woman scientist?",
+    "options": [
+      "\"Brains first, boobs second.\"",
+      "\"Come for the breasts, stay for the brains.\"",
+      "\"A rare combination of curves and calculus.\"",
+      "\"Half lab rat, half bombshell.\""
+    ],
+    "answer": "\"Come for the breasts, stay for the brains.\"",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "When Penny says “Oh, wow, a girl scientist,” Lesley quips, “Yep, come for the breasts, stay for the brains.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0036",
+    "context": "Penny is surprised to learn about Leonard’s musical side.",
+    "question": "When Penny asks, what instrument does Leonard say he plays?",
+    "options": [
+      "Violin",
+      "Piano",
+      "Cello",
+      "Clarinet"
+    ],
+    "answer": "Cello",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Leonard explains he plays the cello and jokes that his parents felt naming him Leonard and putting him in advanced placement classes “wasn’t getting me beaten up enough.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0012",
+    "context": "Lesley invites Leonard to join a group connected to the physics department.",
+    "question": "What ensemble does Lesley recruit Leonard to join?",
+    "options": [
+      "A physics department jazz band",
+      "The university marching band",
+      "The physics department string quartet",
+      "A campus rock band"
+    ],
+    "answer": "The physics department string quartet",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "She tells Leonard that the physics department string quartet needs a new cellist and asks if he’s in."
+  },
+  {
+    "id": "bbt-s1e5-medium-0035",
+    "context": "Lesley tells Leonard the physics department string quartet needs a new cellist.",
+    "question": "What is the name of the former cellist Lesley says they used to have?",
+    "options": [
+      "Elliot Wong",
+      "Eric Wu",
+      "Daniel Kim",
+      "Martin Chang"
+    ],
+    "answer": "Elliot Wong",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "When Leonard asks what happened to the previous player, Lesley says, “He switched over to high energy radiation research…,” identifying him as Elliot Wong."
+  },
+  {
+    "id": "bbt-s1e5-medium-0038",
+    "context": "On the stairwell, Leonard spirals into an overcomplicated analysis of what Penny meant about him and Lesley being a cute couple.",
+    "question": "What does Sheldon tell Leonard right after following his long, convoluted rant about Penny’s intentions?",
+    "options": [
+      "“You’re overthinking this.”",
+      "“You’re a lucky man, Leonard.”",
+      "“You should just ask her out.”",
+      "“This is why no one dates physicists.”"
+    ],
+    "answer": "“You’re a lucky man, Leonard.”",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "After Leonard’s logic maze, Sheldon says, “You’re a lucky man, Leonard. You’re talking to one of the three men in the Western hemisphere capable of following that train of thought.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0019",
+    "context": "After the other musicians leave, Lesley makes her intentions totally explicit to Leonard.",
+    "question": "How does Lesley describe the real purpose of staying behind to \"practise\" the middle section with Leonard?",
+    "options": [
+      "As professional mentorship",
+      "As a way to boost their musical chemistry",
+      "As a pretext for letting him know she’s sexually available",
+      "As preparation for an upcoming concert"
+    ],
+    "answer": "As a pretext for letting him know she’s sexually available",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "She tells him plainly that hanging back to practise is “a pretext for letting you know that I’m sexually available” and that she’s “good to go.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0037",
+    "context": "During string quartet rehearsal in the apartment, Lesley flirts openly with Leonard while they play.",
+    "question": "Which double entendre does Lesley use on Leonard while they are playing together?",
+    "options": [
+      "“I admire your fingering.”",
+      "“Your bowing could use work.”",
+      "“You should really join the orchestra.”",
+      "“Try to count properly this time.”"
+    ],
+    "answer": "“I admire your fingering.”",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "As they rehearse, she tells him, “I admire your fingering,” and then adds, “Maybe some time you can try that on my instrument,” making the double entendre explicit."
+  },
+  {
+    "id": "bbt-s1e5-medium-0039",
+    "context": "Lesley peppers the episode with risqué wordplay about Leonard’s musicianship and posture with the cello.",
+    "question": "Which of these is NOT a double entendre Lesley uses in this episode?",
+    "options": [
+      "“I admire your fingering.”",
+      "“Maybe some time you can try that on my instrument.”",
+      "“Before I saw you handling that beautiful piece of wood between your legs.”",
+      "“Why don’t you practice on my equipment.”"
+    ],
+    "answer": "“Why don’t you practice on my equipment.”",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Lesley actually says “I admire your fingering,” suggests he try it “on my instrument,” and later mentions seeing him handle “that beautiful piece of wood between your legs.” She never says “practice on my equipment.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0040",
+    "context": "When Leonard hesitates about hooking up, Lesley bluntly brings up his reaction to Penny.",
+    "question": "What physical reaction does Lesley say she noticed when Leonard looked at Penny?",
+    "options": [
+      "He started sweating",
+      "His hands shook",
+      "His pupils dilated",
+      "He couldn’t make eye contact"
+    ],
+    "answer": "His pupils dilated",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Lesley tells him she thought she saw his pupils dilate when he looked at Penny, adding that unless he’s “a heroin addict,” that points to sexual attraction."
+  },
+  {
+    "id": "bbt-s1e5-medium-0041",
+    "context": "Leonard tries to deflect Lesley’s observation about his pupils when Penny walks by.",
+    "question": "What does Leonard say he ate for breakfast that could show opiates on a urine test, even though it wouldn’t dilate his pupils?",
+    "options": [
+      "A poppy seed bagel",
+      "A protein shake",
+      "Leftover curry",
+      "A bacon and egg sandwich"
+    ],
+    "answer": "A poppy seed bagel",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "He says he had “a poppy seed bagel for breakfast, which could give a positive urine test for opiates but certainly not dilate my pupils.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0042",
+    "context": "Sheldon urgently knocks on Penny’s door at night, trying to get help interpreting what’s happening in the apartment.",
+    "question": "According to Sheldon, semiotics is concerned with what field of study?",
+    "options": [
+      "The study of numbers and patterns",
+      "The study of human behaviour",
+      "The study of signs and symbols",
+      "The study of subatomic particles"
+    ],
+    "answer": "The study of signs and symbols",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "He tells Penny he needs her opinion on a matter of semiotics and explains: “Semiotics. The study of signs and symbols, it’s a branch of philosophy related to linguistics.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0043",
+    "context": "Standing in the hallway with Penny, Sheldon insists he doesn’t fully understand the social code around the tie on Leonard’s doorknob.",
+    "question": "How old does Sheldon say he was when he went to college?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "13"
+    ],
+    "answer": "11",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "When Penny teases that he went to college, Sheldon replies, “Yes, but I was eleven,” to explain why he missed this kind of social education."
+  },
+  {
+    "id": "bbt-s1e5-medium-0044",
+    "context": "Outside Leonard’s room, Sheldon and Penny listen to the music and notice the tie hanging on the doorknob.",
+    "question": "Which artist’s song is playing from Leonard’s bedroom while the tie is on the doorknob?",
+    "options": [
+      "Bryan Adams",
+      "Phil Collins",
+      "Bon Jovi",
+      "Eric Clapton"
+    ],
+    "answer": "Bryan Adams",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Bryan Adams’ “Have You Ever Loved A Woman” is playing, and Penny jokes that either Leonard has a girl in there or “he’s lost his tie rack and gotten really into Bryan Adams.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0045",
+    "context": "Sheldon and Penny stand awkwardly in the hallway as sounds drift from behind Leonard’s door.",
+    "question": "What phrase do they hear Lesley call out from behind Leonard’s bedroom door?",
+    "options": [
+      "“Oh Leonard, you magnificent beast.”",
+      "“You’re amazing, Leonard.”",
+      "“Oh Leonard, you magnificent lover.”",
+      "“Play that cello, Leonard.”"
+    ],
+    "answer": "“Oh Leonard, you magnificent beast.”",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "From inside the bedroom, Lesley can be heard exclaiming, “Oh Leonard, you magnificent beast,” leaving no doubt about what’s happening."
+  },
+  {
+    "id": "bbt-s1e5-medium-0022",
+    "context": "Sheldon explains to Penny that Leonard has had girls over before, but usually he plans ahead when that happens.",
+    "question": "Where does Sheldon say he went last time Leonard’s romantic plans gave him enough warning?",
+    "options": [
+      "On a cruise to the Arctic",
+      "To a physics conference in Switzerland",
+      "On a weekend trip to Las Vegas",
+      "To visit his family in Texas"
+    ],
+    "answer": "On a cruise to the Arctic",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "He says that last time there was planning and courtship, and he had enough notice to “book a cruise to the Arctic to see a solar eclipse.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0023",
+    "context": "The next morning, Sheldon discovers that someone has altered his precious equations on the living room board.",
+    "question": "What specific change does Sheldon notice in his work on quantum chromodynamics?",
+    "options": [
+      "The variables were renamed",
+      "The sign of the beta function was changed",
+      "A constant was deleted",
+      "An exponent was doubled"
+    ],
+    "answer": "The sign of the beta function was changed",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "He panics that “someone’s tampered with my equations” and points out that in the beta-function of quantum chromodynamics, “the sign’s been changed.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0024",
+    "context": "Lesley walks in and reveals that she adjusted Sheldon’s equations during the night.",
+    "question": "What property of quarks does Lesley say Sheldon can now show thanks to her correction?",
+    "options": [
+      "That quarks are confined at low energies",
+      "That quarks can form exotic hadrons",
+      "That quarks are asymptotically free at high energies",
+      "That quarks can exist independently in vacuum"
+    ],
+    "answer": "That quarks are asymptotically free at high energies",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Lesley explains that fixing the sign lets him “show that quarks are asymptotically free at high energies,” which Sheldon grudgingly admits solves his problem."
+  },
+  {
+    "id": "bbt-s1e5-medium-0026",
+    "context": "Leonard decides not to overthink Penny’s reaction and focuses on his chance with Lesley instead.",
+    "question": "What future possibility does Sheldon grumble about when Leonard mentions Lesley’s brilliance?",
+    "options": [
+      "Having to share tenure with her",
+      "Sharing a Nobel Prize with his booty call",
+      "Letting her co-author all his papers",
+      "Being overshadowed by her at the university"
+    ],
+    "answer": "Sharing a Nobel Prize with his booty call",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Sheldon complains, “Do you realise I may have to share a Nobel Prize with your booty call?” when Leonard praises Lesley’s intelligence."
+  },
+  {
+    "id": "bbt-s1e5-medium-0029",
+    "context": "Leonard asks what happens next between them after Lesley outlines the biochemistry.",
+    "question": "Until roughly when does Lesley say she’s probably \"good\" in terms of sex drive after their night together?",
+    "options": [
+      "Thanksgiving",
+      "Christmas",
+      "New Year’s",
+      "Valentine’s Day"
+    ],
+    "answer": "New Year’s",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "She matter-of-factly tells him, “I don’t know about your sex drive, but I’m probably good till New Years.”"
+  },
+  {
+    "id": "bbt-s1e5-medium-0030",
+    "context": "Back at the Cheesecake Factory later, Sheldon reassesses his opinion of the restaurant while eating a burger.",
+    "question": "Why does Sheldon say this restaurant’s hamburger surpasses the Big Boy burger?",
+    "options": [
+      "It uses fresher ingredients",
+      "It’s a double decker-decker",
+      "It’s a single-decker",
+      "It comes with better fries"
+    ],
+    "answer": "It’s a single-decker",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "He explains that this hamburger beats the Big Boy because “this is a single decker hamburger whereas the Big Boy is a double decker,” giving it a better meat-to-bun-to-condiment ratio."
+  },
+  {
+    "id": "bbt-s1e5-medium-0046",
+    "context": "Later at the Cheesecake Factory, Sheldon talks with Leonard about reworking his weekly food schedule around their new hamburger discovery.",
+    "question": "Which restaurant name does Sheldon say has always confused him because, as he notes, \"you can’t grow soup\"?",
+    "options": [
+      "Soup Plantation",
+      "Soup Station",
+      "The Soup Factory",
+      "Soup Barn"
+    ],
+    "answer": "Soup Plantation",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "He explains he might drop Soup Plantation from his rotation, saying “the name always confused me anyway, Soup Plantation. You can’t grow soup.”"
+  }
+]
+

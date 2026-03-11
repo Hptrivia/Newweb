@@ -1,0 +1,324 @@
+[
+  {
+    "id": "pb-s1e20-medium-0001",
+    "context": "**FOX RIVER ESCAPE**: In the guards' break room, Bellick discovers the hole and brawls violently with Westmoreland until one final blow knocks him out.",
+    "question": "What does Westmoreland ultimately use to knock Bellick unconscious during their fight in the break room?",
+    "options": ["A metal thermos", "The shovel", "A chair", "A coffee pot"],
+    "answer": "A metal thermos",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "After Bellick shoves him onto the counter and reaches for the shovel again, Westmoreland grabs a nearby metal thermos and smashes it against Bellick's head, knocking him out."
+  },
+  {
+    "id": "pb-s1e20-medium-0002",
+    "context": "Out in the yard, T-Bag warns the crew about what usually dooms escape attempts, while Westmoreland pushes a trash can, hiding a serious injury.",
+    "question": "According to T-Bag, what has always led to him being caught when trying to escape the authorities?",
+    "options": ["The dogs", "Roadblocks", "Helicopters", "Snitches"],
+    "answer": "The dogs",
+    "difficulty": "medium",
+    "episode": 20,
+    "description": "T-Bag tells the others that the numerous times he’s been apprehended while trying to elude the authorities, it’s \"always because of the damn dogs.\" Turns out you can run from just about everything in your life, 'cept your own particular stink"
+  },
+{
+  "id": "pb-s1e20-medium-0017",
+  "context": "In the chow room, Stolte and Patterson talk about Bellick not showing up while Michael listens from the food line.",
+  "question": "According to Stolte, for how many years has he not beaten Bellick to work?",
+  "options": ["Eight years", "Five years", "Ten years", "Twelve years"],
+  "answer": "Eight years",
+  "difficulty": "medium",
+  "episode": 20,
+  "description": "While wondering where Bellick is, Stolte says he hasn't beaten that guy to work in eight years, emphasizing how unusual Bellick's absence is."
+},
+{
+  "id": "pb-s1e20-hard-0018",
+  "context": "As the escape draws near, different members of the crew prepare their cells and bunks in various ways so the dogs won’t easily track their scent.",
+  "question": "Which of the following is NOT something the prisoners use to help disguise or alter their scent before the escape?",
+  "options": ["Brussels sprouts", "Peroxide", "Soap", "Fertilizer", "Garlic"],
+  "answer": "Garlic",
+  "difficulty": "hard",
+  "episode": 20,
+  "description": "Brussel Sprouts, Soap, Fertilizer were used and C-Note provided peroxide from the kitchen fpr disguises, but no one uses garlic."
+},
+{
+  "id": "pb-s1e20-hard-0020",
+  "context": "From the prison yard, Abruzzi calls his outside contact to accelerate the escape plan and confirms the exact location of the getaway van.",
+  "question": "In Abruzzi's phone call about the accelerated escape, what is the name of his contact, on which street is the van waiting, how many yards away, and behind what landmark?",
+  "options": [
+    "Maggio / Fitz Street / 200 yards / behind the old mill",
+    "Franco / Percy Street / 100 yards / behind the train station",
+    "Rizzo / English Street / 150 yards / behind the warehouse",
+    "Carlo / Main Street / 300 yards / behind the church"
+  ],
+  "answer": "Maggio / Fitz Street / 200 yards / behind the old mill",
+  "difficulty": "expert",
+  "episode": 20,
+  "description": "On the call, Abruzzi tells Maggio there’s been an acceleration and confirms the van is waiting on Fitz Street, 200 yards behind the old mill."
+},
+{
+  "id": "pb-s1e20-medium-0024",
+  "context": "On A-Wing, Stolte brings a package to Tweener, explains it’s Avocado’s gear, and calls to the guard booth to open and then close the same cell.",
+  "question": "What is the cell number that Tweener and Avocado share?",
+  "options": ["88", "42", "23", "19"],
+  "answer": "88",
+  "difficulty": "hard",
+  "episode": 20,
+  "description": "Stolte arrives with Avocado’s gear and calls out, \"Open on 88!\" before leaving and saying, \"Close on 88,\" confirming that 88 is Tweener and Avocado’s cell."
+},
+{
+  "id": "pb-s1e20-hard-0025",
+  "context": "As night falls, different members of the escape crew prepare their cells in their own way so the dogs won’t easily track their scent.",
+  "question": "Which combination correctly matches each inmate to what they use to help mask their scent before the escape?",
+  "options": [
+    "Westmoreland – soap / T-Bag – Brussels sprouts / Abruzzi – fertilizer",
+    "Westmoreland – fertilizer / T-Bag – soap / Abruzzi – Brussels sprouts",
+    "Westmoreland – Brussels sprouts / T-Bag – fertilizer / Abruzzi – soap",
+    "Westmoreland – soap / T-Bag – fertilizer / Abruzzi – Brussels sprouts"
+  ],
+  "answer": "Westmoreland – soap / T-Bag – Brussels sprouts / Abruzzi – fertilizer",
+  "difficulty": "hard",
+  "episode": 20,
+  "description": "T-Bag crushes and spreads Brussels sprouts over his bed, Abruzzi covers his mattress with fertilizer, and Westmoreland scrubs his cell walls with a bar of soap to alter his scent."
+},
+{
+  "id": "pb-s1e20-easy-0026",
+  "context": "In Michael’s cell, he explains to Sucre how they’ll blend in with the inmates from the Psych Ward by bleaching their jumpsuits.",
+  "question": "What color uniforms do the inmates in the Psych Ward wear, prompting Michael to bleach their clothes for camouflage?",
+  "options": ["White", "Blue", "Orange", "Grey"],
+  "answer": "White",
+  "difficulty": "easy",
+  "episode": 20,
+  "description": "Michael explains that a bunch of cons in prison blues would stand out, but the inmates in the Psych Ward all wear white, so he uses peroxide to bleach their jumpsuits as camouflage."
+},
+{
+  "id": "pb-s1e21-medium-0029",
+  "context": "As Michael finalizes the escape crew, Sucre’s cousin—already involved in getting extra uniforms—joins them and has to squeeze nervously through the hole behind the toilet.",
+  "question": "What is the name of Sucre's cousin who takes part in the escape with Michael’s crew?",
+  "options": ["Manche", "Chuy", "Luis", "Jorge"],
+  "answer": "Manche",
+  "difficulty": "medium",
+  "episode": 21,
+  "description": "Sucre’s cousin Manche is the overweight inmate who helped arrange extra suits; during the escape he nervously climbs into the hole behind Michael’s toilet and T-Bag has to kick him through."
+},
+{
+  "id": "pb-s1e21-medium-0028",
+  "context": "During tier time, the escape crew casually gather around Michael's cell to pass jumpsuits down the hole, and Sucre´s cousin Manche nervously steps up to join them.",
+  "question": "What does T-Bag say to Manche when he comes into Michael's cell just before the escape?",
+  "options": [
+    "\"If you get stuck in one of them pipes, boy...\"",
+    "\"If you slow us down, you're stayin' behind, boy.\"",
+    "\"If you get stuck in that hole, you're dead, boy.\"",
+    "\"If you mess this up, you're dead, boy.\""
+  ],
+  "answer": "\"If you get stuck in one of them pipes, boy...\"",
+  "difficulty": "medium",
+  "episode": 21,
+  "description": "As Manche arrives at Michael's cell looking nervous, T-Bag eyes him and taunts, \"If you get stuck in one of them pipes, boy...\" before Michael cuts him off with a curt, \"Bull.\""
+},
+{
+  "id": "pb-s1e21-hard-0031",
+  "context": "In the pipes, Michael uses foot powder on the keypad to reveal which four digits have been pressed before trying several sequences to open the secured door.",
+  "question": "Which of the following is the correct code Michael ultimately needs to enter on the keypad to get the door open?",
+  "options": ["1358", "3581", "5813", "8135"],
+  "answer": "8135",
+  "difficulty": "hard",
+  "episode": 21,
+  "description": "After the powder shows that 1, 3, 5, and 8 have been used, Michael tries 1358, then 3581, then 8135. The sequence 8135 finally works and unlocks the door."
+},
+{
+  "id": "pb-s1e21-medium-0032",
+  "context": "In the tunnels, an alarm suddenly blares and the crew panics, thinking the escape is blown, until Michael explains the real source of the noise.",
+  "question": "What specific move does Michael make to create the diversion that allows the crew to move from the pipes into the psych ward and continue the escape?",
+  "options": [
+    "He triggers the fire alarm in the psych ward",
+    "He cuts power to A-Wing",
+    "He starts a small fire in the psych ward",
+    "He overloads the infirmary security system"
+  ],
+  "answer": "He triggers the fire alarm in the psych ward",
+  "difficulty": "medium",
+  "episode": 21,
+  "description": "When the alarm sounds and everyone starts to panic, Michael says it's the fire alarm in the psych ward. When Sucre asks how he knows, Michael calmly replies that he set it off, using it as a planned diversion."
+},
+{
+  "id": "pb-s1e22-medium-0036",
+  "context": "As the escape progresses and the crew think their group is set, an unexpected figure suddenly appears with a radio and demands to be included.",
+  "question": "At what point does Haywire actually join and force his way into Michael’s escape?",
+  "options": [
+    "Inside the psych ward",
+    "In the infirmary",
+    "In the tunnels",
+    "Outside the psych ward"
+  ],
+  "answer": "In the infirmary",
+  "difficulty": "medium",
+  "episode": 22,
+  "description": "Haywire reveals himself in the infirmary doorway with a radio, saying he knew it as soon as he saw them go into Psych Ward and insisting he comes along, effectively joining the escape right there."
+},
+{
+  "id": "pb-s1e21-medium-0035",
+  "context": "In the infirmary, the crew tie the fire hose to the window bars and run it through the elevator, but the doors keep bouncing back open when they try to send it down.",
+  "question": "Which inmate steps into the elevator and finally gets it to close so the hose can yank the window bars out?",
+  "options": ["Tweener", "Sucre", "C-Note", "Micheal"],
+  "answer": "Tweener",
+  "difficulty": "medium",
+  "episode": 21,
+  "description": "When the elevator doors keep reopening on the hose, T-Bag mocks Michael about the time left, but it’s Tweener who slips inside the elevator, hits the button, and lets the doors shut properly so the hose can rip the bars free."
+},
+{
+  "id": "pb-s1e22-medium-0037",
+  "context": "At the infirmary window, the escape crew start crossing the cable strung over the yard toward the outer wall, lining up to decide who goes first across.",
+  "question": "During the escape, which two inmates are the first and second to make it over the wall?",
+  "options": [
+    "Lincoln and Abruzzi",
+    "Abruzzi and Lincoln",
+    "Sucre and Lincoln",
+    "Sucre and Abruzzi"
+  ],
+  "answer": "Lincoln and Abruzzi",
+  "difficulty": "medium",
+  "episode": 22,
+  "description": "Lincoln goes out first across the cable, with Abruzzi following right after. Before climbing out, Abruzzi says, \"Okay, after Lincoln, we go alphabetically,\" and C-Note fires back, \"Whoa, hold on, A-bruzzi!\""
+},
+{
+  "id": "pb-s1e22-hard-0039",
+  "context": "Mortally wounded in the infirmary during the escape, Westmoreland finally tells Michael exactly where he hid the stolen money years ago.",
+  "question": "According to Westmoreland, where is the stolen money hidden?",
+  "options": [
+    "Under a silo at the Double K Ranch just outside Tooele, Utah",
+    "Under a silo at the  Blackfoot Ranch just outside Salt lake, Utah",
+    "Buried under the barn at Blackfoot Ranch near Helena, Arizona",
+    "Buried under the barn at Double K Ranch near Helena, Montana"
+  ],
+  "answer": "Under a silo at the Double K Ranch just outside Tooele, Utah",
+  "difficulty": "hard",
+  "episode": 22,
+  "description": "As he’s bleeding out, Westmoreland tells Michael the cash is buried under a silo at the Double K Ranch just outside Tooele, Utah, giving him the exact ranch and location of the hidden stash."
+},
+{
+  "id": "pb-s1e22-medium-0040",
+  "context": "While dying from his wound, Westmoreland corrects the official story about the size of the stash he stole, saying the government downplayed the real figure.",
+  "question": "How much money does Westmoreland say is actually buried at the Double K Ranch?",
+  "options": [
+    "$1 million",
+    "$2 million",
+    "$3 million",
+    "$5 million"
+  ],
+  "answer": "$5 million",
+  "difficulty": "medium",
+  "episode": 22,
+  "description": "Westmoreland explains that the government \"lowballed it to the papers\" and that the truth is it’s not one million under that silo but five million dollars hidden there."
+},
+{
+  "id": "pb-s1e22-medium-0041",
+  "context": "As Westmoreland lies dying in the infirmary during the escape, he makes Michael promise to look after his family and pass on a final message to his child.",
+  "question": "What is the name of Westmoreland’s daughter that he asks Michael to send his love to?",
+  "options": ["Anna", "Emily", "Sarah", "Claire"],
+  "answer": "Anna",
+  "difficulty": "medium",
+  "episode": 22,
+  "description": "With his last strength, Westmoreland tells Michael to \"give Anna her Papa's love,\" revealing his daughter’s name as Anna while he passes on the location of the hidden money."
+},
+{
+  "id": "pb-s1e22-hard-0038",
+  "context": "At the infirmary window, Lincoln crosses the cable first and Abruzzi follows. One by one, the rest of the crew climb across toward the outer wall while the alarms begin to blare.",
+  "question": "After Abruzzi, in what order do the remaining successful escapees make it over the wall?",
+  "options": [
+    "Sucre – Haywire – Tweener – T-Bag – C-Note – Michael",
+    "Sucre – Tweener – Haywire – C-Note – T-Bag – Michael",
+    "Sucre – C-Note – T-Bag – Haywire – Tweener – Michael",
+    "Sucre – T-Bag – C-Note – Tweener – Haywire – Michael"
+  ],
+  "answer": "Sucre – Haywire – Tweener – T-Bag – C-Note – Michael",
+  "difficulty": "hard",
+  "episode": 22,
+  "description": "Lincoln goes first and Abruzzi second. After them, Sucre crosses, then Haywire seizes his chance and climbs out, followed by Tweener, then T-Bag, then C-Note. Michael is the last of the successful escapees to go over the wall, while Manche falls when the cable rips free."
+},
+{
+  "id": "pb-s1e22-medium-0042",
+  "context": "As the escape crew are crossing the cable strung from the infirmary window to the outer wall, the alarms blare, the floodlights come on, and one more inmate tries to grab on at the last second.",
+  "question": "Which inmate’s attempt to grab onto the cable causes it to rip free from the infirmary wall and come crashing down?",
+  "options": [
+    "Manche",
+    "Tweener",
+    "C-Note",
+    "T-Bag"
+  ],
+  "answer": "Manche",
+  "difficulty": "easy",
+  "episode": 22,
+  "description": "After the others have gone ahead, Manche clambers out of the infirmary window and grabs the cable; his added weight makes the attachment tear out of the wall, the line rips free, he falls to the ground, and the whole setup collapses while Michael barely makes it over."
+},
+{
+  "id": "pb-s1e22-easy-0043",
+  "context": "After the alarms blare and the spotlights sweep the yard, Fox River goes into full lockdown while the guards realize multiple inmates have made it over the wall.",
+  "question": "By the end of the escape, how many inmates have successfully broken out of Fox River?",
+  "options": ["5", "6", "8", "10"],
+  "answer": "8",
+  "difficulty": "easy",
+  "episode": 22,
+  "description": "Manche is caught at the wall and Westmoreland dies inside, but eight convicts make it out: Michael, Lincoln, Sucre, C-Note, Abruzzi, T-Bag, Tweener, and Haywire."
+},
+{
+  "id": "pb-s1e23-easy-0044",
+  "context": "After guards haul Bellick up out of the hole beneath the guards’ break room, filthy and furious, he immediately barks an order before heading into the manhunt.",
+  "question": "Right after being rescued from the hole under the break room, what are Bellick’s first words?",
+  "options": [
+    "Get me my shotgun",
+    "Where are they?",
+    "I'm going to kill them",
+    "Did they make it out?",
+    "Get me my rifle"
+  ],
+  "answer": "Get me my shotgun",
+  "difficulty": "easy",
+  "episode": 23,
+  "description": "As soon as Stolte and another CO drag him out of the tunnel, Bellick snarls, \"Get me my shotgun!\" before the other officer even finishes mentioning Pope’s orders, making it his very first line after being pulled out."
+},
+{
+  "id": "pb-s1e23-medium-0046",
+  "context": "In the blue van on the way to the airstrip, tensions explode when Abruzzi finally gets a gun on T-Bag and is ready to settle their score for good.",
+  "question": "When Abruzzi draws a gun on him in the van, how does T-Bag protect himself from being killed on the spot?",
+  "options": [
+    "He handcuffs himself to Michael",
+    "He grabs the steering wheel and forces the van off the road",
+    "He threatens to shout and alert nearby police cars",
+    "He handcuffs himself to Sucre"
+  ],
+  "answer": "He handcuffs himself to Michael",
+  "difficulty": "medium",
+  "episode": 23,
+  "description": "As Abruzzi pulls a gun, T-Bag snaps one side of a handcuff onto his own wrist and the other onto Michael’s, forcing Abruzzi to hesitate because shooting T-Bag would leave Michael chained to a dead body he still needs for the escape."
+},
+{
+  "id": "pb-s1e23-hard-0049",
+  "context": "Later that night, the escape crew take shelter in a barn near a farm after running from the quarry and the roadblocks, still chained together by the handcuffs that T-Bag locked onto himself and Michael in the van.",
+  "question": "How do the escapees finally separate Michael and T-Bag from the handcuffs in the barn?",
+  "options": [
+    "Abruzzi chops off T-Bag’s hand with an axe",
+    "Sucre manages to pry the cuffs open with rusty shears",
+    "C-Note uses a hammer and chisel to break the chain",
+    "Michael picks the lock using a piece of wire"
+  ],
+  "answer": "Abruzzi chops off T-Bag’s hand with an axe",
+  "difficulty": "hard",
+  "episode": 23,
+  "description": "In the barn, Sucre’s attempt with rusty shears fails, and while T-Bag mocks them, Abruzzi steps up behind him and brings an axe down on his wrist, severing T-Bag’s hand so Michael is no longer chained to him."
+},
+{
+  "id": "pb-s1e23-easy-0050",
+  "context": "During the post-escape manhunt near Fox River, Tweener gets separated from the main group and has to improvise his own way past road construction and tracking dogs.",
+  "question": "How does Tweener ultimately get away from the immediate Fox River manhunt on his own?",
+  "options": [
+    "He hides in the back of a horse trailer that drives away",
+    "He steals a young girl's bicycle and rides away",
+    "He steals a police cruiser during the chaos",
+    "He sneaks onto a passing freight train at the tracks"
+  ],
+  "answer": "He hides in the back of a horse trailer that drives away",
+  "difficulty": "easy",
+  "episode": 23,
+  "description": "With dogs closing in near a road construction site, Tweener spots a horse trailer in the traffic line, rushes across, climbs into the back, and escapes hidden inside as it pulls away."
+}
+]
+

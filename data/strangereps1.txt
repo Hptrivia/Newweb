@@ -1,0 +1,277 @@
+[
+  {
+    "id": "st-s2e8-easy-0002",
+    "context": "**THE MIND FLAYER**: In the car, the kids argue about what to call the demo-creatures from the lab.",
+    "question": "What nickname does Dustin insist on using for the Demogorgon-like creatures from the lab?",
+    "options": ["Demo-pups", "Demo-dogs", "Demo-beasts", "The Mind Flayer"],
+    "answer": "Demo-dogs",
+    "difficulty": "easy",
+    "episode": 8,
+    "description": "Dustin proudly coins the term “Demo-dogs” as a mash-up of Demogorgon and dogs."
+  },
+  {
+    "id": "st-s2e8-easy-0003",
+    "context": "The boys use D&D lore to explain the shadow monster and its control over the creatures.",
+    "question": "Which Dungeons & Dragons monster do the kids use as an analogy for the shadow monster?",
+    "options": ["The Mind Flayer", "The Lich King", "The Beholder", "The Mind Slayer"],
+    "answer": "The Mind Flayer",
+    "difficulty": "easy",
+    "episode": 8,
+    "description": "Mike labels the shadow monster as “the Mind Flayer,” an entity that enslaves others through psychic control."
+  },
+  {
+    "id": "st-s2e8-medium-0006",
+    "context": "Inside the lab, Hopper and Owens argue about how to escape the lockdown and restore power.",
+    "question": "What programming language does Owens say you’d need to know to reboot the lab’s computer system and override the security codes?",
+    "options": ["COBOL", "Pascal", "BASIC", "FORTRAN"],
+    "answer": "BASIC",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "Owens says the system can be unlocked remotely 'with a computer,' but only if you know BASIC."
+  },
+  {
+    "id": "st-s2e8-easy-0021",
+    "context": "Inside Hawkins Lab, Someone runs for the front door after restoring the power, only to be ambushed as Joyce watches in horror.",
+    "question": "Which character is killed by the Demo-dogs inside Hawkins National Laboratory?",
+    "options": ["Bob", "Owens", "Mr Clarke", "Dr. Brenner"],
+    "answer": "Bob",
+    "difficulty": "easy",
+    "episode": 8,
+    "description": "Bob Newby makes it almost to the front doors of the lab before Demo-dogs swarm and kill him."
+  },
+  {
+    "id": "st-s2e8-easy-0001",
+    "context": "In the Byers’ house, Dustin tries to rally everyone after Bob’s death and talks about honoring him.",
+    "question": "What school club did Bob originally found, according to the boys?",
+    "options": ["Hawkins AV", "Hawkins Radio", "Hawkins Chess Club", "Hawkins Science Bowl"],
+    "answer": "Hawkins AV",
+    "difficulty": "easy",
+    "episode": 8,
+    "description": "Dustin says Bob was the original founder of Hawkins AV and even petitioned the school for it."
+  },
+  {
+    "id": "st-s2e8-medium-0008",
+    "context": "At the Byers’ house, Joyce tries to reach Will emotionally while he’s bound to the chair.",
+    "question": "Which childhood drawing does Joyce describe to remind Will of who he is?",
+    "options": [
+      "His first drawing of the Demogorgon",
+      "A rainbow spaceship he designed",
+      "A dragon attacking a castle",
+      "A family portrait with Castle Byers"
+    ],
+    "answer": "A rainbow spaceship he designed",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "She recalls him drawing his own 'rainbow ship' with all 120 crayon colors."
+  },
+  {
+    "id": "st-s2e8-medium-0027",
+    "context": "While Will is tied to the chair, Joyce reminds him of specific dates and memories from his childhood.",
+    "question": "What date does Joyce say is Will’s birthday?",
+    "options": ["March 22nd", "February 14th", "April 3rd", "October 10th"],
+    "answer": "March 22nd",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "Joyce asks if he knows what March 22nd is and answers that it’s his birthday."
+  },
+  {
+    "id": "st-s2e8-hard-0028",
+    "context": "Joyce, Mike, and the others share memories to pull Will back from the Mind Flayer’s control.",
+    "question": "Which of these memories is NOT mentioned while they try to bring Will back?",
+    "options": [
+      "Staying up all night building Castle Byers in the rain",
+      "Will drawing his own rainbow spaceship with new crayons",
+      "Mike meeting Will on the swings on the first day of kindergarten",
+      "Will’s first bike ride without training wheels"
+    ],
+    "answer": "Will’s first bike ride without training wheels",
+    "difficulty": "hard",
+    "episode": 8,
+    "description": "They recall the rainbow spaceship, Castle Byers, and Mike meeting him on the swings, but never mention a first bike ride."
+  },
+  {
+    "id": "st-s2e8-medium-0009",
+    "context": "To learn what Will is saying, the group listens to signals he tries to show them.",
+    "question": "What method do the kids use to translate Will’s tapping into words?",
+    "options": ["Binary code", "Semaphore", "Morse code", "A D&D cipher"],
+    "answer": "Morse code",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "Dustin identifies it as Morse code and they decode the message together."
+  },
+  {
+    "id": "st-s2e8-hard-0010",
+    "context": "Will spells out a brief message to his family and friends while possessed.",
+    "question": "What exact two-word message does Will spell out in Morse code to warn the others?",
+    "options": ["Shut gate", "Close gate", "Burn it", "Kill him"],
+    "answer": "Close gate",
+    "difficulty": "hard",
+    "episode": 8,
+    "description": "The tapping translates to 'CLOSE GATE,' revealing the only way to stop the Mind Flayer."
+  },
+  {
+    "id": "st-s2e9-medium-0016",
+    "context": "Joyce, Jonathan, and Nancy implement their plan to drive the Mind Flayer out of Will.",
+    "question": "What method do they use in the cabin to make Will’s body uninhabitable for the Mind Flayer?",
+    "options": [
+      "Dousing him in ice water",
+      "Subjecting him to intense heat",
+      "Injecting him with sedatives",
+      "Using loud sound waves"
+    ],
+    "answer": "Subjecting him to intense heat",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "They super-heat the cabin with heaters and a fire, trying to 'burn' the creature out of him."
+  },
+  {
+    "id": "st-s2e8-easy-0022",
+    "context": "The kids argue in the junkyard about the small creature Dustin secretly kept and raised when they encounter him.",
+    "question": "What name did Dustin give to his pet creature from the Upside Down?",
+    "options": ["Dart", "Dorg", "Spike", "Rex"],
+    "answer": "Dart",
+    "difficulty": "easy",
+    "episode": 8,
+    "description": "Dustin names the creature Dart, short for D’Artagnan, before realizing it’s a young Demogorgon."
+  },
+  {
+    "id": "st-s2e8-medium-0023",
+    "context": "On the tracks, Dustin insists the creature they saw was Dart, pointing out a specific feature.",
+    "question": "How does Dustin convince Lucas that the creature they saw is definitely Dart?",
+    "options": [
+      "Missing front tooth",
+      "Yellow pattern on its butt",
+      "Blue pattern on its face",
+      "Scar over its eye"
+    ],
+    "answer": "Yellow pattern on its butt",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "Dustin points out the identical yellow pattern on Dart’s backside as proof it’s the same creature."
+  },
+  {
+    "id": "st-s2e8-easy-0024",
+    "context": "The kids realize Dart has been eating more than leftover snacks.",
+    "question": "What is the name of Dustin’s cat that Dart ate?",
+    "options": ["Mews", "Smokey", "Tiger", "Buttons"],
+    "answer": "Mews",
+    "difficulty": "easy",
+    "episode": 8,
+    "description": "Dustin guiltily admits Dart ate his cat, Mews."
+  },
+  {
+    "id": "st-s2e9-medium-0017",
+    "context": "Deep in the tunnels, Dustin’s old pet stands between the kids and escape.",
+    "question": "What does Dustin feed Dart to win safe passage in the tunnels?",
+    "options": ["Twinkies", "Three Musketeers", "Peanut butter crackers", "Milky Way"],
+    "answer": "Three Musketeers",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "He pulls out their favorite nougat-filled candy and tosses it so Dart will let them pass."
+  },
+  {
+    "id": "st-s2e9-medium-0029",
+    "context": "At the cabin, Mike tearfully explains how long he’s been trying to reach Eleven.",
+    "question": "For how many days does Mike say he called Eleven every night after she disappeared?",
+    "options": ["187 days", "274 days", "353 days", "400 days"],
+    "answer": "353 days",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "Mike says, 'I called you every night. Every night for... 353 days,' before admitting he never stopped trying."
+  },
+  {
+    "id": "st-s2e9-medium-0031",
+    "context": "Kali’s earlier lesson echoes in Eleven’s mind as she faces the gate and channels her rage to strengthen her powers.",
+    "question": "What does Kali tell Eleven to draw on from her past to fuel her power when closing the gate?",
+    "options": [
+      "Something that makes her happy",
+      "Something that comforts her",
+      "Something that angers her",
+      "Something she regrets"
+    ],
+    "answer": "Something that angers her",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "Kali says, “Find something from your past, something that angers you. Now channel it,” which Eleven uses as she screams for “Papa” at the gate."
+  },
+  {
+    "id": "st-s2e9-medium-0032",
+    "context": "As she levitates at the gate, Eleven remembers Brenner’s words about what she did and what it turned her into.",
+    "question": "While closing the gate, how does Eleven describe herself after remembering what she did at the lab?",
+    "options": [
+      "I'm the hero",
+      "I'm the weapon",
+      "I'm the monster",
+      "I'm the mistake"
+    ],
+    "answer": "I'm the monster",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "In Brenner’s memory sequence, Eleven says, “I’m the monster,” before pushing through the pain to seal the gate."
+  },
+  {
+    "id": "st-s2e9-easy-0032",
+    "context": "During a TV news segment, the national media describes the government cover-up involving a Hawkins teen death.",
+    "question": "What is the full name of the Hawkins resident whose death and cover-up the news report exposes?",
+    "options": ["Diane Sawyer", "Barbara Holland", "Sarah Clarke", "Kelly Klein"],
+    "answer": "Barbara Holland",
+    "difficulty": "easy",
+    "episode": 9,
+    "description": "The report states that several officials admitted involvement in the death and cover-up of Hawkins resident Barbara Holland."
+  },
+  {
+    "id": "st-s2e9-medium-0033",
+    "context": "The broadcast mentions a journalist dispatched to Hawkins to interview residents about the lab scandal and Barb’s death.",
+    "question": "What is the name of the reporter the TV network sends to Hawkins to cover the story about Barb and the lab?",
+    "options": ["April Kline", "Diane Sawyer", "Kelly Klein", "Sarah Clarke"],
+    "answer": "April Kline",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "The voice-over says, “We sent our own April Kline to Hawkins to speak to residents.”"
+  },
+  {
+    "id": "st-s2e9-medium-0033",
+    "context": "Following Eleven’s effort at the gate, the media spins an official story about what really happened at Hawkins Lab and to Barb.",
+    "question": "According to the TV news report, how did “officially” Barbara Holland die near Hawkins Lab?",
+    "options": [
+      "In a car accident on the way home",
+      "Due to exposure to an experimental chemical asphyxiant",
+      "In an accidental fire at the facility",
+      "From a structural collapse inside the lab"
+    ],
+    "answer": "Due to exposure to an experimental chemical asphyxiant",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "The report claims Barb died from an experimental chemical asphyxiant that leaked from the lab, covering up the true Upside Down cause."
+  },
+  {
+    "id": "st-s2e9-medium-0034",
+    "context": "In the aftermath, Owens and Hopper talk in the hospital as the government tries to contain the fallout from the Barb cover-up.",
+    "question": "What does Dr. Owens hand Hopper in the hospital that hints at a new, legal life for Eleven?",
+    "options": [
+      "A cassette tape of his statement",
+      "A house deed in Hopper’s name",
+      "An envelope with new identity papers",
+      "A keycard to a cabin"
+    ],
+    "answer": "An envelope with new identity papers",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "Owens gives Hopper an envelope—implied to contain documents like a birth certificate—so Eleven can live openly under a new legal identity."
+  },
+  {
+    "id": "st-s2e9-medium-0020",
+    "context": "Mike and Eleven finally get a quiet moment together at the school dance.",
+    "question": "What classic song is playing when Mike and Eleven share their slow dance and kiss at the Snow Ball?",
+    "options": [
+      "Time After Time",
+      "Every Breath You Take",
+      "Take On Me",
+      "In the Air Tonight"
+    ],
+    "answer": "Every Breath You Take",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "The Police’s “Every Breath You Take” plays as they awkwardly figure out how to slow dance and kiss."
+  }
+]

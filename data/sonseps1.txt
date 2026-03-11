@@ -1,0 +1,304 @@
+[
+{
+  "id": "soa-s5e1-easy-0301",
+  "context": "**OPIES´S DEATH**: Damon Pope wages war on SAMCRO after a personal tragedy hits him directly, starting the sequence of retaliation, setups, and prison time that eventually results in Opie’s death.",
+  "question": "What event sets off the chain reaction that leads to Pope targeting SAMCRO and ultimately to Opie’s death in prison?",
+  "options": [
+    "Tig accidentally kills Pope’s daughter",
+    "SONS accidentally kill Pope´s daughter during a shootout",
+    "SONS attacks Niners on the street",
+    "Tig accidentally kills Pope´s girlfriend"
+  ],
+  "answer": "Tig accidentally kills Pope’s daughter",
+  "difficulty": "easy",
+  "episode": "S05E01",
+  "description": "Tig’s mistaken hit on Laroy results in Pope’s daughter being killed, triggering Pope’s brutal retaliation against SAMCRO."
+},
+  {
+    "id": "soa-s5e1-medium-0001",
+    "context": "Early in the season, the Sons discuss the retaliations that triggered this entire war with Damon Pope.",
+    "question": "What was the name of Damon Pope’s daughter whose accidental death set off his revenge campaign against SAMCRO?",
+    "options": ["Veronica Pope", "Lola Pope", "Darla Pope", "Emily Pope"],
+    "answer": "Veronica Pope",
+    "difficulty": "medium",
+    "episode": 1,
+    "description": "Tig mistakenly killed Pope’s daughter Veronica during a botched retaliation, igniting Pope’s brutal, personal vendetta against SAMCRO."
+  },
+{
+  "id": "soa-s5e1-medium-0302",
+  "context": "Right before Pope reveals his plan, a corrupt detective connected to him is the one who manipulates Tig into showing up at the wrong place at the wrong time.",
+  "question": "What is the name of the detective working for Damon Pope who lures Tig into the trap?",
+  "options": [
+    "Detective Goodman",
+    "Detective Marshall",
+    "Detective Torres",
+    "Detective Munson"
+  ],
+  "answer": "Detective Goodman",
+  "difficulty": "medium",
+  "episode": "S05E01",
+  "description": "Detective Goodman, secretly aligned with Pope, tricks Tig into the location where Pope ambushes him."
+},
+{
+  "id": "soa-s5e1-hard-0303",
+  "context": "In Pope’s most brutal act against SAMCRO, he forces Tig to watch the execution of his daughter — an event that completely alters the trajectory of the season.",
+  "question": "How does Damon Pope kill Tig’s daughter?",
+  "options": [
+    "Burns her alive",
+    "Shoots her",
+    "Beats her to death with a pipe and then burns her",
+    "Shoots her, then sets her on fire"
+  ],
+  "answer": "Burns her alive",
+  "difficulty": "hard",
+  "episode": "S05E01",
+  "description": "Pope has her burned alive in front of Tig, making it one of the most traumatic moments in the series and pushing events toward Opie’s later sacrifice."
+},
+  {
+    "id": "soa-s5e1-medium-0002",
+    "context": "When Pope retaliates for his daughter’s death, Tig is forced to watch as he loses someone of his own.",
+    "question": "Which of Tig’s daughters does Pope murder as revenge for Veronica’s death?",
+    "options": ["Dawn", "Fawn"],
+    "answer": "Dawn",
+    "difficulty": "medium",
+    "episode": 1,
+    "description": "Pope burns Tig’s daughter Dawn alive in front of him, mirroring the pain Pope felt over Veronica."
+  },
+{
+  "id": "soa-s5e1-medium-0304",
+  "context": "After the chaos caused by the hit gone wrong, Pope eliminates Laroy’s successor and uses his body to frame the Sons, giving the police grounds to arrest them.",
+  "question": "What is the name of Laroy’s replacement who is killed and found in the pit?",
+  "options": [
+    "Darnell",
+    "Ginger",
+    "Pike",
+    "Rockmond"
+  ],
+  "answer": "Ginger",
+  "difficulty": "medium",
+  "episode": "S05E01",
+  "description": "Pope kills Ginger, Laroy’s new second-in-command, and leaves the body in the pit to set up SAMCRO."
+},
+  {
+    "id": "soa-s5e1-medium-0003",
+    "context": "As SAMCRO faces legal heat after the warehouse attack, warrants are issued for specific members, orchestrated by Pope.",
+    "question": "Which Sons had active warrants out for their arrest?",
+    "options": ["Jax, Tig, Opie & Chibs", "Jax, Opie & Tig", "Jax, Tig, Juice, Opie & Chibs", "Jax, Tig & Chibs"],
+    "answer": "Jax, Tig & Chibs",
+    "difficulty": "medium",
+    "episode": 1,
+    "description": "Jax, Tig, and Chibs all had outstanding warrants; Opie voluntarily entered lockup to stay close to Jax."
+  },
+  {
+    "id": "soa-s5e1-medium-0004",
+    "context": "During booking for county lockup, Jax arranges protection from an outside ally.",
+    "question": "Who did the Sons reach out to for inside protection once they learned they were being sent to county?",
+    "options": ["Romeo Parada", "Marcus Alvarez", "Henry Lin", "The Niners", "Grim Bastards"],
+    "answer": "Romeo Parada",
+    "difficulty": "medium",
+    "episode": 1,
+    "description": "Jax contacted Romeo Parada to ensure the Sons had pull and coverage inside county jail."
+  },
+  {
+    "id": "soa-s5e1-medium-0005",
+    "context": "Throughout early Season 5, the Sons are deeply entangled with a dangerous cartel.",
+    "question": "What is the name of the cartel SAMCRO is working with during this season?",
+    "options": ["Galindo Cartel", "Lobos Sonora", "Juárez Cartel", "Los Reyes"],
+    "answer": "Galindo Cartel",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "The Sons were running guns and muling cocaine for the Galindo Cartel under Romeo Parada and Luis Torres."
+  },
+  {
+    "id": "soa-s5e1-medium-0006",
+    "context": "During financial negotiations with Pope in Prison, Jax compares Pope’s demands to the money the Sons already earn muling cocaine.",
+    "question": "How much money were the Sons making per kilo muling cartel coke, and how much did Pope demand as his share?",
+    "options": ["100k/50k", "150k / 75k", "50k / 25k", "200k / 100k"],
+    "answer": "100k/50k",
+    "difficulty": "medium",
+    "episode": 1,
+    "description": "The club earned roughly $100,000 per run for the cartel, while Pope demanded a $50,000 payout."
+  },
+  {
+    "id": "soa-s5e5-medium-0013",
+    "context": "While discussing with Jax, Pope mentions his fail safe plan that protects him from being killed .",
+    "question": "How much money did Pope say he put up as the bounty for the person who kills him?",
+    "options": ["5 million", "2 million", "20 million", "10 million"],
+    "answer": "5 million",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "Pope’s organization offers $5 million for Pope’s killer, creating fear throughout Oakland and Charming."
+  },
+  {
+    "id": "soa-s5e2-medium-0007",
+    "context": "Inside county, the orchestrator of the inmate beatings makes himself known.",
+    "question": "What is the name of the corrupt sergeant who ran the beatdowns inside county jail?",
+    "options": ["Sergeant Mackey", "Sergeant Gaines", "Sergeant Weller", "Sergeant Brooks"],
+    "answer": "Sergeant Mackey",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Sergeant Mackey worked with Pope’s crew, arranging staged inmate fights to break the Sons’ morale."
+  },
+  {
+    "id": 8,
+    "context": "Inside County, the sergeant makes it clear that one Son has to die to balance the books ad Jax has to choose.",
+    "question": "In County lockup, what does Opie do to seal his fate and ensure he’s the Son chosen for the fatal prison fight?",
+    "options": [
+      "He punches the guard in the face",
+      "He spits in the guard’s face",
+      "He tackles the guard to the floor",
+      "He headbutts the guard in the face"
+    ],
+    "answer": "He headbutts the guard in the face",
+    "difficulty": "medium",
+    "episode": "S05E03",
+    "description": "Opie headbutts the guard in the face as Jax is about to make his choice, which is what gets him thrown into the box and picked for the death fight."
+  },
+{
+  "id": "soa-s5e3-medium-0023",
+  "context": "Right before the guards drag him into the makeshift fight cage, Opie turns back toward Jax and the others. In a calm, resigned voice, he speaks his final words of reassurance.",
+  "question": "What are Opie’s last words before being thrown into the pit for the fatal prison fight?",
+  "options": [
+    "I got this",
+    "Its going to be ok",
+    "I love you",
+    "This is on me"
+  ],
+  "answer": "I got this",
+  "difficulty": "medium",
+  "episode": "S05E03",
+  "description": "Opie looks at Jax and quietly says, “I got this,” accepting his fate and stepping into the cell knowing he won’t walk out."
+},
+  {
+    "id": 21,
+    "context": "In the makeshift gladiator pit, Opie is forced to fight for the club while Jax, Chibs and Tig watch from behind the glass. Outnumbered and exhausted, he finally drops to his knees, and one of the prisoners steps in to finish the job.",
+    "question": "During the brutal prison pit fight in County, what weapon do the other inmates ultimately use to kill Opie?",
+    "options": [
+      "A metal pipe",
+      "A shiv",
+      "Bare fists",
+      "A wooden bat"
+    ],
+    "answer": "A metal pipe",
+    "difficulty": "hard",
+    "episode": "S05E03",
+    "description": "After taking a savage beating, Opie is finished off when one of the guys drives a metal pipe into the back of his head, killing him in front of Jax, Chibs and Tig."
+  },
+{
+  "id": 22,
+  "context": "Inside the County prison viewing room, Jax, Chibs, and Tig are forced to watch Opie fight for his life in the pit. As the beating turns fatal, each of them reacts differently.",
+  "question": "As Opie is being killed in the County pit, how do the three Sons react in the viewing room?",
+  "options": [
+    "Chibs cries and pounds the glass, Jax stands and watches, Tig turns away",
+    "Jax cries, Chib screams, Tig pounds the class",
+    "Jax turns away, Chibs sobs, Tig just watches silently",
+    "Chibs collapses to the floor, Jax screams, Tig punches the wall"
+  ],
+  "answer": "Chibs cries and pounds the glass, Jax stands and watches, Tig turns away",
+  "difficulty": "hard",
+  "episode": "S05E03",
+  "description": "The scene highlights the different ways each of them breaks: Chibs emotionally, Jax internally, and Tig through avoidance."
+},
+  {
+    "id": "soa-s5e3-medium-0009",
+    "context": "During the staged inmate fight, a towering inmate execute the club’s chosen sacrifice.",
+    "question": "What is the name of the inmate who delivers the final blow that  kills Opie inside the fight circle?",
+    "options": ["Randall", "Vox", "Mace", "Aldo"],
+    "answer": "Randall",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Randall, a massive inmate aligned with Pope’s plan, delivers the fatal blow that kills Opie."
+  },
+  {
+    "id": "soa-s5e3-medium-0010",
+    "context": "After Opie’s death, the Sons retaliate against the guard who allowed the fight to happen.",
+    "question": "Which Sons are present when they track down and kill Sergeant Mackey?",
+    "options": ["Jax, Tig, Bobby & Chibs", "Jax, Tig, Happy & Chibs", "Tig, Juice, Ratboy & Jax", "Tig, Juice, Chibs, Miles & Jax"],
+    "answer": "Jax, Tig, Bobby & Chibs",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "The four-man crew corners Sergeant Mackey in retaliation, avenging Opie’s murder."
+  },
+  {
+    "id": "soa-s5e3-medium-0011",
+    "context": "The Sons corner Mackey after Opie’s death, and use brutal street justice.",
+    "question": "What object do the Sons use to kill Sergeant Mackey?",
+    "options": ["Metal pipe", "Brick", "Snow globe", "Crowbar"],
+    "answer": "Snow globe",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Jax beats Sergeant Mackey to death using a snow globe, mirroring the violence he sanctioned in county."
+  },
+  {
+    "id": "soa-s5e3-medium-0012",
+    "context": "After killing Mackey, someone volunteers to bury the body and is reminded to bury it deep so it wont turn up again.",
+    "question": "Where do the Sons bury Sergeant Mackey’s body?",
+    "options": ["Chigger Woods", "Lodi Creek", "Not mentioned", "Charming Woods"],
+    "answer": "Chigger Woods",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "They bury Mackey in Chigger Woods to avoid heat from county and Pope’s people."
+  },
+  {
+    "id": "soa-s5e10-medium-0015",
+    "context": "Randall, Opie´s killer tries to insulate himself from SAMCRO’s retaliation by buying outside help.",
+    "question": "Which crew does Randall hire to protect him from SAMCRO?",
+    "options": ["Grim Bastards", "Mayans", "Devils Tribe MC", "One-Niners"],
+    "answer": "Grim Bastards",
+    "difficulty": "medium",
+    "episode": 10,
+    "description": "Randall hires the Grim Bastards to watch his back, unaware of their long-standing ties to SAMCRO."
+  },
+  {
+    "id": "soa-s5e10-medium-0014",
+    "context": "Randall, Opie´s killer tries to insulate himself from SAMCRO’s retaliation by getting outside help.",
+    "question": "What is the name of Randall’s cousin who becomes involved with his protection?",
+    "options": ["T.A", "Vox", "Aldo", "T.O"],
+    "answer": "T.O",
+    "difficulty": "medium",
+    "episode": 10,
+    "description": "T.O is Randall´s cousin and President of the Grim Bastards, he offers to help Randall because they grew up together but he doesnt know he is protecting him from SAMCRO."
+  },
+  {
+    "id": "soa-s5e3-medium-0018",
+    "context": "Jax presses Randall for the names of the other prisoners that were involved in the Opie´s death.",
+    "question": "Which of these men was NOT present during Opie’s murder in the fight circle according to Randall?",
+    "options": ["Vox", "Mace", "Aldo Smith", "Chase"],
+    "answer": "Chase",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Randall mentioned that Vox, Mace, and Aldo Smith were all connected to the fight circle scene. Chase was never mentioned"
+  },
+  {
+    "id": "soa-s5e10-medium-0016",
+    "context": "When the Sons finally catch Randall, multiple members participate in the hunt.",
+    "question": "Which of these Sons was NOT present during the murder of Randall?",
+    "options": ["Bobby", "Tig", "Chibs", "Happy", "Juice", "Jax"],
+    "answer": "Juice",
+    "difficulty": "medium",
+    "episode": 10,
+    "description": "Jax, Chibs, Tig, Happy, and Bobby were involved in the takedown—Juice had no role in Randall’s death."
+  },
+  {
+    "id": "soa-s5e10-medium-0017",
+    "context": "The Grim Bastards’ long-term alliance with the Sons comes up during the Randall hunt.",
+    "question": "How many years did Bobby say SAMCRO had a relationship with the Grim Bastards?",
+    "options": ["20 years", "10 years", "5 years", "30 years"],
+    "answer": "20 years",
+    "difficulty": "easy",
+    "episode": 10,
+    "description": "Bobby mentions their 20-year alliance with the Grim Bastards while cautioning Jax to be careful about how he handles the situation."
+  },
+  {
+    "id": "soa-s5e10-medium-0019",
+    "context": "In the final confrontation with Randall, someone volunteers to deliver the killing shot.",
+    "question": "Who pulls the trigger that kills Randall?",
+    "options": ["Chibs", "Jax", "Happy", "Tig"],
+    "answer": "Chibs",
+    "difficulty": "medium",
+    "episode": 10,
+    "description": "Chibs executes Randall, closing the loop on the retaliatory chain that began with Opie’s murder."
+  }
+]
+
+

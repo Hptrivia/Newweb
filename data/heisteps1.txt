@@ -1,0 +1,435 @@
+[
+  {
+    "id": "mh-s1e5-medium-0007",
+    "context": "**BELLA CIAO**: Outside the Mint, Raquel’s team analyzes how Ángel got close enough to gather evidence on the Professor.",
+    "question": "What device do they discover the Professor used to spy from a distance?",
+    "options": [
+      "A GoPro camera",
+      "A hidden microphone",
+      "A sniper scope",
+      "A thermal camera"
+    ],
+    "answer": "A GoPro camera",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "They figure out Ángel’s clue: the Professor had a remote-controlled GoPro, which he used to avoid being seen directly."
+  },
+  {
+    "id": "mh-s1e5-medium-0008",
+    "context": "Back at the bar, Raquel calls Salva after a disastrous operation and asks to meet.",
+    "question": "Where does Raquel invite Salva for a coffee when she says she needs someone to talk to?",
+    "options": ["Hanoi", "Toledo", "Palawan", "Canillas"],
+    "answer": "Hanoi",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "On the phone she tells him she’s going to have a coffee at Hanoi and that she could really use someone to talk to."
+  },
+  {
+    "id": "mh-s1e5-medium-0009",
+    "context": "At the Hanoi bar, Salva and Raquel sit together and talk about where they would meet after the investigation was over.",
+    "question": "Which island does Raquel randomly pick from the postcards as their possible future destination?",
+    "options": [
+      "Palawan",
+      "Bali",
+      "Canillas",
+      "Santor"
+    ],
+    "answer": "Palawan",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "She chooses a postcard and reads \"Palawan,\" an island in the Philippines, while Salva rattles off its location and population."
+  },
+  {
+    "id": "mh-s1e5-medium-0010",
+    "context": "Raquel starts piecing together details about the hospital clown and Salva’s disguise.",
+    "question": "What detail about the clown’s appearance does Raquel verify with Suárez on the phone?",
+    "options": [
+      "The wig color",
+      "The shoe size",
+      "The mask type",
+      "The nose shape"
+    ],
+    "answer": "The wig color",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "She asks Suárez what color the clown’s wig was, and he confirms it was orange, helping Raquel confirm her suspicion about Salva."
+  },
+  {
+    "id": "mh-s1e5-medium-0012",
+    "context": "Arturito is punished for his repeated escape attempts and betrayal inside the Mint.",
+    "question": "What does Helsinki force Arturo to wear as punishment?",
+    "options": [
+      "A vest of explosives",
+      "Handcuffs and chains",
+      "A blindfold and gag",
+      "A prisoner’s uniform"
+    ],
+    "answer": "A vest of explosives",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "Helsinki straps several kilos of explosives onto Arturo’s chest and explains that if he removes the wire, he’ll be blown to pieces."
+  },
+  {
+    "id": "mh-s1e5-medium-0015",
+    "context": "After Monica talks about staying wit them, Denver offers her a new identity name.",
+    "question": "What city-based codename does Denver suggest Monica could use if she escapes with them?",
+    "options": [
+      "Stockholm",
+      "Lisbon",
+      "Madrid",
+      "Paris"
+    ],
+    "answer": "Stockholm",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "When she mentions Stockholm syndrome, Denver flips it and says if she comes with them, her name could be \"Stockholm.\""
+  },
+  {
+    "id": "mh-s1e6-easy-0032",
+    "context": "In the Mint’s printing area, Denver and Mónica joke around while choosing a fake identity for her new passport.",
+    "question": "Which of these names is NOT mentioned while they brainstorm passport names?",
+    "options": [
+      "Agata",
+      "Felisa",
+      "Maria Fernandez",
+      "Lucia"
+    ],
+    "answer": "Lucia",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "Denver riffs on names like Agata, Felisa, and Maria Fernandez while teasing her, but “Lucia” is never brought up in their passport discussion."
+  },
+  {
+    "id": "mh-s1e6-easy-0033",
+    "context": "After arguing over options, Mónica finally settles on one alias for the fake passport Denver makes her.",
+    "question": "Which name does Mónica ultimately choose for her passport?",
+    "options": [
+      "Agata",
+      "Maria Fernandez",
+      "Felisa",
+      "Alicia"
+    ],
+    "answer": "Agata",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "Despite hesitating and suggesting a plainer name, she keeps Denver’s pick and confirms she used “Agata” in the end."
+  },
+  {
+    "id": "mh-s1e6-medium-0018",
+    "context": "In custody at the farmhouse, Raquel interrogates Salva and demands his real identity.",
+    "question": "What real name does the Professor give Raquel during the farmhouse interrogation?",
+    "options": [
+      "Sergio Marquina",
+      "Andrés Fonollosa",
+      "Ángel Rubio",
+      "Ricardo Ramos"
+    ],
+    "answer": "Sergio Marquina",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "When asked \"Who are you?\" he answers calmly: \"Sergio Marquina,\" revealing the true name behind the Salva persona."
+  },
+  {
+    "id": "mh-s1e6-medium-0019",
+    "context": "Raquel presses Sergio about the origins of the heist plan and the apple-cider story he told her.",
+    "question": "According to Sergio, whose idea was it originally to rob the Royal Mint?",
+    "options": [
+      "His father’s",
+      "Berlin’s",
+      "His brother’s",
+      "His Uncle’s"
+    ],
+    "answer": "His father’s",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "He says the plan came from his father, who dreamed up the heist to pay for hospital treatment and died before carrying it out."
+  },
+  {
+    "id": "mh-s1e6-medium-0027",
+    "context": "Raquel calls from the National Court when Tokyo’s convoy fails to arrive on time.",
+    "question": "What operation name do the police launch after learning Tokyo has escaped?",
+    "options": [
+      "Operation Cage",
+      "Operation Storm",
+      "Operation Mint",
+      "Operation Red Mask"
+    ],
+    "answer": "Operation Cage",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "Headquarters orders \"Operation Cage,\" sealing all exits from the city to trap the fugitive."
+  },
+  {
+    "id": "mh-s1e6-medium-0030",
+    "context": "Tokyo rides a motorbike straight toward the Mint, while police prepare to fire.",
+    "question": "How do the police identify Tokyo when she charges back toward the Mint on the motorbike?",
+    "options": [
+      "Silene Oliveira",
+      "Alexa García",
+      "Alexa Oliviera",
+      "Silene García"
+    ],
+    "answer": "Silene Oliveira",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "As the biker approaches, someone shouts that it’s \"Silene Oliveira\"—Tokyo’s real name—before they open fire."
+  },
+  {
+    "id": "mh-s1e7-medium-0031",
+    "context": "Tokyo bursts back into the Mint on the motorbike as police bullets fly and chaos erupts at the entrance.",
+    "question": "Who is shot when Tokyo returns to the Mint on the motorbike?",
+    "options": [
+      "Moscow",
+      "Denver",
+      "Berlin",
+      "Rio"
+    ],
+    "answer": "Moscow",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "During Tokyo’s dramatic return under heavy gunfire, Moscow is hit and collapses with multiple gunshot wounds."
+  },
+  {
+    "id": "mh-s1e7-medium-0032",
+    "context": "With Moscow wounded on the floor, Nairobi moves quickly to stabilize him.",
+    "question": "Where do they say Moscow has been shot multiple times?",
+    "options": [
+      "In the stomach",
+      "In the leg",
+      "In the shoulder",
+      "In the chest"
+    ],
+    "answer": "In the stomach",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "Nairobi and Denver discover there’s no exit wound and confirm Moscow took three bullets in the stomach."
+  },
+  {
+    "id": "mh-s1e7-medium-0037",
+    "context": "Down in the printing area, Nairobi orders the presses to be adjusted.",
+    "question": "Which two banknote denominations does Nairobi decide they should print instead of 500s?",
+    "options": [
+      "100 and 200",
+      "50 and 100",
+      "10 and 20",
+      "20 and 50"
+    ],
+    "answer": "100 and 200",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "She tells Torres to stop the machines, change the plates, and start printing 100 and 200-euro bills instead of 500s."
+  },
+  {
+    "id": "mh-s1e7-medium-0039",
+    "context": "Denver doubles down on his plan to finish the tunnel for Moscow’s sake.",
+    "question": "What future event does Denver say he needs Moscow alive to witness?",
+    "options": [
+      "His wedding",
+      "Their escape",
+      "A big heist party",
+      "His son’s birth"
+    ],
+    "answer": "His wedding",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "He tells Nairobi he wants Moscow to be there at the altar with him when he marries Monica after they get out."
+  },
+  {
+    "id": "mh-s1e7-medium-0043",
+    "context": "Moscow’s condition worsens as the hours pass and the tunnel nears completion.",
+    "question": "What blood type do they quickly grab in order to transfuse Moscow?",
+    "options": [
+      "O-negative",
+      "A-positive",
+      "B-negative",
+      "AB-positive"
+    ],
+    "answer": "O-negative",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "Someone shouts for O-negative plasma as Nairobi and Denver try to keep Moscow alive with a transfusion."
+  },
+  {
+    "id": "mh-s1e7-medium-0045",
+    "context": "Raquel’s team admits there’s a key witness missing from their analysis of the Professor’s hideout.",
+    "question": "Which injured officer do they say is the only one who knows the exact location of the hideout?",
+    "options": [
+      "Ángel",
+      "Suárez",
+      "Prieto",
+      "Rubio"
+    ],
+    "answer": "Ángel",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "They remark that everything would be easier if Ángel were there, since he’s the only one who actually saw the location."
+  },
+  {
+    "id": "mh-s1e8-easy-0006",
+    "context": "As he says goodbye, Moscow formally introduces himself to the Serbs.",
+    "question": "What full name does Moscow give when he introduces himself?",
+    "options": [
+      "Agustín Ramos",
+      "Andrés Alvarez",
+      "Ricardo Ramos",
+      "Sergio Rubio"
+    ],
+    "answer": "Agustín Ramos",
+    "difficulty": "easy",
+    "episode": 8,
+    "description": "He tells them, “I haven’t introduced myself. Agustín Ramos. And it’s been a pleasure.”"
+  },
+  {
+    "id": "mh-s1e9-easy-0001",
+    "context": "At the presses, Berlin and Nairobi argue about whether to keep printing money or leave.",
+    "question": "How much money does Berlin insist on leaving with?",
+    "options": [
+      "One billion",
+      "Two billion",
+      "500 million",
+      "990 million"
+    ],
+    "answer": "One billion",
+    "difficulty": "easy",
+    "episode": 9,
+    "description": "Berlin shouts that he’s leaving with a billion and forces Nairobi to shut the presses down short of that goal."
+  },
+  {
+    "id": "mh-s1e8-medium-0011",
+    "context": "As the money is prepared to leave the Mint, Berlin and Nairobi track the total.",
+    "question": "How much money do they chant as the final printed amount?",
+    "options": [
+      "984 million",
+      "500 million",
+      "1.2 billion",
+      "750 million"
+    ],
+    "answer": "984 million",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "They rhythmically repeat, “Nine hundred and eighty four million euros,” as the final total."
+  },
+  {
+    "id": "mh-s1e9-medium-0002",
+    "context": "Berlin mocks Nairobi’s leadership and compares it to her personal life.",
+    "question": "What painful example from Nairobi’s past does Berlin bring up during their argument?",
+    "options": [
+      "A mother selling pills",
+      "A botched robbery",
+      "A failed marriage"
+    ],
+    "answer": "A mother selling pills",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "He compares Nairobi wanting to risk everything for money to a mother who leaves her baby to go sell pills and loses the child."
+  },
+  {
+    "id": "mh-s1e9-medium-0005",
+    "context": "Outside the Mint, the gang prepares a distraction for the police.",
+    "question": "What devices do they set up that the police will have to deactivate?",
+    "options": [
+      "Bombs with timers",
+      "Smoke grenades",
+      "Security cameras",
+      "Signal jammers"
+    ],
+    "answer": "Bombs with timers",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "They wire explosives with timers and cell triggers so TEDAX will be tied up defusing them individually."
+  },
+  {
+    "id": "mh-s1e9-easy-0012",
+    "context": "During the assault, one of the gang members is captured inside the Mint.",
+    "question": "Who is arrested at gunpoint after charging with the Browning?",
+    "options": [
+      "Tokyo",
+      "Rio",
+      "Denver",
+      "Nairobi"
+    ],
+    "answer": "Tokyo",
+    "difficulty": "easy",
+    "episode": 9,
+    "description": "She runs forward firing, is knocked down, and GEO units surround her shouting, “Tokyo, you’re under arrest!”"
+  },
+  {
+    "id": "mh-s1e9-medium-0013",
+    "context": "The robbers mix in with the hostages during the evacuation.",
+    "question": "Which vault do the police target after Alison Parker reveals where she saw the tunnel?",
+    "options": [
+      "Vault 3",
+      "Vault 1",
+      "Vault 2",
+      "Vault 4"
+    ],
+    "answer": "Vault 3",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "Alison points out vault number three, and Prieto orders, “To vault 3! That’s where their tunnel is.”"
+  },
+  {
+    "id": "mh-s1e9-medium-0015",
+    "context": "As the hostages leave, Berlin refuses to let one of them go.",
+    "question": "Which hostage does Berlin force to stay with him instead of being freed?",
+    "options": [
+      "Ariadna",
+      "Alison",
+      "Mónica",
+      "Arturo"
+    ],
+    "answer": "Ariadna",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "He says, “Well, not everyone. Ariadna is coming with me,” taking her toward the tunnel."
+  },
+  {
+    "id": "mh-s1e9-medium-0016",
+    "context": "Prieto questions Raquel about the escape route after Alison’s statement.",
+    "question": "According to Alison Parker, where does the tunnel lead?",
+    "options": [
+      "To the Professor’s hangar",
+      "To a subway station",
+      "To the embassy",
+      "To the Professor´s docks"
+    ],
+    "answer": "To the Professor’s hangar",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "She says it leads to the hangar where the Professor works, identifying their planned escape exit."
+  },
+  {
+    "id": "mh-s1e9-medium-0017",
+    "context": "Under pressure about her daughter’s custody, Raquel is pushed to betray the Professor.",
+    "question": "What street address does Raquel finally give as the Professor’s hangar?",
+    "options": [
+      "33 Alcántara",
+      "12 Toledo",
+      "7 Gran Vía",
+      "21 Prado"
+    ],
+    "answer": "33 Alcántara",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "After Prieto shows her the custody lawsuit, she whispers the address “33 Alcántara.”"
+  },
+  {
+    "id": "mh-s1e9-medium-0020",
+    "context": "Police rush to the address Raquel provided as the supposed operations center.",
+    "question": "What do the officers find when they finally enter the hangar at 33 Alcántara?",
+    "options": [
+      "An empty hangar",
+      "All the robbers",
+      "Hostages tied up",
+      "Stacks of money"
+    ],
+    "answer": "An empty hangar",
+    "difficulty": "medium",
+    "episode": 9,
+    "description": "Teams sweep left and right, report “Clear,” and confirm to Prieto that the hangar is empty."
+  }
+]
+
+
+
+

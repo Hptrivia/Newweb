@@ -1,0 +1,448 @@
+[
+  {
+    "id": "twd-govarc-medium-0001",
+    "context": "**THE GOVERNOR**: Before attacking the prison, the Governor lays out his priorities for dealing with Michonne.",
+    "question": "What order does the Governor give his men about Michonne at the prison?",
+    "options": [
+      "Open fire when they see her but keep her alive",
+      "Capture her and trade her for Rick",
+      "Kill her first to break the group",
+      "Leave her for him"
+    ],
+    "answer": "Open fire when they see her but keep her alive",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "He tells them, “The minute you see Michonne, you open fire. Kill the others, but you keep her alive.”"
+  },
+  {
+    "id": "twd-prison1-medium-0004",
+    "context": "Tyreese and Sasha have joined Woodbury but are asked to take part in the prison attack.",
+    "question": "Why do Tyreese and Sasha refuse to join the Governor’s assault on the prison?",
+    "options": [
+      "They’ll fight walkers, but not other people",
+      "They still have friends at the prison",
+      "They believe they owe Rick",
+      "They believe the Governor’s plan will fail"
+    ],
+    "answer": "They’ll fight walkers, but not other people",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Tyreese tells the Governor, “We’ll fight against the biters, not other people,” and offers to stay behind and defend the children instead."
+  },
+  {
+    "id": "twd-govarc-medium-0004",
+    "context": "During the prison’s defense, Carl, Hershel and Beth encounter a teenage fighter from Woodbury.",
+    "question": "How does Carl deal with the young Woodbury soldier they run into during the first prison assault?",
+    "options": [
+      "He shoots the kid even as he’s lowering his gun",
+      "He orders him to drop the gun and lets him go",
+      "He knocks him out and takes him prisoner",
+      "He tells him to run"
+    ],
+    "answer": "He shoots the kid even as he’s lowering his gun",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Carl later claims the boy drew on them, but Hershel says the kid was scared and handing his gun over when Carl shot him."
+  },
+  {
+    "id": "twd-govarc-hard-0005",
+    "context": "After the battle, Carl defends his decision to shoot the boy by listing past mistakes.",
+    "question": "Which events does Carl use as examples of what happens when they “take chances”?",
+    "options": [
+      "Dale’s death, Lori’s death by Andrew, and Merle’s death",
+      "Sophia going missing, Shane’s death, and Randall escaping",
+      "Hershel’s farm falling, Otis dying, and the CDC exploding",
+      "Andrea’s capture, Glenn’s torture, and Maggie’s abduction"
+    ],
+    "answer": "Dale’s death, Lori’s death by Andrew, and Merle’s death",
+    "difficulty": "hard",
+    "episode": 3,
+    "description": "Carl says he didn’t kill the walker that killed Dale, Rick didn’t kill Andrew and he killed Lori, and Rick let the Governor go and then Merle died."
+  },
+  {
+    "id": "twd-govarc-medium-0007",
+    "context": "When his people try to retreat from the fight, the Governor snaps.",
+    "question": "What does the Governor do to most of his own fighters when they refuse to continue the prison war?",
+    "options": [
+      "He guns them down on the road",
+      "He banishes them from Woodbury",
+      "He locks them in a walker pit",
+      "He turns the tank on them"
+    ],
+    "answer": "He guns them down on the road",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Calling them cowards, he opens fire and massacres most of his own men right there."
+  },
+  {
+    "id": "twd-govarc-medium-0008",
+    "context": "Later, Tyreese and Sasha reach the scene of the massacre outside Woodbury.",
+    "question": "Which Woodbury survivor do Tyreese and Sasha find hiding among the bodies who tells them the Governor killed his own people?",
+    "options": [
+      "Karen",
+      "Martinez",
+      "Shumpert",
+      "Allen"
+    ],
+    "answer": "Karen",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Karen explains that the Governor fired on everyone and killed them all while she survived by hiding."
+  },
+  {
+    "id": "twd-govarc-medium-0009",
+    "context": "Rick’s group goes back to Woodbury looking for Andrea after the prison fight.",
+    "question": "Where do Rick and the others finally find Andrea in Woodbury?",
+    "options": [
+      "In the Governor’s torture room",
+      "In the guard tower overlooking the wall",
+      "In the town clinic treating the wounded",
+      "In the Governor’s apartment hiding in a closet"
+    ],
+    "answer": "In the Governor’s torture room",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "They open the same torture room and find Andrea handcuffed and bitten, with Milton dead on the floor."
+  },
+  {
+    "id": "twd-govarc-medium-0010",
+    "context": "Andrea is bitten and dying, but still in control of her own choices.",
+    "question": "How does Andrea choose to die so she doesn’t turn after being bitten?",
+    "options": [
+      "She chooses to shoot herself",
+      "She asks Rick to kill her",
+      "She asks Michonne to kill her",
+      "She drinks poison given by Hershel"
+    ],
+    "answer": "She chooses to shoot herself",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Andrea insists she’ll pull the trigger herself “while I still can,” and Michonne refuses to leave her side."
+  },
+  {
+    "id": "twd-govarc-medium-0012",
+    "context": "After disappearing, the Governor wanders alone before meeting a new family.",
+    "question": "What name does the Governor use when he first introduces himself to Lily’s family?",
+    "options": [
+      "Brian Heriot",
+      "Philip Blake",
+      "Sam Greene",
+      "David Clark"
+    ],
+    "answer": "Brian Heriot",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "He hides his identity by calling himself Brian Heriot."
+  },
+  {
+    "id": "twd-govarc-medium-0013",
+    "context": "Megan (Lily´s daughter) notices his missing eye while Lily tends to his injuries.",
+    "question": "What playful explanation does the Governor first give Megan about his missing eye?",
+    "options": [
+      "He says he’s a pirate",
+      "He says he s a cyclops",
+      "He says he was born that way",
+      "He says a walker ate it"
+    ],
+    "answer": "He says he’s a pirate",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "He makes her pinky-swear and jokes that he’s a pirate before hinting at the real story."
+  },
+  {
+    "id": "twd-govarc-medium-0016",
+    "context": "A convoy from a nearby camp picks up the Governor, Lily, Tara, and Megan on the road.",
+    "question": "Who is leading the fenced camp that rescues the Governor and Lily’s family?",
+    "options": [
+      "Martinez",
+      "Tom",
+      "Mitch",
+      "Shumpert"
+    ],
+    "answer": "Martinez",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "Martinez, now running a small camp, is the one who brings them inside the fences."
+  },
+{
+  "id": "twd-govarc-medium-0041",
+  "context": "When the Governor joins Martinez’s new camp, he meets two brothers who, along with Martinez, make up the core leadership of the group.",
+  "question": "What are the names of the two brothers who are the other main members of Martinez’s camp?",
+  "options": ["Pete and Mitch", "Tom and Pete", "Mitch and Allen", "Shumpert and Allen"],
+  "answer": "Pete and Mitch",
+  "difficulty": "medium",
+  "episode": 7,
+  "description": "Martinez’s camp is anchored by the brothers Pete and Mitch—Pete trying to lead more fairly, and Mitch as the harder-edged soldier."
+},
+  {
+    "id": "twd-govarc-medium-0018",
+    "context": "Mitch and Pete explain who they were before the fall as they bond with the Governor.",
+    "question": "What vehicle does Mitch now operate that later becomes central to the prison attack?",
+    "options": [
+      "A tank",
+      "A Humvee",
+      "An armored van",
+      "A SWAT truck"
+    ],
+    "answer": "A tank",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "Mitch jokes that the end of the world doesn’t mean anything when you’ve got a tank."
+  },
+  {
+    "id": "twd-govarc-medium-0021",
+    "context": "The Governor decides he wants control back and turns on Martinez.",
+    "question": "How does the Governor kill Martinez at the camp?",
+    "options": [
+      "He hits him with a golf club and drags him into a walker pit",
+      "He shoots him during an argument over supplies",
+      "He leaves him handcuffed for walkers to find",
+      "He stabs him from behind and pushes him into a walker oit"
+    ],
+    "answer": "He hits him with a golf club and drags him into a walker pit",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "He suddenly clubs Martinez and shoves him into the pit of walkers, removing the current leader."
+  },
+  {
+    "id": "twd-govarc-medium-0022",
+    "context": "The next day, the camp needs an explanation and a new leader.",
+    "question": "What story does the Governor tell the camp about Martinez’s death?",
+    "options": [
+      "He says Martinez got drunk and fell into the pit",
+      "He claims Ricks team killed Martinez in the night",
+      "He says Martinez left on a run and never came back",
+      "He blames walkers breaking through the fence"
+    ],
+    "answer": "He says Martinez got drunk and fell into the pit",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "He shrugs it off as a drunken accident while Martinez was playing golf on the RV."
+  },
+  {
+    "id": "twd-govarc-medium-0026",
+    "context": "The Governor scouts the prison and prepares his new group for a second attempt to take it.",
+    "question": "What key advantages of the prison does the Governor highlight to sell the idea of taking it?",
+    "options": [
+      "Walls, fences, and land for farming",
+      "Solar power and running water",
+      "Protection from walkers",
+      "Cell blocks they can camp in"
+    ],
+    "answer": "Walls, fences, and land for farming",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "He tells them the prison has walls, fences, and plots of land for crops that their camp by the pits doesn’t."
+  },
+  {
+    "id": "twd-govarc-hard-0027",
+    "context": "To justify attacking the prison, the Governor lies about who lives there.",
+    "question": "How does the Governor describe most of the people inside the prison to his new group?",
+    "options": [
+      "As thieves and murderers",
+      "As soldiers hoarding supplies from everyone",
+      "As prisoners who dont deserve a second chance",
+      "As deserters who abandoned Woodbury"
+    ],
+    "answer": "As thieves and murderers",
+    "difficulty": "hard",
+    "episode": 8,
+    "description": "He claims they mutilated him, burned his camp, and killed his daughter so his people will see them as monsters."
+  },
+  {
+    "id": "twd-govarc-medium-0028",
+    "context": "Lily is disturbed when she realizes what he’s planning to do at the prison.",
+    "question": "When Lily accuses him of planning to kill people, how does the Governor reframe it?",
+    "options": [
+      "He says, “No. Killing killers.”",
+      "He says, “No. Just defending ourselves.”",
+      "He says, “No. Saving our family.”",
+      "He says, “No. Ending this war.”"
+    ],
+    "answer": "He says, “No. Killing killers.”",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "He insists they’re only killing killers, pretending it’s about justice, not conquest."
+  },
+  {
+    "id": "twd-govarc-medium-0039",
+    "context": "Inside the prison, Rick´s group prepare a backup plan in case they couldn’t hold the fences.",
+    "question": "What is the main evacuation plan the prison group has if the prison falls?",
+    "options": [
+      "Everyone is supposed to head for the bus",
+      "They’ll escape through underground tunnels",
+      "Everyone runs to the woods",
+      "They’ll cross the river and regroup at Woodbury"
+    ],
+    "answer": "Everyone is supposed to head for the bus",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "Daryl reminds them that if things go bad, everyone is meant to get to the bus and evacuate."
+  },
+  {
+    "id": "twd-govarc-medium-0030",
+    "context": "The Governor captures two key members of Rick’s group to use as leverage in the standoff.",
+    "question": "Which two people does the Governor bring as hostages to the prison fence?",
+    "options": [
+      "Hershel and Michonne",
+      "Glenn and Maggie",
+      "Daryl and Tyreese",
+      "Carol and Beth"
+    ],
+    "answer": "Hershel and Michonne",
+    "difficulty": "easy",
+    "episode": 8,
+    "description": "Hershel and Michonne are bound and kneeling in front of the tank during the standoff."
+  },
+  {
+    "id": "twd-govarc-medium-0029",
+    "context": "Before marching on the prison, the Governor makes a cold calculation about family.",
+    "question": "When Hershel asks how he can threaten other people’s daughters if he understands having one, what does the Governor say?",
+    "options": [
+      "“Because they aren’t mine.”",
+      "“Because this is the world now.”",
+      "“Because mercy is weakness.”",
+      "“Because I have no choice.”"
+    ],
+    "answer": "“Because they aren’t mine.”",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "He answers Hershel’s plea with, “Because they aren’t mine,” drawing a hard line around his own family."
+  },
+  {
+    "id": "twd-govarc-medium-0031",
+    "context": "The Governor has the tank, the hostages, and a full group at his back when he confronts Rick.",
+    "question": "What ultimatum does the Governor give Rick’s group about the prison?",
+    "options": [
+      "They must leave by sundown or the hostages die",
+      "They must hand over Rick or he’ll shell the prison",
+      "They must surrender all their guns immediately",
+      "They must move into the yard and give up the cells"
+    ],
+    "answer": "They must leave by sundown or the hostages die",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "He tells them they have until sundown to get out of the prison or Hershel and Michonne will be killed."
+  },
+  {
+    "id": "twd-s4e8-medium-0036",
+    "context": "Watching the standoff from inside the prison, one of Rick’s people wants to act.",
+    "question": "Who argues they could shoot the Governor right then?",
+    "options": [
+      "Carl",
+      "Maggie",
+      "Daryl",
+      "Glenn"
+    ],
+    "answer": "Carl",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "Carl tells Daryl he’s a good shot and could end it, but Daryl warns that he might just start something worse and says to trust Rick."
+  },
+  {
+    "id": "twd-govarc-hard-0032",
+    "context": "Rick tries one last time to avoid a final battle and speaks to everyone at the fence.",
+    "question": "What compromise does Rick offer so both groups can share the prison?",
+    "options": [
+      "They live in separate cellblocks and rarely see each other",
+      "The Governors group live on the eastern side and they on the west",
+      "They trade the prison for Woodbury",
+      "They share the yard but not the cells"
+    ],
+    "answer": "They live in separate cellblocks and rarely see each other",
+    "difficulty": "hard",
+    "episode": 8,
+    "description": "Rick says there’s enough room and offers that they live in different cellblocks and never have to see each other until they’re ready."
+  },
+  {
+    "id": "twd-govarc-hard-0034",
+    "context": "The Governor chooses a brutal way to start the battle.",
+    "question": "How does the Governor kill Hershel during the second prison assault?",
+    "options": [
+      "He cuts him down with Michonne’s sword",
+      "He shoots him with a pistol",
+      "He throws him to walkers",
+      "He stabs him and feeds him to the walkers"
+    ],
+    "answer": "He cuts him down with Michonne’s sword",
+    "difficulty": "hard",
+    "episode": 8,
+    "description": "He uses Michonne’s own sword to partially behead and then finish Hershel in front of everyone."
+  },
+  {
+    "id": "twd-govarc-medium-0035",
+    "context": "As the firefight erupts, the Governor unleashes his biggest advantage.",
+    "question": "What does the Governor do with the tank during the assault on the prison?",
+    "options": [
+      "He drives it through the fences into the yard",
+      "He uses it as cover for his group",
+      "He fires a shot from the tank to destroy the fences",
+      "He uses it to bulldoze the prison blocks"
+    ],
+    "answer": "He drives it through the fences into the yard",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "He uses the tank to smash through the outer fences and tear up the yard, destroying the prison’s defenses."
+  },
+  {
+    "id": "twd-govarc-medium-0036",
+    "context": "While the standoff is happening, Megan plays alone by the river near camp.",
+    "question": "How does Megan die while the prison battle is starting?",
+    "options": [
+      "A buried walker in the mud grabs and bites her",
+      "She’s hit by a stray bullet from the prison",
+      "She falls into the river and drowns",
+      "She’s caught in an explosion at camp"
+    ],
+    "answer": "A buried walker in the mud grabs and bites her",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "Digging in the mud by the water, Megan is grabbed and bitten by a walker hidden under the ground."
+  },
+  {
+    "id": "twd-govarc-hard-0037",
+    "context": "The prison yard turns into chaos and the two leaders finally clash directly.",
+    "question": "How is the Governor finally brought down during the fight with Rick?",
+    "options": [
+      "Michonne stabs him through the chest with her katana",
+      "Daryl shoots him with a crossbow bolt",
+      "Rick shoots him twice in the chest",
+      "Michonne throws him into a herd"
+    ],
+    "answer": "Michonne stabs him through the chest with her katana",
+    "difficulty": "hard",
+    "episode": 8,
+    "description": "After he almost beats Rick to death, Michonne drives her sword through him and leaves him on the ground."
+  },
+  {
+    "id": "twd-govarc-medium-0038",
+    "context": "Bleeding out in the field, the Governor still isn’t dead when someone else finds him.",
+    "question": "Who delivers the final shot that ends the Governor’s life?",
+    "options": [
+      "Lily",
+      "Rick",
+      "Daryl",
+      "Mitch"
+    ],
+    "answer": "Lily",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "Lily, devastated over Megan and what he’s done, finds him and finishes him with a gunshot."
+  },
+  {
+    "id": "twd-govarc-medium-0040",
+    "context": "With the prison lost and the group scattered, Rick and Carl make it out together.",
+    "question": "What does Rick tell Carl as they walk away from the destroyed prison at the end of the arc?",
+    "options": [
+      "“Don’t look back. Just keep walking.”",
+      "“We’ll rebuild somewhere else.”",
+      "“We’ll come back for the others.”",
+      "“We ll find Judith.”"
+    ],
+    "answer": "“Don’t look back. Just keep walking.”",
+    "difficulty": "medium",
+    "episode": 8,
+    "description": "Beaten and broken, Rick tells Carl not to look back at the prison, only to keep walking forward."
+  }
+]
+

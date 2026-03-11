@@ -1,0 +1,269 @@
+[
+  {
+    "id": "got-s1e9-easy-0101",
+    "context": "**THE RED WEDDING**: Robb and his bannermen debate how to cross the river at the Twins while Catelyn explains Walder Frey’s control of the only safe passage.",
+    "question": "For how many years does Catelyn say the Freys have held the crossing at the Twins?",
+    "options": ["600 years", "300 years", "400 years", "200 years"],
+    "answer": "600 years",
+    "difficulty": "medium",
+    "description": "Catelyn underlines Walder Frey’s leverage by saying his house has held the crossing for six centuries."
+  },
+  {
+    "id": "got-s1e9-easy-0102",
+    "context": "Catelyn meets a lecherous and bitter Walder Frey in his hall to bargain on Robb’s behalf while his army waits outside the walls.",
+    "question": "For what specific purpose does Catelyn Stark visit Lord Walder Frey at the Twins?",
+    "options": [
+      "To ask him to open his gates so Robb’s host can cross the Trident",
+      "To demand he sends his army to fight the Lannisters in the Riverlands",
+      "To arrange a marriage between Robb and one of his daughters immediately",
+      "To warn him that Tywin Lannister is marching on the Twins"
+    ],
+    "answer": "To ask him to open his gates so Robb’s host can cross the Trident",
+    "difficulty": "medium",
+    "description": "Catelyn states plainly that she has come to ask Frey to open his gates so Robb and his bannermen can cross the Trident and continue south."
+  },
+  {
+    "id": "got-s1e9-medium-0103",
+    "context": "After Catelyn’s parley, she reports Frey’s conditions to Robb in exchange for the crossing.",
+    "question": "Which of the following is NOT one of the terms Walder Frey demands in return for allowing Robb’s army to cross?",
+    "options": [
+      "Granting Walder Frey possession of Harrenhal after the war",
+      "Taking Olyvar Frey as Robb’s personal squire",
+      "Granting Olyvar a knighthood in due time",
+      "Betrothing Arya Stark to his son Waldron",
+      "Robb Stark marrying one of Walder Frey’s daughters when the fighting is done"
+    ],
+    "answer": "Granting Walder Frey possession of Harrenhal after the war",
+    "difficulty": "medium",
+    "description": "Frey’s price includes Olyvar as squire with a promise of knighthood, Arya’s betrothal to Waldron, and Robb marrying a Frey daughter(Robb agrees); Harrenhal is never mentioned in this deal."
+  },
+  {
+    "id": "got-s3e9-001",
+    "context": "Another scene shows Robb getting married to another woman and breaking his oath. He explains to Catelyn that he broke his oath because he loved another woman.",
+    "question": "Which woman did Robb Stark fall in love with, causing him to break his marriage pact with House Frey?",
+    "options": ["Talisa", "Roslin", "Arline", "Olyvar"],
+    "answer": "Talisa",
+    "difficulty": "medium",
+    "description": "Robb met Talisa during the war and fell in love with her making him break his oath ."
+  },
+{
+  "id": "got-s3e9-easy-023",
+  "context": "Another scene shows Robb getting married to another woman and breaking his oath. He explains to Catelyn that he broke his oath because he loved another woman.",
+  "question": "What was Talisa’s role before becoming Robb’s queen?",
+  "options": ["Battlefield healer", "Seamstress", "Maester’s apprentice", "Merchant’s daughter"],
+  "answer": "Battlefield healer",
+  "description": "Talisa met Robb while tending the wounded during the war, serving as a battlefield healer before becoming his wife.",
+  "difficulty": "easy"
+},
+  {
+    "id": "got-s3e9-medium-0002",
+    "context": "Robb meets with Black Walder and Lothar Frey to hear the terms for restoring the Frey–Stark alliance after Robb broke his marriage vow.",
+    "question": "Which of the following is NOT one of the demands Walder Frey makes as restitution for Robb violating his oath?",
+    "options": ["Harrenhal", "A formal apology", "Edmure’s marriage to his daughter", "Knighthood for his son"],
+    "answer": "Knighthood for his son",
+    "difficulty": "medium",
+    "description": "Walder demands an apology, Harrenhal, and Edmure marrying his daughter to repair the alliance. He never asks for knighthood for his son ."
+  },
+{
+  "id": "got-s3e9-medium-0001",
+  "context": "The Twins — Walder Frey introduces a long lineup of daughters and granddaughters during Robb’s apology before the feast.",
+  "question": "Which of the following names is NOT one of Walder Frey’s daughters/grandaughters mentioned during this scene?",
+  "options": ["Arwyn", "Walda", "Derwa", "Waldra", "Sirella"],
+  "answer": "Sirella",
+    "difficulty": "medium",
+  "description": "Walder lists Arwyn, Walda, Derwa and Waldra, among others, but no ‘Sirella’ appears in his roll call."
+},
+  {
+    "id": "got-s3e9-medium-0003",
+    "context": "During the tense negotiation, the Freys reveal that the old lord wants Edmure bound to House Frey through marriage to one of his daughters.",
+    "question": "Which of Walder Frey’s daughters is Edmure told he must marry as part of the new alliance terms?",
+    "options": ["Roslin", "Walda", "Arwyn", "Derwa"],
+    "answer": "Roslin",
+    "difficulty": "medium",
+    "description": "Black Walder and Lothar explain that Walder Frey requires Edmure to wed his daughter Roslin to restore the alliance."
+  },
+  {
+    "id": "got-s3e9-easy-0004",
+    "context": "Edmure protests the arrangement and questions the match, prompting the Freys to mention the age of the bride.",
+    "question": "How old is Roslin Frey when the marriage proposal is presented to Edmure?",
+    "options": ["Nineteen", "Seventeen", "Fifteen", "Sixteen"],
+    "answer": "Nineteen",
+    "difficulty": "medium",
+    "description": "Lothar Frey states directly that Roslin is nineteen years old when Edmure asks about her age."
+  },
+  {
+    "id": "got-s3e9-medium-0006",
+    "context": "Edmure cites the laws of gods and men to argue that he cannot be forced into marriage, provoking a sharp reaction.",
+    "question": "What does Brynden “Blackfish” Tully say when Edmure refuses the marriage by citing the laws of gods and men?",
+    "options": [
+      "The laws of my fist are about to compel your teeth.",
+      "The laws of war don’t care about your pride.",
+      "Honor means nothing without obedience.",
+      "If you refuse, you doom us all."
+    ],
+    "answer": "The laws of my fist are about to compel your teeth.",
+    "difficulty": "medium",
+    "description": "Brynden threatens Edmure with a punch, saying his fist will compel his teeth if he continues resisting."
+  },
+  {
+    "id": "got-s3e9-easy-0007",
+    "context": "As tensions rise, Robb acknowledges the personal sacrifice Edmure is being asked to make for the war effort.",
+    "question": "What is the family relationship between Robb Stark and Edmure Tully?",
+    "options": ["Edmure is Robb’s uncle", "Edmure is Robb’s cousin", "Edmure is Robb’s brother-in-law", "Edmure is Robb’s cousin"],
+    "answer": "Edmure is Robb’s uncle",
+    "difficulty": "medium",
+    "description": "Edmure is Catelyn Stark’s younger brother, making him Robb’s maternal uncle."
+  },
+  {
+    "id": "got-s3e9-002",
+    "context": "The night before reaching the Twins, Talisa and Robb rest in their tent, speaking softly about her home and the life they hope to have after the war.",
+    "question": "Where is Talisa originally from?",
+    "options": ["Volantis", "Meereen", "Dorne", "Braavos"],
+    "answer": "Volantis",
+    "description": "Talisa tells Robb about her homeland of Volantis while writing a letter to her mother in the Valyrian language.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "got-s3e9-003",
+    "context": "The night before they reach the Twins, Talisa moves closer to Robb as the storm rumbles outside, revealing something that immediately changes the mood in the tent.",
+    "question": "What important news does Talisa reveal to Robb before they arrive at the Twins for Edmure's wedding?",
+    "options": ["She is pregnant", "Her mother has died", "She wants to return to Volantis", "She wishes Robb would end the war"],
+    "answer": "She is pregnant",
+    "description": "Talisa places Robb’s hand on her stomach and tells him she carries his child, hinting that their future could hold a son named Eddard.",
+    "difficulty": "medium"
+  },
+{
+    "id": "got-s3e9-hard-001",
+    "context": "THE TWINS — During the wedding feast, Catelyn and Blackfish sit across from a lord, who refuses wine and speaks bluntly while watching the hall with cold detachment.",
+    "question": "Who was the man Catelyn and Blackfish were speaking to — the one who didn’t drink and was married to one of Walder Frey’s daughters?",
+    "options": ["Roose Bolton", "Wendel Manderley", "Balon Greyjoy", "Jon Arryn"],
+    "answer": "Roose Bolton",
+    "description": "Roose tells them he never drinks because it dulls the senses, and he mentions being married to a Frey daughter.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "got-s3e9-medium-012",
+    "context": "THE TWINS — When a servant offers him wine during the feast, a pale northern lord at Catelyn’s table calmly covers his cup and explains his habit.",
+    "question": "Why does Roose Bolton refuse wine when the servant tries to pour his cup?",
+    "options": [
+      "He says it dulls the senses.",
+      "He claims it makes you weak.",
+      "He claims its a disgusting habit.",
+      "He says he swore an oath never to drink."
+    ],
+    "answer": "He says it dulls the senses.",
+    "description": "Roose tells Catelyn he never drinks because it dulls the senses.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "got-s3e9-hard-013",
+    "context": "THE TWINS — During their tense small talk at the feast, the quiet northern lord mentions that his marriage into House Frey was sweetened by a very specific promise.",
+    "question": "What dowry arrangement does Roose Bolton mention regarding his Frey bride?",
+    "options": [
+      "He was promised the girl’s weight in silver.",
+      "He was promised command of the Twins.",
+      "He was promised a thousand Frey soldiers.",
+      "He was promised a seat on the small council."
+    ],
+    "answer": "He was promised the girl’s weight in silver.",
+    "description": "Roose says Walder let him choose any granddaughter and promised her weight in silver, giving him a fat young bride and a richer purse.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "got-s3e9-hard-015",
+    "context": "OUTSIDE THE TWINS — While she hides in the shadows among overturned tables and dead men, Arya watches Robb’s direwolf thrash against its confinement as armed Freys close in.",
+    "question": "Where is Grey Wind being held when Frey crossbowmen execute him during the Red Wedding?",
+    "options": [
+      "Locked in a kennel outside the Twins",
+      "Chained in the great hall",
+      "Stabled with the horses in the courtyard",
+      "Tied beneath Robb’s war tent"
+    ],
+    "answer": "Locked in a kennel outside the Twins",
+    "difficulty": "medium",
+    "description": "Arya sees Grey Wind trapped in a kennel and then cut down by Frey crossbow bolts."
+  },
+  {
+    "id": "got-s3e9-medium-002",
+    "context": "THE TWINS — Before the chaos erupts, Talisa places Robb’s hand on her stomach and gently tells him the name she hopes their child will carry.",
+    "question": "What name does Talisa suggest for her unborn son?",
+    "options": ["Eddard", "Robb", "Talin", "Brandon"],
+    "answer": "Eddard",
+    "difficulty": "medium",
+    "description": "Talisa says she wants to name the baby Eddard, honoring Robb’s father."
+  },
+  {
+    "id": "got-s3e9-medium-003",
+    "context": "THE TWINS — As the bedding ceremony ends and the atmosphere shifts, the musicians switch to a cold, ominous rendition of a Lannister song.",
+    "question": "Which song is played by the musicians during the Red Wedding massacre?",
+    "options": ["The Rains of Castamere", "The Wolf and the Maiden", "The Bear and the Maiden", "The Rains of Castanere"],
+    "answer": "The Rains of Castamere",
+    "difficulty": "medium",
+    "description": "The Frey musicians begin playing the Lannister anthem 'The Rains of Castamere' as the killing begins."
+  },
+  {
+    "id": "got-s3e9-hard-021",
+    "context": "THE TWINS — As Walder Frey gives his chilling toast, the room turns silent. Behind Talisa, someone steps forward while the musicians switch to a darker tune.",
+    "question": "Who kills Talisa during the Red Wedding?",
+    "options": [
+      "One of Walder Frey’s sons",
+      "A Frey guard from the balcony",
+      "Roose Bolton",
+      "Walder Frey"
+    ],
+    "answer": "One of Walder Frey’s sons",
+    "difficulty": "medium",
+    "description": "A Frey son standing behind Talisa repeatedly stabs her in the stomach as the ambush begins."
+  },
+  {
+    "id": "got-s3e9-hard-004",
+    "context": "THE TWINS — As Robb kneels beside Talisa’s body, a familiar figure approaches him in the silent hall after the arrows stop flying.",
+    "question": "Who delivers the final killing blow to Robb Stark?",
+    "options": ["Roose Bolton", "Black Walder", "Lothar Frey", "Walder Frey"],
+    "answer": "Roose Bolton",
+    "difficulty": "medium",
+    "description": "Roose approaches Robb, grabs his shoulder and stabs him through the heart."
+  },
+  {
+    "id": "got-s3e9-hard-005",
+    "context": "THE TWINS — Robb looks up at Roose Bolton, wounded and devastated, moments before the betrayal reaches its final stroke.",
+    "question": "What were Roose Bolton’s final words to Robb Stark before killing him?",
+    "options": [
+      "“The Lannisters send their regards.”",
+      "“The Lannisters always pays their debts.”",
+      "“This is the price of your oath.”",
+      "“Your father died for less.”"
+    ],
+    "answer": "“The Lannisters send their regards.”",
+    "difficulty": "medium",
+    "description": "Roose whispers it into Robb’s ear right before stabbing him."
+  },
+  {
+    "id": "got-s3e9-hard-006",
+    "context": "THE TWINS — Surrounded by corpses and betrayal, Catelyn seizes one last desperate chance to bargain with Walder Frey after witnessing her son fall.",
+    "question": "What was Catelyn Stark’s final action before her death?",
+    "options": [
+      "She slit the throat of Walder Frey’s wife.",
+      "She tried to attack Walder Frey directly.",
+      "She tried to attack Walder Frey´s son.",
+      "She slit the throat of Walder Frey´s daughter."
+    ],
+    "answer": "She slit the throat of Walder Frey’s wife.",
+    "difficulty": "medium",
+    "description": "She drags Joyeuse Frey from under the table and cuts her throat in a final act of vengeance and despair."
+  },
+  {
+    "id": "got-s3e9-hard-022",
+    "context": "THE TWINS — After Robb is stabbed and the hall falls silent, Catelyn murders Walder’s wife in desperation. Seconds later, she is also killed.",
+    "question": "Who kills Catelyn Stark at the end of the Red Wedding?",
+    "options": [
+      "One of Walder Frey’s sons",
+      "Roose Bolton",
+      "Walder Frey",
+      "A Frey guard"
+    ],
+    "answer": "One of Walder Frey’s sons",
+    "difficulty": "medium",
+    "description": "A son of Walder Frey steps behind Catelyn and slits her throat as the massacre concludes."
+  }
+]

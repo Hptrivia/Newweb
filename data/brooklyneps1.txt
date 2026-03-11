@@ -1,0 +1,453 @@
+[
+  {
+    "id": "b99-s5e14-easy-0031",
+    "context": "**THE BOX**: Jake prepares to interrogate a murder suspect who has just arrived at the precinct.",
+    "question": "What is the suspect’s name and job?",
+    "options": [
+      "Philip Davidson, dentist",
+      "Robert Tupper, dentist",
+      "Henry Smith, hygienist",
+      "Sean Lewis, dentist"
+    ],
+    "answer": "Philip Davidson, dentist",
+    "difficulty": "easy",
+    "episode": 14,
+    "description": "He is introduced as Philip Davidson, the dentist Jake thinks murdered someone."
+  },
+  {
+    "id": "b99-s5e14-easy-0032",
+    "context": "When Philip arrives, Jake has him escorted to a specific interrogation room.",
+    "question": "Which interrogation room is Philip sent to?",
+    "options": [
+      "Interrogation Room C",
+      "Interrogation Room A",
+      "Interrogation Room B",
+      "Interrogation Room D"
+    ],
+    "answer": "Interrogation Room C",
+    "difficulty": "easy",
+    "episode": 14,
+    "description": "Jake tells someone to show Philip to Interrogation Room C."
+  },
+  {
+    "id": "b99-s5e14-easy-0001",
+    "context": "Before the interrogation starts, Jake explains how he has prepared the room to make Philip uncomfortable.",
+    "question": "Which of the following is NOT one of the ways Jake makes the interrogation room uncomfortable?",
+    "options": [
+      "Plays loud rock music on loop",
+      "Jacks up the thermostat",
+      "Makes the table sticky",
+      "Shortens one of the chair legs"
+    ],
+    "answer": "Plays loud rock music on loop",
+    "difficulty": "easy",
+    "episode": 14,
+    "description": "Jake changes the heat, table, and chair, but no constant loud music."
+  },
+  {
+    "id": "b99-s5e14-easy-0002",
+    "context": "Jake describes his final “weapon” to unsettle Philip before entering the room.",
+    "question": "Who does Jake have greet Philip in order to unsettle him?",
+    "options": [
+      "Gina",
+      "Rosa",
+      "Hitchcock",
+      "Scully"
+    ],
+    "answer": "Gina",
+    "difficulty": "easy",
+    "episode": 14,
+    "description": "Jake says the worst part is having Gina simply “be herself.”"
+  },
+  {
+    "id": "b99-s5e14-easy-0003",
+    "context": "Holt arrives at the precinct dressed unusually fancy.",
+    "question": "Why is Holt wearing a tuxedo at the start of the episode?",
+    "options": [
+      "He’s going to the opera with Kevin",
+      "He’s attending a police gala",
+      "He’s going to a tumbling ceremony with Kevin",
+      "He’s going to a charity ball with Kevin"
+    ],
+    "answer": "He’s going to the opera with Kevin",
+    "difficulty": "easy",
+    "episode": 14,
+    "description": "Holt and Kevin have opera tickets for that night."
+  },
+  {
+    "id": "b99-s5e14-easy-0033",
+    "context": "Holt mentions he and Kevin are going to the opera while Jake is setting up the interrogation.",
+    "question": "What does Jake say when Holt tells him he’s attending the opera?",
+    "options": [
+      "“Ooh, the opera. Is it the one Bugs Bunny sings?”",
+      "“Opera? Nerd alert.”",
+      "“Can I come if I solve this case?”",
+      "“Is it the one at the movies?.”"
+    ],
+    "answer": "“Ooh, the opera. Is it the one Bugs Bunny sings?”",
+    "difficulty": "easy",
+    "episode": 14,
+    "description": "Jake immediately turns it into a Looney Tunes reference."
+  },
+  {
+    "id": "b99-s5e14-medium-0005",
+    "context": "Holt explains what he misses most about being a detective.",
+    "question": "What does Holt say he misses most from his detective days?",
+    "options": [
+      "A good interrogation",
+      "High-speed car chases",
+      "Working informants on the street",
+      "Filling out arrest paperwork"
+    ],
+    "answer": "A good interrogation",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "He says he especially misses breaking suspects down in interrogation."
+  },
+  {
+    "id": "b99-s5e14-medium-0034",
+    "context": "Jake explains that many interrogation techniques work better with two people.",
+    "question": "Which interrogation pairing does Jake NOT mention when listing two-person styles?",
+    "options": [
+      "Grizzled vet and rookie cop",
+      "Good cop/bad cop",
+      "Crazy cop/sane cop",
+      "Fast-talking streetwise cop and Hong Kong cop, a.k.a. the “Rush Hour”"
+    ],
+    "answer": "Grizzled vet and rookie cop",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Jake names good/bad, crazy/sane, and the Rush Hour duo, but not a vet/rookie combo."
+  },
+  {
+    "id": "b99-s5e14-medium-0006",
+    "context": "Jake and Holt discuss their suspect, Philip Davidson, a dentist.",
+    "question": "What is the main reason the DA won’t charge Philip yet?",
+    "options": [
+      "The evidence is all circumstantial",
+      "They lost the case file",
+      "A key witness recanted",
+      "They had no DNA evidence"
+    ],
+    "answer": "The evidence is all circumstantial",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "They have motive and means, but only circumstantial evidence."
+  },
+  {
+    "id": "b99-s5e14-medium-0007",
+    "context": "Jake recounts how the victim’s body was found in the Pine Barrens.",
+    "question": "What disturbing forensic detail Holt calmly explains involving the victim’s body?",
+    "options": [
+      "Bear semen was found in the hair",
+      "Lion semen was found in the hair",
+      "The teeth were all removed",
+      "Bear semen was found on her clothes"
+    ],
+    "answer": "Bear semen was found in the hair",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Holt casually theorizes a bear mistook the corpse for a mate."
+  },
+  {
+    "id": "b99-s5e14-medium-0010",
+    "context": "Jake tries to set Holt up with a cool backstory in front of Philip.",
+    "question": "When Jake asks Holt about his scariest confession, Holt answers with which name?",
+    "options": [
+      "Connie Buttons",
+      "The Brooklyn Butcher",
+      "Sergio “The Knife” Alvarez",
+      "Mad Dog McManus"
+    ],
+    "answer": "Connie Buttons",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Holt undercuts Jake’s hype by calmly naming “Connie Buttons.”"
+  },
+  {
+    "id": "b99-s5e14-medium-0011",
+    "context": "Philip claims his meeting with Robert was only about firing an assistant.",
+    "question": "Which office assistant does Philip say Robert wanted to fire?",
+    "options": [
+      "Cheryl",
+      "Grace",
+      "Dana",
+      "Tina"
+    ],
+    "answer": "Cheryl",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Philip says Robert just wanted to fire Cheryl from the office."
+  },
+  {
+    "id": "b99-s5e14-medium-0012",
+    "context": "Jake reveals the backup of Robert’s phone calendar to challenge Philip.",
+    "question": "What phrase does the calendar entry show for Philip’s meeting with Robert?",
+    "options": [
+      "“Talked with Philip about missing meds”",
+      "“Talked with Philip about Cheryl”",
+      "“Talked with Philip about finances”",
+      "“Talked with Philip about firing”"
+    ],
+    "answer": "“Talked with Philip about missing meds”",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "The calendar contradicts Philip’s story about only discussing Cheryl."
+  },
+  {
+    "id": "b99-s5e14-medium-0013",
+    "context": "Philip explains what drug Robert suspected was being stolen from the office.",
+    "question": "Which medication does Philip say Robert thought Cheryl was stealing?",
+    "options": [
+      "Diazepam",
+      "Oxycodone",
+      "Morphine",
+      "Xanax"
+    ],
+    "answer": "Diazepam",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Philip claims Robert believed Cheryl was taking Diazepam."
+  },
+  {
+    "id": "b99-s5e14-medium-0035",
+    "context": "Philip tries to dodge responsibility by joking that the killer saw the victim after him.",
+    "question": "Which video game character does Jake compare Philip to after the “nice dodge” line?",
+    "options": [
+      "Great Tiger from “Mike Tyson’s Punch-Out!!”",
+      "Glass Joe from “Mike Tyson’s Punch-Out!!”",
+      "Mario from “Super Mario Bros.”",
+      "Ryu from “Street Fighter”"
+    ],
+    "answer": "Great Tiger from “Mike Tyson’s Punch-Out!!”",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Jake says Philip is quick like Great Tiger, who teleports in the boxing game."
+  },
+  {
+    "id": "b99-s5e14-medium-0014",
+    "context": "Holt pitches a strategy to Jake about how they’ll play the interrogation.",
+    "question": "What interrogation style does Holt essentially propose using with Jake?",
+    "options": [
+      "Smart cop/dumb cop",
+      "Good cop/bad cop",
+      "Crazy cop/sane cop",
+      "Silent cop/talkative cop"
+    ],
+    "answer": "Smart cop/dumb cop",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Holt wants Philip to underestimate Jake and fear Holt."
+  },
+  {
+    "id": "b99-s5e14-medium-0015",
+    "context": "Philip spends the night of the murder at a bar, according to his story.",
+    "question": "What is the name of the bar Philip claims he went to after leaving the office?",
+    "options": [
+      "The Scotchman",
+      "O’Flaherty’s",
+      "The Copper Mug",
+      "The Blue Lantern"
+    ],
+    "answer": "The Scotchman",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Philip says he went drinking at The Scotchman."
+  },
+  {
+    "id": "b99-s5e14-medium-0016",
+    "context": "Philip claims he spent the night talking to someone at the crowded bar.",
+    "question": "What is the first name Philip gives for the woman he supposedly talked to all night?",
+    "options": [
+      "Dana",
+      "Grace",
+      "Cheryl",
+      "Laura"
+    ],
+    "answer": "Dana",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "He says he spent all his time talking to a woman named Dana."
+  },
+  {
+    "id": "b99-s5e14-medium-0017",
+    "context": "Jake rattles Philip with a rapid-fire string of questions.",
+    "question": "What key slip does Philip make that reveals he knows where the body was found?",
+    "options": [
+      "He mentions Vernon before it is ever said to him",
+      "He refers to the Pine Barrens by name",
+      "He knows the exact date hikers found the body",
+      "He quotes the coroner’s time of death"
+    ],
+    "answer": "He mentions Vernon before it is ever said to him",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Philip says he hasn’t been to Vernon in 20 years, naming the town first."
+  },
+  {
+    "id": "b99-s5e14-medium-0036",
+    "context": "Jake blasts Philip with a rapid-fire string of questions to rattle him during the interrogation.",
+    "question": "Which of these questions does Jake NOT ask during his rapid-fire barrage?",
+    "options": [
+      "What drink did you order at the bar?",
+      "Dana from the bar, what color was her hair?",
+      "Have you ever been up to where the body was found?",
+      "Which night does the cleaning crew sterilize your office?",
+      "When you left your phone at the office, was it plugged into your computer or an outlet?"
+    ],
+    "answer": "What drink did you order at the bar?",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Jake asks about Dana’s hair, cleaning nights, and the phone plug, but never asks what drink Philip ordered."
+  },
+  {
+    "id": "b99-s5e14-hard-0019",
+    "context": "Holt critiques Jake’s ability to act furious in an interrogation.",
+    "question": "What does Philip compare Jake’s angry outburst to when mocking him?",
+    "options": [
+      "A Muppet freaking out",
+      "A child throwing a tantrum",
+      "A puppy barking",
+      "A cartoon clown"
+    ],
+    "answer": "A Muppet freaking out",
+    "difficulty": "hard",
+    "episode": 14,
+    "description": "Philip says it looks like a Muppet getting upset and flailing."
+  },
+  {
+    "id": "b99-s5e14-medium-0020",
+    "context": "Holt gets unexpectedly fired up in a debate about titles.",
+    "question": "What topic unexpectedly triggers Holt into a rant during the “doctor” argument?",
+    "options": [
+      "Etymology",
+      "Sociology",
+      "Entomology",
+      "Phsiology"
+    ],
+    "answer": "Etymology",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Holt snaps when Philip complains about the word “doctor” and etymology."
+  },
+  {
+    "id": "b99-s5e14-medium-0021",
+    "context": "Holt tries to make Philip confront his victim emotionally.",
+    "question": "What is the victim’s full name that Holt makes Philip repeat?",
+    "options": [
+      "Robert Henry Tupper",
+      "Robert Alan Tupper",
+      "Robert Peter Turner",
+      "Robert Mark Turner"
+    ],
+    "answer": "Robert Henry Tupper",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Philip repeats “Robert ‘Rob’ Henry Tupper” without breaking."
+  },
+  {
+    "id": "b99-s5e14-medium-0022",
+    "context": "Jake compares older photos of the dental surgical suite to recent crime scene shots.",
+    "question": "What missing object does Jake initially think might be the murder weapon?",
+    "options": [
+      "A glass dental award",
+      "A metal tray",
+      "A surgical lamp",
+      "A microscope"
+    ],
+    "answer": "A glass dental award",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "One of six glass awards is missing in the newer photo."
+  },
+  {
+    "id": "b99-s5e14-hard-0023",
+    "context": "Jake monologues a theory where Philip sloppily uses the missing award as a weapon.",
+    "question": "What does Philip claim he actually used to kill Robert instead of a glass award?",
+    "options": [
+      "A rod made of special dental polymer",
+      "A heavy metal dental tool",
+      "A sterilized scalpel",
+      "A portable oxygen tank"
+    ],
+    "answer": "A rod made of special dental polymer",
+    "difficulty": "hard",
+    "episode": 14,
+    "description": "He boasts he crafted and later melted down a polymer rod."
+  },
+  {
+    "id": "b99-s5e14-hard-0024",
+    "context": "Philip brags about how perfectly he hid the true murder weapon.",
+    "question": "Where does Philip say the melted murder weapon ultimately ends up?",
+    "options": [
+      "In a patient’s mouth",
+      "In the office incinerator",
+      "Poured into the sewer",
+      "Mixed into plaster casts"
+    ],
+    "answer": "In a patient’s mouth",
+    "difficulty": "hard",
+    "episode": 14,
+    "description": "He says the polymer was melted back down into dental work."
+  },
+  {
+    "id": "b99-s5e14-hard-0025",
+    "context": "Philip insists his crime was carefully planned, not lucky.",
+    "question": "Which of these steps does Philip specifically brag about having planned in advance?",
+    "options": [
+      "Leaving his phone in the office on purpose",
+      "Booking a fake flight out of town",
+      "Sending anonymous tips to mislead police",
+      "Staging a break-in at the practice"
+    ],
+    "answer": "Leaving his phone in the office on purpose",
+    "difficulty": "hard",
+    "episode": 14,
+    "description": "He says he intentionally left his phone to avoid tower pings."
+  },
+  {
+    "id": "b99-s5e14-medium-0026",
+    "context": "After the confession, Holt and Jake debrief in the hallway.",
+    "question": "What was Jake’s stated goal in his final monologue tactic against Philip?",
+    "options": [
+      "To insult Philip’s intelligence",
+      "To make Philip shut down",
+      "To insult Philip’s appearance",
+      "To bore Philip into talking"
+    ],
+    "answer": "To insult Philip’s intelligence",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Jake realized Philip’s worst fear was being seen as sloppy, not smart."
+  },
+  {
+    "id": "b99-s5e14-medium-0029",
+    "context": "At the very end, Holt formally acknowledges Jake’s work on the case.",
+    "question": "What does Holt say to Jake outside before they both head off to sleep?",
+    "options": [
+      "“I’m proud of you, Peralta.”",
+      "“You did adequate work tonight.”",
+      "“Don’t let it go to your head.”",
+      "“You still have much to learn.”"
+    ],
+    "answer": "“I’m proud of you, Peralta.”",
+    "difficulty": "medium",
+    "episode": 14,
+    "description": "Holt explicitly tells Jake he’s proud of him."
+  },
+  {
+    "id": "b99-s5e14-easy-0030",
+    "context": "The episode closes with Holt and Jake heading back inside the precinct at dawn.",
+    "question": "What does Jake say in the final line of the episode?",
+    "options": [
+      "“God, I love this job.”",
+      "“Title of your sex tape.”",
+      "“Noice.”",
+      "“Cool, cool, cool, cool, cool.”"
+    ],
+    "answer": "“God, I love this job.”",
+    "difficulty": "easy",
+    "episode": 14,
+    "description": "Jake ends the episode with “God, I love this job.”"
+  }
+]

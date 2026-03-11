@@ -1,0 +1,252 @@
+[
+  {
+    "id": "op-enies-e1-0001",
+    "context": "**ENIES LOBBY ESCAPE**: On the Bridge of Hesitation, Marine officers rally 200 elite fighters and shout about recovering a specific target.",
+    "question": "Which Strawhat do the Marines specifically order to recover at the start?",
+    "options": ["Nico Robin", "Monkey D. Luffy", "Roronoa Zoro", "Nami"],
+    "answer": "Nico Robin",
+    "difficulty": "easy",
+    "episode": 309,
+    "description": "They shout, \"Recover Nico Robin!\" as the key objective of the operation."
+  },
+  {
+    "id": "op-enies-e1-0002",
+    "context": "A crazed government officer vows to hunt a woman \"to the ends of the earth\" in the name of dark justice.",
+    "question": "Who does Spandam obsessively vow to hunt down \"to the ends of the earth\"?",
+    "options": ["Nico Robin", "Nami", "Boa Hancock", "Vivi"],
+    "answer": "Nico Robin",
+    "difficulty": "easy",
+    "episode": 309,
+    "description": "Spandam rants that he would chase \"that woman\"—Robin—anywhere in the name of \"dark justice.\""
+  },
+  {
+    "id": "op-enies-e1-0003",
+    "context": "Luffy clashes with CP9’s strongest killer, who uses a secret technique beyond the Six Powers.",
+    "question": "Which CP9 member uses the technique Rokuougan against Luffy?",
+    "options": ["Rob Lucci", "Kaku", "Jabra", "Blueno"],
+    "answer": "Rob Lucci",
+    "difficulty": "medium",
+    "episode": 309,
+    "description": "Lucci unleashes \"Rokuougan: Six King Gun\" as his ultimate close-range attack on Luffy."
+  },
+  {
+    "id": "op-enies-e1-0004",
+    "context": "As the elite Marines rush in, one Strawhat archaeologist reveals her own Devil Fruit powers to stop them.",
+    "question": "Which Devil Fruit power does Robin use to flip Marines with \"Cien Fleur: Flip\"?",
+    "options": ["Hana Hana", "Neko Neko", "Sabi Sabi", "Beri Beri"],
+    "answer": "Hana Hana",
+    "difficulty": "medium",
+    "episode": 309,
+    "description": "Robin uses the Hana Hana no Mi, sprouting arms everywhere and calling out \"Cien Fleur, Flip!\" to drop her enemies."
+  },
+  {
+    "id": "op-enies-e1-0005",
+    "context": "While the crew battles around the tower, the navigator calls down a second wave of lightning.",
+    "question": "What weather attack does Nami unleash with the words \"Thunder Ball\" and \"second thunder storm\"?",
+    "options": ["Thunderbolt Tempo", "Cyclone Tempo", "Mirage Tempo", "Thunder Lance"],
+    "answer": "Thunderbolt Tempo",
+    "difficulty": "easy",
+    "episode": 309,
+    "description": "Nami warns everyone about a second thunder storm and fires off \"Thunderbolt Tempo\" from her Clima-Tact."
+  },
+  {
+    "id": "op-enies-e1-0006",
+    "context": "Zoro engages a Marine officer who proudly announces he is a \"rust-human\" and lays a hand on Zoro’s sword.",
+    "question": "What is the name of the Rust Rust Fruit that the Marine uses against Zoro?",
+    "options": ["Sabi Sabi", "Bane Bane", "Noro Noro", "Doru Doru"],
+    "answer": "Sabi Sabi",
+    "difficulty": "medium",
+    "episode": 309,
+    "description": "The officer calls his power the \"Sabi Sabi no Mi\" and rusts Zoro’s sword Yubashiri with a touch."
+  },
+  {
+    "id": "op-enies-e1-0007",
+    "context": "After his sword is ruined, Zoro is told he can’t defeat a rust-user with blades, but he still grins back.",
+    "question": "Which of Zoro’s named swords does the rust-human destroy?",
+    "options": ["Yubashiri", "Sandai Kitetsu", "Wado Ichimonji", "Shusui"],
+    "answer": "Yubashiri",
+    "difficulty": "medium",
+    "episode": 309,
+    "description": "The officer says he'll rust all Zoro’s swords and turns \"Yubashiri\" into flakes, shocking Zoro."
+  },
+  {
+    "id": "op-enies-e1-0008",
+    "context": "In the chaos, Usopp jumps in front of Lucci and starts screaming at him, trying to drag attention away from Luffy.",
+    "question": "What fake rank and name does Usopp shout while bragging about his many men?",
+    "options": ["Captain Usopp-sama", "General Usopp-sama", "Boss Usopp-dono", "Chief Sniper-sama"],
+    "answer": "Captain Usopp-sama",
+    "difficulty": "medium",
+    "episode": 309,
+    "description": "He yells that he’s \"Captain Usopp-sama\", trying to provoke Lucci."
+  },
+  {
+    "id": "op-enies-e1-0009",
+    "context": "Still ranting, Usopp wildly inflates his exploits on the Grand Line to look like a terrifying enemy.",
+    "question": "How many men does Usopp claim to command when bluffing in front of Lucci?",
+    "options": ["8000", "100", "3000", "10,000"],
+    "answer": "8000",
+    "difficulty": "easy",
+    "episode": 309,
+    "description": "He boasts that he’s a \"warrior among warriors\" with 8000 followers, even though it’s a total lie."
+  },
+  {
+    "id": "op-enies-e1-0010",
+    "context": "To hype himself further, Usopp even lies about having eaten a certain Devil Fruit related to money.",
+    "question": "What fake Devil Fruit does Sogeking claim to have, naming it after coins?",
+    "options": ["Beri Beri", "Baku Baku", "Goro Goro", "Kilo Kilo"],
+    "answer": "Beri Beri",
+    "difficulty": "medium",
+    "episode": 309,
+    "description": "He shouts about showing the power of the \"Beri-Beri no Mi\" as part of his sniping brag."
+  },
+  {
+    "id": "op-enies-e1-0013",
+    "context": "Lucci cancels his Seimei Kikan and prepares one final, overwhelming strike to end the battle.",
+    "question": "Which ultimate technique does Lucci charge up as his finishing blow?",
+    "options": ["Rokuougan", "Rankyaku", "Shigan", "Kaminari"],
+    "answer": "Rokuougan",
+    "difficulty": "medium",
+    "episode": 309,
+    "description": "He announces he’ll finish Luffy with a single powerful blow, the Six King Gun \"Rokuougan.\""
+  },
+  {
+    "id": "op-enies-e1-0014",
+    "context": "Luffy responds by pouring everything he has into Gear Second for a storm of punches.",
+    "question": "What is the name of Luffy’s final attack that overwhelms Lucci?",
+    "options": ["Jet Gatling", "Jet Bazooka", "Jet Storm", "Jet Rifle"],
+    "answer": "Jet Gatling",
+    "difficulty": "easy",
+    "episode": 309,
+    "description": "Luffy roars \"Jet Gatling!\" and unleashes a barrage of high-speed punches that finally crush Lucci."
+  },
+  {
+    "id": "op-enies-e2-0004",
+    "context": "A mysterious voice keeps telling them to look somewhere else for salvation.",
+    "question": "According to Chopper, what single word does the mysterious voice keep saying?",
+    "options": ["Below", "Behind", "Ahead", "Above"],
+    "answer": "Below",
+    "difficulty": "medium",
+    "episode": 310,
+    "description": "Chopper insists a voice is saying \"Look below,\" guiding them to notice what’s under the tower."
+  },
+  {
+    "id": "op-enies-e2-0007",
+    "context": "A lone ship suddenly appears beneath the falling crew, shocking both Strawhats and Marines.",
+    "question": "What ship appears under them, allowing the Strawhats to survive the jump?",
+    "options": ["Going Merry", "Thousand Sunny", "Rocketman", "Puffing Tom"],
+    "answer": "Going Merry",
+    "difficulty": "easy",
+    "episode": 310,
+    "description": "They see their old ship and scream, \"It's Merry!\" as the Going Merry catches them from below."
+  },
+  {
+    "id": "op-enies-e2-0010",
+    "context": "Someone’s name is brought up when the Marines argue about firing on the ship that carries Robin.",
+    "question": "Which admiral’s orders about keeping Robin alive are mentioned?",
+    "options": ["Aokiji", "Akainu", "Kizaru", "Sengoku"],
+    "answer": "Aokiji",
+    "difficulty": "medium",
+    "episode": 310,
+    "description": "A Marine hesitates, saying that \"Admiral Aokiji\" said Nico Robin was to be kept alive."
+  },
+  {
+    "id": "op-enies-e2-0011",
+    "context": "Sanji reveals he tampered with something earlier, which is now disrupting the warships’ aim.",
+    "question": "What massive structure does Sanji secretly have closed to save the crew?",
+    "options": ["Gate of Justice", "Sea train line", "First tower gate", "Judicial roof"],
+    "answer": "Gate of Justice",
+    "difficulty": "medium",
+    "episode": 310,
+    "description": "The Marines shout that the \"Gate of Justice\" is closing, creating warped currents and whirlpools; Sanji quietly admits it was his doing."
+  },
+  {
+    "id": "op-enies-e2-0012",
+    "context": "The closing gate twists the currents and completely throws off Marine gunfire.",
+    "question": "What dangerous sea phenomenon forms in front of the fleet when the gate closes?",
+    "options": ["Whirlpools", "Tsunamis", "Icebergs", "Sea Kings"],
+    "answer": "Whirlpools",
+    "difficulty": "easy",
+    "episode": 310,
+    "description": "They explain that currents blocked by the gate create \"whirlpools\" that spin the ships and ruin their aim."
+  },
+  {
+    "id": "op-enies-e2-0013",
+    "context": "The Strawhats realize that the same chaos disrupting the Marines could also wreck their own ship.",
+    "question": "Who does the crew rely on to navigate Merry through the deadly currents?",
+    "options": ["Nami", "Sanji", "Usopp", "Franky"],
+    "answer": "Nami",
+    "difficulty": "easy",
+    "episode": 310,
+    "description": "They shout \"We're counting on you, navigator!\" and Nami tells them to hold on while she figures out a route."
+  },
+  {
+    "id": "op-enies-e2-0014",
+    "context": "As battleships close in, the Strawhats fight off soldiers while sailing inside the whirlpool zone.",
+    "question": "Which Strawhat uses \"Sanjuuroku Pondo Hou\" to blast incoming enemies?",
+    "options": ["Zoro", "Sanji", "Usopp", "Franky"],
+    "answer": "Zoro",
+    "difficulty": "medium",
+    "episode": 310,
+    "description": "Zoro fires a \"36 Pound Cannon\" and complains that without his third sword he can't use the full 108 attack."
+  },
+  {
+    "id": "op-enies-e3-0002",
+    "context": "Franky prepares a risky move that might damage the ship a bit, but could fling them out of danger.",
+    "question": "What cannon-like technique does Franky use to blast the Merry forward?",
+    "options": ["Coup de Vent", "Strong Right", "Fresh Fire", "Weapons Left"],
+    "answer": "Coup de Vent",
+    "difficulty": "easy",
+    "episode": 311,
+    "description": "He warns it might hurt the ship, then fires \"Coup de Vent!\" to literally launch the Merry into the air."
+  },
+  {
+    "id": "op-enies-e3-0004",
+    "context": "Usopp deploys one more support shot to cover their airborne escape.",
+    "question": "What smokescreen attack does Usopp use to hide the Merry?",
+    "options": ["Chou Kemuri Boshi", "Firebird Star", "Exploding Star", "Tabasco Star"],
+    "answer": "Chou Kemuri Boshi",
+    "difficulty": "medium",
+    "episode": 311,
+    "description": "He fires \"Hissatsu Chou Kemuri Boshi\" to cover them in smoke while the ship flies clear."
+  },
+  {
+    "id": "op-enies-e3-0009",
+    "context": "On Merry’s figurehead, a small reindeer claims a special spot as they leave Enies Lobby behind.",
+    "question": "Where does Chopper say is his \"special seat\" on the Merry?",
+    "options": ["On its head", "On the mast", "By the helm", "In the crow's nest"],
+    "answer": "On its head",
+    "difficulty": "easy",
+    "episode": 311,
+    "description": "He says sitting up on the figurehead’s head is his special seat, and they tell him not to fall."
+  },
+  {
+    "id": "op-enies-e3-0011",
+    "context": "Talking about the ship, Kokoro and the others note that it has done something no normal vessel should.",
+    "question": "What extraordinary height do they say Merry has already reached in the sky?",
+    "options": ["10,000 meters", "1000 meters", "5000 meters", "20,000 meters"],
+    "answer": "10,000 meters",
+    "difficulty": "medium",
+    "episode": 311,
+    "description": "Franky reminds them that Merry is the boat that once went \"10,000 meters into the air.\""
+  },
+  {
+    "id": "op-enies-e3-0012",
+    "context": "Kokoro recalls Robin’s rescue and the moment the Strawhats openly challenged the World Government.",
+    "question": "What symbol of the World Government did the Strawhats famously burn during this arc?",
+    "options": ["Their flag", "Their ship", "Their tower", "Their paperwork"],
+    "answer": "Their flag",
+    "difficulty": "easy",
+    "episode": 311,
+    "description": "She reminds them they \"burnt down the World Government's flag\" when demanding Robin back."
+  },
+  {
+    "id": "op-enies-e3-0014",
+    "context": "Standing on the saved ship, Luffy loudly claims the result of the Enies Lobby incident.",
+    "question": "What word does Luffy use to declare the outcome of their fight with the World Government?",
+    "options": ["Victory", "Escape", "Miracle", "Draw"],
+    "answer": "Victory",
+    "difficulty": "easy",
+    "episode": 311,
+    "description": "He shouts, \"Anyway, it's our victory!\" while the crew cheers on the Merry’s deck."
+  }
+]

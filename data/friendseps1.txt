@@ -1,0 +1,333 @@
+[
+  {
+    "id": "fr-s1e7-easy-0001",
+    "context": "**EPISODE 7**: Central Perk, pre-blackout: Rachel quiets the crowd and spotlights her friend with an acoustic guitar for a cozy open-mic vibe.",
+    "question": "Who is Rachel introducing to play music when the blackout hits?",
+    "options": ["Phoebe", "Monica", "Janice", "Carol"],
+    "answer": "Phoebe",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "Rachel proudly unveils “the music of Miss Phoebe Buffay,” and the lights cut out mid-intro—perfect comic timing."
+  },
+  {
+    "id": "fr-s1e7-medium-0002",
+    "context": "Inside a glass ATM vestibule as the city goes dark, Chandler realizes he has very unexpected company.",
+    "question": "Which model is Chandler stuck with in the ATM vestibule?",
+    "options": ["Jill Goodacre", "Elle Macpherson", "Cindy Macpherson", "Jane Goodacre"],
+    "answer": "Jill Goodacre",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "He clock-checks, double-takes, and internally chants, “I am trapped in an ATM vestibule with Jill Goodacre!”—peak panic-delight."
+  },
+  {
+    "id": "fr-s1e7-medium-0004",
+    "context": "Back at Monica’s, everyone shares phones and candles; one friend fumbles even her own contact info.",
+    "question": "Who asks, “What’s my number?” when trying to call her grandma?",
+    "options": ["Phoebe", "Rachel", "Monica", "Joey"],
+    "answer": "Phoebe",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "Phoebe grabs the handset to check on her grandma, then sheepishly admits she doesn’t know her own number."
+  },
+  {
+    "id": "fr-s1e7-easy-0032",
+    "context": "From Monica’s window during the blackout; the gang crane their necks toward the familiar apartment across the way.",
+    "question": "What was Ugly Naked Guy doing in this episode?",
+    "options": [
+      "Lighting a bunch of candles",
+      "Doing naked yoga",
+      "Walking around with a lantern",
+      "Standing at the window"
+    ],
+    "answer": "Lighting a bunch of candles",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "They spot him surrounded by candlelight—then collectively wince, “That had to hurt!”"
+  },
+  {
+    "id": "fr-s1e7-medium-0005",
+    "context": "Joey bursts in carrying the only candles available—a very specific setup for emergency mood lighting.",
+    "question": "What holiday item does Joey bring as their only candles?",
+    "options": ["A menorah", "A lightsaber", "Tea lights", "A lantern"],
+    "answer": "A menorah",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "He explains Chandler’s old roommate was Jewish, shrugs at the scarcity, and cheerfully wishes them a happy Chanukah."
+  },
+  {
+    "id": "fr-s1e7-hard-0007",
+    "context": "Chandler’s inner narration spirals: is it an atrium, foyer, lobby? He waits for a tiebreaker from the pro.",
+    "question": "What word does Chandler decide to use for the bank room after Jill uses it on the phone?",
+    "options": ["Vestibule", "Atrium", "Annex", "Concourse"],
+    "answer": "Vestibule",
+    "difficulty": "hard",
+    "episode": 7,
+    "description": "Once Jill says “vestibule,” he locks it in—debate over—like naming rights to his accidental meet-cute arena."
+  },
+  {
+    "id": "fr-s1e7-medium-0009",
+    "context": "Candlelit confession circle: the group trades ‘weirdest place’ sex stories with escalating shock and laughter.",
+    "question": "Where does Monica confess to, from senior year of college?",
+    "options": ["On a pool table", "In a photo booth", "On a ferry", "In a classroom"],
+    "answer": "On a pool table",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "Monica blurts “on a pool table,” and Ross recoils with the immortal reminder: “That’s my sister.”"
+  },
+  {
+    "id": "fr-s1e7-medium-0010",
+    "context": "Joey ups the oddity with precise coordinates, making Monica question his reason for being there at all.",
+    "question": "Where does Joey claim as his weirdest place?",
+    "options": [
+      "Women’s room, 2nd floor, NYC Public Library",
+      "Women’s room, 1st floor, NYC Museum",
+      "Men’s room, 2nd floor, NYC Museum",
+      "Men’s room, 2nd floor, NYC Public Library"
+    ],
+    "answer": "Women’s room, 2nd floor, NYC Public Library",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "He specifies the floor and building like a resume line; Monica fires back, “What were you doing in a library?”"
+  },
+  {
+    "id": "fr-s1e7-medium-0011",
+    "context": "Ross contributes a theme-park saga complete with mechanical puppets and a lifetime ban.",
+    "question": "Which ride does Ross say broke down, leading to his ‘weirdest place’ story?",
+    "options": [
+      "It’s a Small World",
+      "Pirates of the Caribbean",
+      "Haunted Mansion",
+      "Space Mountain"
+    ],
+    "answer": "It’s a Small World",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "“Disneyland, 1989.” The ride stalls, Dutch kids keep singing, and security asks them never to return."
+  },
+  {
+    "id": "fr-s1e7-medium-0042",
+    "context": "Candlelit ‘weirdest place’ confessions go around the room; Phoebe keeps hers short and delightfully random.",
+    "question": "Where does Phoebe say her weirdest place is?",
+    "options": [
+      "Milwaukee",
+      "Ohio",
+      "Memphis",
+      "Tennesse"
+    ],
+    "answer": "Milwaukee",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "While others get specific and scandalous, Phoebe just shrugs and says, “Milwaukee.”"
+  },
+  {
+    "id": "fr-s1e7-easy-0012",
+    "context": "After all the scandalous reveals, Rachel’s turn lands with the driest punchline possible.",
+    "question": "What ‘weirdest place’ does Rachel finally admit to?",
+    "options": ["The foot of the bed", "The couch", "The bedroom", "The foot of the couch"],
+    "answer": "The foot of the bed",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "Her anticlimax—“the foot of the bed”—wins the bit anyway; Joey crowns it: “We have a winner!”"
+  },
+  {
+    "id": "fr-s1e7-easy-0041",
+    "context": "Couch talk about passion vs. routine; Rachel compares past romance.",
+    "question": "Where does Rachel say Barry refused to kiss her?",
+    "options": [
+      "On a miniature golf course",
+      "At a school dance",
+      "On a Ferris wheel",
+      "In a movie theater"
+    ],
+    "answer": "On a miniature golf course",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "She says Barry wouldn’t even kiss her at mini-golf because they were ‘holding up the people behind us.’"
+  },
+  {
+    "id": "fr-s1e7-medium-0039",
+    "context": "Inside the apartment as Ross sneaks onto the balcony to talk to Rachel; Monica moves to follow.",
+    "question": "What does Joey lie about to keep Monica from going out to the balcony?",
+    "options": [
+      "Ross is planning her surprise birthday party",
+      "Ross is planning a Christmas party",
+      "Ross is planning Phoebe´s suprise birthday party",
+      "Ross is planning to ask Rachel out"
+    ],
+    "answer": "Ross is planning her surprise birthday party",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "On the spot, Joey blurts that Ross is arranging Monica’s surprise party so she and Phoebe would stay inside and not interrupt."
+  },
+  {
+    "id": "fr-s1e7-medium-0022",
+    "context": "Phoebe clocks a pattern of being out of the loop and cites receipts on the spot.",
+    "question": "Which earlier secrets does Phoebe cite to prove she’s always told last?",
+    "options": [
+      "Chandler’s peacock bite and Monica’s crush on Joey",
+      "Carol’s pregnancy and Monica’s Thanksgiving fiasco",
+      "Rachel’s runaway wedding and Monica’s crush on Joey",
+      "Chandler’s peacock bite and Carol’s pregnancy"
+    ],
+    "answer": "Chandler’s peacock bite and Monica’s crush on Joey",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "She fires off two reveals she learned late: the zoo peacock incident and Monica crushing on Joey when he moved in."
+  },
+  {
+    "id": "fr-s1e7-medium-0017",
+    "context": "On the balcony, Ross finally lines up his big ask—then fate sends in a disruption.",
+    "question": "What animal abruptly derails Ross’s big balcony speech to Rachel?",
+    "options": ["A kitten", "A pigeon", "A raccoon", "A bat"],
+    "answer": "A kitten",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "Rachel coos at a tiny cat; it springs onto Ross’s shoulders, talons first, shredding both moment and shirt."
+  },
+  {
+    "id": "fr-s1e7-medium-0033",
+    "context": "Hallway cat hunt with door-to-door knocks; Phoebe vetoes one apartment outright.",
+    "question": "Which neighbor did Phoebe refuse to ask about the cat because they “hate all living things”?",
+    "options": [
+      "The Mendels",
+      "Mr. Heckles",
+      "Mr. Treeger",
+      "The Walthams"
+    ],
+    "answer": "The Mendels",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "She skips the Mendels entirely, because they hate all living things"
+  },
+  {
+    "id": "fr-s1e7-hard-0019",
+    "context": "Hallway canvassing with a wriggling cat; Heckles attempts a brazen, detail-free claim.",
+    "question": "Which fake name does Mr. Heckles give for the cat?",
+    "options": ["Bob Buttons", "Sir Whiskers", "Captain Mittens", "Mr. Snuffle"],
+    "answer": "Bob Buttons",
+    "difficulty": "hard",
+    "episode": 7,
+    "description": "Pressed for proof, he blurts “B-Buttons… Bob Buttons,” while the cat recoils like he’s radioactive."
+  },
+  {
+    "id": "fr-s1e7-easy-0020",
+    "context": "Stairs, candles, and fate: Rachel literally bumps into an Italian stranger holding the wayward cat.",
+    "question": "What is the name of the Italian man Rachel meets with the cat?",
+    "options": ["Paolo", "Marco", "Vincenzo", "Luigi"],
+    "answer": "Paolo",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "One flicker, one smoldering look, and Rachel’s candle blows out—meet-cute secured: Paolo."
+  },
+  {
+    "id": "fr-s1e7-hard-0015",
+    "context": "Jill offers an olive branch; Chandler’s diet-brain answers before his charm can.",
+    "question": "What does Chandler initially refuse because it isn’t sugarless?",
+    "options": ["Gum", "Chocolate", "Soda", "Mints"],
+    "answer": "Gum",
+    "difficulty": "hard",
+    "episode": 7,
+    "description": "He declines, then immediately spirals: if Jill Goodacre offers gum, you take it—mangled carcass and all."
+  },
+  {
+    "id": "fr-s1e7-hard-0023",
+    "context": "Chandler goes for ‘impish bubble’ charm; physics and hygiene gang up on him.",
+    "question": "What happens when Chandler tries the ‘boyish bubble gum’ move?",
+    "options": [
+      "He spits his gum onto the wall",
+      "He pops a bubble onto Jill’s dress",
+      "He swallows the gum and hiccups",
+      "His bubble bursts into Jill´s eye"
+    ],
+    "answer": "He spits his gum onto the wall",
+    "difficulty": "hard",
+    "episode": 7,
+    "description": "He ejects the gum, re-loads the wrong piece, realizes mid-chew, and starts choking before Jill Heimlichs him."
+  },
+  {
+    "id": "fr-s1e7-easy-0034",
+    "context": "Candlelit hang at the coffee table; the gang are playing a game when Rachel returns with company.",
+    "question": "What game were they playing when Rachel brought Paolo in?",
+    "options": [
+      "Monopoly",
+      "Scrabble",
+      "Poker",
+      "Charades"
+    ],
+    "answer": "Monopoly",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "Ross, Monica, and Joey are mid-Monopoly when Rachel sweeps in with Paolo."
+  },
+  {
+    "id": "fr-s1e7-hard-0026",
+    "context": "Territorial chat by the window: Ross tries to warn Paolo off using limited vocabulary and maximum shade.",
+    "question": "What unique insult does Ross use on Paolo after checking his English level?",
+    "options": ["Crapweasel", "Sleazeball", "Weaselwad", "Sleazewad"],
+    "answer": "Crapweasel",
+    "difficulty": "hard",
+    "episode": 7,
+    "description": "After confirming “poco… a leetle,” Ross lands the jab: “Do you know the word crapweasel?”"
+  },
+  {
+    "id": "fr-s1e7-medium-0035",
+    "context": "Post-meet-cute debrief by the window; Rachel gushes about the instant spark.",
+    "question": "Rachel says Paolo’s first smile was more exciting than what?",
+    "options": [
+      "Three weeks in Bermuda with Barry",
+      "A weekend in the Hamptons with Barry",
+      "A cruise to the Bahamas with Barry",
+      "Her senior prom night"
+    ],
+    "answer": "Three weeks in Bermuda with Barry",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "She swoons that those three seconds beat three weeks in Bermuda with Barry—prompting Phoebe to ask if they rode a moped."
+  },
+  {
+    "id": "fr-s1e7-easy-0029",
+    "context": "The last candle dies, power slams back on, and the room gets an unwanted spotlight moment.",
+    "question": "When the power returns, what are Ross and the group shocked to see?",
+    "options": [
+      "Rachel and Paolo making out",
+      "Phoebe and Paolo making out",
+      "Rachel and Ross making out",
+      "Monica and Paolo making out"
+    ],
+    "answer": "Rachel and Paolo making out",
+    "difficulty": "easy",
+    "episode": 7,
+    "description": "Full lights reveal a full make-out at the window; Ross clutches his chest like he just lost the Powerball."
+  },
+  {
+    "id": "fr-s1e7-hard-0030",
+    "context": "Exit interview with a security camera: Chandler adds one last awkward request to cap his blackout saga.",
+    "question": "What does Chandler ask the bank for via the security camera before he leaves?",
+    "options": [
+      "A copy of the tape",
+      "A fee refund",
+      "A new ATM card",
+      "A complimentary safe-deposit box"
+    ],
+    "answer": "A copy of the tape",
+    "difficulty": "hard",
+    "episode": 7,
+    "description": "He recites his account number and politely requests the footage—receipts for the wildest night in a vestibule."
+  },
+  {
+    "id": "fr-s1e7-hard-0036",
+    "context": "ATM-vestibule epilogue after power returns; Chandler addresses the security camera with one last ask.",
+    "question": "What account number does Chandler recite to the bank camera?",
+    "options": [
+      "7143457",
+      "7143547",
+      "7134457",
+      "7413457"
+    ],
+    "answer": "7143457",
+    "difficulty": "hard",
+    "episode": 7,
+    "description": "He gives “Hi, I’m account number 7143457” and politely requests a copy of the tape."
+  }
+]
+

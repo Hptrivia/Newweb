@@ -1,0 +1,363 @@
+[
+  {
+    "id": "bb-full-medium-0001",
+    "context": "**BATMAN BEGINS**: Young Bruce and Rachel are playing in the garden at Wayne Manor when Bruce falls through the ground into a dark space.",
+    "question": "What does Bruce fall into as a child?",
+    "options": ["A dry well", "A sewer tunnel", "A construction pit", "A mine shaft"],
+    "answer": "A dry well",
+    "difficulty": "easy",
+    "description": "While chasing Rachel’s arrow, Bruce breaks through the ground and tumbles into a dry well beneath the manor."
+  },
+  {
+    "id": "bb-full-easy-0002",
+    "context": "After Bruce’s fall, a swarm of creatures erupts around him, triggering his lifelong phobia.",
+    "question": "What animal swarms around young Bruce in the cave?",
+    "options": ["Bats", "Rats", "Crows", "Wolves"],
+    "answer": "Bats",
+    "difficulty": "easy",
+    "description": "In the cavern under the well, flocks of bats burst from the darkness and surround the terrified Bruce."
+  },
+  {
+    "id": "bb-full-medium-0003",
+    "context": "Back in the mansion after the accident, Thomas Wayne comforts Bruce and gives him a lesson about failure.",
+    "question": "According to Thomas, why do we fall?",
+    "options": [
+      "So we can learn to pick ourselves up",
+      "So we learn to be careful",
+      "So we know our limits",
+      "So we can avoid danger"
+    ],
+    "answer": "So we can learn to pick ourselves up",
+    "difficulty": "easy",
+    "description": "Thomas explains that falling is part of learning and tells Bruce they fall so they can learn to pick themselves up."
+  },
+  {
+    "id": "bb-full-medium-0005",
+    "context": "At the opera, Bruce becomes uncomfortable during the performance, leading the family to leave early.",
+    "question": "What triggers Bruce’s fear at the opera, making him ask to leave?",
+    "options": [
+      "Bat-like performers on stage",
+      "Live bats on the stage",
+      "Gunshots in the street",
+      "The crowded theater"
+    ],
+    "answer": "Bat-like performers on stage",
+    "difficulty": "medium",
+    "description": "Masked, bat-like figures in the production remind Bruce of the cave, causing him to panic and ask to go outside."
+  },
+  {
+    "id": "bb-full-easy-0006",
+    "context": "In the alley after leaving the theater, a desperate mugger confronts the Wayne family.",
+    "question": "Who murders Thomas and Martha Wayne?",
+    "options": ["Joe Chill", "Carmine Falcone", "Victor Zsaz", "Flass"],
+    "answer": "Joe Chill",
+    "difficulty": "easy",
+    "description": "The street criminal Joe Chill demands their valuables and ends up shooting both Thomas and Martha in the alley."
+  },
+  {
+    "id": "bb-full-medium-0013",
+    "context": "In a foreign prison, Bruce fights multiple attackers and is visited by a mysterious stranger offering a path.",
+    "question": "Under what name does the man first introduce himself to Bruce in the prison yard?",
+    "options": ["Ducard", "Ra’s", "Crane", "Earle"],
+    "answer": "Ducard",
+    "difficulty": "easy",
+    "description": "The man says his name is merely Ducard and that he speaks for the League of Shadows."
+  },
+  {
+    "id": "bb-full-medium-0014",
+    "context": "Ducard tells Bruce he’ll be released and gives him a test involving an item in the mountains.",
+    "question": "What must Bruce carry to the top of the mountain to seek the League?",
+    "options": [
+      "A rare blue flower",
+      "A rare green flower",
+      "A rare blue stone",
+      "A black stone"
+    ],
+    "answer": "A rare blue flower",
+    "difficulty": "medium",
+    "description": "He’s told to find a rare blue flower on the eastern slopes and bring it up the mountain as his entry test."
+  },
+  {
+    "id": "bb-full-medium-0017",
+    "context": "In the League’s temple, Ducard forces Bruce to confront his guilt about his parents’ murder.",
+    "question": "Whom does Ducard blame for Thomas Wayne’s death?",
+    "options": [
+      "Thomas Wayne",
+      "Bruce Wayne",
+      "The corrupt police",
+      "The City of Gotham"
+    ],
+    "answer": "Thomas Wayne",
+    "difficulty": "hard",
+    "description": "Ducard says Bruce’s father failed to act and calls Thomas responsible for his own death, provoking Bruce’s anger."
+  },
+  {
+    "id": "bb-full-medium-0018",
+    "context": "After overcoming his fear using the blue flower, Bruce is told he must prove his commitment to justice.",
+    "question": "What does the League demand Bruce do to join them?",
+    "options": [
+      "Execute a prisoner",
+      "Destroy Gotham’s symbol",
+      "Raid a village",
+      "Kill Ducard"
+    ],
+    "answer": "Execute a prisoner",
+    "difficulty": "medium",
+    "description": "They present a farmer-turned-killer and insist Bruce must behead him as his final test of loyalty."
+  },
+{
+  "id": "bb-full-medium-0021",
+  "context": "Back in Gotham, Bruce returns to Wayne Enterprises and visits the forgotten basement division that handles experimental prototypes.",
+  "question": "Who runs the Applied Sciences division at Wayne Enterprises?",
+  "options": ["Lucius Fox", "William Earle", "Mr. Reese", "Jim Gordon"],
+  "answer": "Lucius Fox",
+  "difficulty": "easy",
+  "episode": 1,
+  "description": "Bruce is introduced to Lucius Fox, who oversees Applied Sciences and quietly provides him with prototype gear."
+},
+  {
+    "id": "bb-full-medium-0022",
+    "context": "In Fox’s lab, Bruce inspects a prototype survival suit originally designed for soldiers.",
+    "question": "What material is the survival suit primarily made from?",
+    "options": [
+      "Kevlar bi-weave",
+      "Carbon fiber mesh",
+      "Titanium plates",
+      "Ceramic armor"
+    ],
+    "answer": "Kevlar bi-weave",
+    "difficulty": "medium",
+    "description": "Fox shows him a Nomex survival suit with Kevlar bi-weave and reinforced joints, tough enough to stop knives."
+  },
+  {
+    "id": "bb-full-medium-0023",
+    "context": "While testing gear, Bruce and Alfred discuss how to conceal his new activities from the public.",
+    "question": "What excuse does Alfred jokingly suggest to explain Bruce’s future injuries?",
+    "options": [
+      "Polo",
+      "Golf",
+      "Rock climbing",
+      "Car racing"
+    ],
+    "answer": "Polo",
+    "difficulty": "medium",
+    "description": "Alfred mentions that strange injuries will need a cover story and suggests polo as a suitably rich-man pastime."
+  },
+  {
+    "id": "bb-full-medium-0024",
+    "context": "Bruce and Alfred figure out how to mass-order the pieces of his new cowl without raising suspicion.",
+    "question": "From where do they order the main cowl pieces?",
+    "options": [
+      "Singapore",
+      "Hong Kong",
+      "Tokyo",
+      "Seoul"
+    ],
+    "answer": "Singapore",
+    "difficulty": "hard",
+    "description": "Alfred explains they order the main cowl component from Singapore and the separate pieces from a Chinese company."
+  },
+{
+  "id": "bb-full-medium-0025",
+  "context": "In the Narrows, a corrupt Gotham cop bullies a street vendor into handing over cash, showing how deep Falcone's influence runs.",
+  "question": "What is the name of the overweight detective who shakes down the food vendor?",
+  "options": ["Flass", "Mick", "Ramirez", "Stephens"],
+  "answer": "Flass",
+  "difficulty": "easy",
+  "episode": 1,
+  "description": "Detective Flass takes money from a frightened vendor, casually abusing his badge to collect his cut."
+},
+  {
+    "id": "bb-full-medium-0027",
+    "context": "Planning his first outing in full gear, Bruce visits Fox again to ask for special fabric.",
+    "question": "What special fabric does Fox show Bruce that stiffens with an electric current?",
+    "options": [
+      "Memory cloth",
+      "Reactive mesh",
+      "Smart cape",
+      "Static weave"
+    ],
+    "answer": "Memory cloth",
+    "difficulty": "medium",
+    "description": "Fox demonstrates memory cloth that is flexible until current realigns its molecules, creating the basis for the cape."
+  },
+  {
+    "id": "bb-full-medium-0029",
+    "context": "After disabling the mobsters at the docks, Batman leaves Falcone publicly exposed.",
+    "question": "How is Falcone found after Batman takes him down?",
+    "options": [
+      "Handcuffed to a searchlight",
+      "Tied to a lamppost",
+      "Hanging from a crane",
+      "Locked in a container"
+    ],
+    "answer": "Handcuffed to a searchlight",
+    "difficulty": "medium",
+    "description": "Police find Falcone strapped to a spotlight like a grotesque display, with bat imagery scorched nearby."
+  },
+{
+  "id": "bb-full-medium-0030",
+  "context": "At GCPD, the commisioner lectures his officers about the new vigilante, insisting no one takes the law into their own hands in his city.",
+  "question": "What is the name of Gotham’s police commissioner at this time?",
+  "options": ["Loeb", "Gordon", "Foley", "Yindel"],
+  "answer": "Loeb",
+  "difficulty": "easy",
+  "episode": 1,
+  "description": "Commissioner Loeb angrily addresses the force about Batman, making it clear he won’t tolerate vigilantism."
+},
+  {
+    "id": "bb-full-medium-0031",
+    "context": "At a fancy restaurant, Bruce plays the frivolous billionaire while discussing Batman with dinner guests.",
+    "question": "What does Bruce jokingly say about a guy who dresses like a bat?",
+    "options": [
+      "He clearly has issues",
+      "He must love Halloween",
+      "He wants attention",
+      "He’s just bored"
+    ],
+    "answer": "He clearly has issues",
+    "difficulty": "medium",
+    "description": "To deflect suspicion, Bruce shrugs off the vigilante by saying a man who dresses like a bat clearly has issues."
+  },
+  {
+    "id": "bb-full-medium-0032",
+    "context": "Bruce jumps into the decorative hotel pool with models, prompting the manager to complain.",
+    "question": "How does Bruce get away with his friends using the hotel pool?",
+    "options": [
+      "He buys the hotel",
+      "He bribes the staff",
+      "He rents the pool",
+      "He buys the pool"
+    ],
+    "answer": "He buys the hotel",
+    "difficulty": "easy",
+    "description": "When told the pool is only for decoration, Bruce casually announces he’s buying the hotel and changing the rules."
+  },
+  {
+    "id": "bb-full-medium-0033",
+    "context": "Rachel confronts Bruce outside the restaurant about what he’s become.",
+    "question": "What does Rachel say defines someone, not who they are underneath?",
+    "options": [
+      "What they do",
+      "What they feel",
+      "What they say",
+      "What they own"
+    ],
+    "answer": "What they do",
+    "difficulty": "medium",
+    "description": "She tells Bruce that deep down he may still be a good kid, but it’s what he does that defines him."
+  },
+{
+  "id": "bb-full-medium-0034",
+  "context": "In Arkham Asylum, a psychiatrist uses a burlap mask and fear-inducing toxin on his victims.",
+  "question": "What is the real name of the character who goes by the alias Scarecrow?",
+  "options": ["Jonathan Crane", "Edward Crane", "Jonathan Napier", "Jack Napier"],
+  "answer": "Jonathan Crane",
+  "difficulty": "easy",
+  "episode": 1,
+  "description": "The corrupt Arkham psychiatrist Jonathan Crane dons a burlap mask and calls himself Scarecrow while gassing his victims with fear toxin."
+},
+  {
+    "id": "bb-full-medium-0037",
+    "context": "Earle hears about a stolen device from a cargo ship disaster.",
+    "question": "What weapon prototype goes missing from a Wayne Enterprises shipment?",
+    "options": [
+      "A microwave emitter",
+      "A sonic cannon",
+      "A railgun",
+      "A stealth tank"
+    ],
+    "answer": "A microwave emitter",
+    "difficulty": "medium",
+    "description": "A device meant to vaporize an enemy’s water supply disappears after catastrophically damaging a ship."
+  },
+{
+  "id": "bb-full-medium-0042",
+  "context": "During Bruce’s birthday party at Wayne Manor, a familiar mentor from his past arrives among the guests and speaks to him privately.",
+  "question": "Who does Ducard reveal himself as?",
+  "options": ["Ra’s Al Ghul", "Ra’s Al Shul", "Ba’s Al Ghul", "Ga’s Al Rhul"],
+  "answer": "Ra’s Al Ghul",
+  "difficulty": "medium",
+  "episode": 1,
+  "description": "At Wayne Manor, Ducard drops the façade of being only a mentor and reveals that he is actually Ra’s Al Ghul, leader of the League of Shadows."
+},
+  {
+    "id": "bb-full-medium-0044",
+    "context": "Ra’s lays out the League’s philosophy, linking Gotham’s past and present crises to their interventions.",
+    "question": "Which historical disaster does Ra’s NOT specifically mention as a League action?",
+    "options": [
+      "The sinking of Atlantis",
+      "Sacking Rome",
+      "Plague rats on trade ships",
+      "Burning London"
+    ],
+    "answer": "The sinking of Atlantis",
+    "difficulty": "hard",
+    "description": "He cites Rome, plague ships and burning London, but never mentions anything about Atlantis."
+  },
+  {
+    "id": "bb-full-medium-0045",
+    "context": "Ra’s and his men set Wayne Manor ablaze and leave Bruce trapped under debris.",
+    "question": "Who rescues Bruce from the burning wreckage of the manor?",
+    "options": ["Alfred", "Rachel", "Gordon", "Fox"],
+    "answer": "Alfred",
+    "difficulty": "easy",
+    "description": "Alfred finds Bruce pinned under a beam, scolds him about pushups and helps him escape the collapsing house."
+  },
+  {
+    "id": "bb-full-medium-0046",
+    "context": "At GCPD and in the Narrows, Crane’s toxin has been vaporized and chaos erupts in the streets.",
+    "question": "What structure does Ra’s use to carry the emitter toward Wayne Tower?",
+    "options": [
+      "The elevated train",
+      "An armored truck",
+      "A police van",
+      "A boat"
+    ],
+    "answer": "The elevated train",
+    "difficulty": "medium",
+    "description": "The League loads the microwave emitter onto Gotham’s monorail heading straight for the central hub under Wayne Tower."
+  },
+  {
+    "id": "bb-full-medium-0048",
+    "context": "On the train, Batman and Ra’s fight as the locomotive hurtles toward Wayne Tower.",
+    "question": "What crucial support does Gordon destroy from the street to stop the train?",
+    "options": [
+      "The elevated track",
+      "The control station",
+      "The power lines",
+      "The bridge cables"
+    ],
+    "answer": "The elevated track",
+    "difficulty": "medium",
+    "description": "Using the Tumbler’s weapons, Gordon blows out the monorail support near Wayne Tower, leaving the train to crash."
+  },
+  {
+    "id": "bb-full-medium-0049",
+    "context": "At the climax, Batman chooses how far he’ll go with Ra’s as the train is doomed.",
+    "question": "What does Batman do instead of killing Ra’s on the train?",
+    "options": [
+      "He leaves without saving him",
+      "He pushes him out of the train",
+      "He knocks him unconscious and carries him",
+      "He hands him to Gordon"
+    ],
+    "answer": "He leaves without saving him",
+    "difficulty": "medium",
+    "description": "Batman tells Ra’s he won’t kill him but doesn’t have to save him, then glides away as the train crashes."
+  },
+  {
+    "id": "bb-full-medium-0050",
+    "context": "Final Scene: On the rooftop afterward, Gordon worries about escalation and shows Batman a new criminal’s calling card.",
+    "question": "What is shown on the card Gordon hands Batman at the end?",
+    "options": [
+      "A Joker card",
+      "A bat symbol",
+      "A League emblem",
+      "A police badge"
+    ],
+    "answer": "A Joker card",
+    "difficulty": "easy",
+    "description": "Gordon presents an evidence bag holding a playing card – a Joker – hinting at the next theatrical criminal."
+  }
+]

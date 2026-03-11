@@ -1,0 +1,203 @@
+[
+  {
+    "id": "himym-s1e5-easy-0036",
+    "context": "**EPISODE 5**: In the future framing of the episode, Ted is narrating the story to his kids and the timeline is shown on screen.",
+    "question": "In what year is Future Ted for most of the narration?",
+    "options": ["2030", "2020", "2015", "2040"],
+    "answer": "2030",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "The episode’s narration scenes are labeled with the title card “The Year 2030” as Ted tells the story to his kids."
+  },
+  {
+    "id": "himym-s1e5-easy-0001",
+    "context": "In 2030, Future Ted tees up a story for his kids and they react like they already know what’s coming.",
+    "question": "What does Future Ted ask the kids if they want to hear about?",
+    "options": ["The time he went deaf", "The time he got arrested", "The time he got a tattoo", "The time he got blind"],
+    "answer": "The time he went deaf",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "He opens with: “Kids, would you like to hear the story of the time I went deaf?”"
+  },
+  {
+    "id": "himym-s1e5-medium-0003",
+    "context": "At MacLaren’s, Robin walks in and immediately makes Ted say something humiliating to prove a point.",
+    "question": "What does Robin make Ted say first when she arrives?",
+    "options": ["Say you're my bitch", "Say I'm your master", "Say I'm your boss", "Say you're a bitch"],
+    "answer": "Say you're my bitch",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Robin says, “Say you’re my b¡tch,” and Ted replies, “I’m your b¡tch. Why this time?”"
+  },
+  {
+    "id": "himym-s1e5-easy-0004",
+    "context": "Robin explains why she’s doing this and what she’s trying to pull off for the night.",
+    "question": "What place does Robin say she’s getting them into tonight?",
+    "options": ["Okay", "Awesome", "Hello", "Amazing"],
+    "answer": "Okay",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "Robin says, “Because tonight, I am getting us all into ‘Okay’,” and Barney freaks out."
+  },
+  {
+    "id": "himym-s1e5-medium-0005",
+    "context": "Ted is confused about what Robin is talking about, and Barney jumps in to clarify it.",
+    "question": "What does Barney say “Okay” is?",
+    "options": ["A club", "A band", "A new drink", "A restaurant"],
+    "answer": "A club",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Barney explains: “Okay is the name of a club… it’s supposed to be incredibly exclusive.”"
+  },
+  {
+    "id": "himym-s1e5-easy-0037",
+    "context": "At the bar and throughout the night, people address Robin by her last name when they’re talking about her work and reputation.",
+    "question": "What is Robin’s surname?",
+    "options": ["Scherbatsky", "Baberstky", "Sparkles", "Schermatscky"],
+    "answer": "Scherbatsky",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "Ted says: Nice going, Scherbatsky. You're becoming a long and difficult-to-spell household name."
+  },
+  {
+    "id": "himym-s1e5-hard-0006",
+    "context": "Robin describes how she got the hookup and why the owner is willing to help her.",
+    "question": "Where does Robin say she knows the club owner from?",
+    "options": ["Her gym", "Her office", "Her building", "MacLaren’s"],
+    "answer": "Her gym",
+    "difficulty": "hard",
+    "episode": 5,
+    "description": "Robin says, “the owner goes to my gym,” and he’s a fan of her Metro News One reporting."
+  },
+  {
+    "id": "himym-s1e5-medium-0010",
+    "context": "Back in the present, Robin adds a second reason she wants to go out tonight and pitches someone to Ted.",
+    "question": "What is the name of the friend Robin says will be at the club?",
+    "options": ["Kelly", "Claire", "Leslie", "Natalie"],
+    "answer": "Kelly",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Robin says, “my friend Kelly’s going to be there,” and tells Ted he’s going to love her."
+  },
+  {
+    "id": "himym-s1e5-hard-0013",
+    "context": "Barney gives Ted a random “fact” and claims it comes from something Ted never reads.",
+    "question": "According to Barney, girls are attracted to what?",
+    "options": ["Shiny objects", "Bad boys", "Free drinks", "Confidence"],
+    "answer": "Shiny objects",
+    "difficulty": "hard",
+    "episode": 5,
+    "description": "Barney says, “One of the twenty-four similarities between girls and fish is that they’re both attracted to shiny objects.”"
+  },
+  {
+    "id": "himym-s1e5-medium-0014",
+    "context": "Marshall and Lily explain their plans for the night and it sounds nothing like Ted and Barney’s.",
+    "question": "What are Marshall and Lily hosting at the apartment?",
+    "options": ["A wine tasting party", "A poker night", "A movie marathon", "A board game night"],
+    "answer": "A wine tasting party",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "They describe “tasting all these different wines” and pairing them with “cool gourmet cheeses.”"
+  },
+  {
+    "id": "himym-s1e5-easy-0038",
+    "context": "Future Ted explains why inviting Lily and Marshall out sounds funny, then cuts to Lily’s everyday life to show what she does.",
+    "question": "What does Lily do for work?",
+    "options": ["Kindergarten teacher", "Waitress", "High School teacher", "Bartender"],
+    "answer": "Kindergarten teacher",
+    "difficulty": "easy",
+    "episode": 5,
+    "description": "Future Ted says it plainly: “Lily was a kindergarten teacher,” right before the flashback to her classroom during naptime."
+  },
+ {
+    "id": "himym-s1e5-hard-0022",
+    "context": "At the bar inside the club, Ted and the bartender completely fail to communicate over the noise.",
+    "question": "What number does the bartender finally show Ted on the pad?",
+    "options": ["34", "14", "7", "24"],
+    "answer": "34",
+    "difficulty": "hard",
+    "episode": 5,
+    "description": "Ted keeps guessing (“14?” “7?”) and the bartender writes it down and shows him: “34!”"
+  },
+  {
+    "id": "himym-s1e5-hard-0023",
+    "context": "Ted tries to talk to Kelly and spirals into yelling nonsense, then the music cuts out for a moment.",
+    "question": "When the music stops, what was Ted yelling that makes everyone stare?",
+    "options": ["I'M WETTING MY PANTS.", "I HATE THIS CLUB.", "I AM FROM OUTER SPACE.", "I got thrown out of Sea World for hսmpіng a dolphin!"],
+    "answer": "I'M WETTING MY PANTS.",
+    "difficulty": "hard",
+    "episode": 5,
+    "description": "Right when the music drops, Ted shouts “I’M WETTING MY PANTS,” and the whole place turns to look at him."
+  },
+  {
+    "id": "himym-s1e5-hard-0025",
+    "context": "Robin tries again with a different doorman shift and gets humbled immediately.",
+    "question": "What does the new doorman say after Robin claims she’s a reporter for channel one?",
+    "options": ["There's a channel one?", "Nice try, lady", "You are too hot to be a reporter", "Prove it"],
+    "answer": "There's a channel one?",
+    "difficulty": "hard",
+    "episode": 5,
+    "description": "The doorman looks unimpressed and goes, “There’s a channel one? Back of the line!”"
+  },
+  {
+    "id": "himym-s1e5-medium-0026",
+    "context": "Back inside, Ted runs into Marshall near coat check and sees how far off the rails this night has gone.",
+    "question": "What nickname does Marshall use for the coat check worker while being dramatic?",
+    "options": ["Coat wench", "Jacket wench", "Coat girl", "Cloak boss"],
+    "answer": "Coat wench",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Marshall blurts, “Coat wench do not uncheck that man’s jacket,” then quickly adds she’s not a wench."
+  },
+  {
+    "id": "himym-s1e5-hard-0027",
+    "context": "Future Ted pauses the story to add a detail about Marshall earlier that day that ends up mattering a lot.",
+    "question": "What did Marshall get at the dentist earlier that day?",
+    "options": ["A temporary crown", "Braces", "A root canal", "Wisdom teeth removed"],
+    "answer": "A temporary crown",
+    "difficulty": "hard",
+    "episode": 5,
+    "description": "Future Ted says Marshall “went to the dentist and got a temporary crown put in.”"
+  },
+  {
+    "id": "himym-s1e5-medium-0029",
+    "context": "Lily discovers Marshall has vanished from their apartment party and realizes what he did.",
+    "question": "How did Marshall leave the apartment without Lily?",
+    "options": ["He climbed out the bathroom window", "He snuck out the front door", "He took the fire escape", "He said he was going to get ice"],
+    "answer": "He climbed out the bathroom window",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Lily walks into the bathroom and finds the window open—Marshall has already bailed out of it."
+  },
+  {
+    "id": "himym-s1e5-medium-0031",
+    "context": "Locked out, Lily decides to take matters into her own hands and tells Robin to copy her.",
+    "question": "How do Lily and Robin finally get into the club?",
+    "options": ["They flash the doorman", "They bribe the doorman", "They sneak in behind a celebrity", "Robin calls the owner again"],
+    "answer": "They flash the doorman",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Lily says, “Follow my lead,” then flashes the doorman; Robin follows and they get let in."
+  },
+  {
+    "id": "himym-s1e5-medium-0032",
+    "context": "In coat check, Ted talks with the coat check girl and they click over how overrated “fun” can be.",
+    "question": "Where does Ted jokingly suggest they should go if they go on a date, since it can’t be somewhere ‘fun’?",
+    "options": ["The DMV", "A nightclub", "A cruise", "A parade"],
+    "answer": "The DMV",
+    "difficulty": "medium",
+    "episode": 5,
+    "description": "Ted says, “Right. The DMV it is,” and she plays along: “Then we’ll get our teeth cleaned.”"
+  },
+  {
+    "id": "himym-s1e5-hard-0033",
+    "context": "On the dance floor, Barney has been grinding all night with someone he hasn’t properly looked at yet.",
+    "question": "Who does Barney discover he was grinding with?",
+    "options": ["His cousin, Leslie", "His sister Leslie", "His cousin Sara", "His sister Sara"],
+    "answer": "His cousin, Leslie",
+    "difficulty": "hard",
+    "episode": 5,
+    "description": "The woman turns and says “Barney??” and it turns out: “That was my cousin, Leslie.”"
+  }
+]
+

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "sw-tfa-easy-0001",
+    "context": "**STAR WARS: THE FORCE AWAKENS**: At the start, on Jakku, A pilot lands in a village to meet Lor San Tekka and receive a crucial map.",
+    "question": "Whom does Leia send to Jakku to retrieve a map?",
+    "options": ["Poe Dameron", "Han Solo", "Finn", "Luke Skywalker"],
+    "answer": "Poe Dameron",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "General Leia sends her pilot, Poe Dameron, to Jakku to get the from Lor San Tekka."
+  },
+  {
+    "id": "sw-tfa-easy-0002",
+    "context": "When the First Order attacks the village, Poe hides a small spherical droid in the dunes with the map data.",
+    "question": "Which droid carries the map to Luke at the start of the film?",
+    "options": ["BB-8", "R2-D2", "C-3PO", "K-2SO"],
+    "answer": "BB-8",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Poe stores the map portion inside BB-8 and sends the droid away across the sands of Jakku."
+  },
+  {
+    "id": "sw-tfa-medium-0003",
+    "context": "On the Finalizer, Kylo Ren interrogates Poe, and a stormtrooper silently hesitates while watching.",
+    "question": "What is Finn’s stormtrooper designation at the beginning of the movie?",
+    "options": ["FN-2187", "TK-421", "FN-2003", "TR-8R"],
+    "answer": "FN-2187",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Everyone refers to Finn as FN-2187 before Poe later refuses to use that number as his name."
+  },
+  {
+    "id": "sw-tfa-medium-0005",
+    "context": "Poe and Finn sprint into the hangar, steal a ship, and blast their way out of the Finalizer.",
+    "question": "What type of ship do Poe and Finn steal from the Finalizer’s hangar?",
+    "options": ["TIE fighter", "X-wing", "Shuttle", "Starfighter"],
+    "answer": "TIE fighter",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "They hijack a First Order TIE fighter to escape, with Poe piloting and Finn manning the guns."
+  },
+  {
+    "id": "sw-tfa-medium-0006",
+    "context": "On Jakku, Rey lives alone in a fallen AT-AT, scavenging junk from old war wreckage for food rations.",
+    "question": "Who is the junk dealer Rey trades scavenged parts to for food portions?",
+    "options": ["Unkar Plutt", "Watto", "Maz Kanata", "Dexter Jettster"],
+    "answer": "Unkar Plutt",
+    "difficulty": "medium",
+    "episode": 1,
+    "description": "Rey drags parts to Unkar Plutt at Niima Outpost, where he pays her in dehydrated food portions."
+  },
+  {
+    "id": "sw-tfa-medium-0007",
+    "context": "After Rey brings BB-8 to Niima Outpost, the junk dealer makes a very tempting offer.",
+    "question": "How many portions does Unkar Plutt offer Rey in exchange for BB-8?",
+    "options": ["Sixty", "Twenty", "Forty", "Eighty"],
+    "answer": "Sixty",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "He leans in and offers Rey “sixty portions!” for the droid, but she refuses and keeps BB-8."
+  },
+  {
+    "id": "sw-tfa-medium-0009",
+    "context": "When Finn wakes up in the desert, he later encounters Rey and BB-8, who quickly distrust his story.",
+    "question": "Whose jacket is Finn wearing when Rey first confronts him?",
+    "options": ["Poe’s", "Han’s", "Luke’s", "Leia’s"],
+    "answer": "Poe’s",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "BB-8 recognizes Poe Dameron’s jacket on Finn, leading Rey to knock him down and question him."
+  },
+  {
+    "id": "sw-tfa-medium-0010",
+    "context": "Finn panics as stormtroopers approach and lies to Rey about who he really is.",
+    "question": "What does Finn claim to be when he first talks with Rey on Jakku?",
+    "options": ["Resistance pilot", "Jakku trader", "Smuggler", "Bounty hunter"],
+    "answer": "Resistance pilot",
+    "difficulty": "medium",
+    "episode": 1,
+    "description": "Trying to impress her and hide his stormtrooper past, Finn pretends he is with the Resistance and even claims to be a pilot."
+  },
+  {
+    "id": "sw-tfa-medium-0011",
+    "context": "As they flee Niima Outpost together, Finn explains the danger they’re in.",
+    "question": "Which group does Finn say they need to get away from as fast as possible?",
+    "options": ["First Order", "New Republic", "Jakku raiders", "Jedi"],
+    "answer": "First Order",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "He urgently tells Rey that the First Order will keep coming for BB-8 and that they have to run."
+  },
+  {
+    "id": "sw-tfa-easy-0012",
+    "context": "With their first choice of ship destroyed, Rey and Finn turn to a “piece of garbage” in the distance.",
+    "question": "On what old ship do Rey and Finn escape from Jakku?",
+    "options": ["Millennium Falcon", "Ghost", "Slave I", "Outrider"],
+    "answer": "Millennium Falcon",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "After the quadjumper is blown up, they run to “the garbage” – which turns out to be the Millennium Falcon."
+  },
+  {
+    "id": "sw-tfa-medium-0017",
+    "context": "Han decides to bring Rey, Finn, and BB-8 to an old ally who runs a castle full of smugglers and travelers.",
+    "question": "On what planet is Maz Kanata’s castle located?",
+    "options": ["Takodana", "Jakku", "D’Qar", "Hosnian Prime"],
+    "answer": "Takodana",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Han flies them to the forested world of Takodana to meet Maz Kanata at her lakeside castle."
+  },
+  {
+    "id": "sw-tfa-medium-0024",
+    "context": "The First Order arrives at Takodana, and TIE fighters fire on the castle from above.",
+    "question": "Which masked dark side user leads the ground forces during the attack on Maz’s castle?",
+    "options": ["Kylo Ren", "Darth Vader", "Darth Maul", "Snoke"],
+    "answer": "Kylo Ren",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Kylo Ren personally lands with stormtroopers and hunts for the droid carrying the map."
+  },
+  {
+    "id": "sw-tfa-medium-0025",
+    "context": "Kylo finally finds Rey in the woods on Takodana as she shoots at him.",
+    "question": "What weapon does Kylo Ren use to knock Rey unconscious in the forest?",
+    "options": ["The Force", "His lightsaber", "A blaster", "A stun baton"],
+    "answer": "The Force",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "He easily freezes her with the Force and renders her unconscious before carrying her to his shuttle."
+  },
+  {
+    "id": "sw-tfa-medium-0026",
+    "context": "At Starkiller Base, a uniformed officer delivers a furious speech to assembled stormtroopers.",
+    "question": "What rank does Hux hold when he gives his speech before Starkiller fires?",
+    "options": ["General", "Admiral", "Captain", "Commander"],
+    "answer": "General",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "He is General Hux of the First Order, ordering the firing of Starkiller Base against the Republic."
+  },
+  {
+    "id": "sw-tfa-easy-0030",
+    "context": "Among the Resistance X-wing pilots, one is frequently praised as their most skilled flyer.",
+    "question": "Which pilot is described as the Resistance’s best pilot?",
+    "options": ["Poe Dameron", "Snap Wexley", "Ello Asty", "Han Solo"],
+    "answer": "Poe Dameron",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Finn calls Poe the “best pilot” they have, and Poe proves it in multiple battles."
+  },
+  {
+    "id": "sw-tfa-medium-0033",
+    "context": "Whenever Kylo Ren and General Hux report, they speak to a towering hologram in a dark chamber.",
+    "question": "What is the name of the Supreme Leader who appears as a giant hologram?",
+    "options": ["Snoke", "Palpatine", "Thrawn", "Darth Vader"],
+    "answer": "Snoke",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "They answer to Supreme Leader Snoke, who commands the First Order from afar."
+  },
+  {
+    "id": "sw-tfa-medium-0034",
+    "context": "Finn later reveals to Han and the others that he once served under a specific chrome-armored officer.",
+    "question": "What is the name of the chrome-armored stormtrooper commander Finn served under?",
+    "options": ["Captain Phasma", "General Hux", "Commander Pyre", "Admiral Piett"],
+    "answer": "Captain Phasma",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Finn describes how Captain Phasma oversaw him and other stormtroopers before his defection."
+  },
+  {
+    "id": "sw-tfa-medium-0035",
+    "context": "At the Resistance base, pilots and leaders crowd into a briefing room to discuss a super weapon.",
+    "question": "What do the Resistance call the First Order’s planet-sized weapon?",
+    "options": ["Starkiller Base", "Death Star", "Sun Crusher", "Starkiller Forge"],
+    "answer": "Starkiller Base",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Poe and the others refer to the weaponized planet simply as Starkiller Base during the briefing."
+  },
+  {
+    "id": "sw-tfa-medium-0036",
+    "context": "As Resistance fighters return from Takodana, an old reunion takes place on the landing field.",
+    "question": "Who does Poe Damaron run to embrace when he returns with the surviving pilots?",
+    "options": ["Han", "Leia", "Rey", "Chewbacca"],
+    "answer": "Leia",
+    "difficulty": "medium",
+    "episode": 1,
+    "description": "Poe happily hugs Leia on the Resistance base after the successful rescue on Takodana."
+  },
+  {
+    "id": "sw-tfa-medium-0038",
+    "context": "To disable Starkiller’s defenses, Han, Chewie, and Finn infiltrate the base in disguise.",
+    "question": "What structure’s shields are Han, Chewie, and Finn trying to lower on Starkiller Base?",
+    "options": ["The oscillator", "The hangar", "The throne room", "The barracks"],
+    "answer": "The oscillator",
+    "difficulty": "medium",
+    "episode": 1,
+    "description": "They sneak into the base to drop the shields around the thermal oscillator so the Resistance can attack it."
+  },
+  {
+    "id": "sw-tfa-medium-0040",
+    "context": "On a high catwalk inside the oscillator chamber, Han sees a solitary figure standing in the distance.",
+    "question": "What name does Han shout when he first sees Kylo Ren alone on the bridge?",
+    "options": ["Ben!", "Kylo!", "Mark!", "John!"],
+    "answer": "Ben!",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Han calls out his real name, “Ben!”, to get him to remove his mask and talk."
+  },
+  {
+    "id": "sw-tfa-medium-0041",
+    "context": "On the catwalk, Han appeals to Kylo and asks him to come home.",
+    "question": "What family connection does Han reveal when he talks to Kylo on the bridge?",
+    "options": ["He is his father", "He is his uncle", "He is his master", "He is his grandfather"],
+    "answer": "He is his father",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Kylo calls him “Han Solo,” and Han says simply, “Your son is alive,” making clear he is Ben’s father."
+  },
+  {
+    "id": "sw-tfa-medium-0042",
+    "context": "As the star’s light fades, Kylo makes a fateful choice.",
+    "question": "What weapon does Kylo Ren use to kill Han Solo?",
+    "options": ["His lightsaber", "A blaster", "A vibroblade", "The Force"],
+    "answer": "His lightsaber",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "He ignites the crossguard lightsaber through Han’s chest while they stand on the catwalk."
+  },
+{
+  "id": "sw-tfa-medium-0043",
+  "context": "Kylo Ren ignites his lightsaber through Han Solo, who then falls into the abyss below.",
+  "question": "What happens immediately after Han is killed on the catwalk?",
+  "options": [
+    "Chewbacca shoots Kylo Ren",
+    "Poe Dameron shoots Kylo Ren",
+    "Rey attacks Kylo Ren",
+    "Leia shoots Kylo Ren"
+  ],
+  "answer": "Chewbacca shoots Kylo Ren",
+  "difficulty": "medium",
+  "episode": 1,
+  "description": "The moment Han falls, Chewbacca roars in rage and immediately shoots Kylo Ren with his bowcaster."
+},
+  {
+    "id": "sw-tfa-medium-0044",
+    "context": "In the snowy forest, Kylo confronts Finn and Rey as Starkiller Base begins to rip apart.",
+    "question": "Who first fights Kylo Ren with the lightsaber in the forest?",
+    "options": ["Finn", "Rey", "Poe", "Chewbacca"],
+    "answer": "Finn",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Finn ignites Luke’s old lightsaber and charges Kylo before being badly wounded."
+  },
+{
+  "id": "sw-tfa-medium-0047",
+  "context": "As Starkiller Base begins to tear itself apart, Rey and Kylo Ren clash with lightsabers in the snowy forest.",
+  "question": "During the climax of their duel on Starkiller Base, what suddenly happens to stop the fight?",
+  "options": [
+    "A chasm opens up between them",
+    "Stormtroopers surround them",
+    "An explosion seperated them",
+    "A force field activates"
+  ],
+  "answer": "A chasm opens up between them",
+  "difficulty": "medium",
+  "episode": 1,
+  "description": "The ground splits apart, creating a wide chasm between Rey and Kylo that prevents them from continuing the fight."
+},
+  {
+    "id": "sw-tfa-medium-0048",
+    "context": "The planet begins to break apart as the heroes try to escape the forest.",
+    "question": "Who arrives in the Millennium Falcon to rescue Rey and Finn from Starkiller Base?",
+    "options": ["Chewie", "Poe", "Leia", "Maz"],
+    "answer": "Chewie",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "Chewbacca pilots the Falcon in to retrieve Rey and Finn just before the planet disintegrates."
+  },
+  {
+    "id": "sw-tfa-medium-0049",
+    "context": "After returning to the Resistance base, R2-D2 suddenly wakes up and reveals the rest of the map.",
+    "question": "What does the map ultimately show the location of?",
+    "options": ["Luke Skywalker", "Starkiller Base", "Snoke", "Jakku"],
+    "answer": "Luke Skywalker",
+    "difficulty": "easy",
+    "episode": 1,
+    "description": "BB-8’s fragment and R2-D2’s data combine to form a complete map leading to Luke’s hidden world."
+  },
+{
+  "id": "sw-tfa-medium-0050",
+  "context": "In the closing moments, Rey reaches the top of the stone steps on a remote island where a solitary figure waits.",
+  "question": "In the final scene of the movie, what does Rey do after climbing the steps on the island?",
+  "options": [
+    "She reaches Luke Skywalker and hands him the lightsaber",
+    "She reaches Luke Skywalker and hands him the map",
+    "She reaches Kylo Ren and hands him Luke´s lightsaber",
+    "She reaches Kylo Ren and hands him his lightsaber"
+  ],
+  "answer": "She reaches Luke Skywalker and hands him the lightsaber",
+  "difficulty": "easy",
+  "episode": 1,
+  "description": "After the long journey, Rey walks up to Luke in silence and hands him the lightsaber, ending the film on that gesture."
+}
+]

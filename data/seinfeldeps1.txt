@@ -1,0 +1,357 @@
+[
+  {
+    "id": "sf-s1e2-easy-0001",
+    "context": "**EPISODE 2**: Jerry opens the episode on stage, talking about a particular topic",
+    "question": "What everyday topic is Jerry’s opening stand-up routine about in this episode?",
+    "options": [
+      "Paying by cheque at the supermarket",
+      "Awkward first dates",
+      "Going through airport security",
+      "Doing laundry at the laundromat"
+    ],
+    "answer": "Paying by cheque at the supermarket",
+    "difficulty": "easy",
+    "episode": 2,
+    "description": "Jerry jokes about women quickly whipping out their chequebooks in the supermarket line."
+  },
+  {
+    "id": "sf-s1e2-medium-0003",
+    "context": "Jerry explains why cheques feel unmasculine to men in his monologue.",
+    "question": "What does Jerry compare a man’s cheque to?",
+    "options": [
+      "A note from your mother saying she’ll vouch for you",
+      "A IOU scribbled on a napkin",
+      "A coupon someone forgot to sign",
+      "A child’s permission slip"
+    ],
+    "answer": "A note from your mother saying she’ll vouch for you",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "He says a cheque feels like your mom writing, “If you contact these people, they’ll stick up for me.”"
+  },
+  {
+    "id": "sf-s1e2-easy-0004",
+    "context": "At the video store, Jerry and Elaine browse for something to rent.",
+    "question": "Which sequel does Elaine mock by saying, “I guess they didn’t like it up there”?",
+    "options": [
+      "Cocoon II",
+      "Rocky II",
+      "Back to the Future Part II",
+      "Jaws 2"
+    ],
+    "answer": "Cocoon II",
+    "difficulty": "easy",
+    "episode": 2,
+    "description": "She jokes the Cocoon seniors must have come back from space."
+  },
+  {
+    "id": "sf-s1e2-medium-0005",
+    "context": "In the adult section, Elaine suddenly thinks of a prank.",
+    "question": "Whose birthday does Elaine say the adult movie would be a funny gift for?",
+    "options": ["Pamela", "Sara", "Katie", "Vanessa"],
+    "answer": "Pamela",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Elaine decides the tape would be a funny present for Pamela’s birthday."
+  },
+  {
+    "id": "sf-s1e2-medium-0007",
+    "context": "Elaine hints at a birthday gathering for Pamela and tries to back out of inviting Jerry.",
+    "question": "What ‘deal’ does Jerry propose so Elaine will invite him to Pamela’s birthday?",
+    "options": [
+      "He’ll go if she comes with him to a family wedding",
+      "He’ll go if she comes with him to a friends birthday",
+      "He’ll go if she help him move apartments",
+      "He’ll babysit for her friend"
+    ],
+    "answer": "He’ll go if she comes with him to a family wedding",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Jerry trades going to a birthday bar night for Elaine attending his family wedding."
+  },
+  {
+    "id": "sf-s1e2-medium-0009",
+    "context": "At Pamela’s birthday, Jerry and Elaine arrive late to the fancy bar.",
+    "question": "What is the name of the upscale bar where Pamela’s birthday is held?",
+    "options": ["Le Trianon", "Monarch", "Savoy", "Le Regent"],
+    "answer": "Le Trianon",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "The restaurant shows the words Le Trianon at the entrance”"
+  },
+  {
+    "id": "sf-s1e2-easy-0036",
+    "context": "At Pamela’s birthday at Trianon, Jerry notices an attractive woman at the table and starts talking to her.",
+    "question": "What is the name of the woman Jerry meets at Pamela’s birthday party?",
+    "options": [
+      "Vanessa",
+      "Sara",
+      "Katherine",
+      "Susan"
+    ],
+    "answer": "Vanessa",
+    "difficulty": "easy",
+    "episode": 2,
+    "description": "The lawyer Jerry becomes obsessed with is later named Vanessa."
+  },
+  {
+    "id": "sf-s1e2-medium-0013",
+    "context": "Elaine tries to talk to Jerry while he’s clearly fixated on Vanessa.",
+    "question": "In Elaine’s dream story at the bar, what odd feature does Jerry have?",
+    "options": [
+      "Wooden teeth",
+      "Green hair",
+      "Plastic teeth",
+      "A giant nose"
+    ],
+    "answer": "Wooden teeth",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Elaine describes turning around in the dream and seeing Jerry with wooden teeth."
+  },
+  {
+    "id": "sf-s1e2-medium-0014",
+    "context": "Vanessa mentions her job and the firm she works for.",
+    "question": "What law firm does Vanessa tell Jerry she works at?",
+    "options": [
+      "Sagman, Bennet, Robbins, Oppenheim and Taft",
+      "Goldberg, Harris, Levine and Stein",
+      "Miller, Kramer, Lewis and West",
+      "Simmons, Blake, Rogers and Cole"
+    ],
+    "answer": "Sagman, Bennet, Robbins, Oppenheim and Taft",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Jerry frantically repeats the firm’s name to remember it later."
+  },
+  {
+    "id": "sf-s1e2-medium-0015",
+    "context": "Jerry improvises a joke about his past to impress Vanessa.",
+    "question": "What tattoo-related story does Jerry make up for Vanessa?",
+    "options": [
+      "He had “Mom” misspelled with two O’s and sued over it",
+      "He once tattooed a girlfriend’s name and had to cover it",
+      "He got a Mets logo removed after they lost",
+      "He had “Dad” misspelled with two A’s and sued over it"
+    ],
+    "answer": "He had “Mom” misspelled with two O’s and sued over it",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "He jokes the law firm handled his tattoo removal case because of the “MoOm” mistake."
+  },
+  {
+    "id": "sf-s1e2-easy-0016",
+    "context": "After Vanessa leaves the bar with her cousin, Jerry reflects on what happened.",
+    "question": "What key piece of information does Jerry realize he never learned about Vanessa at the bar?",
+    "options": [
+      "Her name",
+      "Her last name",
+      "Her phone number",
+      "Where she lives"
+    ],
+    "answer": "Her name",
+    "difficulty": "easy",
+    "episode": 2,
+    "description": "He laments that he got nothing—he doesn’t even know her first name."
+  },
+  {
+    "id": "sf-s1e2-medium-0019",
+    "context": "During his club bit, Jerry talks about types of relationships named after people.",
+    "question": "Whose name does Jerry say is attached to the idea of a platonic relationship?",
+    "options": ["Plato", "Socrates", "Aristotle", "Freud"],
+    "answer": "Plato",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "He jokes Plato named the platonic relationship after himself."
+  },
+  {
+    "id": "sf-s1e2-medium-0020",
+    "context": "Jerry imagines another guy trying to name a relationship style after himself.",
+    "question": "What is the name of the guy who wants an immediate-sex relationship named after him?",
+    "options": ["Rico", "Tony", "Vic", "Lou"],
+    "answer": "Rico",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Jerry describes a ‘Riconic relationship’ where Rico immediately asks women to bed."
+  },
+  {
+    "id": "sf-s1e2-medium-0023",
+    "context": "Jerry’s parents talk about Elaine while lying in his bed.",
+    "question": "What gift do Jerry’s parents remember Elaine bringing that he didn’t like?",
+    "options": [
+      "Chocolate-covered cherries",
+      "A fruit basket",
+      "A sweater",
+      "A bottle of wine"
+    ],
+    "answer": "Chocolate-covered cherries",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Morty reminds Helen she was the one from Maryland who brought the cherries."
+  },
+  {
+    "id": "sf-s1e2-medium-0024",
+    "context": "Morty suggests an alternative to asking Elaine for Vanessa’s details.",
+    "question": "What basic plan does Morty propose so Jerry can see Vanessa again?",
+    "options": [
+      "Stake out her office lobby at lunchtime",
+      "Send flowers to the law firm",
+      "Call the firm and pretend to be a client",
+      "Wait outside Pamela’s building"
+    ],
+    "answer": "Stake out her office lobby at lunchtime",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Morty tells him to stand by the elevator and pretend they “bumped into” each other."
+  },
+  {
+    "id": "sf-s1e2-medium-0037",
+    "context": "While staking out her office, George asks Jerry what Vanessa looks like and presses for a comparison.",
+    "question": "Which actress does Jerry say Vanessa reminds him of when George asks?",
+    "options": [
+      "Loni Anderson",
+      "Sophia Loren",
+      "Meg Ryan",
+      "Julia Roberts"
+    ],
+    "answer": "Loni Anderson",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Jerry answers that she looks like Loni Anderson, which even George reacts to."
+  },
+  {
+    "id": "sf-s1e2-medium-0025",
+    "context": "At the law office stakeout, George needs a cover story.",
+    "question": "What profession does George decide to pretend to have in the building?",
+    "options": ["Architect", "Accountant", "Stockbroker", "Doctor"],
+    "answer": "Architect",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "George insists he’ll be an architect, even though Jerry doubts it fits him."
+  },
+  {
+    "id": "sf-s1e2-hard-0026",
+    "context": "Jerry and George argue over a name for their fictional lunch friend.",
+    "question": "Which name does George first propose that Jerry thinks sounds made up?",
+    "options": [
+      "Bert Harbinson",
+      "Art Vandelay",
+      "Stan Brenner",
+      "Ken Berman"
+    ],
+    "answer": "Bert Harbinson",
+    "difficulty": "hard",
+    "episode": 2,
+    "description": "George blurts out “Bert Harbinson,” and Jerry dismisses it as fake-sounding."
+  },
+  {
+    "id": "sf-s1e2-medium-0027",
+    "context": "When Vanessa asks who they’re meeting for lunch, George panics.",
+    "question": "What full name does George blurt out as the supposed friend in the building?",
+    "options": [
+      "Art Vandelay",
+      "Bert Harbinson",
+      "Art Corvelay",
+      "George Kramer"
+    ],
+    "answer": "Art Vandelay",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "George corrects Jerry and names the mythical importer “Art Vandelay.”"
+  },
+  {
+    "id": "sf-s1e2-medium-0028",
+    "context": "Vanessa questions their story about their friend in the building.",
+    "question": "What business does Jerry say Art Vandelay is in?",
+    "options": [
+      "Importing and exporting",
+      "Real estate development",
+      "Entertainment law",
+      "Advertising"
+    ],
+    "answer": "Importing and exporting",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Jerry settles on calling him an “importer/exporter.”"
+  },
+  {
+    "id": "sf-s1e2-hard-0029",
+    "context": "George tries to back up his architect lie when Vanessa asks what he designs.",
+    "question": "When Vanessa asks what he designs, what does George say as an architect?",
+    "options": [
+      "Railroads",
+      "Skyscrapers",
+      "Bridges",
+      "Museums"
+    ],
+    "answer": "Railroads",
+    "difficulty": "hard",
+    "episode": 2,
+    "description": "He awkwardly says “railroads,” and Vanessa points out engineers do that."
+  },
+  {
+    "id": "sf-s1e2-medium-0030",
+    "context": "Later, Jerry plays Scrabble with his parents while waiting for Elaine.",
+    "question": "What questionable word does Helen put down that Jerry challenges?",
+    "options": ["Quone", "Qoe", "Quar", "Quim"],
+    "answer": "Quone",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Helen tries to score with “quone,” and Jerry calls it out."
+  },
+  {
+    "id": "sf-s1e2-hard-0031",
+    "context": "Kramer barges in during the Scrabble game and takes Helen’s side.",
+    "question": "How does Kramer define “quone” when defending it as a word?",
+    "options": [
+      "Like when a difficult patient is quoned",
+      "To quickly quit a job without notice",
+      "To corner someone in a conversation",
+      "To question a medical diagnosis"
+    ],
+    "answer": "Like when a difficult patient is quoned",
+    "difficulty": "hard",
+    "episode": 2,
+    "description": "Kramer insists it’s a medical term used when a patient gets difficult."
+  },
+  {
+    "id": "sf-s1e2-medium-0039",
+    "context": "When Jerry and Elaine are finally being honest about other people they’re seeing, he teases her by saying her full name.",
+    "question": "What full name does Jerry use for Elaine in this episode?",
+    "options": [
+      "Elaine Marie Benes",
+      "Elaine Margaret Benes",
+      "Elaine Melissa Benes",
+      "Elaine Michelle Benes"
+    ],
+    "answer": "Elaine Marie Benes",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "Jerry says, “Oh really… Elaine Marie Benes…” when he realizes she’s seeing someone new."
+  },
+  {
+    "id": "sf-s1e2-medium-0034",
+    "context": "Elaine admits she is seeing someone new while talking with Jerry before the wedding.",
+    "question": "What line of work is Elaine’s new guy in?",
+    "options": ["Wall Street", "Publishing", "Real estate", "Advertising"],
+    "answer": "Wall Street",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "She tells Jerry he works in high finance on Wall Street."
+  },
+  {
+    "id": "sf-s1e2-medium-0035",
+    "context": "Elaine reveals how she met her new Wall Street guy.",
+    "question": "How does Elaine say she met the new guy she’s seeing?",
+    "options": [
+      "She staked out his health club",
+      "He was seated next to her on a plane",
+      "They met at a coffee shop",
+      "He was a friend of George’s"
+    ],
+    "answer": "She staked out his health club",
+    "difficulty": "medium",
+    "episode": 2,
+    "description": "She confesses she did her own “stakeout” at his gym, mirroring Jerry’s plan."
+  }
+]

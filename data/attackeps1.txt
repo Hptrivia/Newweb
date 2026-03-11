@@ -1,0 +1,377 @@
+[
+  {
+    "id": "aot-s3e17-medium-0026",
+    "context": "**THE BEAST TITAN**: Before the operation, Hange presents a new anti-Titan weapon to the Scouts.",
+    "question": "What newly developed weapon do Hange and the engineers create to counter the Armored Titan?",
+    "options": [
+      "Thunder Spears",
+      "Armor-piercing cannon shells",
+      "Explosive grappling hooks",
+      "Lightning Spears"
+    ],
+    "answer": "Thunder Spears",
+    "difficulty": "easy",
+    "episode": 17,
+    "description": "Hange introduces Thunder Spears designed to pierce armored Titan flesh."
+  },
+  {
+    "id": "aot-s3e17-medium-0023",
+    "context": "In the briefing before the battle, Erwin assigns squads to use the new weapons.",
+    "question": "Which two squads are ordered to take down the Armored Titan using Thunder Spears?",
+    "options": [
+      "Hange’s squad and Levi’s squad",
+      "Levi’s squad and Jean’s squad",
+      "Levi’s squad and Hange’s squad",
+      "Sasha’s squad and Erwin’s squad"
+    ],
+    "answer": "Hange’s squad and Levi’s squad",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "Erwin assigns the Thunder Spears to Hange and Levi’s units."
+  },
+  {
+    "id": "aot-s3e17-medium-0009",
+    "context": "Armin studies Bertholdt’s Colossal Titan during the battle.",
+    "question": "What critical observation does Armin make about the Colossal Titan’s body during the fight?",
+    "options": [
+      "The Colossal Titan is getting thinner, losing mass",
+      "The Colossal Titan is loosing steam",
+      "The Colossal Titan is regenerating faster",
+      "The Colossal Titan is hardening everywhere"
+    ],
+    "answer": "The Colossal Titan is getting thinner, losing mass",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "He sees Bertholdt’s Titan shrinking over time."
+  },
+  {
+    "id": "aot-s3e17-medium-0010",
+    "context": "Bertholdt keeps using steam to burn away attackers.",
+    "question": "What conclusion does Armin reach about the Colossal Titan’s steam and size?",
+    "options": [
+      "The steam is consuming his body;",
+      "The steam makes him unstoppable",
+      "The steam barely affects his body at all",
+      "The steam only works once"
+    ],
+    "answer": "The steam is consuming his body;",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "Armin realizes Bertholdt is trading flesh for steam."
+  },
+  {
+    "id": "aot-s3e17-hard-0011",
+    "context": "Out of options, Armin creates a final desperate strategy.",
+    "question": "What does Armin decide to do in his plan to defeat Bertholdt?",
+    "options": [
+      "Sacrifice himself by clinging to the Colossal Titan",
+      "Use Eren as a diversion allowing them to sneak up to the Colossal Titan",
+      "Trick Reiner with the smoke into attacking the Colossal Titan",
+      "Use Thunder Spears from a distance"
+    ],
+    "answer": "Sacrifice himself by clinging to the Colossal Titan",
+    "difficulty": "hard",
+    "episode": 17,
+    "description": "He chooses to burn alive to open a window for Eren."
+  },
+  {
+    "id": "aot-s3e17-hard-0017",
+    "context": "Meanwhile, the Scouts focus on finishing Reiner’s Armored Titan.",
+    "question": "On the Reiner side, what is the Scouts’ final Thunder Spear combo to finish him?",
+    "options": [
+      "Conny and Sasha blast his jaw from both sides",
+      "Levi severs his legs and Hange hits his nape",
+      "Jean and Mikasa hit his back together",
+      "Eren pins him while others spear his chest"
+    ],
+    "answer": "Conny and Sasha blast his jaw from both sides",
+    "difficulty": "hard",
+    "episode": 17,
+    "description": "They blow his jaw open; Mikasa delivers the finishing blow with a thunder spear."
+  },
+  {
+    "id": "aot-s3e17-medium-0018",
+    "context": "Mikasa prepares the killing shot on Reiner.",
+    "question": "Why is Mikasa initially hesitant to fire the last Thunder Spear straight into Reiner’s mouth?",
+    "options": [
+      "She fears blowing Armin away along with Reiner",
+      "She worries about collapsing the wall",
+      "She thinks they may need Reiner alive",
+      "She’s low on gear gas"
+    ],
+    "answer": "She fears blowing Armin away along with Reiner",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "Armin’s position makes her hesitate to fire."
+  },
+  {
+    "id": "aot-s3e17-medium-0021",
+    "context": "Erwin watches the Marleyan forces outside Shiganshina and studies the strange quadruped Titan moving with them.",
+    "question": "What unusual feature makes Erwin suspect the quadruped Titan is an intelligent Titan?",
+    "options": [
+      "It carries luggage and equipment on its back",
+      "It roars commands to other Titans",
+      "It walks upright",
+      "It heals faster than any other Titan"
+    ],
+    "answer": "It carries luggage and equipment on its back",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "Erwin notices the four-legged Titan hauling gear like a pack animal."
+  },
+  {
+    "id": "aot-s3e17-medium-0022",
+    "context": "Reiner and Bertholdt discuss how to prevent the Scouts from escaping Shiganshina.",
+    "question": "What do Reiner and the others plan to target first, just like at Utgard Castle?",
+    "options": [
+      "The Scouts’ horses",
+      "The inner gate",
+      "The Wall cannons",
+      "The supply wagons"
+    ],
+    "answer": "The Scouts’ horses",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "They intend to kill the horses so no one can retreat."
+  },
+  {
+    "id": "aot-s3e17-medium-0025",
+    "context": "Erwin’s whole strategy hinges on one soldier striking the commander of the enemy Titans.",
+    "question": "Which enemy Titan is Levi specifically tasked with taking down?",
+    "options": [
+      "The Beast Titan",
+      "The Armored Titan",
+      "The Colossal Titan",
+      "The Cart Titan"
+    ],
+    "answer": "The Beast Titan",
+    "difficulty": "easy",
+    "episode": 17,
+    "description": "Erwin orders Levi to kill the Beast Titan’s user."
+  },
+  {
+    "id": "aot-s3e17-medium-0027",
+    "context": "Outside the Wall, Reiner and Bertholdt take orders from a higher-ranking Warrior.",
+    "question": "Who is the “War Chief” giving Reiner and Bertholdt orders outside the Wall?",
+    "options": [
+      "Zeke",
+      "Commander Magath",
+      "Kenny Ackerman",
+      "Rod Reiss"
+    ],
+    "answer": "Zeke",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "They call Zeke their War Chief as he commands the Marleyan Titans."
+  },
+  {
+    "id": "aot-s3e17-medium-0028",
+    "context": "As the Scouts look beyond Shiganshina’s gate, they see something terrifying on the open field.",
+    "question": "What massive new threat do the Scouts encounter on the ground side of Shiganshina?",
+    "options": [
+      "The Beast Titan throwing boulders like artillery",
+      "A wall of Colossal Titans in the distance",
+      "A herd of mindless Titans stacked on each other",
+      "A new flying Titan circling above"
+    ],
+    "answer": "The Beast Titan throwing boulders like artillery",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "Zeke crushes rocks and hurls them like giant shrapnel shells."
+  },
+  {
+    "id": "aot-s3e17-hard-0029",
+    "context": "Pinned down by rock fire, Erwin realizes they will all die unless someone creates an opening.",
+    "question": "What suicidal strategy does Erwin devise to create a chance to kill the Beast Titan?",
+    "options": [
+      "A cavalry charge straight at the Beast Titan",
+      "A full retreat to lure the Titans closer to the Wall cannons",
+      "A night raid after waiting for the sun to set",
+      "Sending only Levi alone in a direct assault"
+    ],
+    "answer": "A cavalry charge straight at the Beast Titan",
+    "difficulty": "hard",
+    "episode": 17,
+    "description": "Erwin uses the charging Scouts as cover for Levi’s approach."
+  },
+  {
+    "id": "aot-s3e17-hard-0031",
+    "context": "The Scouts must ride straight through the Beast Titan’s rock volleys.",
+    "question": "How do the Scouts plan to reduce the Beast Titan’s throwing accuracy during the charge?",
+    "options": [
+      "By firing smoke flares to create a moving smoke screen",
+      "By zigzagging randomly across the field",
+      "By hiding behind Titan corpses as shields",
+      "By charging only at night"
+    ],
+    "answer": "By firing smoke flares to create a moving smoke screen",
+    "difficulty": "hard",
+    "episode": 17,
+    "description": "They blanket the field with smoke so Zeke can’t aim clearly."
+  },
+  {
+    "id": "aot-s3e17-hard-0004",
+    "context": "Levi suddenly ambushes the Beast Titan at high speed.",
+    "question": "What does Levi destroy first when he attacks the Beast Titan?",
+    "options": [
+      "His eyes, blinding him",
+      "His arms, stopping his throws",
+      "His mouth and teeth",
+      "His nape armor"
+    ],
+    "answer": "His eyes, blinding him",
+    "difficulty": "hard",
+    "episode": 17,
+    "description": "Levi goes for Zeke’s eyes first."
+  },
+  {
+    "id": "aot-s3e17-hard-0005",
+    "context": "After blinding Zeke, Levi doesn’t let up.",
+    "question": "After blinding Zeke, which crucial body parts does Levi slash next?",
+    "options": [
+      "His legs and nape",
+      "His hands and wrists",
+      "His shoulders and ribs",
+      "His jaw and neck front"
+    ],
+    "answer": "His legs and nape",
+    "difficulty": "hard",
+    "episode": 17,
+    "description": "He cripples the Beast Titan, then opens the nape."
+  },
+  {
+    "id": "aot-s3e17-hard-0006",
+    "context": "Levi has Zeke helpless, hanging from the shredded Beast Titan.",
+    "question": "Why doesn’t Levi kill the Beast Titan outright after cutting him down?",
+    "options": [
+      "He wants to feed him to a dying comrade to steal his power",
+      "He hopes Zeke will reveal intel first",
+      "He wants him as a hostage",
+      "He fears more Titans will spawn"
+    ],
+    "answer": "He wants to feed him to a dying comrade to steal his power",
+    "difficulty": "hard",
+    "episode": 17,
+    "description": "Levi plans to use Zeke’s power for humanity."
+  },
+  {
+    "id": "aot-s3e17-medium-0007",
+    "context": "A new Titan rushes in as Zeke is about to die.",
+    "question": "Who rescues the Beast Titan from Levi at the last moment?",
+    "options": [
+      "The Cart Titan",
+      "The Armored Titan",
+      "The Colossal Titan",
+      "A pack of Pure Titans"
+    ],
+    "answer": "The Cart Titan",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "The Cart Titan snatches Zeke and escapes."
+  },
+  {
+    "id": "aot-s3e17-hard-0008",
+    "context": "Levi thinks back to Erwin’s final request about Zeke.",
+    "question": "What does Levi say is the condition to keep his promise to Erwin about killing Zeke?",
+    "options": [
+      "He must find a dying comrade to inject and turn into a Titan to eat Zeke",
+      "He must face Zeke alone again",
+      "He must wait for orders from the Corps",
+      "He must capture Zeke alive first"
+    ],
+    "answer": "He must find a dying comrade to inject and turn into a Titan to eat Zeke",
+    "difficulty": "hard",
+    "episode": 17,
+    "description": "Levi needs a near-dead ally to inherit the Beast."
+  },
+  {
+    "id": "aot-s3e17-medium-0032",
+    "context": "After the battle, Levi prepares to inject Armin when someone arrives with another body.",
+    "question": "Who shows up with another dying candidate just as Levi is about to inject Armin?",
+    "options": [
+      "Floch",
+      "Hange",
+      "Jean",
+      "Sasha"
+    ],
+    "answer": "Floch",
+    "difficulty": "medium",
+    "episode": 17,
+    "description": "Floch staggers in carrying the critically wounded Erwin."
+  },
+  {
+    "id": "aot-s3e18-medium-0036",
+    "context": "On the rooftop, Levi recalls the instructions that came with the Titan serum about how to use it to steal a Titan shifter’s power.",
+    "question": "According to the serum explanation, how can a Titan power like the Colossal, Armored, or Beast Titan be stolen?",
+    "options": [
+      "Inject someone, let them become a Titan, and have them eat a Titan shifter",
+      "Inject a Titan directly",
+      "Have someone eat a titan shifter and then inject them with the serum",
+      "Mix Titan blood into the serum and drink it"
+    ],
+    "answer": "Inject someone, let them become a Titan, and have them eat a Titan shifter",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "The injected person turns into a Titan and must eat a shifter to inherit their power."
+  },
+  {
+    "id": "aot-s3e18-medium-0037",
+    "context": "The note with the syringe explains the steps of the Titan-making process before someone inherits a specific power.",
+    "question": "What happens to a person immediately after they are injected with the Titan serum to inherit a power?",
+    "options": [
+      "They become a mindless Titan first, then revert to human after eating a shifter",
+      "They instantly transform into a fully aware Titan shifter",
+      "They fall into a coma for several days",
+      "They turn into a Founding Titan"
+    ],
+    "answer": "They become a mindless Titan first, then revert to human after eating a shifter",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Injection creates a Pure Titan, which only becomes a shifter after devouring another shifter."
+  },
+  {
+    "id": "aot-s3e18-medium-0038",
+    "context": "Levi argues with the others about who should receive the single Titan serum on the rooftop.",
+    "question": "Why does Levi initially want to use the serum on Erwin rather than Armin?",
+    "options": [
+      "He believes Erwin’s talent is essential for humanity to defeat the Titans",
+      "He promised Erwin he would save him no matter what",
+      "He thinks Armin is too young to handle a Titan power",
+      "He believes Erwin has done more to deserve to live"
+    ],
+    "answer": "He believes Erwin’s talent is essential for humanity to defeat the Titans",
+    "difficulty": "medium",
+    "episode": 18,
+    "description": "Levi says that without Erwin’s talent, humanity can’t beat the Titans."
+  },
+  {
+    "id": "aot-s3e18-hard-0039",
+    "context": "Mikasa and Eren argue desperately that Armin should be the one saved instead of Erwin.",
+    "question": "Which of the following is NOT mentioned as a reason why Armin should be the one saved?",
+    "options": [
+      "He helped to design the Thunder Spears used against the Armored Titan",
+      "He helped save Trost by planning to plug the gate with a rock",
+      "He exposed Annie as the Female Titan",
+      "He came up with key plans like moving at night and exposing Reiner"
+    ],
+    "answer": "He helped to design the Thunder Spears used against the Armored Titan",
+    "difficulty": "hard",
+    "episode": 18,
+    "description": "They credit Armin with Trost, Annie, night movement, Reiner, and Bertholdt—not with inventing Thunder Spears."
+  },
+{
+  "id": "aot-s3e18-medium-0035",
+  "context": "On the rooftop after the battle, Levi must decide who will get the injection and inherit the Colossal Titan’s power.",
+  "question": "How does the scene ultimately end?",
+  "options": [
+    "Armin becomes a Titan and eats Bertholdt",
+    "Erwin is injected and inherits the Colossal Titan",
+    "Levi refuses to use the serum on anyone",
+    "Armin becomes a Titan and eats Reiner"
+  ],
+  "answer": "Armin becomes a Titan and eats Bertholdt",
+  "difficulty": "medium",
+  "episode": 18,
+  "description": "Levi chooses Armin, who transforms, devours Bertholdt, and inherits the Colossal Titan."
+}
+]

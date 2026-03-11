@@ -1,0 +1,253 @@
+[
+  {
+    "id": "co-s1e3-easy-0040",
+    "context": "**EPISODE 3**: In Jeff’s blow-off class, the instructor pushes stunts and keeps telling everyone to live like today is their last.",
+    "question": "What is the name of the professor in this class?",
+    "options": ["Professor Whitman", "Professor Strickland", "Professor Slater", "Professor Trevor"],
+    "answer": "Professor Whitman",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "Jeff calls him out by name when pitching the class: \"Professor Whitman\""
+  },
+  {
+    "id": "co-s1e3-medium-0006",
+    "context": "Study group hangout — they’re reacting to Jeff’s discovery of an easy elective.",
+    "question": "How does Jeff describe Professor Whitman’s vibe?",
+    "options": ["Like he’s in Dead Poets Society", "Like he’s in Good Will Hunting", "Like he’s in Patch Adams", "Like he’s in The Breakfast Club"],
+    "answer": "Like he’s in Dead Poets Society",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Jeff sells it as a total joke class: \"Professor Whitman. he thinks he's in dead poets society.\""
+  },
+  {
+    "id": "co-s1e3-medium-0008",
+    "context": "The conversation shifts to Abed’s situation and what his dad will pay for.",
+    "question": "Why can’t Abed take the classes he wants?",
+    "options": ["He already maxed out his credits", "His dad will only pay for classes tied to the family restaurant", "His dad will only pay for business classes", "The class is full"],
+    "answer": "His dad will only pay for classes tied to the family restaurant",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Abed explains, \"My dad will only pay for classes that will help me run the family restaurant.\""
+  },
+  {
+    "id": "co-s1e3-easy-0041",
+    "context": "The study group talks about Abed’s dad and what Abed is expected to do with his life after Greendale.",
+    "question": "What kind of business does Abed’s family have?",
+    "options": ["A falafel restaurant", "A shawarma restaurant", "A grocery store", "A bakery"],
+    "answer": "A falafel restaurant",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "Abed explains his dad will only pay for classes that help him run \"the family restaurant,\" and later calls it \"the falafel business.\""
+  },
+  {
+    "id": "co-s1e3-hard-0009",
+    "context": "Abed elaborates on why the restaurant has struggled, using a darkly specific comparison.",
+    "question": "Abed says the falafel business has been struggling since what year?",
+    "options": ["1999", "2001", "2004", "2008"],
+    "answer": "2001",
+    "difficulty": "hard",
+    "episode": 3,
+    "description": "He says it plainly: \"It's been struggling since 2001,\" then adds that \"9/11 was pretty much the 9/11 of the falafel business.\""
+  },
+  {
+    "id": "co-s1e3-easy-0042",
+    "context": "The group presses Abed about what he actually wants for himself, separate from his dad’s plans.",
+    "question": "What is Abed interested in doing?",
+    "options": ["Making movies", "Acting", "Becoming a doctor", "Becoming a lawyer"],
+    "answer": "Making movies",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "Abed says it straight: \"I'm interested in making movies,\" even though his dad wants him focused on the restaurant."
+  },
+  {
+    "id": "co-s1e3-medium-0010",
+    "context": "The group chats about Abed’s dad’s worldview and movies.",
+    "question": "Which Disney movie does someone mention as a counterexample to Abed’s dad’s media complaints?",
+    "options": ["Aladdin", "The Lion King", "Mulan", "Hercules"],
+    "answer": "Aladdin",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Abed says his dad thinks media stereotypes Arabs, and the reply is, \"then he should see aladdin,\" followed by \"Jafar was a bad-ass.\""
+  },
+  {
+    "id": "co-s1e3-easy-0011",
+    "context": "Britta quietly decides to help Abed with a practical problem.",
+    "question": "How much does Britta say a film class costs?",
+    "options": ["$50", "$70", "$90", "$120"],
+    "answer": "$70",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "When asked, Abed answers directly: \"$70.\" Britta’s help immediately kicks in after that."
+  },
+  {
+    "id": "co-s1e3-medium-0002",
+    "context": "Professor Whitman takes over the room and launches into his big, dramatic introduction.",
+    "question": "What does Professor Whitman tell the class to do with their textbooks?",
+    "options": ["Open them to page 37 and take notes", "Close them and throw them away", "Tear them into pieces", "Set them on fire"],
+    "answer": "Close them and throw them away",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "He orders, \"Open your textbooks to page 37. Now... close them and throw them away. Throw it away!\""
+  },
+  {
+    "id": "co-s1e3-easy-0003",
+    "context": "Whitman lays out the vibe of the course and tries to sell everyone on his philosophy.",
+    "question": "What is the motto of Professor Whitman’s class?",
+    "options": ["Carpe diem", "Knowledge is power", "Vive hodie", "Fortune favors the bold"],
+    "answer": "Carpe diem",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "He announces it like a catchphrase: \"the motto of this class: carpe diem\" and translates it as \"seize the day!\""
+  },
+  {
+    "id": "co-s1e3-easy-0044",
+    "context": "In Whitman’s class, Shirley introduces herself when called on in front of everyone.",
+    "question": "What is Shirley’s surname?",
+    "options": ["Bennett", "Jackson", "Garett", "Bryant"],
+    "answer": "Bennett",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "When Whitman asks her name, she responds clearly: \"My name is Shirley bennett.\""
+  },
+  {
+    "id": "co-s1e3-easy-0013",
+    "context": "In Whitman’s class, he turns attention to Shirley and makes her explain herself.",
+    "question": "What does Shirley say she’s at Greendale to do?",
+    "options": ["Get a degree and become a nurse", "Get a business degree to sell baked goods online", "Get a marketing degree", "Get a business degree to sell clothes online"],
+    "answer": "Get a business degree to sell baked goods online",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "She repeats it word-for-word: \"To get a degree in business so I can sell my baked goods and whatnot on the internet.\""
+  },
+  {
+    "id": "co-s1e3-hard-0045",
+    "context": "Professor Whitman pushes Shirley to stop giving a safe answer and to say what’s really driving her to be at Greendale.",
+    "question": "When pressed for the real reason she’s at Greendale, what does Shirley say?",
+    "options": [
+      "Because she wants to prove her ex wrong",
+      "Because she wasted 15 years of her life on a man",
+      "Because she wants to show off to her family",
+      "Because she’s ashamed she dropped out of school"
+    ],
+    "answer": "Because she wasted 15 years of her life on a man",
+    "difficulty": "hard",
+    "episode": 3,
+    "description": "Britta finally snaps and says the whole thing: she \"wasted 15 years\" on a man who left her with \"nothing but stretch marks and a foggy memory of two bland оrgasm\" and she’s done with that life."
+  },
+  {
+    "id": "co-s1e3-medium-0046",
+    "context": "Whitman assigns the class a strange, emotional checklist meant to force the to genuinely live in the moment.",
+    "question": "Which of these is NOT part of Whitman’s homework?",
+    "options": ["Swim in a lake", "Tell ten people that you love them", "Write a ten-page essay about your childhood"],
+    "answer": "Write a ten-page essay about your childhood",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Whitman’s assignment is purely experience-based: \"swim in a lake\" and \"tell ten people that you love them\"—no essays, no papers."
+  },
+  {
+    "id": "co-s1e3-easy-0047",
+    "context": "Jeff complains about Whitman’s grading threat and how the class structure makes it impossible to “game” it normally.",
+    "question": "What subject does Professor Whitman actually teach?",
+    "options": ["Accounting", "Spanish", "Biology", "Film"],
+    "answer": "Accounting",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "Jeff vents, \"This is no way to teach accounting!\" while freaking out about having to prove he’s living in the moment."
+  },
+  {
+    "id": "co-s1e3-easy-0019",
+    "context": "Later, Jeff checks in with Abed about his film class in a casual hallway moment.",
+    "question": "Abed says his first film assignment is what?",
+    "options": ["A documentary", "A silent film", "A commercial", "A music video"],
+    "answer": "A documentary",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "Abed’s excited: \"Our first assignment is a documentary.\" Then he adds, \"They're like real movies, but with ugly people.\""
+  },
+  {
+    "id": "co-s1e3-easy-0048",
+    "context": "Jeff checks on Abed’s progress and Abed explains what he’s filming for his first big assignment.",
+    "question": "Who does Abed say he’s making his documentary about?",
+    "options": ["His dad", "His dreams", "Jeff", "The Study Group"],
+    "answer": "His dad",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "Abed tells Jeff directly, \"Actually, I'm doing a movie about my dad,\" and that’s what sets up the whole episode’s conflict."
+  },
+  {
+    "id": "co-s1e3-medium-0023",
+    "context": "After Abed’s dad storms off, Abed proposes a “casting” solution for his film.",
+    "question": "Who does Abed ask to play the role of his father?",
+    "options": ["Troy", "Jeff", "Pierce", "Dean Pelton"],
+    "answer": "Jeff",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Jeff says, I dont want to be your father and Abed replies, That's perfect. You already know your lines."
+  },
+  {
+    "id": "co-s1e3-easy-0039",
+    "context": "Someone vents to Jeff about trying to talk to Abed and how he keeps framing real life like a movie scene.",
+    "question": "Who does Abed say is playing the role of his mother?",
+    "options": ["Britta", "Shirley", "Annie"],
+    "answer": "Britta",
+    "difficulty": "easy",
+    "episode": 3,
+    "description": "Britta complains that whenever she tries to ask him what’s going on, Abed just keeps filming her and says she’s \"playing the role of his mother.\""
+  },
+  {
+    "id": "co-s1e3-medium-0025",
+    "context": "Pierce gives Troy a bizarre pep talk about masculinity and public perception.",
+    "question": "According to Pierce, what is the main problem with Troy’s image?",
+    "options": ["His haircut", "His jacket", "His sneeze", "His posture"],
+    "answer": "His sneeze",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Pierce drills into it: \"But more importantly, it's your sneeze.\" When I was a ceo, I had an array of masculine sneezes that asserted dominance"
+  },
+  {
+    "id": "co-s1e3-medium-0027",
+    "context": "Whitman calls Jeff out for treating life-seizing like a performance.",
+    "question": "Which of these is NOT one of Whitman’s examples of Jeff’s “crafted” look?",
+    "options": ["Bed head styling", "Sweat pants and sport jacket combos", "His flashy car", "Trying to look like he doesn’t care"],
+    "answer": "His flashy car",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Whitman roasts him: \"How long does it take you... to make it look like you have bed head?\" and \"How many sweat pants, sport jacket combos did you try... that said 'i don't care'?\" No car mentioned."
+  },
+  {
+    "id": "co-s1e3-medium-0049",
+    "context": "Whitman lectures Jeff about what real day-seizing looks like and lists examples Jeff should do for himself.",
+    "question": "Which of these does Professor Whitman NOT tell Jeff to do to seize the day?",
+    "options": [
+      "Go running naked in a hailstorm",
+      "Kiss a girl in the middle of the day",
+      "Fly a kite",
+      "Shave your head in the cafeteria"
+    ],
+    "answer": "Shave your head in the cafeteria",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Whitman’s actual examples are: \"Go running naked in a hailstorm,\" \"kiss a girl in the middle of the day,\" and \"fly a kite\"—the shaved-head thing never happens."
+  },
+  {
+    "id": "co-s1e3-medium-0050",
+    "context": "Outside the classroom, Jeff tries to convince Whitman he’s putting in effort, and Britta pushes him to do something bolder on the spot.",
+    "question": "What does Britta suggest Jeff do in front of Whitman to seize the day?",
+    "options": ["Kiss her", "Jump in the lake", "Sing a song", "Take of his clothes"],
+    "answer": "Kiss her",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "As Jeff begs Whitman to acknowledge his effort, Britta jumps in with a blunt “prove it” move—pushing Jeff to \"kiss\" her right there as a real day-seizing gesture."
+  },
+  {
+    "id": "co-s1e3-medium-0038",
+    "context": "Whitman watches Jeff’s final “seize the day” moment and gives his verdict.",
+    "question": "What grade does Whitman give Jeff at the end?",
+    "options": ["A", "A plus", "B", "Pass/fail credit"],
+    "answer": "A plus",
+    "difficulty": "medium",
+    "episode": 3,
+    "description": "Whitman approves instantly: \"'a' plus, winger. I know a life-changing kiss when I see one.\""
+  }
+]
+

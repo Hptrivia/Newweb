@@ -1,0 +1,455 @@
+[
+  {
+    "id": "boys-s3-0041",
+    "episode": 5,
+    "context": "**HEROGASM**: In the Russian lab video, scientists list what they’ve done to Soldier Boy while Frenchie and Butcher watch.",
+    "question": "According to the Russian experiment log, what did they “more or less” do to Soldier Boy?",
+    "options": [
+      "Shove Chernobyl right up his arse",
+      "Lock him inside a reactor core",
+      "Inject him with liquid plutonium",
+      "Drop a small nuclear bomb on him"
+    ],
+    "answer": "Shove Chernobyl right up his arse",
+    "difficulty": "medium",
+    "description": "The Russian scientist says they hit him with twenty sieverts and sulfuric acid, “more or less shoved Chernobyl right up his arse.”"
+  },
+  {
+    "id": "boys-s3-0044",
+    "episode": 5,
+    "context": "Soldier Boy explodes in the Russian corridor and Kimiko is hurled through a wall.",
+    "question": "What shocking change does Kimiko discover about herself after Soldier Boy’s blast?",
+    "options": [
+      "Her powers are gone and she doesn’t heal",
+      "She suddenly gains new powers",
+      "She heals even faster",
+      "Her senses are enhanced"
+    ],
+    "answer": "Her powers are gone and she doesn’t heal",
+    "difficulty": "medium",
+    "description": "In the hospital she realizes her wounds haven’t healed and excitedly says her powers are gone."
+  },
+  {
+    "id": "boys-s3-0046",
+    "episode": 5,
+    "context": "Back in the hospital, M.M. confronts Butcher about using Temp V.",
+    "question": "According to M.M., what is the whole point of what their crew is supposed to do?",
+    "options": [
+      "Make sure no one has that kind of power",
+      "Hunt all supes",
+      "Expose Compound V",
+      "Show the world that they are different"
+    ],
+    "answer": "Make sure no one has that kind of power",
+    "difficulty": "medium",
+    "description": "M.M. says the whole g*dd*mn point is that no one should have that kind of power, calling out Butcher for crossing the line."
+  },
+  {
+    "id": "boys-s3-0047",
+    "episode": 5,
+    "context": "Butcher admits to killing Gunpowder with laser eyes and argues with M.M. over the Temp V.",
+    "question": "What is Butcher’s main justification for how it felt to kill Gunpowder with borrowed powers?",
+    "options": [
+      "For once he leveled the playing field",
+      "He was only acting in self-defense",
+      "Vought forced his hand",
+      "He had no choice"
+    ],
+    "answer": "For once he leveled the playing field",
+    "difficulty": "medium",
+    "description": "Butcher says it felt good because, for once, he “leveled the f*cking playing field” with a Supe."
+  },
+  {
+    "id": "boys-s3-0048",
+    "episode": 5,
+    "context": "After the Russia run, Temp V wrecks Hughie’s body and he vomits in front of Butcher.",
+    "question": "When Hughie throws up from Temp V, what disgusting comparison does Butcher make?",
+    "options": [
+      "It looks like Kermit the Frog had a right wank in his mouth",
+      "It looks like he drank a gallon of fryer oil",
+      "It looks like he swallowed a radioactive Slurpee",
+      "It looks like A-Train ran through his stomach"
+    ],
+    "answer": "It looks like Kermit the Frog had a right wank in his mouth",
+    "difficulty": "hard",
+    "description": "Watching Hughie puke greenish goop, Butcher jokes it looks like Kermit the Frog “had a right wank” in his mouth."
+  },
+  {
+    "id": "boys-s3e6-medium-0002",
+    "context": "Immediately after Homelander realizes Soldier Boy is alive, one of the original team members mood suddenly changes.",
+    "question": "What does Black Noir do when he learns Soldier Boy is back?",
+    "options": [
+      "Cuts out his tracking chip and disappears",
+      "Offers to hunt Soldier Boy down himself",
+      "Tries to warn Homelander",
+      "Takes his Mask off to show his scars"
+    ],
+    "answer": "Cuts out his tracking chip and disappears",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "Noir silently slices his own tracker out in the elevator and vanishes, which rattles Homelander even more."
+  },
+  {
+    "id": "boys-s3-0061",
+    "episode": 6,
+    "context": "Butcher pitches a team-up to Soldier Boy and explicitly refers to his old superhero team.",
+    "question": "What is the name of Soldier Boy’s former superhero team?",
+    "options": [
+      "Payback",
+      "Nemesis",
+      "Liberty Squad",
+      "First Front"
+    ],
+    "answer": "Payback",
+    "difficulty": "easy",
+    "description": "Butcher tells him they’re experts at exterminating Supes and talks about helping him get revenge on his old team, Payback."
+  },
+  {
+    "id": "boys-s3e6-medium-0004",
+    "context": "Butcher offers Soldier Boy something extra beyond payback on his old teammates.",
+    "question": "What deal do Butcher and Soldier Boy finally make?",
+    "options": [
+      "Soldier Boy will help kill Homelander",
+      "Soldier Boy will capture Homelander alive",
+      "Soldier Boy would get revenge on Vought",
+      "Soldier Boy will replace Homelander as the Seven’s leader"
+    ],
+    "answer": "Soldier Boy will help kill Homelander",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Butcher adds Homelander to Soldier Boy’s hit list; Soldier Boy agrees to go after Homelander once Payback is dealt with."
+  },
+  {
+    "id": "boys-s3e6-hard-0006",
+    "context": "On the drive to Herogasm, Mother’s Milk finally explains his obsession with Soldier Boy.",
+    "question": "According to M.M., how did Soldier Boy kill his grandfather in Harlem when he was a kid?",
+    "options": [
+      "By throwing a stolen car through their brownstone",
+      "By collapsing a building during a fight",
+      "By misfiring a shield ricochet at a robber",
+      "By dropping a bomb while chasing terrorists"
+    ],
+    "answer": "By throwing a stolen car through their brownstone",
+    "difficulty": "hard",
+    "episode": 6,
+    "description": "Soldier Boy hurled a Benz through their house while “stopping” some kids; the car missed M.M. but killed his granddad and triggered his OCD."
+  },
+  {
+    "id": "boys-s3-0062",
+    "episode": 6,
+    "context": "Throughout the episode, Soldier Boy and others talk about the members of his old team.",
+    "question": "Which of these is NOT a member of Soldier Boy’s team, Payback?",
+    "options": [
+      "Soldier Boy",
+      "Crimson Countess",
+      "Gunpowder",
+      "Black Noir",
+      "The TNT Twins",
+      "Blaze"
+    ],
+    "answer": "Blaze",
+    "difficulty": "medium",
+    "description": "Payback includes Soldier Boy, Crimson Countess, Gunpowder, Black Noir, and the TNT Twins. Blaze is not mentioned as a team member."
+  },
+  {
+    "id": "boys-s3e6-medium-0007",
+    "context": "The Boys and Soldier Boy track another Payback member to a very specific address in Vermont.",
+    "question": "Which Payback members are hosting the Herogasm party that Soldier Boy targets next?",
+    "options": [
+      "The TNT Twins",
+      "Mindstorm and Swatto",
+      "Crimson Countess and TNT Twins",
+      "Love sausage and Gunpowder"
+    ],
+    "answer": "The TNT Twins",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "The shady TNT Twins are holed up in Vermont, hosting the annual Herogasm orgy where Soldier Boy plans to confront them."
+  },
+  {
+    "id": "boys-s3-0063",
+    "episode": 6,
+    "context": "Mother’s Milk and Starlight track the TNT Twins, leading them to the Herogasm mansion.",
+    "question": "In which city do they go to find the TNT Twins, the same place where Herogasm is held?",
+    "options": [
+      "Montpelier",
+      "Burlington",
+      "Albany",
+      "Portland"
+    ],
+    "answer": "Montpelier",
+    "difficulty": "medium",
+    "description": "The TNT Twins’ house and Herogasm are in Vermont; later Starlight goes live saying she’s in Montpelier, Vermont."
+  },
+  {
+    "id": "boys-s3-0064",
+    "episode": 6,
+    "context": "Watching a dad-diaper commercial, Soldier Boy rants about modern men and compares them to a TV ‘America’s dad.’",
+    "question": "Whom does Soldier Boy praise as a ‘real man’ and ‘America’s dad’ after mocking modern dads’ outfits?",
+    "options": [
+      "Bill Cosby",
+      "Ronald Reagan",
+      "Clint Eastwood",
+      "OJ Simpson"
+    ],
+    "answer": "Bill Cosby",
+    "difficulty": "hard",
+    "description": "He says Bill Cosby is America’s dad and jokes, “Holy sh*t, did he make some strong drinks”."
+  },
+  {
+    "id": "boys-s3-0065",
+    "episode": 6,
+    "context": "M.M. tells Annie about his childhood trauma with Soldier Boy and his ritualized coping behavior.",
+    "question": "What does Mother’s Milk say he did every night to make sure Soldier Boy wouldn’t come back and kill his family?",
+    "options": [
+      "Checked the burners three times",
+      "Triple-locked the front door",
+      "Turned off every light in the house",
+      "Checked the fire alarm three times"
+    ],
+    "answer": "Checked the burners three times",
+    "difficulty": "medium",
+    "description": "He explains his OCD started with getting up at night to check the burners three times, believing it would keep Soldier Boy from returning to kill them."
+  },  
+  {
+    "id": "boys-s3-0067",
+    "episode": 6,
+    "context": "M.M. and Starlight arrive at the mansion and are greeted by a Supe with a very memorable power.",
+    "question": "What is the name of the superhero who greets Mother’s Milk and Starlight at the door to Herogasm?",
+    "options": [
+      "Love Sausage",
+      "Deep Thrust",
+      "Big Jack",
+      "Big Swinger"
+    ],
+    "answer": "Love Sausage",
+    "difficulty": "easy",
+    "description": "The doorman Supe introduces himself as Love Sausage, the same Russian with the gigantic extendable appendage we saw back in the hospital breakout."
+  },
+  {
+    "id": "boys-s3-0066",
+    "episode": 6,
+    "context": "At the mansion, the hosts and Love Sausage talk about how long the orgy tradition has been running.",
+    "question": "What anniversary of Herogasm are they celebrating when M.M. and Starlight arrive?",
+    "options": [
+      "40th",
+      "50th",
+      "60th",
+      "70th"
+    ],
+    "answer": "70th",
+    "difficulty": "easy",
+    "description": "The TNT Twins’ party is explicitly described as the 70th anniversary of Herogasm."
+  },
+{
+  "id": "boys-s3e6-medium-0013",
+  "episode": 6,
+  "context": "Before Soldier Boy arrives at Herogasm, Mother's Milk and the others prepare a way to subdue him without killing anyone.",
+  "question": "What is the name of the gas Mother's Milk wants to use to knock out Soldier Boy at Herogasm?",
+  "options": [
+    "Halothane",
+    "Novichok",
+    "Chloroform",
+    "Sarin"
+  ],
+  "answer": "Halothane",
+  "difficulty": "medium",
+  "description": "Frenchie identifies the anesthetic as halothane, and the plan is to use it to knock Soldier Boy out during Herogasm."
+},
+  {
+    "id": "boys-s3e6-medium-0011",
+    "context": "In the hallway before Soldier Boy arrives, Mother’s Milk tries to confront him alone.",
+    "question": "How does Butcher stop M.M. from going after Soldier Boy at Herogasm?",
+    "options": [
+      "He knocks M.M. out",
+      "He locks M.M. in a bathroom",
+      "He teleports M.M. into the woods with Hughie’s help",
+      "He convinces M.M. to stand down and let him handle it"
+    ],
+    "answer": "He knocks M.M. out",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Butcher says it would be suicide; M.M. can’t even work the TiVo without him, then Butcher drops him with a punch to keep him from charging Soldier Boy."
+  },
+{
+  "id": "boys-s3e6-medium-0011",
+  "episode": 6,
+  "context": "Soldier Boy learns that his own team sold him out during a mission years earlier, when he was captured and taken by the Russians.",
+  "question": "In which country were Soldier Boy and Payback operating when he was handed over to the Russians?",
+  "options": [
+    "Nicaragua",
+    "Afghanistan",
+    "Cuba",
+    "Vietnam"
+  ],
+  "answer": "Nicaragua",
+  "difficulty": "medium",
+  "description": "The betrayal happened during a mission in Nicaragua, where Payback allowed the Russians to take Soldier Boy."
+},
+  {
+    "id": "boys-s3e6-medium-0012",
+    "context": "When Soldier Boy finally confronts the TNT Twins, he demands to know who betrayed him to the Russians.",
+    "question": "Whom do the TNT Twins blame for handing Soldier Boy over to the Russians in Nicaragua?",
+    "options": [
+      "Black Noir",
+      "Stan Edgar",
+      "Crimson Countess",
+      "Gunpowder"
+    ],
+    "answer": "Black Noir",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "They swear it was Noir’s idea from top to bottom, saying he gave Soldier Boy to the Russians, which explains why Noir ran."
+  },
+  {
+    "id": "boys-s3e6-hard-0013",
+    "context": "As Soldier Boy argues with the twins, something triggers another catastrophic blast.",
+    "question": "What sets off Soldier Boy’s Herogasm explosion that destroys the mansion?",
+    "options": [
+      "Russian music on the stereo",
+      "The TNT Twins trying to activate their power",
+      "Homelander attacking him from behind",
+      "M.M hitting him with halothane gas"
+    ],
+    "answer": "Russian music on the stereo",
+    "difficulty": "hard",
+    "episode": 6,
+    "description": "A Russian pop song starts playing in the background, triggering the same trauma response he had in Moscow and setting off the chest blast."
+  },
+  {
+    "id": "boys-s3e6-medium-0014",
+    "context": "After the explosion, Homelander arrives at the ruins of Herogasm to confront the man he idolized as a kid.",
+    "question": "What does Soldier Boy call Homelander during their face-off at Herogasm?",
+    "options": [
+      "A cheap f*cking knockoff",
+      "A coward in a cape",
+      "Vought’s pampered lapdog",
+      "A fake patriot"
+    ],
+    "answer": "A cheap f*cking knockoff",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Homelander says he grew up watching Soldier Boy’s movies, but Soldier Boy dismisses him as just a cheap copy in a cape."
+  },
+  {
+    "id": "boys-s3e6-medium-0015",
+    "context": "Homelander tries to assert dominance even when confronted by the original Vought poster boy.",
+    "question": "How does Homelander answer Soldier Boy’s insult about being a knockoff?",
+    "options": [
+      "He calls himself “the upgrade”",
+      "He says he’s “the real American hero now”",
+      "He says he’s “Soldier Boy´s replacement”",
+      "He says Soldier Boy is “obsolete junk”"
+    ],
+    "answer": "He calls himself “the upgrade”",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "When Soldier Boy mocks him as a knockoff, Homelander smirks and says, “No, no, no. I’m the upgrade.”"
+  },
+  {
+    "id": "boys-s3e6-medium-0016",
+    "context": "The long-teased confrontation finally happens in the ruins of Herogasm.",
+    "question": "Who fights directly against Homelander in the Herogasm showdown?",
+    "options": [
+      "Soldier Boy, Butcher, and Hughie",
+      "Soldier Boy and Butcher",
+      "Soldier Boy, M.M, Butcher and Hughie",
+      "Hughie, Soldier Boy, Butcher, Star-Light and M.M."
+    ],
+    "answer": "Soldier Boy, Butcher, and Hughie",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "It becomes a three-on-one brawl: V-juiced Butcher and Hughie join Soldier Boy to try to overpower Homelander."
+  },
+  {
+    "id": "boys-s3e6-medium-0017",
+    "context": "Soldier Boy starts charging up for another chest blast while holding Homelander.",
+    "question": "What is the immediate outcome of the fight between Soldier Boy’s team and Homelander at Herogasm?",
+    "options": [
+      "Homelander breaks free and escapes injured",
+      "Homelander breaks free and escapes uninjured",
+      "Homelander overpowers Soldier boy and flies away",
+      "Hughie teleports Soldier boy away to protect the city"
+    ],
+    "answer": "Homelander breaks free and escapes injured",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "They manage to pin Homelander and nearly charge a blast, but he slips away and flies off, wounded and shaken but alive."
+  },
+  {
+    "id": "boys-s3e6-medium-0019",
+    "context": "After the battle, Annie sees the chaos and casualties left behind at Herogasm. In a livestream, Annie makes a personal declaration about who she is now.",
+    "question": "What does Annie say at the end of her livestream about her identity and role at Vought?",
+    "options": [
+      "She says she’s not Starlight anymore and she quits",
+      "She says she will lead the Seven but not as Starlight",
+      "She promises to always tell the truth from now on",
+      "She promises to work inside Vought to reform it"
+    ],
+    "answer": "She says she’s not Starlight anymore and she quits",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "She signs off with, “I’m not Starlight anymore. My name is Annie January, and I f*cking quit.”"
+  },
+  {
+    "id": "boys-s3-0027",
+    "context": "Frenchie analyzes the mysterious gas used on Soldier Boy in Russia.",
+    "question": "What does Frenchie identify the ‘gas’ used to knock out Soldier Boy as?",
+    "options": [
+      "Novichok, a Russian nerve agent delivered as vapor",
+      "Standard military halothane anesthetic",
+      "VX, delivered in aerosol form",
+      "An early prototype of Compound V gas"
+    ],
+    "answer": "Novichok, a Russian nerve agent delivered as vapor",
+    "difficulty": "hard",
+    "episode": 7,
+    "description": "Frenchie points out the texture is wrong for halothane and says it’s actually Novichok vapor, which would kill normal people but only sedates Soldier Boy."
+  },
+  {
+    "id": "boys-s3-0031",
+    "context": "Afterwards, Annie finds out the truth about Temp V in a Vought lab.",
+    "question": "What lethal side effect of Temp V does Annie learn about from the lab results?",
+    "options": [
+      "It causes brain lesions that kill in three to five doses",
+      "It permanently burns out a user’s heart after three doses",
+      "It causes a stroke after five to seven doses",
+      "It turns regular Compound V completely inert"
+    ],
+    "answer": "It causes brain lesions that kill in three to five doses",
+    "difficulty": "medium",
+    "episode": 7,
+    "description": "The lab tech tells her Temp V turns the brain into ‘Swiss cheese’ and is fatal after only a few doses."
+  },
+  {
+    "id": "boys-s3-0034",
+    "context": "Black Noir’s cartoon hallucinations finally reveal what happened in Nicaragua.",
+    "question": "According to Noir’s animated ‘friends’, why did Stan Edgar order Payback to hand Soldier Boy over to the Russians?",
+    "options": [
+      "Vogelbaum had created a child who’d be stronger and could fly",
+      "Soldier Boy had become too politically volatile on TV",
+      "Soldier Boy was becoming too much of a liability",
+      "Public opinion was against Soldier Boy"
+    ],
+    "answer": "Vogelbaum had created a child who’d be stronger and could fly",
+    "difficulty": "hard",
+    "episode": 7,
+    "description": "Edgar says Vogelbaum has a replacement ‘just a child’ but stronger and able to fly, making Soldier Boy obsolete."
+  },
+  {
+    "id": "boys-s3-0040",
+    "context": "At the very end of their phone call, Soldier Boy drops his biggest revelation on Homelander.",
+    "question": "What shocking truth does Soldier Boy reveal to Homelander during their phone call?",
+    "options": [
+      "He is Homelander’s biological father",
+      "He personally killed Homelander’s parents",
+      "Vogelbaum is Homelander´s biological father",
+      "He knows how to strip Homelander of his powers permanently"
+    ],
+    "answer": "He is Homelander’s biological father",
+    "difficulty": "easy",
+    "episode": 8,
+    "description": "Soldier Boy explains Vogelbaum used his ‘sample’ in 1980 to make a boy born in spring 1981—revealing that Homelander is actually his son."
+  }
+]
+

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "sg-s1e6-easy-0031",
+    "context": "**GGANGBU**: As the staff prepare the next game and players are called to the game hall, a classical waltz plays over the speakers.",
+    "question": "Which piece of music is playing on the speakers when the next game is announced?",
+    "options": ["The Blue Danube", "Fur Elise", "Canon in D", "Moonlight Sonata"],
+    "answer": "The Blue Danube",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "Johann Strauss II’s “The Blue Danube” waltz plays while the players are led towards the next game."
+  },
+  {
+    "id": "sg-s1e6-easy-0001",
+    "context": "The Front Man orders the next round to proceed.",
+    "question": "What numbered game is about to begin when the players are gathered again?",
+    "options": ["Second game", "Third game", "Fourth game", "Fifth game"],
+    "answer": "Fourth game",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "The PA system announces that the fourth game is about to begin as the players are led to the game hall."
+  },
+  {
+    "id": "sg-s1e6-easy-0003",
+    "context": "A PA announcement explains how the next game will be played.",
+    "question": "How many players are allowed in each team for the fourth game?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "answer": "Two",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "The players are told they must form teams of two by shaking hands to become partners."
+  },
+  {
+    "id": "sg-s1e6-medium-0009",
+    "context": "Sang-woo looks for a strong, reliable partner before the game is revealed.",
+    "question": "Which player does Sang-woo choose as his partner?",
+    "options": ["Gi-hun", "Ali", "Deok-su", "Player 1"],
+    "answer": "Ali",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Sang-woo asks Ali to join forces, saying their strength and brains together could beat many others."
+  },
+  {
+    "id": "sg-s1e6-easy-0032",
+    "context": "Gi-hun chooses his partner for the fourth game in the fake neighborhood set.",
+    "question": "Which player does Gi-hun end up partnering with for the fourth game?",
+    "options": ["Player 001", "Player 356", "Sang-woo", "Deok-su"],
+    "answer": "Player 001",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "Gi-hun walks over to the old man and asks him to be his partner, making them a team for the game."
+  },
+  {
+    "id": "sg-s1e6-medium-0033",
+    "context": "When the ten minutes for partner selection run out, one player is left screaming as guards drag them away.",
+    "question": "Which player fails to find a partner before time runs out?",
+    "options": ["Mi-nyeo", "Player 135", "Sang-hun", "Dae-il"],
+    "answer": "Mi-nyeo",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Mi-nyeo is the only one left without a partner and is removed from the room by the staff."
+  },
+  {
+    "id": "sg-s1e6-easy-0006",
+    "context": "Gi-hun and Player 001 are given bags during the game setup.",
+    "question": "What do the staff hand out to each player for the fourth game?",
+    "options": ["Cards", "Marbles", "Dice", "Coins"],
+    "answer": "Marbles",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "Each player receives a bag containing marbles to use in any game they choose with their partner."
+  },
+  {
+    "id": "sg-s1e6-easy-0034",
+    "context": "In the alley set, each player receives a small bag to check its contents before starting the marbles game.",
+    "question": "How many marbles does each player receive for the fourth game?",
+    "options": ["5", "8", "10", "12"],
+    "answer": "10",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "The staff instruct players to confirm there are ten marbles in each bag."
+  },
+  {
+    "id": "sg-s1e6-easy-0035",
+    "context": "The PA explains not just the rules of the marbles game but also its time limit.",
+    "question": "How many minutes are players given to finish their marbles game?",
+    "options": ["10 minutes", "20 minutes", "30 minutes", "60 minutes"],
+    "answer": "30 minutes",
+    "difficulty": "easy",
+    "episode": 6,
+    "description": "The announcement clearly states that players have thirty minutes to decide a winner between each pair."
+  },
+  {
+    "id": "sg-s1e6-medium-0007",
+    "context": "The rules of the marbles round are read over the loudspeaker.",
+    "question": "What must a player do to win the marbles game?",
+    "options": [
+      "Score the most points in 30 minutes",
+      "Keep at least one marble",
+      "Collect all ten of their partner's marbles",
+      "Collect more than 5 of their partner's marbles"
+    ],
+    "answer": "Collect all ten of their partner's marbles",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "The announcer states that the winner is the one who manages to take all ten marbles from their partner."
+  },
+  {
+    "id": "sg-s1e6-medium-0008",
+    "context": "Gi-hun and 001 talk about being 'gganbu' while walking through the fake neighborhood.",
+    "question": "What does 001 say a gganbu does with you?",
+    "options": [
+      "Shares everything with you",
+      "Protects you in every game",
+      "Never plays against you",
+      "Always lets you win"
+    ],
+    "answer": "Shares everything with you",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Il-nam explains that a gganbu is a trusted friend who shares things like marbles with you."
+  },
+  {
+    "id": "sg-s1e6-medium-0011",
+    "context": "In the women's pairing scene, one woman confidently approaches Sae-byeok.",
+    "question": "What is Ji-yeong's player number?",
+    "options": ["40", "67", "240", "101"],
+    "answer": "240",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "The woman who partners with Sae-byeok is identified as Player 240."
+  },
+  {
+    "id": "sg-s1e6-medium-0013",
+    "context": "Sae-byeok talks about her life after fleeing the North.",
+    "question": "What happened to Sae-byeok's father when he tried to cross the border?",
+    "options": [
+      "He drowned after being shot",
+      "He was captured and jailed",
+      "He successfully escaped",
+      "He disappeared without a trace"
+    ],
+    "answer": "He drowned after being shot",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "She says her father was shot while trying to swim across the border and drowned."
+  },
+  {
+    "id": "sg-s1e6-medium-0015",
+    "context": "Sae-byeok talks about her dream destination if she wins the prize.",
+    "question": "Where does Sae-byeok say she wants to go after leaving the game?",
+    "options": ["Seoul", "Jeju Island", "Hawaii", "The Maldives"],
+    "answer": "Jeju Island",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "She tells Ji-yeong she wants to go to Jeju Island, which she saw on TV."
+  },
+  {
+    "id": "sg-s1e6-hard-0038",
+    "context": "While talking with Ji-yeong, Sae-byeok explains what she hopes to do if she wins the prize money.",
+    "question": "Which of these does Sae-byeok NOT say she wants to do with her winnings?",
+    "options": [
+      "Buy a house with her brother",
+      "Bring her mother from the North",
+      "Open a business in Seoul",
+      "Go to Jeju Island"
+    ],
+    "answer": "Open a business in Seoul",
+    "difficulty": "hard",
+    "episode": 6,
+    "description": "She talks about getting a house with her brother, rescuing her mother, and going to Jeju Island, but never mentions opening a business in Seoul."
+  },
+  {
+    "id": "sg-s1e6-medium-0016",
+    "context": "Ji-yeong shares her past when talking with Sae-byeok.",
+    "question": "Whom does Ji-yeong say she killed before coming to the games?",
+    "options": [
+      "Her brother",
+      "Her best friend",
+      "Her father",
+      "A stranger"
+    ],
+    "answer": "Her father",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "She reveals that the second dead body she saw was her father, killed by her own hand."
+  },
+  {
+    "id": "sg-s1e6-medium-0019",
+    "context": "Sang-woo teaches Ali how to play a simple game with marbles.",
+    "question": "In Sang-woo's marble game, what must Ali guess?",
+    "options": [
+      "The color of the marble",
+      "The number of the marbles",
+      "Even or odd",
+      "Heads or tails"
+    ],
+    "answer": "Even or odd",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "Sang-woo explains that Ali must guess whether the number of marbles in his hand is even or odd."
+  },
+ {
+    "id": "sg-s1e6-medium-0036",
+    "context": "Deok-su proposes a new way to use the marbles with his opponent.",
+    "question": "What kind of marble game does Deok-su play with his partner?",
+    "options": [
+      "Odd-or-even guesses",
+      "Throwing marbles at a hole",
+      "Hiding marbles in fists",
+      "Throwing marbles at a wall"
+    ],
+    "answer": "Throwing marbles at a hole",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "He digs a small hole and says whoever lands a marble in it takes all the marbles on the ground."
+  },
+  {
+    "id": "sg-s1e6-medium-0037",
+    "context": "Sae-byeok and Ji-yeong decide to play only once near the end of the timer, using a simple game.",
+    "question": "Which marble game do Ji-yeong and Sae-byeok play to decide their winner?",
+    "options": [
+      "Closest to the wall",
+      "Hole toss",
+      "Odd-or-even",
+      "Circle knock-out"
+    ],
+    "answer": "Closest to the wall",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "They agree that whoever throws their marble closest to a wall wins all the marbles."
+  },
+  {
+    "id": "sg-s1e6-hard-0024",
+    "context": "With only one of them allowed to survive, Sae-byeok and Ji-yeong play a single deciding throw.",
+    "question": "Between Sae-byeok and Ji-yeong, which player ultimately sacrifices themselves so the other can live?",
+    "options": ["Sae-byeok", "Ji-yeong"],
+    "answer": "Ji-yeong",
+    "difficulty": "hard",
+    "episode": 6,
+    "description": "Ji-yeong deliberately loses the deciding throw, accepting her death so Sae-byeok can continue and chase her goals."
+  },
+{
+  "id": "sg-s1e6-hard-0039",
+  "context": "Near the end of the marbles game, after Ali wins, Sang-woo pretends they can both survive .",
+  "question": "How does Sang-woo trick Ali during the marbles game?",
+  "options": [
+    "He swaps Ali’s marbles for pebbles",
+    "He steals Ali’s number tag",
+    "He suggests another game and wins all his marbles",
+    "He steals Ali´s marbles"
+  ],
+  "answer": "He swaps Ali’s marbles for pebbles",
+  "difficulty": "hard",
+  "episode": 6,
+  "description": "Sang-woo secretly replaces Ali’s pouch of marbles with one filled with pebbles, leaving Ali unknowingly empty-handed when time runs out."
+},
+{
+  "id": "sg-s1e6-hard-0040",
+  "context": "During the marbles game in the fake neighborhood, Player 1’s memory starts slipping.",
+  "question": "How does Gi-hun trick Player 1 during their marbles game?",
+  "options": [
+    "He lies about Player 1’s guess",
+    "He secretly steals extra marbles",
+    "He swaps their marble bags",
+    "He pretends Player 1 already lost"
+  ],
+  "answer": "He lies about Player 1’s guess",
+  "difficulty": "hard",
+  "episode": 6,
+  "description": "When Il-nam forgets whether he called odd or even, Gi-hun falsely claims he guessed the losing option so he can take Il-nam’s marbles and survive."
+},
+{
+  "id": "sg-s1e6-hard-0028c",
+  "context": "After realizing he still has one marble hidden in his pocket, the old man stops Gi-hun and speaks up again.",
+  "question": "What does the old man suggest they do once he realizes he still has one marble left?",
+  "options": [
+    "Play one final all-or-nothing round",
+    "Split their marbles evenly",
+    "Ask the staff for a new game",
+    "Stop playing and forfeit"
+  ],
+  "answer": "Play one final all-or-nothing round",
+  "difficulty": "hard",
+  "episode": 6,
+  "description": "Il-nam proposes they bet everything on one last decisive round, wagering all of Gi-hun’s marbles against his single remaining one."
+},
+  {
+    "id": "sg-s1e6-medium-0029",
+    "context": "After calmly calling out Gi-hun for tricking him, the old man still smiles and prepares to hand over his final marble.",
+    "question": "What word does Player 001 use to remind Gi-hun why he’s handing over his last marble?",
+    "options": ["Nakama", "Hyung", "Gganbu", "Jagiya"],
+    "answer": "Gganbu",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "He says, 'We are gganbu, aren’t we?' and gives Gi-hun the last marble."
+  },
+  {
+    "id": "sg-s1e6-medium-0030",
+    "context": "Player 001 shares one last personal detail before the round ends.",
+    "question": "What name does Player 001 finally remember and tell Gi-hun just before he is shot?",
+    "options": ["Oh Sang-hun", "Oh Il-nam", "Oh Gi-su", "Oh Dae-il"],
+    "answer": "Oh Il-nam",
+    "difficulty": "medium",
+    "episode": 6,
+    "description": "His final line before the gunshot is, 'My name is Il-nam. Oh Il-nam.'"
+  }
+]

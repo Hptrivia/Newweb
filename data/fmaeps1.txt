@@ -1,0 +1,435 @@
+[
+  {
+    "id": "fma-e52-medium-0001",
+    "context": "**FLAME OF VENGEANCE**: Underground, Alphonse faces Pride while using the power of a philosopher's stone in a desperate battle.",
+    "question": "What tempting suggestion does Pride make to Alphonse about how he should use the philosopher's stone?",
+    "options": [
+      "Run away and use it to restore his and Edward's bodies",
+      "Destroy it immediately to avoid corruption",
+      "Give it to Father to end the battle quickly",
+      "Use it to become a new homunculus"
+    ],
+    "answer": "Run away and use it to restore his and Edward's bodies",
+    "difficulty": "medium",
+    "episode": 52,
+    "description": "Pride wonders why Alphonse doesn't simply run from the fight and use the philosopher's stone to \"get you and your brother's bodies back,\" insisting that would conclude their journey."
+  },
+  {
+    "id": "fma-e52-medium-0002",
+    "context": "Pride frames Alphonse’s situation as a simple either-or choice in the middle of their confrontation.",
+    "question": "According to Pride, which two options does he initially present to Alphonse as the only possibilities?",
+    "options": [
+      "Getting their bodies back or saving everyone",
+      "Serving Father or being destroyed",
+      "Obeying the military or betraying them",
+      "Escaping Central or dying underground"
+    ],
+    "answer": "Getting their bodies back or saving everyone",
+    "difficulty": "medium",
+    "episode": 52,
+    "description": "Pride reduces everything to two choices: \"Getting our bodies back, or saving everyone,\" treating it as strange that Al would think more than one could be granted."
+  },
+  {
+    "id": "fma-e52-medium-0005",
+    "context": "Near Central, the enormous homunculus Sloth charges the Armstrong siblings.",
+    "question": "What ironic trait does Sloth boast about in contrast to the rest of the Homunculus?",
+    "options": [
+      "He is the fastest Homunculus",
+      "He is the smartest Homunculus",
+      "He is the strongest Homunculus",
+      "He is the greatest Homunculus"
+    ],
+    "answer": "He is the fastest Homunculus",
+    "difficulty": "medium",
+    "episode": 52,
+    "description": "Despite being named Sloth and weighing so much, he barrels through at extreme speed, literally declaring, \"Yeah, I'm the fastest Homunculus.\""
+  },
+  {
+    "id": "fma-e52-medium-0006",
+    "context": "Alex and Olivier Armstrong analyze Sloth’s movements while dodging his massive charges.",
+    "question": "How do the Armstrong siblings interpret Sloth’s main weakness when he attacks at full speed?",
+    "options": [
+      "He's so fast he can't control his direction properly",
+      "He gets tired quickly and has poor stamina",
+      "His transmuted armor is fragile when moving",
+      "He loses his sight while charging"
+    ],
+    "answer": "He's so fast he can't control his direction properly",
+    "difficulty": "medium",
+    "episode": 52,
+    "description": "Watching him rush past, they observe that \"he's so fast that he can't even control his direction,\" and begin exploiting that lack of control."
+  },
+  {
+    "id": "fma-e52-medium-0010",
+    "context": "Alphonse takes advantage of the swirling dust and wind to spring a hidden surprise on Pride.",
+    "question": "Which hidden ally does Alphonse reveal in the middle of Pride’s confusion about where the philosopher's stone is?",
+    "options": [
+      "Doctor Marcoh",
+      "Scar",
+      "Greed",
+      "May Chang"
+    ],
+    "answer": "Doctor Marcoh",
+    "difficulty": "medium",
+    "episode": 52,
+    "description": "As Pride demands, \"Where did you hide the stone?!\" the reveal comes with Pride realizing, \"Doctor Marcoh!\" was concealed, turning the tide for the humans."
+  },
+  {
+    "id": "fma-e52-medium-0011",
+    "context": "During the chaos, a car suddenly smashes into the battlefield, saving the humans from Sloth.",
+    "question": "Who proudly claims credit for ramming into Sloth and demands recognition for his \"heroics\"?",
+    "options": [
+      "Yoki",
+      "Hohenheim",
+      "Buccaneer",
+      "Darius"
+    ],
+    "answer": "Yoki",
+    "difficulty": "medium",
+    "episode": 52,
+    "description": "Bursting with misplaced pride, he yells, \"Did you see that?! I, Yoki, gave the strongest Homunculus a good beatdown! You saw it!\" after crashing the car into Sloth."
+  },
+  {
+    "id": "fma-e52-medium-0012",
+    "context": "Right after Yoki’s crash-landing, the group questions how he even acquired the vehicle.",
+    "question": "Whose car is Yoki actually driving when he slams into Sloth?",
+    "options": [
+      "Kimblee's",
+      "Havoc's",
+      "A random Central officer's",
+      "A civilian merchant's"
+    ],
+    "answer": "Kimblee's",
+    "difficulty": "medium",
+    "episode": 52,
+    "description": "When asked, Yoki reveals, \"It's the one Kimblee rode here in,\" adding that he's \"having the drivers take a little break.\""
+  },
+  {
+    "id": "fma-e52-medium-0013",
+    "context": "In the aftermath of a brutal fight, a chimera’s attack leaves Kimblee gravely wounded.",
+    "question": "What does Pride say just before absorbing the mortally injured Kimblee?",
+    "options": [
+      "He will continue to live inside me",
+      "Your ideals die here",
+      "You were a failed sacrifice",
+      "I have no more use for you"
+    ],
+    "answer": "He will continue to live inside me",
+    "difficulty": "medium",
+    "episode": 52,
+    "description": "Pride compares him to prey, remarking on the lion \"gouging out your throat,\" then promises Kimblee, \"You're going to continue to live inside me.\""
+  },
+  {
+    "id": "fma-e52-medium-0020",
+    "context": "Just as Edward is cornered by the dolls underground, a familiar voice cuts through the chaos.",
+    "question": "Who arrives and offers Edward help with the line, \"Shall I lend you a hand, Fullmetal?\"",
+    "options": [
+      "Roy Mustang",
+      "Scar",
+      "Riza Hawkeye",
+      "Greed"
+    ],
+    "answer": "Roy Mustang",
+    "difficulty": "medium",
+    "episode": 52,
+    "description": "As Ed struggles, Mustang appears with his trademark composure and calls out, \"Shall I lend you a hand, Fullmetal?\" setting up the next clash."
+  },
+  {
+    "id": "fma-e53-medium-0029",
+    "context": "Underground, Friends arrive in time to help Edward against the soldier dolls.",
+    "question": "Which trio do we see briefly joining forces in the same area after Mustang's arrival?",
+    "options": [
+      "Mustang, Hawkeye, and Scar",
+      "Mustang, Armstrong, and Olivier",
+      "Mustang, May, and Scar",
+      "Ling, Mustang, and Buccaneer"
+    ],
+    "answer": "Mustang, Hawkeye, and Scar",
+    "difficulty": "medium",
+    "episode": 53,
+    "description": "Mustang shows up with Hawkeye, and Scar is there as well, leading to the line about \"The Fullmetal Alchemist and the Flame Alchemist. In addition, Scar.\""
+  },
+  {
+    "id": "fma-e53-medium-0030",
+    "context": "A new enemy emerges among the soldier dolls, mocking the humans’ suffering.",
+    "question": "Which homunculus appears and delights in watching \"pieces of trash\" suffer and \"fools dance\"?",
+    "options": [
+      "Envy",
+      "Pride",
+      "Greed",
+      "Wrath"
+    ],
+    "answer": "Envy",
+    "difficulty": "medium",
+    "episode": 53,
+    "description": "Envy sneers about humans loving to watch \"people's unhappiness\" and \"watching fools dance,\" and later calls the humans \"pieces of trash\" whose suffering he enjoys."
+  },
+  {
+    "id": "fma-e53-medium-0031",
+    "context": "Mustang confronts Envy directly, focused on one specific painful question.",
+    "question": "What does Mustang demand to know from Envy during their confrontation?",
+    "options": [
+      "Who killed Maes Hughes",
+      "Where Father is hiding",
+      "How to destroy a philosopher's stone",
+      "How to restore Ishbal"
+    ],
+    "answer": "Who killed Maes Hughes",
+    "difficulty": "medium",
+    "episode": 53,
+    "description": "Mustang repeatedly presses him, saying he's \"tired of asking you homunculi the same question\" before demanding, \"Who k*lled Hughes?\""
+  },
+  {
+    "id": "fma-e53-medium-0032",
+    "context": "At first, Envy tries to pin Hughes’ death on someone else.",
+    "question": "Which innocent person does Envy initially name as Hughes' supposed killer?",
+    "options": [
+      "Maria Ross",
+      "Riza Hawkeye",
+      "Winry Rockbell",
+      "Barry the Chopper"
+    ],
+    "answer": "Maria Ross",
+    "difficulty": "medium",
+    "episode": 53,
+    "description": "Envy first lies that it was \"Maria Ross. The one you burned to a crisp,\" taunting Mustang about how he handled her supposed crime."
+  },
+  {
+    "id": "fma-e53-medium-0033",
+    "context": "Envy finally admits the truth of what happened to Hughes, reveling in his cruelty.",
+    "question": "How does Envy describe Hughes' final moments to taunt Mustang?",
+    "options": [
+      "Hughes died in despair, killed by someone who looked like his beloved wife",
+      "Hughes begged for his life on his knees",
+      "Hughes died without recognizing his killer",
+      "Hughes died without fear, killed by someone who looked like his beloved wife"
+    ],
+    "answer": "Hughes died in despair, killed by someone who looked like his beloved wife",
+    "difficulty": "medium",
+    "episode": 53,
+    "description": "Envy boasts that Hughes had \"the despair of being k*lled by someone who looks just like his beloved wife,\" calling that expression \"just the best!\""
+  },
+  {
+    "id": "fma-e53-medium-0034",
+    "context": "Mustang’s rage ignites as he battles Envy, using his flame alchemy with surgical brutality.",
+    "question": "What specific torment does Mustang inflict on Envy that he describes in chilling detail?",
+    "options": [
+      "Boiling all the liquids within Envy's eyes",
+      "Incinerating Envy's lungs while leaving his body intact",
+      "Burning Envy’s tongue to prevent him from speaking",
+      "Sealing Envy in a ring of continuous fire"
+    ],
+    "answer": "Boiling all the liquids within Envy's eyes",
+    "difficulty": "medium",
+    "episode": 53,
+    "description": "Mustang asks how it feels \"to have all the liquids within your eyes boil,\" telling Envy the pain goes \"far beyond anything you could possibly imagine.\""
+  },
+  {
+    "id": "fma-e53-medium-0035",
+    "context": "Riza watches Mustang’s relentless attacks and recalls another homunculus he burned.",
+    "question": "Which homunculus does Riza remember Mustang killing by fire, reinforcing her fear of his wrath?",
+    "options": [
+      "Lust",
+      "Greed",
+      "Wrath",
+      "Pride"
+    ],
+    "answer": "Lust",
+    "difficulty": "medium",
+    "episode": 53,
+    "description": "She thinks back to when Mustang \"burned Lust to death,\" realizing this is the same merciless side of him now focused on Envy."
+  },
+  {
+    "id": "fma-e53-medium-0038",
+    "context": "Envy attempts to regain control of the situation as Mustang corner him again.",
+    "question": "Which tactic does Envy use to try to throw Mustang into confusion during their duel?",
+    "options": [
+      "He transforms into Hughes to torment him emotionally",
+      "He pretends to surrender and begs for mercy",
+      "He transforms into Al to torment him ",
+      "He offers information on Father in exchange for his life"
+    ],
+    "answer": "He transforms into Hughes to torment him emotionally",
+    "difficulty": "medium",
+    "episode": 53,
+    "description": "Envy tries to rattle him by assuming the appearance of Hughes, urging Mustang to \"set your best friend aflame,\" but Mustang insists Hughes is already gone."
+  },
+  {
+    "id": "fma-e53-medium-0040",
+    "context": "Envy flees and Mustang and Hawkeye move together through the tunnels.",
+    "question": "True or False: By the end of the episode, Mustang insists that Hawkeye stay away from him so he can face Envy completely alone.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "difficulty": "medium",
+    "episode": 53,
+    "description": "Once Hawkeye reaches him, Mustang tells her, \"Don't leave my side, Lieutenant. Now that you're here, I'm going to ask for your help,\" rejecting the idea of fighting entirely alone."
+  },
+  {
+    "id": "fma-e54-medium-0042",
+    "context": "In that same flashback, Riza struggles with the burden of her father's research carved onto her back.",
+    "question": "What does Riza ask Mustang to do with the secret to flame alchemy inscribed on her back?",
+    "options": [
+      "Burn the skin off her back to destroy the secret",
+      "Cut off the skin from her back",
+      "Use it to become Fuhrer",
+      "Transmute it into a new type of alchemy"
+    ],
+    "answer": "Burn the skin off her back to destroy the secret",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "She pleads, \"Please burn the skin off of my back,\" wanting to \"destroy this secret to flame alchemy\" so that \"the world will never see another Flame Alchemist.\""
+  },
+  {
+    "id": "fma-e54-medium-0046",
+    "context": "Mustang appears right after Riza’s confrontation with Envy in the tunnels.",
+    "question": "How does Mustang describe Riza when he catches Envy threatening her?",
+    "options": [
+      "His irreplaceable subordinate",
+      "His right hand",
+      "His shield",
+      "His loyal subordinate"
+    ],
+    "answer": "His irreplaceable subordinate",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "He demands, \"What do you think you're doing to my irreplaceable subordinate?\" before unleashing more flames on Envy."
+  },
+  {
+    "id": "fma-e54-medium-0047",
+    "context": "Envy is forced into his actual core form in front of the group.",
+    "question": "What is Envy's true form revealed to be when Mustang burns away his disguises?",
+    "options": [
+      "A small, writhing, disgusting creature",
+      "A towering suit of armor",
+      "A human child",
+      "A shapeless mass of black shadow"
+    ],
+    "answer": "A small, writhing, disgusting creature",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "When his body is stripped away, Envy appears as a tiny, grotesque being that even Mustang calls \"disgusting.\""
+  },
+  {
+    "id": "fma-e54-medium-0048",
+    "context": "The group reflects on Envy’s nature as a homunculus named after a deadly sin.",
+    "question": "Why does Edward say Envy’s name finally makes sense to him?",
+    "options": [
+      "Because Envy is jealous of humans who keep helping each other up",
+      "Because Envy always wanted more power than the other homunculi",
+      "Because Envy envied Father’s philosopher's stone",
+      "Because Envy envied Humans"
+    ],
+    "answer": "Because Envy is jealous of humans who keep helping each other up",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "Ed explains that humans, \"even if they get close to falling down after losing their path, they continue to get up and fight. Everyone around them helps them get on their feet,\" and says Envy is jealous of that."
+  },
+  {
+    "id": "fma-e54-medium-0052",
+    "context": "Envy desperately tries to reignite old grudges among the humans.",
+    "question": "Which of these is NOT one of the resentments Envy tries to use to provoke the group?",
+    "options": [
+      "Mustang abandoned his comrades in Ishbal",
+      "Scar has been after Mustang's life since Ishbal",
+      "Scar killed the parents of Ed’s friend and others",
+      "Hawkeye shot many of Scar's brethren as the \"Hawk's Eye\""
+    ],
+    "answer": "Mustang abandoned his comrades in Ishbal",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "Envy brings up Scar being after Mustang’s life, Scar killing people like the \"runt's friend's parents,\" and Hawkeye killing Ishbalans as the \"Hawk's Eye,\" but does not accuse Mustang of abandoning comrades there."
+  },
+  {
+    "id": "fma-e54-medium-0053",
+    "context": "Envy is cornered emotionally as well as physically after Edward calls out his true feelings.",
+    "question": "What final decision does Envy make when he can't bear the \"disgrace\" of being understood by a human?",
+    "options": [
+      "He takes his own life by crushing his core",
+      "He surrenders to Edward",
+      "He blows himself up",
+      "He transforms and readies his final attack"
+    ],
+    "answer": "He takes his own life by crushing his core",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "Envy rants that it's \"the greatest disgrace to be understood by a brat like you\" and then commits suicide, crushing his own philosopher's stone form."
+  },
+  {
+    "id": "fma-e54-medium-0055",
+    "context": "Elsewhere , Alex Armstrong seems to be taking a brutal beating from Sloth in front of his comrades.",
+    "question": "What surprising benefit does Alex say the beating from Sloth has for him?",
+    "options": [
+      "It knocks his shoulder joint back into place",
+      "It restores his stamina through adrenaline",
+      "It helps him locate Sloth's weak point",
+      "It gives him time to charge a large transmutation"
+    ],
+    "answer": "It knocks his shoulder joint back into place",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "Onlookers fear, \"He's going to get beaten to death!\" but Alex stands up and says, \"My shoulder joint is back in!\" thanks to the pounding."
+  },
+  {
+    "id": "fma-e54-medium-0056",
+    "context": "Alex and Olivier launch a counterattack against Sloth with renewed coordination.",
+    "question": "How do they describe their teamwork when Alex recovers and they fight together again?",
+    "options": [
+      "A collaboration of artistic muscles and artistic alchemy",
+      "The perfect blend of steel and snow",
+      "A union of Briggs might and Central pride",
+      "Alchemical ballet on the battlefield"
+    ],
+    "answer": "A collaboration of artistic muscles and artistic alchemy",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "Alex proudly declares it's \"A collaboration of artistic muscles and artistic alchemy. Both excellent and elegant!\" as the siblings coordinate their assault."
+  },
+  {
+    "id": "fma-e54-medium-0057",
+    "context": "Elsewhere, tanks suddenly bombard Central’s main gate, shocking the defenders.",
+    "question": "Where are the attacking tanks at the main gate said to be from?",
+    "options": [
+      "Briggs",
+      "Xing",
+      "Ishbal",
+      "Dublith"
+    ],
+    "answer": "Briggs",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "Command shouts that they are under attack \"by tanks that are presumably from Briggs!\" as the fortress' northern hardware appears in Central."
+  },
+  {
+    "id": "fma-e54-medium-0058",
+    "context": "The Central command room is suddenly confronted by a very unexpected intruder.",
+    "question": "Who reveals themselves in Central as both a \"housewife\" and an \"alchemist\" after arriving via an underground route?",
+    "options": [
+      "Izumi Curtis",
+      "Winry Rockbell",
+      "Madam Bradley",
+      "Olivier Armstrong"
+    ],
+    "answer": "Izumi Curtis",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "She says that if asked who she is, she'd normally say \"I'm a housewife,\" but adds that today she'll reveal her other occupation: \"An alchemist!\"—Izumi Curtis."
+  },
+  {
+    "id": "fma-e54-medium-0060",
+    "context": "Deep underground, a final confrontation is being set up against the mastermind behind everything.",
+    "question": "Which two figures are highlighted at the end as about to clash, tying back to the origin of the homunculus?",
+    "options": [
+      "Hohenheim and the Dwarf in the Flask",
+      "Edward and Scar",
+      "Mustang and Central's Generals",
+      "May Chang and Father Cornello"
+    ],
+    "answer": "Hohenheim and the Dwarf in the Flask",
+    "difficulty": "medium",
+    "episode": 54,
+    "description": "The narration calls out \"The Dwarf in the Flask, Homunculus\" and \"sl*ve Number 23, the man who gave me a part of his body,\" as Hohenheim prepares to face him once more."
+  }
+]

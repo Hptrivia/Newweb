@@ -1,0 +1,347 @@
+[
+  {
+    "id": "hp-dh-ch26-easy-0001",
+    "context": "**The Gringotts Break-In**: On the eve of the operation at Shell Cottage, the trio and their goblin contact finalize roles, disguises, and the single objective.",
+    "question": "What is the primary objective of the Gringotts break-in?",
+    "options": ["Retrieve a Horcrux from the Lestrange vault", "Retrieve a Horcrux from the Malfoy vault", "Retrieve the Gryffindor Sword from the Lestrange vault", "Retrieve the Gryffindor Sword from the Malfoy vault"],
+    "answer": "Retrieve a Horcrux from the Lestrange vault",
+    "difficulty": "easy",
+    "episode": 26,
+    "description": "They plan an assault on Gringotts specifically to seize the Horcrux hidden in the Lestrange vault."
+  },
+{
+  "id": "hp-dh-ch26-easy-0033",
+  "context": "To pull off the bank job, the trio secures a goblin insider who knows Gringotts procedures and weaknesses.",
+  "question": "Which goblin do they recruit to help them infiltrate Gringotts?",
+  "options": ["Griphook", "Bogrod", "Ragnuk", "Gnarlak"],
+  "answer": "Griphook",
+  "difficulty": "easy",
+  "episode": 26,
+  "description": "Griphook agrees to guide them—at a price—through the dangers of Gringotts."
+},
+{
+  "id": "hp-dh-ch26-easy-0032",
+  "context": "Still at Shell Cottage, the negotiation with their goblin contact turns on a single, steep price for his expertise and access.",
+  "question": "What does Griphook demand in return for helping them break into Gringotts?",
+  "options": [
+    "Gryffindor’s sword",
+    "Salazar Slytherin’s locket",
+    "Hufflepuff´s Cup",
+    "Ravenclaw´s diadem"
+  ],
+  "answer": "Gryffindor’s sword",
+  "difficulty": "easy",
+  "episode": 26,
+  "description": "Griphook’s price is the goblin-made blade itself—Gryffindor’s sword—as payment for his help."
+},
+{
+  "id": "hp-dh-ch26-hard-0034",
+  "context": "During the bargaining at Shell Cottage, the goblin asserts goblin claims over goblin-wrought items, disputing wizard ownership of the blade.",
+  "question": "According to Griphook, who did the sword of Gryffindor first belong to?",
+  "options": ["Ragnuk the First", "Bogrod the Second", "Bogrod the First", "Ragnok the Second"],
+  "answer": "Ragnuk the First",
+  "difficulty": "hard",
+  "episode": 26,
+  "description": "Griphook argues the goblin-wrought sword was made by Ragnuk the First and, by goblin lore, belongs with goblins rather than wizards."
+},
+{
+  "id": "hp-dh-ch26-medium-0031",
+  "context": "At Shell Cottage, just before the trio departs for Diagon Alley with Griphook, Bill weighs in with a hard-earned warning.",
+  "question": "What does Bill warn them about before they leave?",
+  "options": [
+    "It would be less dangerous to break into Gringotts than to renege on a promise to a goblin.",
+    "Never to trust a goblin.",
+    "Voldemort would be on the defensive and for them to be careful.",
+    "It would be madness to try to break into Gringotts."
+  ],
+  "answer": "It would be less dangerous to break into Gringotts than to renege on a promise to a goblin.",
+  "difficulty": "medium",
+  "episode": 26,
+  "description": "Bill warns that crossing goblins is worse than the heist itself: “less dangerous to break into Gringotts than to break a promise to a goblin.”"
+},
+  {
+    "id": "hp-dh-ch26-medium-0002",
+    "context": "At Shell Cottage, identities for the infiltration are assigned to avoid recognition inside Diagon Alley and the bank.",
+    "question": "Which cover identities/approaches do they use to enter Gringotts?",
+    "options": [
+      "Hermione as Bellatrix; Ron disguised as Dragomir Despard; Harry and Griphook under the Invisibility Cloak",
+      "Hermione as Bellatrix; Ron disguised as Maruis Cesar; Harry and Griphook under the Invisibility Cloak",
+      "Hermione as Bellatrix; Harry, Ron and Griphook under the Invisibility Cloak",
+      "Hermione as Bellatrix; Ron disguised as the Death Eater Travers; Harry and Griphook under the Invisibility Cloak"
+    ],
+    "answer": "Hermione as Bellatrix; Ron disguised as Dragomir Despard; Harry and Griphook under the Invisibility Cloak",
+    "difficulty": "medium",
+    "episode": 26,
+    "description": "Hermione wears Bellatrix’s face and wields her wand; Ron takes a foreign alias; Harry carries Griphook beneath the Cloak."
+  },
+  {
+    "id": "hp-dh-ch26-medium-0005",
+    "context": "They Apparate to the Leaky Cauldron at first light, Diagon Alley is grim and shuttered; their progress draws attention from a familiar Death Eater.",
+    "question": "Which Death Eater hails ‘Bellatrix’ in Diagon Alley and walks with them toward Gringotts?",
+    "options": ["Travers", "Yaxley", "Rowle", "Avery"],
+    "answer": "Travers",
+    "difficulty": "medium",
+    "episode": 26,
+    "description": "Travers greets her and later escorts them, prying about why she is out after the ‘escape’ at Malfoy Manor."
+  },
+  {
+    "id": "hp-dh-ch26-medium-0006",
+    "context": "At Gringotts’ front steps, human guards replace the usual goblin sentries and wield unfamiliar tools.",
+    "question": "What security devices do the wizard guards use at the doors?",
+    "options": ["Probity Probes", "Secrecy Sensors", "Sneakoscopes", "Cursed Shackles"],
+    "answer": "Probity Probes",
+    "difficulty": "medium",
+    "episode": 26,
+    "description": "Two wizards sweep entrants with long, thin golden rods—Probity Probes—to detect concealment and hidden magic."
+  },
+  {
+    "id": "hp-dh-ch26-hard-0007",
+    "context": "To slip past the door screening unnoticed, Harry acts swiftly behind Travers’ back.",
+    "question": "Which charm does Harry cast on the door guards to muddle the screening?",
+    "options": ["Confundo", "Imperio", "Stupefy", "Obliviate"],
+    "answer": "Confundo",
+    "difficulty": "hard",
+    "episode": 26,
+    "description": "He murmurs “Confundo” at each guard so they believe the checks were already done."
+  },
+{
+  "id": "hp-dh-ch26-medium-0035",
+  "context": "At the marble counter, after ‘Bellatrix’ is challenged, a senior goblin is compelled to lead the group below into the high-security tunnels toward the Lestrange vault.",
+  "question": "What is the name of the goblin who escorts them to the vaults?",
+  "options": ["Bogrod", "Griphook", "Ragnuk", "Gornuk"],
+  "answer": "Bogrod",
+  "difficulty": "medium",
+  "episode": 26,
+  "description": "Under the Imperius Curse, Bogrod retrieves the Clankers and operates the descent to the Lestrange vault."
+},
+  {
+    "id": "hp-dh-ch26-medium-0010",
+    "context": "With the entry smoothed, a bag of metal is fetched before they head underground.",
+    "question": "What essential items does the goblin request before leading them below?",
+    "options": ["Clankers", "Dragon muzzles", "Plankers", "Bangers"],
+    "answer": "Clankers",
+    "difficulty": "medium",
+    "episode": 26,
+    "description": "He asks for a leather bag of ‘Clankers’—metal instruments whose noise the dragon has been trained to fear."
+  },
+  {
+    "id": "hp-dh-ch26-hard-0011",
+    "context": "The cart rockets through deeper tunnels than Harry has ever seen, until a shimmering hazard spans the track.",
+    "question": "What is the enchanted waterfall that flips their cart and strips their disguises?",
+    "options": ["The Thief’s Downfall", "The Cascade of Disenchantment", "The Veil of Truth", "The Purging Torrent"],
+    "answer": "The Thief’s Downfall",
+    "difficulty": "hard",
+    "episode": 26,
+    "description": "They plunge through the Thief’s Downfall; it washes away concealments and breaks the Imperius on Bogrod."
+  },
+  {
+    "id": "hp-dh-ch26-medium-0015",
+    "context": "At the Lestrange door, they try to gain access inside",
+    "question": "How is the Lestrange vault door opened?",
+    "options": [
+      "Bogrod presses his palm to the door",
+      "Bogrod uses the Lestranges Key",
+      "Bellatrix’s wand tapped thrice",
+      "Hermoine uses Alohamora"
+    ],
+    "answer": "Bogrod presses his palm to the door",
+    "difficulty": "medium",
+    "episode": 26,
+    "description": "At Griphook’s urging, the Imperiused Bogrod places his palm, and the door melts away."
+  },
+  {
+    "id": "hp-dh-ch26-hard-0016",
+    "context": "Inside, the vault is a blazing trove—but it is cursed against thieves in a specific, lethal way.",
+    "question": "Which two curses are on the Lestrange hoard that frustrate handling?",
+    "options": [
+      "Gemino and Flagrante",
+      "Impervius and Langlock",
+      "Flagrante and Confringo",
+      "Gemino and Langlock"
+    ],
+    "answer": "Gemino and Flagrante",
+    "difficulty": "hard",
+    "episode": 26,
+    "description": "Touched items multiply (Gemino) and burn (Flagrante), threatening to crush and sear them."
+  },
+  {
+    "id": "hp-dh-ch26-medium-0017",
+    "context": "They locate a small, specific treasure high on a shelf amid the burning avalanche.",
+    "question": "Which Horcrux are they after in the Lestrange vault?",
+    "options": ["Helga Hufflepuff’s cup", "Rowena Ravenclaw’s diadem", "Salazar Slytherin’s locket", "Marvolo’s ring"],
+    "answer": "Helga Hufflepuff’s cup",
+    "difficulty": "medium",
+    "episode": 26,
+    "description": "Harry spots the little two-handled golden cup engraved with the badger of Hufflepuff."
+  },
+  {
+    "id": "hp-dh-ch26-hard-0018",
+    "context": "Direct summoning fails; heat and multiplication make climbing suicidal, so they improvise retrieval.",
+    "question": "Which combination lets Harry snag the Horcrux from above?",
+    "options": [
+      "Hermione’s Levicorpus to hoist Harry",
+      "Ron’s Wingardium on the cup; Harry summons it",
+      "Harry flies a broom to the shelf",
+      "Griphook climbs Harry´s back and tosses it down"
+    ],
+    "answer": "Hermione’s Levicorpus to hoist Harry",
+    "difficulty": "hard",
+    "episode": 26,
+    "description": "Hermione levitates Harry by the ankle; he threads the sword through the cup’s handle to pull it free."
+  },
+  {
+    "id": "hp-dh-ch26-medium-0038",
+    "context": "With the door opening and goblins converging, Griphook seizes the sword, breaks from them and rushes to the oncoming crowd.",
+    "question": "What does Griphook shout as he flees into the surrounding goblins?",
+    "options": [
+      "“Thieves! Thieves! Help! Thieves!”",
+      "“Wizards! Wizard! Seize them!”",
+      "“Intruders in the vault!”",
+      "“Murderers! Sound the alarm!”"
+    ],
+    "answer": "“Thieves! Thieves! Help! Thieves!”",
+    "difficulty": "medium",
+    "episode": 26,
+    "description": "Brandishing the sword, Griphook yells for help; the goblins, daggers drawn, accept him back as they move to attack."
+  },
+{
+  "id": "hp-dh-ch26-easy-0039",
+  "context": "With goblins and guards closing in after the Lestrange vault chaos, the trio try to escape from the shattered marble hall.",
+  "question": "How do Harry, Ron, and Hermione escape from Gringotts?",
+  "options": ["On the dragon", "By cart along the rails", "They Disapparate as soon as they are out of the vaults", "Through a secret Floo fireplace"],
+  "answer": "On the dragon",
+  "difficulty": "easy",
+  "episode": 26,
+  "description": "Harry blasts the shackles,” they climb onto the dragon’s back, and it smashes out through the doors into Diagon Alley."
+},
+  {
+    "id": "hp-dh-ch26-medium-0020",
+    "context": "With the chamber filling and goblins closing, Harry makes a desperate tactical choice using the chained sentinel.",
+    "question": "Which spell does Harry cast on the dragon’s restraints to engineer their escape?",
+    "options": ["Relashio", "Reducto", "Bombarda", "Alohomora"],
+    "answer": "Relashio",
+    "difficulty": "medium",
+    "episode": 26,
+    "description": "He blasts open the cuffs—“Relashio!”—freeing the dragon to scatter goblins and smash a way out."
+  },
+  {
+    "id": "hp-dh-ch26-medium-0021",
+    "context": "They mount the dragon under fire and force a path through stone and metal toward air and light.",
+    "question": "Which spells do they use in the tunnel to help the dragon break through?",
+    "options": [
+      "Defodio",
+      "Bombarda",
+      "Protego Maxima",
+      "Reducto"
+    ],
+    "answer": "Defodio",
+    "difficulty": "medium",
+    "episode": 26,
+    "description": "Hermione starts carving the ceiling with “Defodio”; Harry and Ron copy to widen the passage."
+  },
+  {
+    "id": "hp-dh-ch27-medium-0023",
+    "context": "High above the countryside, the trio endure cold and burns while the half-blind beast seeks distance from Gringotts.",
+    "question": "How do they finally dismount the dragon safely?",
+    "options": [
+      "They jump into a lake when it skims the surface",
+      "They land it in a forest clearing",
+      "They jump and use a Cushioning Charm to land in the forest",
+      "They dissaparate as soon as they are safe"
+    ],
+    "answer": "They jump into a lake when it skims the surface",
+    "difficulty": "medium",
+    "episode": 27,
+    "description": "As the dragon dips to drink, Harry shouts “NOW!” and they leap feet-first into the cold water."
+  },
+  {
+    "id": "hp-dh-ch27-medium-0024",
+    "context": "Sodden on the bank, they treat burns and take stock of gains and losses from the heist.",
+    "question": "Which outcome best sums up the heist’s ledger?",
+    "options": [
+      "They secured Hufflepuff’s cup but lost Gryffindor’s sword",
+      "They kept both cup and sword",
+      "They lost both cup and sword",
+      "They secured the sword but missed the cup"
+    ],
+    "answer": "They secured Hufflepuff’s cup but lost Gryffindor’s sword",
+    "difficulty": "medium",
+    "episode": 27,
+    "description": "Harry pockets the cup during the avalanche; Griphook absconds with the sword."
+  },
+  {
+    "id": "hp-dh-ch27-medium-0030",
+    "context": "Shivering on the lakeshore after the escape, they assess consequences beyond their own injuries.",
+    "question": "What larger consequence do they anticipate after the heist succeeds?",
+    "options": [
+      "Voldemort will realize they are hunting Horcruxes",
+      "The Ministry would be tracking them",
+      "Gringotts will close permanently",
+      "Voldemort would hunt them personally"
+    ],
+    "answer": "Voldemort will realize they are hunting Horcruxes",
+    "difficulty": "medium",
+    "episode": 27,
+    "description": "They know the missing cup will alert him that his Horcruxes are targets."
+  },
+  {
+    "id": "hp-dh-ch27-hard-0041",
+    "context": "Confronted with the news, Voldemort reacts with rage and fear before deciding on his next moves.",
+    "question": "After hearing that the cup was stolen, whom does Voldemort immediately kill in the room?",
+    "options": [
+      "The goblin messenger",
+      "Yaxley",
+      "Travers",
+      "The wizard messanger"
+    ],
+    "answer": "The goblin messenger",
+    "difficulty": "hard",
+    "episode": 27,
+    "description": "Voldemort slashes the Elder Wand; green light kills the kneeling goblin before he turns on others in the room."
+  },
+  {
+    "id": "hp-dh-ch27-hard-0042",
+    "context": "Voldemort paces among the bodies, tallying his safeguards and choosing which to check first.",
+    "question": "Which Horcrux hiding place does Voldemort decide to visit first after learning about the cup?",
+    "options": [
+      "The Gaunt shack",
+      "The seaside cave",
+      "Hogwarts",
+      "Dumbledore´s grave"
+    ],
+    "answer": "The Gaunt shack",
+    "difficulty": "hard",
+    "episode": 27,
+    "description": "He reasons the Gaunt shack is least secure and may be known through his middle name; he resolves to go there first."
+  },
+  {
+    "id": "hp-dh-ch27-medium-0043",
+    "context": "Voldemort considers the security of each Horcrux and how to proceed with protection.",
+    "question": "Which actions does Voldemort plan regarding Nagini after the vault news?",
+    "options": [
+      "Keep Nagini close",
+      "Send Nagini to guard the cave",
+      "Hide Nagini at Malfoy Manor",
+      "Use enchantments to protect Nagini"
+    ],
+    "answer": "Keep Nagini close",
+    "difficulty": "medium",
+    "episode": 27,
+    "description": "He decides he will not be parted from the snake and will take her with him as he checks the hiding places."
+  },
+  {
+    "id": "hp-dh-ch27-medium-0044",
+    "context": "Returning to himself at the lake, Harry briefs Ron and Hermione on what he saw and sets their immediate destination.",
+    "question": "After the vision, where does Harry insist they head next, and why?",
+    "options": [
+      "Hogwarts, because he believes the last Horcrux is there",
+      "The Burrow, to regroup with the Order",
+      "Shell Cottage to destroy Hufflepuff´s cup",
+      "The Gaunt shack because he believes the last Horcrux is there"
+    ],
+    "answer": "Hogwarts, because he believes the last Horcrux is there",
+    "difficulty": "medium",
+    "episode": 27,
+    "description": "He says Voldemort thinks the Hogwarts Horcrux is safest; they must reach it before Voldemort checks it."
+  }
+]

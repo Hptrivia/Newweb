@@ -1,0 +1,301 @@
+[
+  {
+    "id": "ufc300-q034",
+    "context": "**UFC 300**: Alex Pereira vs Jamahal Hill",
+    "question": "Who won the first fight of the night between Deiveson Figueiredo and Cody Garbrandt?",
+    "options": ["Deiveson Figueiredo", "Cody Garbrandt"],
+    "answer": "Deiveson Figueiredo",
+    "difficulty": "easy",
+    "description": "Result of Figueiredo vs Garbrandt."
+  },
+  {
+    "id": "ufc300-q033",
+    "question": "What was the method of victory in Deiveson Figueiredo vs Cody Garbrandt?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "Submission",
+    "difficulty": "easy",
+    "description": "Identify how the bout ended."
+  },
+  {
+    "id": "ufc300-q033a",
+    "question": "What specific submission did Deiveson Figueiredo use to defeat Cody Garbrandt?",
+    "options": ["Rear-naked choke", "Guillotine choke", "Armbar", "Triangle choke"],
+    "answer": "Rear-naked choke",
+    "difficulty": "easy",
+    "description": "Identify the exact submission technique that ended the bout."
+  },
+  {
+    "id": "ufc300-q032",
+    "question": "In which round did Deiveson Figueiredo defeat Cody Garbrandt?",
+    "options": ["Round 1", "Round 2", "Round 3"],
+    "answer": "Round 2",
+    "difficulty": "easy",
+    "description": "Select the finishing round."
+  },
+  {
+    "id": "ufc300-q031",
+    "question": "Who won the fight between Bobby Green and Jim Miller?",
+    "options": ["Bobby Green", "Jim Miller"],
+    "answer": "Bobby Green",
+    "difficulty": "easy",
+    "description": "Result of Green vs Miller."
+  },
+  {
+    "id": "ufc300-q030",
+    "question": "What was the method of victory in Bobby Green vs Jim Miller?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "Decision (Unanimous)",
+    "difficulty": "easy",
+    "description": "Identify how the bout was decided."
+  },
+  {
+    "id": "ufc300-q029",
+    "question": "Who won the fight between Jéssica Andrade and Marina Rodriguez?",
+    "options": ["Jéssica Andrade", "Marina Rodriguez"],
+    "answer": "Jéssica Andrade",
+    "difficulty": "easy",
+    "description": "Result of Andrade vs Rodriguez."
+  },
+  {
+    "id": "ufc300-q028",
+    "question": "What was the method of victory in Jéssica Andrade vs Marina Rodriguez?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "Decision (Split)",
+    "difficulty": "easy",
+    "description": "Identify how the bout was decided."
+  },
+  {
+    "id": "ufc300-q027",
+    "question": "Who won the fight between Renato Moicano and Jalin Turner?",
+    "options": ["Renato Moicano", "Jalin Turner"],
+    "answer": "Renato Moicano",
+    "difficulty": "easy",
+    "description": "Result of Moicano vs Turner."
+  },
+  {
+    "id": "ufc300-q026",
+    "question": "What was the method of victory in Renato Moicano vs Jalin Turner?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "TKO",
+    "difficulty": "easy",
+    "description": "Identify how the bout ended."
+  },
+  {
+    "id": "ufc300-q025",
+    "question": "In which round did Renato Moicano defeat Jalin Turner?",
+    "options": ["Round 1", "Round 2", "Round 3"],
+    "answer": "Round 2",
+    "difficulty": "easy",
+    "description": "Select the finishing round."
+  },
+  {
+    "id": "ufc300-q024",
+    "question": "Who won the fight between Diego Lopes and Sodiq Yusuff?",
+    "options": ["Diego Lopes", "Sodiq Yusuff"],
+    "answer": "Diego Lopes",
+    "difficulty": "easy",
+    "description": "Result of Lopes vs Yusuff."
+  },
+  {
+    "id": "ufc300-q023",
+    "question": "What was the method of victory in Diego Lopes vs Sodiq Yusuff?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "TKO",
+    "difficulty": "easy",
+    "description": "Identify how the bout ended."
+  },
+  {
+    "id": "ufc300-q022",
+    "question": "In which round did Diego Lopes defeat Sodiq Yusuff?",
+    "options": ["Round 1", "Round 2", "Round 3"],
+    "answer": "Round 1",
+    "difficulty": "easy",
+    "description": "Select the finishing round."
+  },
+  {
+    "id": "ufc300-q021",
+    "question": "Who won the fight between Kayla Harrison and Holly Holm?",
+    "options": ["Kayla Harrison", "Holly Holm"],
+    "answer": "Kayla Harrison",
+    "difficulty": "easy",
+    "description": "Result of Harrison vs Holm."
+  },
+  {
+    "id": "ufc300-q020",
+    "question": "What was the method of victory in Kayla Harrison vs Holly Holm?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "Submission",
+    "difficulty": "easy",
+    "description": "Identify how the bout ended."
+  },
+  {
+    "id": "ufc300-q020a",
+    "question": "What specific submission did Kayla Harrison use to defeat Holly Holm?",
+    "options": ["Rear-naked choke", "Arm-triangle choke", "Guillotine choke", "Kimura"],
+    "answer": "Rear-naked choke",
+    "difficulty": "easy",
+    "description": "Name the exact submission that ended Harrison vs Holm."
+  },
+  {
+    "id": "ufc300-q019",
+    "question": "In which round did Kayla Harrison defeat Holly Holm?",
+    "options": ["Round 1", "Round 2", "Round 3"],
+    "answer": "Round 2",
+    "difficulty": "easy",
+    "description": "Select the finishing round."
+  },
+  {
+    "id": "ufc300-q018",
+    "question": "Who won the fight between Aljamain Sterling and Calvin Kattar?",
+    "options": ["Aljamain Sterling", "Calvin Kattar"],
+    "answer": "Aljamain Sterling",
+    "difficulty": "easy",
+    "description": "Result of Sterling vs Kattar."
+  },
+  {
+    "id": "ufc300-q017",
+    "question": "What was the method of victory in Aljamain Sterling vs Calvin Kattar?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "Decision (Unanimous)",
+    "difficulty": "easy",
+    "description": "Identify how the bout was decided."
+  },
+  {
+    "id": "ufc300-q016",
+    "question": "Who won the fight between Jiri Prochazka and Aleksandar Rakić?",
+    "options": ["Jiri Prochazka", "Aleksandar Rakić"],
+    "answer": "Jiri Prochazka",
+    "difficulty": "easy",
+    "description": "Result of Prochazka vs Rakić."
+  },
+  {
+    "id": "ufc300-q015",
+    "question": "What was the method of victory in Jiri Prochazka vs Aleksandar Rakić?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "TKO",
+    "difficulty": "easy",
+    "description": "Identify how the bout ended."
+  },
+  {
+    "id": "ufc300-q014",
+    "question": "In which round did Jiri Prochazka defeat Aleksandar Rakić?",
+    "options": ["Round 1", "Round 2", "Round 3"],
+    "answer": "Round 2",
+    "difficulty": "easy",
+    "description": "Select the finishing round."
+  },
+  {
+    "id": "ufc300-q013",
+    "question": "Who won the fight between Bo Nickal and Cody Brundage?",
+    "options": ["Bo Nickal", "Cody Brundage"],
+    "answer": "Bo Nickal",
+    "difficulty": "easy",
+    "description": "Result of Nickal vs Brundage."
+  },
+  {
+    "id": "ufc300-q012",
+    "question": "What was the method of victory in Bo Nickal vs Cody Brundage?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "Submission",
+    "difficulty": "easy",
+    "description": "Identify how the bout ended."
+  },
+  {
+    "id": "ufc300-q012a",
+    "question": "What specific submission did Bo Nickal use to defeat Cody Brundage?",
+    "options": ["Rear-naked choke", "Guillotine choke", "Arm-triangle choke", "Triangle choke"],
+    "answer": "Rear-naked choke",
+    "difficulty": "easy",
+    "description": "Identify the exact submission technique used in Nickal vs Brundage."
+  },
+  {
+    "id": "ufc300-q011",
+    "question": "In which round did Bo Nickal defeat Cody Brundage?",
+    "options": ["Round 1", "Round 2", "Round 3"],
+    "answer": "Round 2",
+    "difficulty": "easy",
+    "description": "Select the finishing round."
+  },
+  {
+    "id": "ufc300-q010",
+    "question": "Who won the fight between Arman Tsarukyan and Charles Oliveira?",
+    "options": ["Arman Tsarukyan", "Charles Oliveira"],
+    "answer": "Arman Tsarukyan",
+    "difficulty": "easy",
+    "description": "Result of Tsarukyan vs Oliveira."
+  },
+  {
+    "id": "ufc300-q009",
+    "question": "What was the method of victory in Arman Tsarukyan vs Charles Oliveira?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "Decision (Split)",
+    "difficulty": "easy",
+    "description": "Identify how the bout was decided."
+  },
+  {
+    "id": "ufc300-q008",
+    "question": "Who won the fight between Max Holloway and Justin Gaethje?",
+    "options": ["Max Holloway", "Justin Gaethje"],
+    "answer": "Max Holloway",
+    "difficulty": "easy",
+    "description": "Result of Holloway vs Gaethje."
+  },
+  {
+    "id": "ufc300-q007",
+    "question": "What was the method of victory in Max Holloway vs Justin Gaethje?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "KO",
+    "difficulty": "easy",
+    "description": "Identify how the bout ended."
+  },
+  {
+    "id": "ufc300-q006",
+    "question": "In which round did Max Holloway defeat Justin Gaethje?",
+    "options": ["Round 1", "Round 2", "Round 3", "Round 4", "Round 5"],
+    "answer": "Round 5",
+    "difficulty": "easy",
+    "description": "Select the finishing round."
+  },
+  {
+    "id": "ufc300-q005",
+    "question": "Who won the fight between Zhang Weili and Yan Xiaonan?",
+    "options": ["Zhang Weili", "Yan Xiaonan"],
+    "answer": "Zhang Weili",
+    "difficulty": "easy",
+    "description": "Result of Zhang vs Yan."
+  },
+  {
+    "id": "ufc300-q004",
+    "question": "What was the method of victory in Zhang Weili vs Yan Xiaonan?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "Decision (Unanimous)",
+    "difficulty": "easy",
+    "description": "Identify how the bout was decided."
+  },
+  {
+    "id": "ufc300-q003",
+    "question": "Who won the fight between Alex Pereira and Jamahal Hill?",
+    "options": ["Alex Pereira", "Jamahal Hill"],
+    "answer": "Alex Pereira",
+    "difficulty": "easy",
+    "description": "Result of Pereira vs Hill."
+  },
+  {
+    "id": "ufc300-q002",
+    "question": "What was the method of victory in Alex Pereira vs Jamahal Hill?",
+    "options": ["KO", "TKO", "Submission", "Decision (Unanimous)", "Decision (Split)"],
+    "answer": "KO",
+    "difficulty": "easy",
+    "description": "Identify how the bout ended."
+  },
+  {
+    "id": "ufc300-q001",
+    "question": "In which round did Alex Pereira defeat Jamahal Hill?",
+    "options": ["Round 1", "Round 2", "Round 3", "Round 4", "Round 5"],
+    "answer": "Round 1",
+    "difficulty": "easy",
+    "description": "Select the finishing round."
+  }
+]
+
+
