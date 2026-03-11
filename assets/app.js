@@ -165,6 +165,7 @@ async function renderQuizPage() {
   const desc = document.getElementById("quizDescription");
   const playBtn = document.getElementById("playButton");
   const survivalBtn = document.getElementById("survivalButton");
+  const episodeBtn = document.getElementById("episodeButton");
   const wordleBtn = document.getElementById("wordleButton");
 
   if (!theme) {
@@ -180,6 +181,16 @@ async function renderQuizPage() {
   playBtn.href = `play.html?theme=${theme.slug}`;
   survivalBtn.href = `survival.html?theme=${theme.slug}`;
   wordleBtn.href = `wordle.html?theme=${theme.slug}`;
+  try {
+  const episodeThemes = await fetchJSON("data/episode_themes.json");
+  if (episodeThemes[theme.slug]) {
+    episodeBtn.style.display = "block";
+    episodeBtn.href = `episode.html?theme=${theme.slug}`;
+  } else {
+    episodeBtn.style.display = "none";
+  }
+} catch (e) {
+  episodeBtn.style.display = "none";
 }
 
 /* ---------------- PLAY PAGE / SPEED MODE ---------------- */
