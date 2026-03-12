@@ -51,9 +51,19 @@ async function renderEpisodePage() {
       </div>
     `;
   }
+  function shuffleArray(array) {
+  return [...array].sort(() => Math.random() - 0.5);
+}
+
+function shuffleQuestionOptions(question) {
+  return {
+    ...question,
+    options: shuffleArray(question.options)
+  };
+}
 
   function renderQuestion() {
-    const q = questions[currentIndex];
+    const q = shuffleQuestionOptions(questions[currentIndex]);
     if (!q) {
       renderResult();
       return;
