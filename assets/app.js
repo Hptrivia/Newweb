@@ -12,6 +12,16 @@ function getParam(name) {
 function slugify(text) {
   return text.toLowerCase().replace(/\s+/g, "-");
 }
+function shuffleArray(array) {
+  return [...array].sort(() => Math.random() - 0.5);
+}
+
+function shuffleQuestionOptions(question) {
+  return {
+    ...question,
+    options: shuffleArray(question.options)
+  };
+}
 
 function groupByCategory(items) {
   const map = {};
@@ -228,7 +238,7 @@ async function renderPlayPage() {
   quizState.selectedAnswer = null;
 
   function renderQuestion() {
-    const q = quizState.questions[quizState.currentIndex];
+    const q = shuffleQuestionOptions(quizState.questions[quizState.currentIndex]);
     feedbackEl.textContent = "";
     optionsEl.innerHTML = "";
     submitBtn.disabled = false;
