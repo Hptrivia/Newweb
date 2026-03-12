@@ -232,7 +232,7 @@ async function renderPlayPage() {
   }
 
   const allQuestions = await fetchJSON(theme.questionFile);
-  quizState.questions = allQuestions.slice(0, 30);
+  const q = shuffleQuestionOptions(questions[currentIndex]);
   quizState.currentIndex = 0;
   quizState.score = 0;
   quizState.selectedAnswer = null;
