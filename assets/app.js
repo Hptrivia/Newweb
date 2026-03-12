@@ -227,12 +227,12 @@ async function renderPlayPage() {
   const scoreEl = document.getElementById("scoreText");
 
   if (!theme) {
-    title.textContent = "Theme not found";
+    questionEl.textContent = "Theme not found";
     return;
   }
 
   const allQuestions = await fetchJSON(theme.questionFile);
-  const q = shuffleQuestionOptions(questions[currentIndex]);
+  quizState.questions = shuffleArray(allQuestions).slice(0, 30);
   quizState.currentIndex = 0;
   quizState.score = 0;
   quizState.selectedAnswer = null;
