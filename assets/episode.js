@@ -22,6 +22,9 @@ async function renderEpisodePage() {
     questionEl.textContent = "Episode Mode not available for this theme.";
     return;
   }
+  if (typeof updateRemoveAdsFooter === "function") {
+    updateRemoveAdsFooter(theme.slug, "episode");
+  }
 
   const questions = await fetchJSON(`data/${episodeFile}`);
 
