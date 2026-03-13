@@ -12,6 +12,19 @@ function getParam(name) {
 function slugify(text) {
   return text.toLowerCase().replace(/\s+/g, "-");
 }
+
+function updateRemoveAdsFooter(themeSlug = "", mode = "normal") {
+  const link = document.getElementById("removeAdsLink");
+  if (!link) return;
+
+  if (!themeSlug) {
+    link.href = "remove-ads.html";
+    return;
+  }
+
+  link.href = `remove-ads.html?theme=${encodeURIComponent(themeSlug)}&mode=${encodeURIComponent(mode)}`;
+}
+
 function shuffleArray(array) {
   return [...array].sort(() => Math.random() - 0.5);
 }
@@ -43,6 +56,7 @@ async function renderHomePage() {
   const searchResults = document.getElementById("searchResults");
   const featuredList = document.getElementById("featuredThemes");
   const categoryList = document.getElementById("categoryList");
+  updateRemoveAdsFooter();
 
   function render(filteredThemes) {
     if (featuredList) featuredList.innerHTML = "";
@@ -142,6 +156,7 @@ async function renderCategoryPage() {
   const themes = await loadThemes();
   const pageTitle = document.getElementById("categoryTitle");
   const themeList = document.getElementById("categoryThemes");
+  updateRemoveAdsFooter();
 
   pageTitle.textContent = categoryName || "Category";
 
@@ -188,6 +203,7 @@ async function renderQuizPage() {
 
   title.textContent = theme.title;
   desc.textContent = theme.description;
+  updateRemoveAdsFooter(theme.slug, "normal");
   playBtn.href = `play.html?theme=${theme.slug}`;
   survivalBtn.href = `survival.html?theme=${theme.slug}`;
   wordleBtn.href = `wordle.html?theme=${theme.slug}`;
@@ -230,6 +246,8 @@ async function renderPlayPage() {
     questionEl.textContent = "Theme not found";
     return;
   }
+
+  updateRemoveAdsFooter(theme.slug, "normal");
 
   const allQuestions = await fetchJSON(theme.questionFile);
   quizState.questions = shuffleArray(allQuestions).slice(0, 30);
