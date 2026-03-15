@@ -190,6 +190,7 @@ async function renderQuizPage() {
   const desc = document.getElementById("quizDescription");
   const playBtn = document.getElementById("playButton");
   const survivalBtn = document.getElementById("survivalButton");
+  const challengeBtn = document.getElementById("challengeButton");
   const episodeBtn = document.getElementById("episodeButton");
   const wordleBtn = document.getElementById("wordleButton");
 
@@ -206,6 +207,7 @@ async function renderQuizPage() {
   updateRemoveAdsFooter(theme.slug, "normal");
   playBtn.href = `play.html?theme=${theme.slug}`;
   survivalBtn.href = `survival.html?theme=${theme.slug}`;
+  challengeBtn.href = `challenge.html?theme=${theme.slug}&round=1`;
   wordleBtn.href = `wordle.html?theme=${theme.slug}`;
   try {
   const episodeThemes = await fetchJSON("data/episode_themes.json");
